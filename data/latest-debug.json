@@ -1,22 +1,109 @@
 {
   "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
-  "generatedAt": "2026-04-23T20:31:57.837Z",
+  "generatedAt": "2026-04-23T20:36:49.872Z",
   "textLength": 18032,
-  "rawLinesCount": 990,
-  "mergedLinesCount": 770,
-  "repairedLinesCount": 770,
-  "logicalLinesCount": 49,
-  "recordsCount": 49,
-  "logicalPreview": [
-    "ATRACADO 9613850 SAGA FRIGG * 199,90 32,2 9 55.596 6,00 12,00 31/3/26 16:54 22/4 26/4 C CELULOSE 53.000 WILHELMSENG 5 SUZANO PRONTIDÃO INFORMADO NO TOS+ PARA 09/04/26 00:00",
-    "ESPERADO 9613874 SAGA FRAM * 199,90 13,30 54.930 7,00 12,00 25/4/26 8:00 26/4 1/5 C CELULOSE 53.000 WILHELMSEN G5 SUZANO",
-    "ESPERADO 9233430 IRAKLIS 179,99 31,00 45.635 10,57 8,42 25/4/26 20:00 1/5 6/5 D FERTILIZANTES 34.050 UNIMAR COPI TOCANTINS",
-    "ESPERADO 9824980 GRANDIS * 201,90 33,95 62.353 8,00 12,00 4/5/26 12:00 6/5 11/5 C CELULOSE 55.000 WILSON SONS G5 SUZANO",
-    "ESPERADO 9836701 TAYGETUS 228,99 32,26 81.746 12,50 7,00 5/5/26 5:00 11/5 14/5 D FERTILIZANTES 20.000 ZPORT COPI FERTGROW",
-    "ESPERADO 9553713 CAPTAIN SITARAS 199,90 32,24 61.000 11,50 7,00 15/5/26 12:00 15/5 21/5 D FERTILIZANTES 36.345 ZPORT COPI FERTIMAXI / MOTTA",
-    "ATRACADO 9717436 KYPROS SPIRIT 225,00 32,20 77.998 7,67 13,30 1/4/26 0:01 22/4 24/4 C SOJA 65.000 WILSON SONS TEGRAM CHS",
-    "FUNDEADO 9905617 HONOR DIVA 229,00 32,26 82.541 7,00 13,00 4/4/26 10:00 24/4 27/4 C SOJA 71.420 ALPHAMAR TEGRAMLOU IS DREYFUS",
-    "FUNDEADO 9598177 BBG BRIGHT 228,93 32,26 82.043 7,30 13,40 5/4/26 4:24 27/4 30/4 C SOJA 66.000 WILSON SONS TEGRAMA MAGGI",
-    "FUNDEADO 9664952 ANDREAS PETRAKIS 225,00 32,26 75.999 7,00 13,30 15/4/26 0:01 30/4 3/5 C SOJA 65.000 FERTIMPORT TEGRAM BUNGE"
+  "logicalLinesCount": 57,
+  "recordsCount": 57,
+  "preview": [
+    {
+      "status": "ATRACADO",
+      "imo": "9613850",
+      "vessel": "SAGA FRIGG * 199,90 32,2",
+      "etaNor": "31/3/26 16:54",
+      "etb": "22/4",
+      "ets": "26/4",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613874",
+      "vessel": "SAGA FRAM * 199,90",
+      "etaNor": "25/4/26 8:00",
+      "etb": "26/4",
+      "ets": "1/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9233430",
+      "vessel": "IRAKLIS 179,99",
+      "etaNor": "25/4/26 20:00",
+      "etb": "1/5",
+      "ets": "6/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824980",
+      "vessel": "GRANDIS * 201,90",
+      "etaNor": "4/5/26 12:00",
+      "etb": "6/5",
+      "ets": "11/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9836701",
+      "vessel": "TAYGETUS 228,99",
+      "etaNor": "5/5/26 5:00",
+      "etb": "11/5",
+      "ets": "14/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9553713",
+      "vessel": "CAPTAIN SITARAS 199,90",
+      "etaNor": "15/5/26 12:00",
+      "etb": "15/5",
+      "ets": "21/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9606431",
+      "vessel": "YU XIAO FENG 225,00",
+      "etaNor": "17/5/26 8:00",
+      "etb": "21/5",
+      "ets": "28/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9717436",
+      "vessel": "KYPROS SPIRIT 225,00",
+      "etaNor": "1/4/26 0:01",
+      "etb": "22/4",
+      "ets": "24/4",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9905617",
+      "vessel": "HONOR DIVA 229,00",
+      "etaNor": "4/4/26 10:00",
+      "etb": "24/4",
+      "ets": "27/4",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9598177",
+      "vessel": "BBG BRIGHT 228,93",
+      "etaNor": "5/4/26 4:24",
+      "etb": "27/4",
+      "ets": "30/4",
+      "operation": "C",
+      "cargo": "SOJA"
+    }
   ]
 }
