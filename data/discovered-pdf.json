@@ -1,0 +1,51 @@
+{
+  "sourcePage": "https://website.portodoitaqui.com.br/home",
+  "pdfUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
+  "linkText": "Mapa de Atracação",
+  "foundAt": "2026-04-23T19:08:54.740Z",
+  "candidatesFound": 7,
+  "topCandidates": [
+    {
+      "href": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA DE ATRACAÇÃO - 23 04 2026 -10h00 - clientes_69ea35dc63399.pdf",
+      "text": "Mapa de Atracação",
+      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
+      "score": 97
+    },
+    {
+      "href": "https://www.portodoitaqui.com/public/_files/arquivos/964-passagem-nivel_69ea5044a48a0.pdf",
+      "text": "Mapa Ferroviário",
+      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/964-passagem-nivel_69ea5044a48a0.pdf",
+      "score": 72
+    },
+    {
+      "href": "https://www.portodoitaqui.com/_files/arquivos/NORMA PARA ATRACAÇÃO E DESATRACAÇÃO DE NAVIOS NO PORTO ORGANIZADO DO ITAQUI_6515d675a489f.pdf",
+      "text": "Normas de Atracação",
+      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/NORMA%20PARA%20ATRACA%C3%87%C3%83O%20E%20DESATRACA%C3%87%C3%83O%20DE%20NAVIOS%20NO%20PORTO%20ORGANIZADO%20DO%20ITAQUI_6515d675a489f.pdf",
+      "score": 72
+    },
+    {
+      "href": "https://www.portodoitaqui.com/_files/arquivos/manual-porto-do-itaqui.pdf",
+      "text": "Manual do Porto do Itaqui",
+      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/manual-porto-do-itaqui.pdf",
+      "score": 52
+    },
+    {
+      "href": "https://www.portodoitaqui.com/_files/arquivos/TABUA DE MARÉS - 2026_rev1 (1)_69583691a5734.pdf",
+      "text": "Tábua de Maré",
+      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/TABUA%20DE%20MAR%C3%89S%20-%202026_rev1%20(1)_69583691a5734.pdf",
+      "score": 52
+    },
+    {
+      "href": "https://www.portodoitaqui.com/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
+      "text": "Normas de Manobra",
+      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
+      "score": 52
+    },
+    {
+      "href": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
+      "text": "9 Navios Atracados",
+      "absoluteUrl": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
+      "score": 22
+    }
+  ]
+}
