@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Install dependencies
         run: npm install
@@ -27,7 +27,18 @@ jobs:
       - name: Run PDF discovery
         run: npm run discover
 
+      - name: Show discovered file
+        if: always()
+        run: |
+          echo "=== discovered-pdf.json ==="
+          if [ -f data/discovered-pdf.json ]; then
+            cat data/discovered-pdf.json
+          else
+            echo "data/discovered-pdf.json not found"
+          fi
+
       - name: Commit discovered PDF file
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
