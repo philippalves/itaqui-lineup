@@ -126,11 +126,14 @@ function mergeBrokenLines(lines) {
 function repairCommonBreaks(lines) {
   return lines.map((line) =>
     line
+      .replace(/(\d,\d)\s+(\d)\b/g, "$1$2")
       .replace(/(\d,\d{1})\s+(\d)\b/g, "$1$2")
       .replace(/(\d{1,2}\/\d{1,2})\s*\/\s*(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
       .replace(/(\d{1,2}\/\d{1,2})\s+(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
-      .replace(/\b([A-Z]+)\s+G\s+(\d)\b/g, "$1 G$2")
-      .replace(/\b([A-Z]+)G\s+(\d)\b/g, "$1 G$2")
+      .replace(/\bWILHELMSENG\s*5\b/g, "WILHELMSEN G5")
+      .replace(/\bWILHELMSENG5\b/g, "WILHELMSEN G5")
+      .replace(/\bTEGRAMLOU\s+IS\b/g, "TEGRAM LOUIS")
+      .replace(/\bTEGRAMA\s+MAGGI\b/g, "TEGRAM AMAGGI")
       .replace(/\bTEGRAMCHS\b/g, "TEGRAM CHS")
       .replace(/\bTEGRAMADM\b/g, "TEGRAM ADM")
       .replace(/\bTEGRAMCOFCO\b/g, "TEGRAM COFCO")
@@ -155,8 +158,6 @@ function repairCommonBreaks(lines) {
       .replace(/\bLBH\s+BRA\s+SIL\b/g, "LBH BRASIL")
       .replace(/\bGRANEL\s+QUÍM\s+ICA\b/g, "GRANEL QUÍMICA")
       .replace(/\bQAV\/DIESEL\/GASOLI\s+NA\b/g, "QAV/DIESEL/GASOLINA")
-      .replace(/\bWILHELMSENG5\b/g, "WILHELMSEN G5")
-      .replace(/\bWILHELMSENG 5\b/g, "WILHELMSEN G5")
       .replace(/\bCalado de Chegada.*$/i, "")
       .replace(/\s+/g, " ")
       .trim()
@@ -179,10 +180,7 @@ function buildLogicalLines(lines) {
     }
 
     if (!current) continue
-
-    if (isContaminatedLine(line)) {
-      continue
-    }
+    if (isContaminatedLine(line)) continue
 
     current += " " + line
   }
