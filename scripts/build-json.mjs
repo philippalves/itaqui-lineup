@@ -92,35 +92,74 @@ function mergeBrokenLines(lines) {
       continue
     }
 
-    const prev = merged[merged.length - 1]
+    let prev = merged[merged.length - 1]
+    const curr = line
 
-    const joinWithoutSpace =
-      /[\/.,-]$/.test(prev) ||
-      /^[\/.,-]/.test(line) ||
-      /^[0-9]{1,2}$/.test(line) ||
-      /^[A-Z]{1,3}$/.test(line)
+    const appendNoSpace =
+      /^[,./:;-]/.test(curr) ||
+      /[\/.,:-]$/.test(prev) ||
+      (/^\d{1,2}$/.test(curr) && /\d,$/.test(prev)) ||
+      (/^\d{1,2}$/.test(curr) && /\d$/.test(prev)) ||
+      (/^[A-Z]{1,3}$/.test(curr) && /[A-Z]$/.test(prev)) ||
+      (/^[a-z]{1,3}$/.test(curr) && /[a-z]$/.test(prev))
 
-    const joinWithPrev =
-      !isStatusOnly(line) &&
+    const appendWithSpace =
+      !isStatusOnly(curr) &&
       (
-        /^[,./:0-9]/.test(line) ||
-        /^[A-Z]{1,4}$/.test(line) ||
-        /^[a-z]/.test(line) ||
-        /\/$/.test(prev) ||
-        /,$/.test(prev) ||
-        /\d$/.test(prev) && /^[.,]/.test(line)
+        /^[A-Z]{1,4}$/.test(curr) ||
+        /^[a-z]/.test(curr) ||
+        (/^\d{1,2}\/\d{1,2}$/.test(curr) && /\d{1,2}\/\d{1,2}\/\d{2}\s+\d{1,2}:\d{2}$/.test(prev) === false) ||
+        (/^\d{1,2}:\d{2}$/.test(curr) && /\/\d{2}$/.test(prev)) ||
+        (/^\d{1,2}\/\d{2}\s+\d{1,2}:\d{2}$/.test(curr) && /\/$/.test(prev)) ||
+        (/^\d{1,2}\/\d{1,2}$/.test(curr) && /\/\d{2}\s+\d{1,2}:\d{2}$/.test(prev) === false)
       )
 
-    if (joinWithoutSpace) {
-      merged[merged.length - 1] = prev + line
-    } else if (joinWithPrev) {
-      merged[merged.length - 1] = prev + " " + line
-    } else {
-      merged.push(line)
+    if (appendNoSpace) {
+      merged[merged.length - 1] = prev + curr
+      continue
     }
+
+    if (appendWithSpace) {
+      merged[merged.length - 1] = prev + " " + curr
+      continue
+    }
+
+    merged.push(curr)
   }
 
   return merged
+}
+
+function repairCommonBreaks(lines) {
+  return lines.map((line) =>
+    line
+      .replace(/(\d,\d{1}) (\d)\b/g, "$1$2")
+      .replace(/(\d{1,2}\/\d{1,2}) \/(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
+      .replace(/(\d{1,2}\/\d{1,2})\/ (\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
+      .replace(/(\d{1,2}\/\d{1,2}) (\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
+      .replace(/\bSAL OBO\b/g, "SALOBO")
+      .replace(/\bWILHE LMSEN\b/g, "WILHELMSEN")
+      .replace(/\bWILSON SON S\b/g, "WILSON SONS")
+      .replace(/\bTEGR AM\b/g, "TEGRAM")
+      .replace(/\bTRA NSPETRO\b/g, "TRANSPETRO")
+      .replace(/\bPETROB RAS\b/g, "PETROBRAS")
+      .replace(/\bAMA GGI\b/g, "AMAGGI")
+      .replace(/\bMOS AIC\b/g, "MOSAIC")
+      .replace(/\bBUN GE\b/g, "BUNGE")
+      .replace(/\bLOU IS\b/g, "LOUIS")
+      .replace(/\bCAR GILL\b/g, "CARGILL")
+      .replace(/\bFERTIP AR\b/g, "FERTIPAR")
+      .replace(/\bTRANSPE TRO\b/g, "TRANSPETRO")
+      .replace(/\bCREW LOG\b/g, "CREWLOG")
+      .replace(/\bNML TANKE RS\b/g, "NML TANKERS")
+      .replace(/\bLBH BRA SIL\b/g, "LBH BRASIL")
+      .replace(/\bGRANEL QUÍM ICA\b/g, "GRANEL QUÍMICA")
+      .replace(/\bQAV\/DIESEL\/GASOLI NA\b/g, "QAV/DIESEL/GASOLINA")
+      .replace(/\bEMBARCAÇÃO DE RECREIO\b/g, "EMBARCAÇÃO DE RECREIO")
+      .replace(/\bREFINED SUCCESS\b/g, "REFINED SUCCESS")
+      .replace(/\s+/g, " ")
+      .trim()
+  )
 }
 
 function buildLogicalLines(lines) {
@@ -199,7 +238,8 @@ async function main() {
 
   const rawLines = cleanRawLines(text)
   const mergedLines = mergeBrokenLines(rawLines)
-  const logicalLines = buildLogicalLines(mergedLines)
+  const repairedLines = repairCommonBreaks(mergedLines)
+  const logicalLines = buildLogicalLines(repairedLines)
 
   const records = logicalLines
     .map(parseRecordLine)
@@ -215,9 +255,10 @@ async function main() {
     textLength: text.length,
     rawLinesCount: rawLines.length,
     mergedLinesCount: mergedLines.length,
+    repairedLinesCount: repairedLines.length,
     logicalLinesCount: logicalLines.length,
     recordsCount: records.length,
-    logicalPreview: logicalLines.slice(0, 5)
+    logicalPreview: logicalLines.slice(0, 8)
   }
 
   const payload = {
@@ -228,6 +269,7 @@ async function main() {
     totalTextLength: text.length,
     rawLines,
     mergedLines,
+    repairedLines,
     logicalLines,
     records
   }
@@ -240,10 +282,11 @@ async function main() {
   console.log(`Pages: ${parsedPdf.numpages || 0}`)
   console.log(`Raw lines: ${rawLines.length}`)
   console.log(`Merged lines: ${mergedLines.length}`)
+  console.log(`Repaired lines: ${repairedLines.length}`)
   console.log(`Logical lines: ${logicalLines.length}`)
   console.log(`Records: ${records.length}`)
   console.log("Logical preview:")
-  console.log(logicalLines.slice(0, 5).join("\n\n"))
+  console.log(logicalLines.slice(0, 8).join("\n\n"))
 }
 
 main().catch((error) => {
