@@ -22,7 +22,6 @@ async function main() {
   })
 
   const contentType = response.headers["content-type"] || ""
-  console.log(`Content-Type recebido: ${contentType}`)
 
   await fs.mkdir("downloads", { recursive: true })
   await fs.writeFile("downloads/latest.pdf", Buffer.from(response.data))
