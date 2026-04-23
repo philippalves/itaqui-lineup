@@ -53,9 +53,25 @@ jobs:
             echo "data/downloaded-pdf.json not found"
           fi
 
-      - name: Show latest json
+      - name: Show generated parser files
         if: always()
         run: |
+          echo "=== latest-debug.json ==="
+          if [ -f data/latest-debug.json ]; then
+            cat data/latest-debug.json
+          else
+            echo "data/latest-debug.json not found"
+          fi
+
+          echo ""
+          echo "=== first 80 lines of downloads/latest.txt ==="
+          if [ -f downloads/latest.txt ]; then
+            head -n 80 downloads/latest.txt
+          else
+            echo "downloads/latest.txt not found"
+          fi
+
+          echo ""
           echo "=== latest.json ==="
           if [ -f data/latest.json ]; then
             cat data/latest.json
@@ -71,6 +87,7 @@ jobs:
 
           git add data/discovered-pdf.json
           git add data/downloaded-pdf.json
+          git add data/latest-debug.json
           git add data/latest.json
           git add downloads/latest.pdf
           git add downloads/latest.txt
