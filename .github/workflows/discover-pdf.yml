@@ -27,6 +27,9 @@ jobs:
       - name: Run PDF discovery
         run: npm run discover
 
+      - name: Run PDF download
+        run: npm run download
+
       - name: Show discovered file
         if: always()
         run: |
@@ -37,17 +40,29 @@ jobs:
             echo "data/discovered-pdf.json not found"
           fi
 
-      - name: Commit discovered PDF file
+      - name: Show downloaded file metadata
+        if: always()
+        run: |
+          echo "=== downloaded-pdf.json ==="
+          if [ -f data/downloaded-pdf.json ]; then
+            cat data/downloaded-pdf.json
+          else
+            echo "data/downloaded-pdf.json not found"
+          fi
+
+      - name: Commit generated files
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data/discovered-pdf.json
+          git add data/downloaded-pdf.json
+          git add downloads/latest.pdf
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update discovered Itaqui PDF"
+            git commit -m "Update discovered and downloaded Itaqui PDF"
             git push
           fi
