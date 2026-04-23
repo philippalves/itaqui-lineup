@@ -15,7 +15,7 @@ function scoreCandidate(url, text) {
   if (value.includes(".pdf")) score += 50
   if (value.includes("mapa")) score += 20
   if (value.includes("atrac")) score += 20
-  if (value.includes("lineup")) score += 15
+  if (value.includes("line")) score += 10
   if (value.includes("clientes")) score += 5
   if (value.includes("porto")) score += 2
 
@@ -56,7 +56,7 @@ async function main() {
       joined.includes(".pdf") ||
       joined.includes("mapa") ||
       joined.includes("atrac") ||
-      joined.includes("lineup")
+      joined.includes("line")
 
     if (!looksRelevant) return
 
