@@ -1,5 +1,5 @@
 import axios from "axios"
-import cheerio from "cheerio"
+import { load } from "cheerio"
 import fs from "fs/promises"
 
 const SOURCE_PAGE = "https://website.portodoitaqui.com.br/home"
@@ -33,7 +33,7 @@ async function main() {
   })
 
   const html = response.data
-  const $ = cheerio.load(html)
+  const $ = load(html)
 
   const candidates = []
 
@@ -68,7 +68,22 @@ async function main() {
     })
   })
 
+  console.log(`Candidatos encontrados: ${candidates.length}`)
+
   if (!candidates.length) {
+    const debugPayload = {
+      sourcePage: SOURCE_PAGE,
+      foundAt: new Date().toISOString(),
+      error: "Nenhum link candidato foi encontrado na página."
+    }
+
+    await fs.mkdir("data", { recursive: true })
+    await fs.writeFile(
+      "data/discovered-pdf.json",
+      JSON.stringify(debugPayload, null, 2),
+      "utf-8"
+    )
+
     throw new Error("Nenhum link candidato foi encontrado na página.")
   }
 
@@ -99,6 +114,6 @@ async function main() {
 
 main().catch((error) => {
   console.error("Erro ao descobrir o PDF:")
-  console.error(error)
+  console.error(error?.stack || error?.message || error)
   process.exit(1)
 })
