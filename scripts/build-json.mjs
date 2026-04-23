@@ -92,14 +92,14 @@ function mergeBrokenLines(lines) {
       continue
     }
 
-    let prev = merged[merged.length - 1]
+    const prev = merged[merged.length - 1]
     const curr = line
 
     const appendNoSpace =
       /^[,./:;-]/.test(curr) ||
       /[\/.,:-]$/.test(prev) ||
-      (/^\d{1,2}$/.test(curr) && /\d,$/.test(prev)) ||
-      (/^\d{1,2}$/.test(curr) && /\d$/.test(prev)) ||
+      (/^\d{1,2}$/.test(curr) && /\d,\d$/.test(prev)) ||
+      (/^\d{1,2}$/.test(curr) && /\d\/$/.test(prev)) ||
       (/^[A-Z]{1,3}$/.test(curr) && /[A-Z]$/.test(prev)) ||
       (/^[a-z]{1,3}$/.test(curr) && /[a-z]$/.test(prev))
 
@@ -108,23 +108,16 @@ function mergeBrokenLines(lines) {
       (
         /^[A-Z]{1,4}$/.test(curr) ||
         /^[a-z]/.test(curr) ||
-        (/^\d{1,2}\/\d{1,2}$/.test(curr) && /\d{1,2}\/\d{1,2}\/\d{2}\s+\d{1,2}:\d{2}$/.test(prev) === false) ||
-        (/^\d{1,2}:\d{2}$/.test(curr) && /\/\d{2}$/.test(prev)) ||
-        (/^\d{1,2}\/\d{2}\s+\d{1,2}:\d{2}$/.test(curr) && /\/$/.test(prev)) ||
-        (/^\d{1,2}\/\d{1,2}$/.test(curr) && /\/\d{2}\s+\d{1,2}:\d{2}$/.test(prev) === false)
+        /^\d{1,2}:\d{2}$/.test(curr)
       )
 
     if (appendNoSpace) {
       merged[merged.length - 1] = prev + curr
-      continue
-    }
-
-    if (appendWithSpace) {
+    } else if (appendWithSpace) {
       merged[merged.length - 1] = prev + " " + curr
-      continue
+    } else {
+      merged.push(curr)
     }
-
-    merged.push(curr)
   }
 
   return merged
@@ -133,33 +126,45 @@ function mergeBrokenLines(lines) {
 function repairCommonBreaks(lines) {
   return lines.map((line) =>
     line
-      .replace(/(\d,\d{1}) (\d)\b/g, "$1$2")
-      .replace(/(\d{1,2}\/\d{1,2}) \/(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
-      .replace(/(\d{1,2}\/\d{1,2})\/ (\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
-      .replace(/(\d{1,2}\/\d{1,2}) (\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
-      .replace(/\bSAL OBO\b/g, "SALOBO")
-      .replace(/\bWILHE LMSEN\b/g, "WILHELMSEN")
-      .replace(/\bWILSON SON S\b/g, "WILSON SONS")
-      .replace(/\bTEGR AM\b/g, "TEGRAM")
-      .replace(/\bTRA NSPETRO\b/g, "TRANSPETRO")
-      .replace(/\bPETROB RAS\b/g, "PETROBRAS")
-      .replace(/\bAMA GGI\b/g, "AMAGGI")
-      .replace(/\bMOS AIC\b/g, "MOSAIC")
-      .replace(/\bBUN GE\b/g, "BUNGE")
-      .replace(/\bLOU IS\b/g, "LOUIS")
-      .replace(/\bCAR GILL\b/g, "CARGILL")
-      .replace(/\bFERTIP AR\b/g, "FERTIPAR")
-      .replace(/\bTRANSPE TRO\b/g, "TRANSPETRO")
-      .replace(/\bCREW LOG\b/g, "CREWLOG")
-      .replace(/\bNML TANKE RS\b/g, "NML TANKERS")
-      .replace(/\bLBH BRA SIL\b/g, "LBH BRASIL")
-      .replace(/\bGRANEL QUÍM ICA\b/g, "GRANEL QUÍMICA")
-      .replace(/\bQAV\/DIESEL\/GASOLI NA\b/g, "QAV/DIESEL/GASOLINA")
-      .replace(/\bEMBARCAÇÃO DE RECREIO\b/g, "EMBARCAÇÃO DE RECREIO")
-      .replace(/\bREFINED SUCCESS\b/g, "REFINED SUCCESS")
+      .replace(/(\d,\d{1})\s+(\d)\b/g, "$1$2")
+      .replace(/(\d{1,2}\/\d{1,2})\s*\/\s*(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
+      .replace(/(\d{1,2}\/\d{1,2})\s+(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
+      .replace(/\b([A-Z]+)\s+G\s+(\d)\b/g, "$1 G$2")
+      .replace(/\b([A-Z]+)G\s+(\d)\b/g, "$1 G$2")
+      .replace(/\bTEGRAMCHS\b/g, "TEGRAM CHS")
+      .replace(/\bTEGRAMADM\b/g, "TEGRAM ADM")
+      .replace(/\bTEGRAMCOFCO\b/g, "TEGRAM COFCO")
+      .replace(/\bVLIAGREX\b/g, "VLI AGREX")
+      .replace(/\bVLICOFCO\b/g, "VLI COFCO")
+      .replace(/\bCOPIFERTGROW\b/g, "COPI FERTGROW")
+      .replace(/\bFERTIPA\s+R\//g, "FERTIPAR/")
+      .replace(/\bSAL\s+OBO\b/g, "SALOBO")
+      .replace(/\bWILHE\s+LMSEN\b/g, "WILHELMSEN")
+      .replace(/\bWILSON\s+SON\s+S\b/g, "WILSON SONS")
+      .replace(/\bTEGR\s+AM\b/g, "TEGRAM")
+      .replace(/\bTRA\s+NSPETRO\b/g, "TRANSPETRO")
+      .replace(/\bTRANSPE\s+TRO\b/g, "TRANSPETRO")
+      .replace(/\bPETROB\s+RAS\b/g, "PETROBRAS")
+      .replace(/\bAMA\s+GGI\b/g, "AMAGGI")
+      .replace(/\bMOS\s+AIC\b/g, "MOSAIC")
+      .replace(/\bBUN\s+GE\b/g, "BUNGE")
+      .replace(/\bLOU\s+IS\b/g, "LOUIS")
+      .replace(/\bCAR\s+GILL\b/g, "CARGILL")
+      .replace(/\bFERTIP\s+AR\b/g, "FERTIPAR")
+      .replace(/\bNML\s+TANKE\s+RS\b/g, "NML TANKERS")
+      .replace(/\bLBH\s+BRA\s+SIL\b/g, "LBH BRASIL")
+      .replace(/\bGRANEL\s+QUÍM\s+ICA\b/g, "GRANEL QUÍMICA")
+      .replace(/\bQAV\/DIESEL\/GASOLI\s+NA\b/g, "QAV/DIESEL/GASOLINA")
+      .replace(/\bWILHELMSENG5\b/g, "WILHELMSEN G5")
+      .replace(/\bWILHELMSENG 5\b/g, "WILHELMSEN G5")
+      .replace(/\bCalado de Chegada.*$/i, "")
       .replace(/\s+/g, " ")
       .trim()
   )
+}
+
+function isContaminatedLine(line) {
+  return /Calado de Chegada|Atrac\.Desatrac\.|Operator \* Operator|Port Operator/i.test(line)
 }
 
 function buildLogicalLines(lines) {
@@ -174,12 +179,19 @@ function buildLogicalLines(lines) {
     }
 
     if (!current) continue
+
+    if (isContaminatedLine(line)) {
+      continue
+    }
+
     current += " " + line
   }
 
   if (current) logical.push(current.trim())
 
-  return logical.map(normalizeLine)
+  return logical
+    .map(normalizeLine)
+    .filter((line) => !isContaminatedLine(line))
 }
 
 function parseRecordLine(line) {
@@ -258,7 +270,7 @@ async function main() {
     repairedLinesCount: repairedLines.length,
     logicalLinesCount: logicalLines.length,
     recordsCount: records.length,
-    logicalPreview: logicalLines.slice(0, 8)
+    logicalPreview: logicalLines.slice(0, 10)
   }
 
   const payload = {
@@ -286,7 +298,7 @@ async function main() {
   console.log(`Logical lines: ${logicalLines.length}`)
   console.log(`Records: ${records.length}`)
   console.log("Logical preview:")
-  console.log(logicalLines.slice(0, 8).join("\n\n"))
+  console.log(logicalLines.slice(0, 10).join("\n\n"))
 }
 
 main().catch((error) => {
