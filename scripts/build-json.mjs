@@ -111,11 +111,7 @@ function parseRecordLine(line) {
 
   const imoMatch = rest.match(/^(BL|\d{7})\s+(.*)$/)
   if (!imoMatch) {
-    return {
-      status,
-      raw: line,
-      parsed: {}
-    }
+    return { status, raw: line, parsed: {} }
   }
 
   const imo = imoMatch[1]
@@ -132,23 +128,17 @@ function parseRecordLine(line) {
 
   const numericMatches = [...afterVessel.matchAll(/\b\d{1,3},\d{1,2}\b|\b\d{1,3}(?:\.\d{3})+\b|\b\d{4,6}\b/g)].map(m => m[0])
 
-  const loa = numericMatches[0] || null
-  const beam = numericMatches[1] || null
-  const dwt = numericMatches[2] || null
-  const arrivalDraft = numericMatches[3] || null
-  const sailingDraft = numericMatches[4] || null
-
   return {
     status,
     raw: line,
     parsed: {
       imo,
       vessel,
-      loa,
-      beam,
-      dwt,
-      arrivalDraft,
-      sailingDraft
+      loa: numericMatches[0] || null,
+      beam: numericMatches[1] || null,
+      dwt: numericMatches[2] || null,
+      arrivalDraft: numericMatches[3] || null,
+      sailingDraft: numericMatches[4] || null
     }
   }
 }
@@ -173,6 +163,15 @@ async function main() {
       ...record
     }))
 
+  const debug = {
+    sourcePdf: discovered.pdfUrl || "",
+    generatedAt: new Date().toISOString(),
+    textLength: text.length,
+    first500Chars: text.slice(0, 500),
+    logicalLinesCount: logicalLines.length,
+    recordsCount: records.length
+  }
+
   const payload = {
     sourcePage: discovered.sourcePage || "",
     sourcePdf: discovered.pdfUrl || "",
@@ -184,14 +183,16 @@ async function main() {
   }
 
   await fs.mkdir("data", { recursive: true })
-  await fs.writeFile(
-    "data/latest.json",
-    JSON.stringify(payload, null, 2),
-    "utf-8"
-  )
+  await fs.writeFile("data/latest-debug.json", JSON.stringify(debug, null, 2), "utf-8")
+  await fs.writeFile("data/latest.json", JSON.stringify(payload, null, 2), "utf-8")
 
+  console.log("TXT regenerated successfully")
+  console.log(`Pages: ${parsedPdf.numpages || 0}`)
+  console.log(`Text length: ${text.length}`)
   console.log(`Logical lines: ${logicalLines.length}`)
   console.log(`Records: ${records.length}`)
+  console.log("Preview:")
+  console.log(text.slice(0, 500))
 }
 
 main().catch((error) => {
