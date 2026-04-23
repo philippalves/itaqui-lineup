@@ -1,5453 +1,2239 @@
 {
   "sourcePage": "https://website.portodoitaqui.com.br/home",
   "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
-  "updatedAt": "2026-04-23T19:18:13.263Z",
+  "updatedAt": "2026-04-23T19:20:58.071Z",
   "totalPages": 3,
   "totalTextLength": 18032,
-  "rows": [
+  "cleanLines": [
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "SAGA FRIGG *",
+    "199,90 32,2",
+    "9 55.596 6,00 12",
+    ",00 31/3/26 16:54",
+    "22/4",
+    "26/4",
+    "C",
+    "CELULOSE",
+    "53.000",
+    "WILHELMSEN",
+    "G",
+    "SUZANO",
+    "PRONTIDÃO INFORMADO NO TOS+ PARA 09/04/26 00:00",
+    "ESPERADO",
+    "SAGA FRAM *",
+    "199,90 13,30",
+    "54.930 7,00 12,00 25/4/",
+    "26 8:00",
+    "26/4",
+    "1/5",
+    "C",
+    "CELULOSE",
+    "53.000",
+    "WILHELMSEN",
+    "G5",
+    "SUZANO",
+    "ESPERADO",
+    "IRAKLIS",
+    "179,99 31,00",
+    "45.635 10,57 8,42 25/4/26",
+    "20:00",
+    "1/5",
+    "6/5",
+    "D",
+    "FERTILIZANTES",
+    "34.050",
+    "UNIMAR",
+    "COPI",
+    "TOCANTINS",
+    "ESPERADO",
+    "GRANDIS *",
+    "201,90 33,95",
+    "62.353 8,00 12,00 4/5/26",
+    "12:00",
+    "6/5",
+    "11/5",
+    "C",
+    "CELULOSE",
+    "55.000",
+    "WILSON SONS",
+    "G5",
+    "SUZANO",
+    "ESPERADO",
+    "TAYGETUS",
+    "228,99 32,26",
+    "81.746 12,50 7,00",
+    "5/5/26",
+    "5:00",
+    "11/5",
+    "14/5",
+    "D",
+    "FERTILIZANTES",
+    "20.000",
+    "ZPORT",
+    "COPI",
+    "FERTGROW",
+    "ESPERADO",
+    "CAPTAIN SITARAS",
+    "199,90 32,24",
+    "61.000 11,50 7,00",
+    "15/5/26 12:00",
+    "15/5",
+    "21/5",
+    "D",
+    "FERTILIZANTES",
+    "36.345",
+    "ZPORT",
+    "COPI",
+    "FERTIMAXI / MOTTA",
+    "ESPERADO",
+    "YU XIAO FENG",
+    "225,00 32,26",
+    "75.397 13,75 7,00 17/",
+    "5/26 8:00",
+    "21/5",
+    "28/5",
+    "D",
+    "FERTILIZANTES",
+    "49.000 WORLD SHIPPING",
+    "COPI",
+    "AMAGGI/FERTIPA",
+    "R/ FERTGROW",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "KYPROS SPIRIT",
+    "225,00 32",
+    ",20 77.998 7,67",
+    "13,30 1/4/26 0:01",
+    "22/4",
+    "24/4",
+    "C",
+    "SOJA",
+    "65.000",
+    "WILSON SONS",
+    "TEGR",
+    "AM",
+    "CHS",
+    "FUNDEADO",
+    "HONOR DIVA",
+    "229,00 32,26",
+    "82.541 7,00 13,",
+    "00 4/4/26 10:00",
+    "24/4",
+    "27/4",
+    "C",
+    "SOJA",
+    "71.420",
+    "ALPHAMAR",
+    "TEGRAM",
+    "LOU",
+    "IS DREYFUS",
+    "FUNDEADO",
+    "BBG BRIGHT",
+    "228,93 32,26",
+    "82.043 7,30 13,",
+    "40 5/4/26 4:24",
+    "27/4",
+    "30/4",
+    "C",
+    "SOJA",
+    "66.000",
+    "WILSON SONS",
+    "TEGRAM",
+    "A",
+    "MAGGI",
+    "FUNDEADO",
+    "ANDREAS PETRAKIS",
+    "225,00",
+    "32,26 75.999 7,00",
+    "13,30 15/4/26 0:01",
+    "30/4",
+    "3/5",
+    "C",
+    "SOJA",
+    "65.000",
+    "FERTIMPORT",
+    "TEGRAM",
+    "BUNGE",
+    "FUNDEADO",
+    "CL HYAKU",
+    "6,40 32,2",
+    "4 63.492 6,40 12",
+    ",50 22/4/26 7:18",
+    "3/5",
+    "6/5",
+    "C",
+    "SOJA",
+    "55.000",
+    "FERTIMPORT",
+    "TEGRAM",
+    "BUNGE",
+    "FUNDEADO",
+    "GRAMPUS CHARM",
+    "229,00 32",
+    ",24 82.937 7,00",
+    "13,00 13/4/26 13:30",
+    "6/5",
+    "9/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "ALPHAMAR",
+    "TEGRAM",
+    "AMAGGI",
+    "FUNDEADO",
+    "SHANDONG XIN GUO",
+    "229,00",
+    "32,26 84.302 7,63",
+    "13,65 20/4/26 3:30",
+    "9/5",
+    "14/5",
+    "C",
+    "SOJA",
+    "71.518",
+    "WILSON SONS",
+    "TEGRAM",
+    "AMAGGI",
+    "ESPERADO",
+    "INCE BOSPHORUS",
+    "228,99 32,26",
+    "82.329 7,10 13,30 3",
+    "0/4/26 8:00",
+    "14/5",
+    "17/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "FERTIMPORT",
+    "TEGRAM",
+    "BUNGE",
+    "ESPERADO",
+    "MAJESTIC STAR",
+    "229,00 32,00",
+    "81.878 7,30 12,20 30",
+    "/4/26 0:00",
+    "17/5",
+    "20/5",
+    "C",
+    "FAREJO DE SOJA",
+    "63.000",
+    "ROCHAMAR",
+    "TEGRAM",
+    "ADM",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "BAM TRITON *",
+    "179,00 28,0",
+    "0 30.009 10,50 7",
+    ",20 11/4/26 5:50",
+    "22/4",
+    "26/4",
+    "D",
+    "FERTILIZANTES",
+    "27.700",
+    "LBH BRA",
+    "SIL",
+    "COPI",
+    "FERTGROW",
+    "FUNDEADO",
+    "PUFFIN ARROW *",
+    "199,98 32",
+    ",29 62.967 10,00",
+    "6,00 16/4/26 10:12",
+    "26/4",
+    "1/5",
+    "D",
+    "FERTILIZANTES",
+    "44.000",
+    "AMART",
+    "COPI",
+    "MOSAIC/FERTIPAR/NUTRISOYA/MOTTA/AMA",
+    "GGI",
+    "ESPERADO",
+    "AMIS WEALTH *",
+    "200,00 32,00",
+    "63.364 10,00 6,00 1/5",
+    "/26 14:00",
+    "1/5",
+    "6/5",
+    "D",
+    "FERTILIZANTES",
+    "35.117",
+    "ORION RODOS",
+    "COPI",
+    "M",
+    "OSAIC/CIBRAFERT/YARA",
+    "ESPERADO",
+    "HAWK S",
+    "179,90 30,00",
+    "40.400 10,60 7,00 29/4/26 1",
+    "4:00",
+    "6/5",
+    "12/5",
+    "D",
+    "FERTILIZANTES",
+    "37.750",
+    "LBH BRASIL",
+    "COPI",
+    "FERTIP",
+    "AR / FERTGROW / ARAGUAIA / ALZ",
+    "ESPERADO",
+    "SANTA VALENTINA *",
+    "199,92 32,26",
+    "61.310 11,00 6,00",
+    "7/5/26 0:00",
+    "12/5",
+    "13/5",
+    "D",
+    "FERTILIZANTES",
+    "11.750",
+    "ORION RODOS",
+    "COPI",
+    "MOSAIC",
+    "ESPERADO",
+    "AMSTEL STORK",
+    "199,98 32,26",
+    "60.437 10,50 8,20 13/",
+    "5/26 12:00",
+    "13/5",
+    "17/5",
+    "D",
+    "FERTILIZANTES",
+    "22.739",
+    "ORION RODOS",
+    "COPI",
+    "MOSAIC",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "BARNACLE *",
+    "185,00 23,70",
+    "30.803 8,00 5,",
+    "00 20/4/26 10:40",
+    "23/4",
+    "25/4",
+    "D",
+    "TRIGO",
+    "14.400",
+    "FERTIMPORT",
+    "DATA",
+    "B",
+    "UNGE",
+    "FUNDEADO",
+    "LAWIN ARROW",
+    "199,98 32,2",
+    "6 62.841 10,50 4",
+    ",00 15/4/26 5:00",
+    "25/4",
+    "1/5",
+    "D",
+    "CARVÃO",
+    "45.000",
+    "GEM",
+    "COPI",
+    "VALE",
+    "ESPERADO",
+    "ASIAN PRIDE",
+    "199,98 32,00",
+    "62.466 11,50 9,20 23/4",
+    "/26 20:00",
+    "1/5",
+    "8/5",
+    "D",
+    "FERTILIZANTES",
+    "48.083",
+    "ORION RODOS",
+    "COPI",
+    "C",
+    "IBRAFERTIL/FERTIPAR/MOSAIC/YARA",
+    "ESPERADO",
+    "COSCO SHIPPING JIN XIU *",
+    "201,80",
+    "32,26 62.002 7,00",
+    "6,00",
+    "7/5/26 6:00",
+    "8/5",
+    "10/5",
+    "D",
+    "EVAPORADORES",
+    "2.17",
+    "TRANSGLOBAL",
+    "OPERAÇÕES",
+    "TRANSGLOBAL",
+    "ENEVA",
+    "SOMENTE B.102. A COACE AUTORIZOU A ENTRADA DO NAVIO",
+    "NO B102 COM O LOA ACIMA",
+    "DE 200M",
+    "ESPERADO",
+    "ND ARISTEIA",
+    "199,92 32,26",
+    "61.237 11,00 7,00",
+    "9/5/",
+    "26 8:00",
+    "10/5",
+    "12/5",
+    "D",
+    "FERTILIZANTES",
+    "11.500",
+    "ALPHAMAR",
+    "COPI",
+    "FERT",
+    "IPAR / JBS",
+    "ESPERADO",
+    "AMIS ACE",
+    "196,00 32,30",
+    "60.830 11,50 9,50 12/5/26",
+    "0:00",
+    "12/5",
+    "16/5",
+    "D",
+    "FERTILIZANTES",
+    "24.000",
+    "ORION RODOS",
+    "COPI",
+    "MOS",
+    "AIC",
+    "ESPERADO",
+    "ATLANTIC GLORY",
+    "179,99 28,20",
+    "33.472 10,50 6,50 2",
+    "8/5/26 0:01",
+    "28/5",
+    "3/6",
+    "D",
+    "TRILHOS",
+    "10.000",
+    "LBH BRASIL",
+    "NML TANKE",
+    "RS",
+    "VALE",
+    "ESPERADO",
+    "SH VEGA",
+    "113,00 24,00 1.200",
+    "6,00 6,00 18/10/26 6:30",
+    "18/10",
+    "19/",
+    "EMBARCAÇÃO DE",
+    "RECREIO",
+    "12.000",
+    "CREW LOG",
+    "NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARAN",
+    "HENSE E SÃO LUIS.",
+    "ESPERADO",
+    "HANSEATIC SPIRIT",
+    "138,80 22,00 2.112",
+    "5,70 5,70 13/11/27 0:00",
+    "13/11",
+    "14/",
+    "EMBARCAÇÃO DE",
+    "RECREIO",
+    "12.000",
+    "CREWLOG",
+    "BERÇO 100 Loa:",
+    "Prof.: 15m DWT:",
+    "100.000",
+    "23/04 -10:00",
+    "BERÇO 101 Loa:",
+    "Prof.: 12m DWT:",
+    "80.000",
+    "23/04 -10:00",
+    "BERÇO 102 Loa:",
+    "Prof.: 12m DWT:",
+    "80.000",
+    "23/04 -10:00",
+    "BERÇO 99 Loa:",
+    "Prof.: 15m DWT:",
+    "83.400",
+    "23/04 -10:00",
+    "IO – LINE UP Data de revisão do template: 01/07/202",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "WISDOM DIVA",
+    "228,99 32,2",
+    "6 82.216 7,61 13",
+    ",37 2/4/26 8:30",
+    "23/4",
+    "26/4",
+    "C",
+    "SOJA",
+    "70.929",
+    "ALPHAMAR",
+    "TEGRAM",
+    "CAR",
+    "GILL",
+    "FUNDEADO",
+    "BORA",
+    "229,00 32,26",
+    "81.682 7,90 13,00 4/4",
+    "/26 23:24",
+    "26/4",
+    "28/4",
+    "C",
+    "SOJA",
+    "71.300",
+    "CARGONAVE",
+    "TEGRAM",
+    "COFCO",
+    "FUNDEADO",
+    "MOTARO",
+    "228,90 32,26",
+    "82.951 4,00 13,00 1",
+    "4/3/26 13:00",
+    "28/4",
+    "2/5",
+    "C",
+    "SOJA",
+    "70.799",
+    "FERTIMPORT",
+    "TEGRAM",
+    "BUNGE",
+    "FUNDEADO",
+    "GLBS ANGEL",
+    "229,00 32,26",
+    "81.119 7,00 13,",
+    "00 16/3/26 12:36",
+    "2/5",
+    "5/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "WILSON SONS",
+    "TEGRAM",
+    "R",
+    "EFINED SUCCESS",
+    "FUNDEADO",
+    "JI XIAN FENG",
+    "225,00 32,",
+    "26 75.409 7,00 1",
+    "3,00 13/4/26 5:48",
+    "5/5",
+    "7/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "WILSON SONS",
+    "TEGRA",
+    "M",
+    "REFINED SUCCESS",
+    "FUNDEADO",
+    "HERCULES",
+    "225,00 32,26",
+    "75.016 7,86 13,20",
+    "17/4/26 3:18",
+    "7/5",
+    "10/5",
+    "C",
+    "SOJA",
+    "63.000",
+    "ROCHAMAR",
+    "TEGRAM",
+    "ADM",
+    "FUNDEADO",
+    "ATALANDI",
+    "225,00 32,30",
+    "77.528 7,30 13,40",
+    "21/4/26 0:35",
+    "10/5",
+    "13/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "FERTIMPORT",
+    "TEGRAM",
+    "BUN",
+    "GE",
+    "ESPERADO",
+    "LORIENT",
+    "224,86",
+    "32,26",
+    "82.331 7,90 12,9",
+    "0 3/5/26 15:00",
+    "13/5",
+    "17/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "CARGONAVE",
+    "TEGRAM",
+    "CHS",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "OSCAR NIEMEYER *",
+    "117,63",
+    "19,20 5.079 11,00",
+    "6,00 19/4/26 8:30",
+    "22/4",
+    "23/4",
+    "D",
+    "GLP",
+    "3.892",
+    "WILHELMSEN",
+    "TRA",
+    "NSPETRO",
+    "PETROBRAS",
+    "FUNDEADO",
+    "BL",
+    "BERÇO LIVRE",
+    "-",
+    "- - 6,00",
+    "5,00 20/4/26 0:00",
+    "23/4",
+    "26/4",
+    "BERÇO LIVRE",
+    "6.000",
+    "ESPERADO",
+    "DARCY RIBEIRO *",
+    "117,25 19,20",
+    "5.092 11,00 8,00",
+    "23/4/26 23:00",
+    "26/4",
+    "28/4",
+    "D",
+    "GLP",
+    "3.500",
+    "WILHELMSEN",
+    "TRANSPETRO",
+    "P",
+    "ETROBRAS",
+    "ESPERADO",
+    "SHAMAL",
+    "182,00 40,00",
+    "64.834 12,50 8,00 30/4/26 1",
+    "8:00",
+    "30/4",
+    "3/5",
+    "D",
+    "QAV/DIESEL/GASOLI",
+    "NA",
+    "23.600",
+    "WILHELMSEN",
+    "TRANSPETRO",
+    "PETROBRAS",
+    "ESPERADO",
+    "EPIC BALUAN *",
+    "113,08 19,00",
+    "7.187 10,00 6,00 25",
+    "/4/26 1:00",
+    "3/5",
+    "4/5",
+    "D",
+    "GLP",
+    "3.500",
+    "WILHELMSEN",
+    "TRANSPETRO",
+    "PETROB",
+    "RAS",
+    "ESPERADO",
+    "BOW FORTUNE *",
+    "183,10 32,20",
+    "37.395 8,73 9,73",
+    "4/",
+    "5/26 0:00",
+    "4/5",
+    "6/5",
+    "C",
+    "SEBO BOVIMO",
+    "4.000",
+    "ROCHAMAR",
+    "GRANEL QUÍM",
+    "ICA",
+    "FASA",
+    "ESPERADO",
+    "FORTE DE COPACABANA *",
+    "123,98 17,",
+    "33 8.843 10,00",
+    "6,00 4/5/26 23:00",
+    "9/5",
+    "11/5",
+    "D",
+    "GLP",
+    "3.500",
+    "WILHELMSEN",
+    "TRANSPE",
+    "TRO",
+    "PETROBRAS",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "AQUILA TRADER",
+    "180,00 30",
+    ",00 33.737 7,00",
+    "10,00 19/4/26 14:50",
+    "22/4",
+    "24/4",
+    "C",
+    "COBRE",
+    "23.100",
+    "WILSON SONS",
+    "G",
+    "VALE",
+    "FUNDEADO",
+    "WEN ZHU HAI",
+    "225,00 32,2",
+    "6 76.381 7,00 13",
+    ",00 1/4/26 0:01",
+    "24/4",
+    "26/4",
+    "C",
+    "SOJA",
+    "66.000",
+    "ALPHAMAR",
+    "VLI",
+    "AGREX",
+    "FUNDEADO",
+    "EMIR AKSOY",
+    "199,90 32,24",
+    "64.072 6,80 12,",
+    "50 14/4/26 18:30",
+    "26/4",
+    "29/4",
+    "C",
+    "COBRE",
+    "41.563",
+    "LBH BRASIL",
+    "G5",
+    "SAL",
+    "OBO METAIS",
+    "FUNDEADO",
+    "SAKIZAYA KALON",
+    "228,92 3",
+    "2,26 81.691 7,15",
+    "11,50 10/4/26 23:54",
+    "29/4",
+    "1/5",
+    "C",
+    "SOJA",
+    "69.000",
+    "LBH BRASIL",
+    "VLI",
+    "CARGILL",
+    "ESPERADO",
+    "MAGIC ARIEL",
+    "229,00 32,26",
+    "81.485 8,00 13,50 24/4",
+    "/26 23:00",
+    "1/5",
+    "4/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "LBH BRASIL",
+    "VLI",
+    "AGREX",
+    "FUNDEADO",
+    "GCL LUXEMBOURG",
+    "229,00 3",
+    "2,26 82.310 7,90",
+    "13,00 17/4/26 17:36",
+    "4/5",
+    "7/5",
+    "C",
+    "SOJA",
+    "70.830",
+    "CARGONAVE",
+    "VLI",
+    "COFCO",
+    "ESPERADO",
+    "BASIC FORTUNE",
+    "229,00 32,26",
+    "28.061 7,10 13,30 3/",
+    "5/26 8:00",
+    "7/5",
+    "9/5",
+    "C",
+    "SOJA",
+    "66.000",
+    "FERTIMPORT",
+    "VLI",
+    "BUNGE",
+    "ESPERADO",
+    "BELTRADER",
+    "199,90 32,24",
+    "61.043 6,00 12,00 24/4/2",
+    "6 0:01",
+    "9/5",
+    "12/5",
+    "C",
+    "COBRE",
+    "26.972",
+    "WILHELMSEN",
+    "G5",
+    "VALE",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "BL",
+    "BERÇO LIVRE",
+    "-",
+    "- -",
+    "9,00 8,00 20/4/26 14:59",
+    "20/4",
+    "25/4",
+    "D",
+    "B",
+    "ERÇO LIVRE",
+    "8.000",
+    "ESPERADO",
+    "ISABELLA M II",
+    "183,00 32,20",
+    "49.999 12,50 8,00 25",
+    "/4/26 15:00",
+    "25/4",
+    "28/4",
+    "D DIESEL/GASOLINA",
+    "34.600",
+    "WILHELMSEN",
+    "TRANSPETRO",
+    "PETROBRAS",
+    "ESPERADO",
+    "ELANDRA MAPLE",
+    "183,00 32,00",
+    "49.999 13,00 10,00 29/",
+    "4/26 21:00",
+    "29/4",
+    "3/5",
+    "D DIESEL / GASOLINA 37.740",
+    "WILHELMSEN",
+    "TRANSPETRO",
+    "PETROBRAS",
+    "O NAVIO FARÁ DESCARGA DE ODS500 E GASOLINA, E FARÁ",
+    "CARGA DE ODS10",
+    "ESPERADO",
+    "IOANNIS ZAFIRAKIS",
+    "183,00 32,20",
+    "49.999 12,50 10,00",
+    "5/5/26 23:00",
+    "5/5",
+    "6/5",
+    "D OLEO COMBUSTÍVEL 5000",
+    "WILHELMSEN",
+    "T",
+    "RANSPETRO",
+    "PETROBRAS",
+    "Calado de",
+    "Chegada",
+    "Chegada",
+    "Atrac.",
+    "Desatrac.",
+    "Operator",
+    "*",
+    "Operator",
+    "ATRACADO",
+    "BL",
+    "BERÇO LIVRE",
+    "-",
+    "- - 6,00",
+    "5,00 22/4/26 0:00",
+    "22/4",
+    "25/4",
+    "BERÇO LIVRE",
+    ".000",
+    "ESPERADO",
+    "CLEAROCEAN MELODY",
+    "182,90 32,23",
+    "49.995 12,5 8,",
+    "50 25/4/26 18:00",
+    "25/4",
+    "27/4",
+    "D GASOLINA/DIESEL",
+    "27.300",
+    "WILHE",
+    "LMSEN",
+    "TRANSPETRO",
+    "PETROBRAS",
+    "ESPERADO",
+    "SARONIC WIND",
+    "182,75 32,00",
+    "49.985 10,95 8,00 29/",
+    "4/26 10:00",
+    "29/4",
+    "2/5",
+    "D GASOLINA / DIESEL 31.870",
+    "WILSON SON",
+    "S",
+    "TRANSPETRO",
+    "ACELEN",
+    "Obs.: A sequência de atracações e a determinação do",
+    "s piers para navios esperados é baseada em informaç",
+    "ões recebidas dos agentes através do pedido de atra",
+    "cação no sistema TOS+ e pode ser modificada conform",
+    "e N.O.R de cada navio, de acordo com as Normas da E",
+    "MAP.",
+    "Obs.: Informamos que as informações de Equipamento",
+    "Especial de Cais e Transbordo foram transferidas pa",
+    "ra o campo observações.",
+    "BERÇO 105 Loa:",
+    "Prof.: 18m DWT:",
+    "150.000",
+    "23/04 -10:00",
+    "BERÇO 106 Loa:",
+    "Prof.: 19m DWT:",
+    "155.000",
+    "23/04 -10:00",
+    "BERÇO 108 Loa:",
+    "Prof.: 15m DWT:",
+    "91.600",
+    "23/04 -10:00",
+    "BERÇO 103 Loa:",
+    "Prof.: 15m DWT:",
+    "100.000",
+    "23/04 -10:00",
+    "BERÇO 104 Loa:",
+    "Prof.: 13m DWT:",
+    "80.000",
+    "23/04 -10:00",
+    "IO – LINE UP Data de revisão do template: 01/07/202",
+    "- EMBARCAÇÃO DE PASSAGEIROS",
+    "- ESTÁ NA CARÊNCIA DE 48H PARA ASSUMIR A PREFERÊNC",
+    "IA",
+    "IO – LINE UP Data de revisão do template: 01/07/202"
+  ],
+  "records": [
     {
       "id": 1,
-      "raw": "23/04/2026"
+      "status": "ATRACADO",
+      "rawBlock": "SAGA FRIGG * | 199,90 32,2 | 9 55.596 6,00 12 | ,00 31/3/26 16:54 | 22/4 | 26/4 | C | CELULOSE | 53.000 | WILHELMSEN | G | SUZANO | PRONTIDÃO INFORMADO NO TOS+ PARA 09/04/26 00:00",
+      "lines": [
+        "SAGA FRIGG *",
+        "199,90 32,2",
+        "9 55.596 6,00 12",
+        ",00 31/3/26 16:54",
+        "22/4",
+        "26/4",
+        "C",
+        "CELULOSE",
+        "53.000",
+        "WILHELMSEN",
+        "G",
+        "SUZANO",
+        "PRONTIDÃO INFORMADO NO TOS+ PARA 09/04/26 00:00"
+      ]
     },
     {
       "id": 2,
-      "raw": "Programação - LINE UP"
+      "status": "ESPERADO",
+      "rawBlock": "SAGA FRAM * | 199,90 13,30 | 54.930 7,00 12,00 25/4/ | 26 8:00 | 26/4 | 1/5 | C | CELULOSE | 53.000 | WILHELMSEN | G5 | SUZANO",
+      "lines": [
+        "SAGA FRAM *",
+        "199,90 13,30",
+        "54.930 7,00 12,00 25/4/",
+        "26 8:00",
+        "26/4",
+        "1/5",
+        "C",
+        "CELULOSE",
+        "53.000",
+        "WILHELMSEN",
+        "G5",
+        "SUZANO"
+      ]
     },
     {
       "id": 3,
-      "raw": "Berço"
+      "status": "ESPERADO",
+      "rawBlock": "IRAKLIS | 179,99 31,00 | 45.635 10,57 8,42 25/4/26 | 20:00 | 1/5 | 6/5 | D | FERTILIZANTES | 34.050 | UNIMAR | COPI | TOCANTINS",
+      "lines": [
+        "IRAKLIS",
+        "179,99 31,00",
+        "45.635 10,57 8,42 25/4/26",
+        "20:00",
+        "1/5",
+        "6/5",
+        "D",
+        "FERTILIZANTES",
+        "34.050",
+        "UNIMAR",
+        "COPI",
+        "TOCANTINS"
+      ]
     },
     {
       "id": 4,
-      "raw": "Berth"
+      "status": "ESPERADO",
+      "rawBlock": "GRANDIS * | 201,90 33,95 | 62.353 8,00 12,00 4/5/26 | 12:00 | 6/5 | 11/5 | C | CELULOSE | 55.000 | WILSON SONS | G5 | SUZANO",
+      "lines": [
+        "GRANDIS *",
+        "201,90 33,95",
+        "62.353 8,00 12,00 4/5/26",
+        "12:00",
+        "6/5",
+        "11/5",
+        "C",
+        "CELULOSE",
+        "55.000",
+        "WILSON SONS",
+        "G5",
+        "SUZANO"
+      ]
     },
     {
       "id": 5,
-      "raw": "Status"
+      "status": "ESPERADO",
+      "rawBlock": "TAYGETUS | 228,99 32,26 | 81.746 12,50 7,00 | 5/5/26 | 5:00 | 11/5 | 14/5 | D | FERTILIZANTES | 20.000 | ZPORT | COPI | FERTGROW",
+      "lines": [
+        "TAYGETUS",
+        "228,99 32,26",
+        "81.746 12,50 7,00",
+        "5/5/26",
+        "5:00",
+        "11/5",
+        "14/5",
+        "D",
+        "FERTILIZANTES",
+        "20.000",
+        "ZPORT",
+        "COPI",
+        "FERTGROW"
+      ]
     },
     {
       "id": 6,
-      "raw": "IMO"
+      "status": "ESPERADO",
+      "rawBlock": "CAPTAIN SITARAS | 199,90 32,24 | 61.000 11,50 7,00 | 15/5/26 12:00 | 15/5 | 21/5 | D | FERTILIZANTES | 36.345 | ZPORT | COPI | FERTIMAXI / MOTTA",
+      "lines": [
+        "CAPTAIN SITARAS",
+        "199,90 32,24",
+        "61.000 11,50 7,00",
+        "15/5/26 12:00",
+        "15/5",
+        "21/5",
+        "D",
+        "FERTILIZANTES",
+        "36.345",
+        "ZPORT",
+        "COPI",
+        "FERTIMAXI / MOTTA"
+      ]
     },
     {
       "id": 7,
-      "raw": "Navio"
+      "status": "ESPERADO",
+      "rawBlock": "YU XIAO FENG | 225,00 32,26 | 75.397 13,75 7,00 17/ | 5/26 8:00 | 21/5 | 28/5 | D | FERTILIZANTES | 49.000 WORLD SHIPPING | COPI | AMAGGI/FERTIPA | R/ FERTGROW | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "YU XIAO FENG",
+        "225,00 32,26",
+        "75.397 13,75 7,00 17/",
+        "5/26 8:00",
+        "21/5",
+        "28/5",
+        "D",
+        "FERTILIZANTES",
+        "49.000 WORLD SHIPPING",
+        "COPI",
+        "AMAGGI/FERTIPA",
+        "R/ FERTGROW",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 8,
-      "raw": "LOA"
+      "status": "ATRACADO",
+      "rawBlock": "KYPROS SPIRIT | 225,00 32 | ,20 77.998 7,67 | 13,30 1/4/26 0:01 | 22/4 | 24/4 | C | SOJA | 65.000 | WILSON SONS | TEGR | AM | CHS",
+      "lines": [
+        "KYPROS SPIRIT",
+        "225,00 32",
+        ",20 77.998 7,67",
+        "13,30 1/4/26 0:01",
+        "22/4",
+        "24/4",
+        "C",
+        "SOJA",
+        "65.000",
+        "WILSON SONS",
+        "TEGR",
+        "AM",
+        "CHS"
+      ]
     },
     {
       "id": 9,
-      "raw": "Boca"
+      "status": "FUNDEADO",
+      "rawBlock": "HONOR DIVA | 229,00 32,26 | 82.541 7,00 13, | 00 4/4/26 10:00 | 24/4 | 27/4 | C | SOJA | 71.420 | ALPHAMAR | TEGRAM | LOU | IS DREYFUS",
+      "lines": [
+        "HONOR DIVA",
+        "229,00 32,26",
+        "82.541 7,00 13,",
+        "00 4/4/26 10:00",
+        "24/4",
+        "27/4",
+        "C",
+        "SOJA",
+        "71.420",
+        "ALPHAMAR",
+        "TEGRAM",
+        "LOU",
+        "IS DREYFUS"
+      ]
     },
     {
       "id": 10,
-      "raw": "DWT"
+      "status": "FUNDEADO",
+      "rawBlock": "BBG BRIGHT | 228,93 32,26 | 82.043 7,30 13, | 40 5/4/26 4:24 | 27/4 | 30/4 | C | SOJA | 66.000 | WILSON SONS | TEGRAM | A | MAGGI",
+      "lines": [
+        "BBG BRIGHT",
+        "228,93 32,26",
+        "82.043 7,30 13,",
+        "40 5/4/26 4:24",
+        "27/4",
+        "30/4",
+        "C",
+        "SOJA",
+        "66.000",
+        "WILSON SONS",
+        "TEGRAM",
+        "A",
+        "MAGGI"
+      ]
     },
     {
       "id": 11,
-      "raw": "Calado de"
+      "status": "FUNDEADO",
+      "rawBlock": "ANDREAS PETRAKIS | 225,00 | 32,26 75.999 7,00 | 13,30 15/4/26 0:01 | 30/4 | 3/5 | C | SOJA | 65.000 | FERTIMPORT | TEGRAM | BUNGE",
+      "lines": [
+        "ANDREAS PETRAKIS",
+        "225,00",
+        "32,26 75.999 7,00",
+        "13,30 15/4/26 0:01",
+        "30/4",
+        "3/5",
+        "C",
+        "SOJA",
+        "65.000",
+        "FERTIMPORT",
+        "TEGRAM",
+        "BUNGE"
+      ]
     },
     {
       "id": 12,
-      "raw": "Chegada"
+      "status": "FUNDEADO",
+      "rawBlock": "CL HYAKU | 6,40 32,2 | 4 63.492 6,40 12 | ,50 22/4/26 7:18 | 3/5 | 6/5 | C | SOJA | 55.000 | FERTIMPORT | TEGRAM | BUNGE",
+      "lines": [
+        "CL HYAKU",
+        "6,40 32,2",
+        "4 63.492 6,40 12",
+        ",50 22/4/26 7:18",
+        "3/5",
+        "6/5",
+        "C",
+        "SOJA",
+        "55.000",
+        "FERTIMPORT",
+        "TEGRAM",
+        "BUNGE"
+      ]
     },
     {
       "id": 13,
-      "raw": "Calado de saída"
+      "status": "FUNDEADO",
+      "rawBlock": "GRAMPUS CHARM | 229,00 32 | ,24 82.937 7,00 | 13,00 13/4/26 13:30 | 6/5 | 9/5 | C | SOJA | 66.000 | ALPHAMAR | TEGRAM | AMAGGI",
+      "lines": [
+        "GRAMPUS CHARM",
+        "229,00 32",
+        ",24 82.937 7,00",
+        "13,00 13/4/26 13:30",
+        "6/5",
+        "9/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "ALPHAMAR",
+        "TEGRAM",
+        "AMAGGI"
+      ]
     },
     {
       "id": 14,
-      "raw": "Prev."
+      "status": "FUNDEADO",
+      "rawBlock": "SHANDONG XIN GUO | 229,00 | 32,26 84.302 7,63 | 13,65 20/4/26 3:30 | 9/5 | 14/5 | C | SOJA | 71.518 | WILSON SONS | TEGRAM | AMAGGI",
+      "lines": [
+        "SHANDONG XIN GUO",
+        "229,00",
+        "32,26 84.302 7,63",
+        "13,65 20/4/26 3:30",
+        "9/5",
+        "14/5",
+        "C",
+        "SOJA",
+        "71.518",
+        "WILSON SONS",
+        "TEGRAM",
+        "AMAGGI"
+      ]
     },
     {
       "id": 15,
-      "raw": "Chegada"
+      "status": "ESPERADO",
+      "rawBlock": "INCE BOSPHORUS | 228,99 32,26 | 82.329 7,10 13,30 3 | 0/4/26 8:00 | 14/5 | 17/5 | C | SOJA | 66.000 | FERTIMPORT | TEGRAM | BUNGE",
+      "lines": [
+        "INCE BOSPHORUS",
+        "228,99 32,26",
+        "82.329 7,10 13,30 3",
+        "0/4/26 8:00",
+        "14/5",
+        "17/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "FERTIMPORT",
+        "TEGRAM",
+        "BUNGE"
+      ]
     },
     {
       "id": 16,
-      "raw": "Prev."
+      "status": "ESPERADO",
+      "rawBlock": "MAJESTIC STAR | 229,00 32,00 | 81.878 7,30 12,20 30 | /4/26 0:00 | 17/5 | 20/5 | C | FAREJO DE SOJA | 63.000 | ROCHAMAR | TEGRAM | ADM | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "MAJESTIC STAR",
+        "229,00 32,00",
+        "81.878 7,30 12,20 30",
+        "/4/26 0:00",
+        "17/5",
+        "20/5",
+        "C",
+        "FAREJO DE SOJA",
+        "63.000",
+        "ROCHAMAR",
+        "TEGRAM",
+        "ADM",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 17,
-      "raw": "Atrac."
+      "status": "ATRACADO",
+      "rawBlock": "BAM TRITON * | 179,00 28,0 | 0 30.009 10,50 7 | ,20 11/4/26 5:50 | 22/4 | 26/4 | D | FERTILIZANTES | 27.700 | LBH BRA | SIL | COPI | FERTGROW",
+      "lines": [
+        "BAM TRITON *",
+        "179,00 28,0",
+        "0 30.009 10,50 7",
+        ",20 11/4/26 5:50",
+        "22/4",
+        "26/4",
+        "D",
+        "FERTILIZANTES",
+        "27.700",
+        "LBH BRA",
+        "SIL",
+        "COPI",
+        "FERTGROW"
+      ]
     },
     {
       "id": 18,
-      "raw": "Prev."
+      "status": "FUNDEADO",
+      "rawBlock": "PUFFIN ARROW * | 199,98 32 | ,29 62.967 10,00 | 6,00 16/4/26 10:12 | 26/4 | 1/5 | D | FERTILIZANTES | 44.000 | AMART | COPI | MOSAIC/FERTIPAR/NUTRISOYA/MOTTA/AMA | GGI",
+      "lines": [
+        "PUFFIN ARROW *",
+        "199,98 32",
+        ",29 62.967 10,00",
+        "6,00 16/4/26 10:12",
+        "26/4",
+        "1/5",
+        "D",
+        "FERTILIZANTES",
+        "44.000",
+        "AMART",
+        "COPI",
+        "MOSAIC/FERTIPAR/NUTRISOYA/MOTTA/AMA",
+        "GGI"
+      ]
     },
     {
       "id": 19,
-      "raw": "Desatrac."
+      "status": "ESPERADO",
+      "rawBlock": "AMIS WEALTH * | 200,00 32,00 | 63.364 10,00 6,00 1/5 | /26 14:00 | 1/5 | 6/5 | D | FERTILIZANTES | 35.117 | ORION RODOS | COPI | M | OSAIC/CIBRAFERT/YARA",
+      "lines": [
+        "AMIS WEALTH *",
+        "200,00 32,00",
+        "63.364 10,00 6,00 1/5",
+        "/26 14:00",
+        "1/5",
+        "6/5",
+        "D",
+        "FERTILIZANTES",
+        "35.117",
+        "ORION RODOS",
+        "COPI",
+        "M",
+        "OSAIC/CIBRAFERT/YARA"
+      ]
     },
     {
       "id": 20,
-      "raw": "Oper"
+      "status": "ESPERADO",
+      "rawBlock": "HAWK S | 179,90 30,00 | 40.400 10,60 7,00 29/4/26 1 | 4:00 | 6/5 | 12/5 | D | FERTILIZANTES | 37.750 | LBH BRASIL | COPI | FERTIP | AR / FERTGROW / ARAGUAIA / ALZ",
+      "lines": [
+        "HAWK S",
+        "179,90 30,00",
+        "40.400 10,60 7,00 29/4/26 1",
+        "4:00",
+        "6/5",
+        "12/5",
+        "D",
+        "FERTILIZANTES",
+        "37.750",
+        "LBH BRASIL",
+        "COPI",
+        "FERTIP",
+        "AR / FERTGROW / ARAGUAIA / ALZ"
+      ]
     },
     {
       "id": 21,
-      "raw": "Produto"
+      "status": "ESPERADO",
+      "rawBlock": "SANTA VALENTINA * | 199,92 32,26 | 61.310 11,00 6,00 | 7/5/26 0:00 | 12/5 | 13/5 | D | FERTILIZANTES | 11.750 | ORION RODOS | COPI | MOSAIC",
+      "lines": [
+        "SANTA VALENTINA *",
+        "199,92 32,26",
+        "61.310 11,00 6,00",
+        "7/5/26 0:00",
+        "12/5",
+        "13/5",
+        "D",
+        "FERTILIZANTES",
+        "11.750",
+        "ORION RODOS",
+        "COPI",
+        "MOSAIC"
+      ]
     },
     {
       "id": 22,
-      "raw": "Qtde."
+      "status": "ESPERADO",
+      "rawBlock": "AMSTEL STORK | 199,98 32,26 | 60.437 10,50 8,20 13/ | 5/26 12:00 | 13/5 | 17/5 | D | FERTILIZANTES | 22.739 | ORION RODOS | COPI | MOSAIC | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "AMSTEL STORK",
+        "199,98 32,26",
+        "60.437 10,50 8,20 13/",
+        "5/26 12:00",
+        "13/5",
+        "17/5",
+        "D",
+        "FERTILIZANTES",
+        "22.739",
+        "ORION RODOS",
+        "COPI",
+        "MOSAIC",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 23,
-      "raw": "Agente Agency"
+      "status": "ATRACADO",
+      "rawBlock": "BARNACLE * | 185,00 23,70 | 30.803 8,00 5, | 00 20/4/26 10:40 | 23/4 | 25/4 | D | TRIGO | 14.400 | FERTIMPORT | DATA | B | UNGE",
+      "lines": [
+        "BARNACLE *",
+        "185,00 23,70",
+        "30.803 8,00 5,",
+        "00 20/4/26 10:40",
+        "23/4",
+        "25/4",
+        "D",
+        "TRIGO",
+        "14.400",
+        "FERTIMPORT",
+        "DATA",
+        "B",
+        "UNGE"
+      ]
     },
     {
       "id": 24,
-      "raw": "Operador Portuário Port"
+      "status": "FUNDEADO",
+      "rawBlock": "LAWIN ARROW | 199,98 32,2 | 6 62.841 10,50 4 | ,00 15/4/26 5:00 | 25/4 | 1/5 | D | CARVÃO | 45.000 | GEM | COPI | VALE",
+      "lines": [
+        "LAWIN ARROW",
+        "199,98 32,2",
+        "6 62.841 10,50 4",
+        ",00 15/4/26 5:00",
+        "25/4",
+        "1/5",
+        "D",
+        "CARVÃO",
+        "45.000",
+        "GEM",
+        "COPI",
+        "VALE"
+      ]
     },
     {
       "id": 25,
-      "raw": "Operator"
+      "status": "ESPERADO",
+      "rawBlock": "ASIAN PRIDE | 199,98 32,00 | 62.466 11,50 9,20 23/4 | /26 20:00 | 1/5 | 8/5 | D | FERTILIZANTES | 48.083 | ORION RODOS | COPI | C | IBRAFERTIL/FERTIPAR/MOSAIC/YARA",
+      "lines": [
+        "ASIAN PRIDE",
+        "199,98 32,00",
+        "62.466 11,50 9,20 23/4",
+        "/26 20:00",
+        "1/5",
+        "8/5",
+        "D",
+        "FERTILIZANTES",
+        "48.083",
+        "ORION RODOS",
+        "COPI",
+        "C",
+        "IBRAFERTIL/FERTIPAR/MOSAIC/YARA"
+      ]
     },
     {
       "id": 26,
-      "raw": "Import./Export."
+      "status": "ESPERADO",
+      "rawBlock": "COSCO SHIPPING JIN XIU * | 201,80 | 32,26 62.002 7,00 | 6,00 | 7/5/26 6:00 | 8/5 | 10/5 | D | EVAPORADORES | 2.17 | TRANSGLOBAL | OPERAÇÕES | TRANSGLOBAL | ENEVA | SOMENTE B.102. A COACE AUTORIZOU A ENTRADA DO NAVIO | NO B102 COM O LOA ACIMA | DE 200M",
+      "lines": [
+        "COSCO SHIPPING JIN XIU *",
+        "201,80",
+        "32,26 62.002 7,00",
+        "6,00",
+        "7/5/26 6:00",
+        "8/5",
+        "10/5",
+        "D",
+        "EVAPORADORES",
+        "2.17",
+        "TRANSGLOBAL",
+        "OPERAÇÕES",
+        "TRANSGLOBAL",
+        "ENEVA",
+        "SOMENTE B.102. A COACE AUTORIZOU A ENTRADA DO NAVIO",
+        "NO B102 COM O LOA ACIMA",
+        "DE 200M"
+      ]
     },
     {
       "id": 27,
-      "raw": "OBSERVAÇÕES"
+      "status": "ESPERADO",
+      "rawBlock": "ND ARISTEIA | 199,92 32,26 | 61.237 11,00 7,00 | 9/5/ | 26 8:00 | 10/5 | 12/5 | D | FERTILIZANTES | 11.500 | ALPHAMAR | COPI | FERT | IPAR / JBS",
+      "lines": [
+        "ND ARISTEIA",
+        "199,92 32,26",
+        "61.237 11,00 7,00",
+        "9/5/",
+        "26 8:00",
+        "10/5",
+        "12/5",
+        "D",
+        "FERTILIZANTES",
+        "11.500",
+        "ALPHAMAR",
+        "COPI",
+        "FERT",
+        "IPAR / JBS"
+      ]
     },
     {
       "id": 28,
-      "raw": "Status"
+      "status": "ESPERADO",
+      "rawBlock": "AMIS ACE | 196,00 32,30 | 60.830 11,50 9,50 12/5/26 | 0:00 | 12/5 | 16/5 | D | FERTILIZANTES | 24.000 | ORION RODOS | COPI | MOS | AIC",
+      "lines": [
+        "AMIS ACE",
+        "196,00 32,30",
+        "60.830 11,50 9,50 12/5/26",
+        "0:00",
+        "12/5",
+        "16/5",
+        "D",
+        "FERTILIZANTES",
+        "24.000",
+        "ORION RODOS",
+        "COPI",
+        "MOS",
+        "AIC"
+      ]
     },
     {
       "id": 29,
-      "raw": "IMO"
+      "status": "ESPERADO",
+      "rawBlock": "ATLANTIC GLORY | 179,99 28,20 | 33.472 10,50 6,50 2 | 8/5/26 0:01 | 28/5 | 3/6 | D | TRILHOS | 10.000 | LBH BRASIL | NML TANKE | RS | VALE",
+      "lines": [
+        "ATLANTIC GLORY",
+        "179,99 28,20",
+        "33.472 10,50 6,50 2",
+        "8/5/26 0:01",
+        "28/5",
+        "3/6",
+        "D",
+        "TRILHOS",
+        "10.000",
+        "LBH BRASIL",
+        "NML TANKE",
+        "RS",
+        "VALE"
+      ]
     },
     {
       "id": 30,
-      "raw": "Vessel"
+      "status": "ESPERADO",
+      "rawBlock": "SH VEGA | 113,00 24,00 1.200 | 6,00 6,00 18/10/26 6:30 | 18/10 | 19/ | EMBARCAÇÃO DE | RECREIO | 12.000 | CREW LOG | NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARAN | HENSE E SÃO LUIS.",
+      "lines": [
+        "SH VEGA",
+        "113,00 24,00 1.200",
+        "6,00 6,00 18/10/26 6:30",
+        "18/10",
+        "19/",
+        "EMBARCAÇÃO DE",
+        "RECREIO",
+        "12.000",
+        "CREW LOG",
+        "NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARAN",
+        "HENSE E SÃO LUIS."
+      ]
     },
     {
       "id": 31,
-      "raw": "Beam"
+      "status": "ESPERADO",
+      "rawBlock": "HANSEATIC SPIRIT | 138,80 22,00 2.112 | 5,70 5,70 13/11/27 0:00 | 13/11 | 14/ | EMBARCAÇÃO DE | RECREIO | 12.000 | CREWLOG | BERÇO 100 Loa: | Prof.: 15m DWT: | 100.000 | 23/04 -10:00 | BERÇO 101 Loa: | Prof.: 12m DWT: | 80.000 | 23/04 -10:00 | BERÇO 102 Loa: | Prof.: 12m DWT: | 80.000 | 23/04 -10:00 | BERÇO 99 Loa: | Prof.: 15m DWT: | 83.400 | 23/04 -10:00 | IO – LINE UP Data de revisão do template: 01/07/202 | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "HANSEATIC SPIRIT",
+        "138,80 22,00 2.112",
+        "5,70 5,70 13/11/27 0:00",
+        "13/11",
+        "14/",
+        "EMBARCAÇÃO DE",
+        "RECREIO",
+        "12.000",
+        "CREWLOG",
+        "BERÇO 100 Loa:",
+        "Prof.: 15m DWT:",
+        "100.000",
+        "23/04 -10:00",
+        "BERÇO 101 Loa:",
+        "Prof.: 12m DWT:",
+        "80.000",
+        "23/04 -10:00",
+        "BERÇO 102 Loa:",
+        "Prof.: 12m DWT:",
+        "80.000",
+        "23/04 -10:00",
+        "BERÇO 99 Loa:",
+        "Prof.: 15m DWT:",
+        "83.400",
+        "23/04 -10:00",
+        "IO – LINE UP Data de revisão do template: 01/07/202",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 32,
-      "raw": "DWT"
+      "status": "ATRACADO",
+      "rawBlock": "WISDOM DIVA | 228,99 32,2 | 6 82.216 7,61 13 | ,37 2/4/26 8:30 | 23/4 | 26/4 | C | SOJA | 70.929 | ALPHAMAR | TEGRAM | CAR | GILL",
+      "lines": [
+        "WISDOM DIVA",
+        "228,99 32,2",
+        "6 82.216 7,61 13",
+        ",37 2/4/26 8:30",
+        "23/4",
+        "26/4",
+        "C",
+        "SOJA",
+        "70.929",
+        "ALPHAMAR",
+        "TEGRAM",
+        "CAR",
+        "GILL"
+      ]
     },
     {
       "id": 33,
-      "raw": "Arrival Draft Sailing Draft"
+      "status": "FUNDEADO",
+      "rawBlock": "BORA | 229,00 32,26 | 81.682 7,90 13,00 4/4 | /26 23:24 | 26/4 | 28/4 | C | SOJA | 71.300 | CARGONAVE | TEGRAM | COFCO",
+      "lines": [
+        "BORA",
+        "229,00 32,26",
+        "81.682 7,90 13,00 4/4",
+        "/26 23:24",
+        "26/4",
+        "28/4",
+        "C",
+        "SOJA",
+        "71.300",
+        "CARGONAVE",
+        "TEGRAM",
+        "COFCO"
+      ]
     },
     {
       "id": 34,
-      "raw": "ETA / NOR"
+      "status": "FUNDEADO",
+      "rawBlock": "MOTARO | 228,90 32,26 | 82.951 4,00 13,00 1 | 4/3/26 13:00 | 28/4 | 2/5 | C | SOJA | 70.799 | FERTIMPORT | TEGRAM | BUNGE",
+      "lines": [
+        "MOTARO",
+        "228,90 32,26",
+        "82.951 4,00 13,00 1",
+        "4/3/26 13:00",
+        "28/4",
+        "2/5",
+        "C",
+        "SOJA",
+        "70.799",
+        "FERTIMPORT",
+        "TEGRAM",
+        "BUNGE"
+      ]
     },
     {
       "id": 35,
-      "raw": "ETB"
+      "status": "FUNDEADO",
+      "rawBlock": "GLBS ANGEL | 229,00 32,26 | 81.119 7,00 13, | 00 16/3/26 12:36 | 2/5 | 5/5 | C | SOJA | 66.000 | WILSON SONS | TEGRAM | R | EFINED SUCCESS",
+      "lines": [
+        "GLBS ANGEL",
+        "229,00 32,26",
+        "81.119 7,00 13,",
+        "00 16/3/26 12:36",
+        "2/5",
+        "5/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "WILSON SONS",
+        "TEGRAM",
+        "R",
+        "EFINED SUCCESS"
+      ]
     },
     {
       "id": 36,
-      "raw": "ETS"
+      "status": "FUNDEADO",
+      "rawBlock": "JI XIAN FENG | 225,00 32, | 26 75.409 7,00 1 | 3,00 13/4/26 5:48 | 5/5 | 7/5 | C | SOJA | 66.000 | WILSON SONS | TEGRA | M | REFINED SUCCESS",
+      "lines": [
+        "JI XIAN FENG",
+        "225,00 32,",
+        "26 75.409 7,00 1",
+        "3,00 13/4/26 5:48",
+        "5/5",
+        "7/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "WILSON SONS",
+        "TEGRA",
+        "M",
+        "REFINED SUCCESS"
+      ]
     },
     {
       "id": 37,
-      "raw": "ação"
+      "status": "FUNDEADO",
+      "rawBlock": "HERCULES | 225,00 32,26 | 75.016 7,86 13,20 | 17/4/26 3:18 | 7/5 | 10/5 | C | SOJA | 63.000 | ROCHAMAR | TEGRAM | ADM",
+      "lines": [
+        "HERCULES",
+        "225,00 32,26",
+        "75.016 7,86 13,20",
+        "17/4/26 3:18",
+        "7/5",
+        "10/5",
+        "C",
+        "SOJA",
+        "63.000",
+        "ROCHAMAR",
+        "TEGRAM",
+        "ADM"
+      ]
     },
     {
       "id": 38,
-      "raw": "Cargo"
+      "status": "FUNDEADO",
+      "rawBlock": "ATALANDI | 225,00 32,30 | 77.528 7,30 13,40 | 21/4/26 0:35 | 10/5 | 13/5 | C | SOJA | 66.000 | FERTIMPORT | TEGRAM | BUN | GE",
+      "lines": [
+        "ATALANDI",
+        "225,00 32,30",
+        "77.528 7,30 13,40",
+        "21/4/26 0:35",
+        "10/5",
+        "13/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "FERTIMPORT",
+        "TEGRAM",
+        "BUN",
+        "GE"
+      ]
     },
     {
       "id": 39,
-      "raw": "*"
+      "status": "ESPERADO",
+      "rawBlock": "LORIENT | 224,86 | 32,26 | 82.331 7,90 12,9 | 0 3/5/26 15:00 | 13/5 | 17/5 | C | SOJA | 66.000 | CARGONAVE | TEGRAM | CHS | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "LORIENT",
+        "224,86",
+        "32,26",
+        "82.331 7,90 12,9",
+        "0 3/5/26 15:00",
+        "13/5",
+        "17/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "CARGONAVE",
+        "TEGRAM",
+        "CHS",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 40,
-      "raw": "Agente Agency"
+      "status": "ATRACADO",
+      "rawBlock": "OSCAR NIEMEYER * | 117,63 | 19,20 5.079 11,00 | 6,00 19/4/26 8:30 | 22/4 | 23/4 | D | GLP | 3.892 | WILHELMSEN | TRA | NSPETRO | PETROBRAS",
+      "lines": [
+        "OSCAR NIEMEYER *",
+        "117,63",
+        "19,20 5.079 11,00",
+        "6,00 19/4/26 8:30",
+        "22/4",
+        "23/4",
+        "D",
+        "GLP",
+        "3.892",
+        "WILHELMSEN",
+        "TRA",
+        "NSPETRO",
+        "PETROBRAS"
+      ]
     },
     {
       "id": 41,
-      "raw": "Operador Portuário Port"
+      "status": "FUNDEADO",
+      "rawBlock": "BL | BERÇO LIVRE | - | - - 6,00 | 5,00 20/4/26 0:00 | 23/4 | 26/4 | BERÇO LIVRE | 6.000",
+      "lines": [
+        "BL",
+        "BERÇO LIVRE",
+        "-",
+        "- - 6,00",
+        "5,00 20/4/26 0:00",
+        "23/4",
+        "26/4",
+        "BERÇO LIVRE",
+        "6.000"
+      ]
     },
     {
       "id": 42,
-      "raw": "Operator"
+      "status": "ESPERADO",
+      "rawBlock": "DARCY RIBEIRO * | 117,25 19,20 | 5.092 11,00 8,00 | 23/4/26 23:00 | 26/4 | 28/4 | D | GLP | 3.500 | WILHELMSEN | TRANSPETRO | P | ETROBRAS",
+      "lines": [
+        "DARCY RIBEIRO *",
+        "117,25 19,20",
+        "5.092 11,00 8,00",
+        "23/4/26 23:00",
+        "26/4",
+        "28/4",
+        "D",
+        "GLP",
+        "3.500",
+        "WILHELMSEN",
+        "TRANSPETRO",
+        "P",
+        "ETROBRAS"
+      ]
     },
     {
       "id": 43,
-      "raw": "Import./Export."
+      "status": "ESPERADO",
+      "rawBlock": "SHAMAL | 182,00 40,00 | 64.834 12,50 8,00 30/4/26 1 | 8:00 | 30/4 | 3/5 | D | QAV/DIESEL/GASOLI | NA | 23.600 | WILHELMSEN | TRANSPETRO | PETROBRAS",
+      "lines": [
+        "SHAMAL",
+        "182,00 40,00",
+        "64.834 12,50 8,00 30/4/26 1",
+        "8:00",
+        "30/4",
+        "3/5",
+        "D",
+        "QAV/DIESEL/GASOLI",
+        "NA",
+        "23.600",
+        "WILHELMSEN",
+        "TRANSPETRO",
+        "PETROBRAS"
+      ]
     },
     {
       "id": 44,
-      "raw": "Remarks"
+      "status": "ESPERADO",
+      "rawBlock": "EPIC BALUAN * | 113,08 19,00 | 7.187 10,00 6,00 25 | /4/26 1:00 | 3/5 | 4/5 | D | GLP | 3.500 | WILHELMSEN | TRANSPETRO | PETROB | RAS",
+      "lines": [
+        "EPIC BALUAN *",
+        "113,08 19,00",
+        "7.187 10,00 6,00 25",
+        "/4/26 1:00",
+        "3/5",
+        "4/5",
+        "D",
+        "GLP",
+        "3.500",
+        "WILHELMSEN",
+        "TRANSPETRO",
+        "PETROB",
+        "RAS"
+      ]
     },
     {
       "id": 45,
-      "raw": "ATRACADO"
+      "status": "ESPERADO",
+      "rawBlock": "BOW FORTUNE * | 183,10 32,20 | 37.395 8,73 9,73 | 4/ | 5/26 0:00 | 4/5 | 6/5 | C | SEBO BOVIMO | 4.000 | ROCHAMAR | GRANEL QUÍM | ICA | FASA",
+      "lines": [
+        "BOW FORTUNE *",
+        "183,10 32,20",
+        "37.395 8,73 9,73",
+        "4/",
+        "5/26 0:00",
+        "4/5",
+        "6/5",
+        "C",
+        "SEBO BOVIMO",
+        "4.000",
+        "ROCHAMAR",
+        "GRANEL QUÍM",
+        "ICA",
+        "FASA"
+      ]
     },
     {
       "id": 46,
-      "raw": "9613850"
+      "status": "ESPERADO",
+      "rawBlock": "FORTE DE COPACABANA * | 123,98 17, | 33 8.843 10,00 | 6,00 4/5/26 23:00 | 9/5 | 11/5 | D | GLP | 3.500 | WILHELMSEN | TRANSPE | TRO | PETROBRAS | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "FORTE DE COPACABANA *",
+        "123,98 17,",
+        "33 8.843 10,00",
+        "6,00 4/5/26 23:00",
+        "9/5",
+        "11/5",
+        "D",
+        "GLP",
+        "3.500",
+        "WILHELMSEN",
+        "TRANSPE",
+        "TRO",
+        "PETROBRAS",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 47,
-      "raw": "SAGA FRIGG *"
+      "status": "ATRACADO",
+      "rawBlock": "AQUILA TRADER | 180,00 30 | ,00 33.737 7,00 | 10,00 19/4/26 14:50 | 22/4 | 24/4 | C | COBRE | 23.100 | WILSON SONS | G | VALE",
+      "lines": [
+        "AQUILA TRADER",
+        "180,00 30",
+        ",00 33.737 7,00",
+        "10,00 19/4/26 14:50",
+        "22/4",
+        "24/4",
+        "C",
+        "COBRE",
+        "23.100",
+        "WILSON SONS",
+        "G",
+        "VALE"
+      ]
     },
     {
       "id": 48,
-      "raw": "199,90 32,2"
+      "status": "FUNDEADO",
+      "rawBlock": "WEN ZHU HAI | 225,00 32,2 | 6 76.381 7,00 13 | ,00 1/4/26 0:01 | 24/4 | 26/4 | C | SOJA | 66.000 | ALPHAMAR | VLI | AGREX",
+      "lines": [
+        "WEN ZHU HAI",
+        "225,00 32,2",
+        "6 76.381 7,00 13",
+        ",00 1/4/26 0:01",
+        "24/4",
+        "26/4",
+        "C",
+        "SOJA",
+        "66.000",
+        "ALPHAMAR",
+        "VLI",
+        "AGREX"
+      ]
     },
     {
       "id": 49,
-      "raw": "9 55.596 6,00 12"
+      "status": "FUNDEADO",
+      "rawBlock": "EMIR AKSOY | 199,90 32,24 | 64.072 6,80 12, | 50 14/4/26 18:30 | 26/4 | 29/4 | C | COBRE | 41.563 | LBH BRASIL | G5 | SAL | OBO METAIS",
+      "lines": [
+        "EMIR AKSOY",
+        "199,90 32,24",
+        "64.072 6,80 12,",
+        "50 14/4/26 18:30",
+        "26/4",
+        "29/4",
+        "C",
+        "COBRE",
+        "41.563",
+        "LBH BRASIL",
+        "G5",
+        "SAL",
+        "OBO METAIS"
+      ]
     },
     {
       "id": 50,
-      "raw": ",00 31/3/26 16:54"
+      "status": "FUNDEADO",
+      "rawBlock": "SAKIZAYA KALON | 228,92 3 | 2,26 81.691 7,15 | 11,50 10/4/26 23:54 | 29/4 | 1/5 | C | SOJA | 69.000 | LBH BRASIL | VLI | CARGILL",
+      "lines": [
+        "SAKIZAYA KALON",
+        "228,92 3",
+        "2,26 81.691 7,15",
+        "11,50 10/4/26 23:54",
+        "29/4",
+        "1/5",
+        "C",
+        "SOJA",
+        "69.000",
+        "LBH BRASIL",
+        "VLI",
+        "CARGILL"
+      ]
     },
     {
       "id": 51,
-      "raw": "22/4"
+      "status": "ESPERADO",
+      "rawBlock": "MAGIC ARIEL | 229,00 32,26 | 81.485 8,00 13,50 24/4 | /26 23:00 | 1/5 | 4/5 | C | SOJA | 66.000 | LBH BRASIL | VLI | AGREX",
+      "lines": [
+        "MAGIC ARIEL",
+        "229,00 32,26",
+        "81.485 8,00 13,50 24/4",
+        "/26 23:00",
+        "1/5",
+        "4/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "LBH BRASIL",
+        "VLI",
+        "AGREX"
+      ]
     },
     {
       "id": 52,
-      "raw": "26/4"
+      "status": "FUNDEADO",
+      "rawBlock": "GCL LUXEMBOURG | 229,00 3 | 2,26 82.310 7,90 | 13,00 17/4/26 17:36 | 4/5 | 7/5 | C | SOJA | 70.830 | CARGONAVE | VLI | COFCO",
+      "lines": [
+        "GCL LUXEMBOURG",
+        "229,00 3",
+        "2,26 82.310 7,90",
+        "13,00 17/4/26 17:36",
+        "4/5",
+        "7/5",
+        "C",
+        "SOJA",
+        "70.830",
+        "CARGONAVE",
+        "VLI",
+        "COFCO"
+      ]
     },
     {
       "id": 53,
-      "raw": "C"
+      "status": "ESPERADO",
+      "rawBlock": "BASIC FORTUNE | 229,00 32,26 | 28.061 7,10 13,30 3/ | 5/26 8:00 | 7/5 | 9/5 | C | SOJA | 66.000 | FERTIMPORT | VLI | BUNGE",
+      "lines": [
+        "BASIC FORTUNE",
+        "229,00 32,26",
+        "28.061 7,10 13,30 3/",
+        "5/26 8:00",
+        "7/5",
+        "9/5",
+        "C",
+        "SOJA",
+        "66.000",
+        "FERTIMPORT",
+        "VLI",
+        "BUNGE"
+      ]
     },
     {
       "id": 54,
-      "raw": "CELULOSE"
+      "status": "ESPERADO",
+      "rawBlock": "BELTRADER | 199,90 32,24 | 61.043 6,00 12,00 24/4/2 | 6 0:01 | 9/5 | 12/5 | C | COBRE | 26.972 | WILHELMSEN | G5 | VALE | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "BELTRADER",
+        "199,90 32,24",
+        "61.043 6,00 12,00 24/4/2",
+        "6 0:01",
+        "9/5",
+        "12/5",
+        "C",
+        "COBRE",
+        "26.972",
+        "WILHELMSEN",
+        "G5",
+        "VALE",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 55,
-      "raw": "53.000"
+      "status": "ATRACADO",
+      "rawBlock": "BL | BERÇO LIVRE | - | - - | 9,00 8,00 20/4/26 14:59 | 20/4 | 25/4 | D | B | ERÇO LIVRE | 8.000",
+      "lines": [
+        "BL",
+        "BERÇO LIVRE",
+        "-",
+        "- -",
+        "9,00 8,00 20/4/26 14:59",
+        "20/4",
+        "25/4",
+        "D",
+        "B",
+        "ERÇO LIVRE",
+        "8.000"
+      ]
     },
     {
       "id": 56,
-      "raw": "WILHELMSEN"
+      "status": "ESPERADO",
+      "rawBlock": "ISABELLA M II | 183,00 32,20 | 49.999 12,50 8,00 25 | /4/26 15:00 | 25/4 | 28/4 | D DIESEL/GASOLINA | 34.600 | WILHELMSEN | TRANSPETRO | PETROBRAS",
+      "lines": [
+        "ISABELLA M II",
+        "183,00 32,20",
+        "49.999 12,50 8,00 25",
+        "/4/26 15:00",
+        "25/4",
+        "28/4",
+        "D DIESEL/GASOLINA",
+        "34.600",
+        "WILHELMSEN",
+        "TRANSPETRO",
+        "PETROBRAS"
+      ]
     },
     {
       "id": 57,
-      "raw": "G"
+      "status": "ESPERADO",
+      "rawBlock": "ELANDRA MAPLE | 183,00 32,00 | 49.999 13,00 10,00 29/ | 4/26 21:00 | 29/4 | 3/5 | D DIESEL / GASOLINA 37.740 | WILHELMSEN | TRANSPETRO | PETROBRAS | O NAVIO FARÁ DESCARGA DE ODS500 E GASOLINA, E FARÁ | CARGA DE ODS10",
+      "lines": [
+        "ELANDRA MAPLE",
+        "183,00 32,00",
+        "49.999 13,00 10,00 29/",
+        "4/26 21:00",
+        "29/4",
+        "3/5",
+        "D DIESEL / GASOLINA 37.740",
+        "WILHELMSEN",
+        "TRANSPETRO",
+        "PETROBRAS",
+        "O NAVIO FARÁ DESCARGA DE ODS500 E GASOLINA, E FARÁ",
+        "CARGA DE ODS10"
+      ]
     },
     {
       "id": 58,
-      "raw": "5"
+      "status": "ESPERADO",
+      "rawBlock": "IOANNIS ZAFIRAKIS | 183,00 32,20 | 49.999 12,50 10,00 | 5/5/26 23:00 | 5/5 | 6/5 | D OLEO COMBUSTÍVEL 5000 | WILHELMSEN | T | RANSPETRO | PETROBRAS | Calado de | Chegada | Chegada | Atrac. | Desatrac. | Operator | * | Operator",
+      "lines": [
+        "IOANNIS ZAFIRAKIS",
+        "183,00 32,20",
+        "49.999 12,50 10,00",
+        "5/5/26 23:00",
+        "5/5",
+        "6/5",
+        "D OLEO COMBUSTÍVEL 5000",
+        "WILHELMSEN",
+        "T",
+        "RANSPETRO",
+        "PETROBRAS",
+        "Calado de",
+        "Chegada",
+        "Chegada",
+        "Atrac.",
+        "Desatrac.",
+        "Operator",
+        "*",
+        "Operator"
+      ]
     },
     {
       "id": 59,
-      "raw": "SUZANO"
+      "status": "ATRACADO",
+      "rawBlock": "BL | BERÇO LIVRE | - | - - 6,00 | 5,00 22/4/26 0:00 | 22/4 | 25/4 | BERÇO LIVRE | .000",
+      "lines": [
+        "BL",
+        "BERÇO LIVRE",
+        "-",
+        "- - 6,00",
+        "5,00 22/4/26 0:00",
+        "22/4",
+        "25/4",
+        "BERÇO LIVRE",
+        ".000"
+      ]
     },
     {
       "id": 60,
-      "raw": "PRONTIDÃO INFORMADO NO TOS+ PARA 09/04/26 00:00"
+      "status": "ESPERADO",
+      "rawBlock": "CLEAROCEAN MELODY | 182,90 32,23 | 49.995 12,5 8, | 50 25/4/26 18:00 | 25/4 | 27/4 | D GASOLINA/DIESEL | 27.300 | WILHE | LMSEN | TRANSPETRO | PETROBRAS",
+      "lines": [
+        "CLEAROCEAN MELODY",
+        "182,90 32,23",
+        "49.995 12,5 8,",
+        "50 25/4/26 18:00",
+        "25/4",
+        "27/4",
+        "D GASOLINA/DIESEL",
+        "27.300",
+        "WILHE",
+        "LMSEN",
+        "TRANSPETRO",
+        "PETROBRAS"
+      ]
     },
     {
       "id": 61,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 62,
-      "raw": "9613874"
-    },
-    {
-      "id": 63,
-      "raw": "SAGA FRAM *"
-    },
-    {
-      "id": 64,
-      "raw": "199,90 13,30"
-    },
-    {
-      "id": 65,
-      "raw": "54.930 7,00 12,00 25/4/"
-    },
-    {
-      "id": 66,
-      "raw": "26 8:00"
-    },
-    {
-      "id": 67,
-      "raw": "26/4"
-    },
-    {
-      "id": 68,
-      "raw": "1/5"
-    },
-    {
-      "id": 69,
-      "raw": "C"
-    },
-    {
-      "id": 70,
-      "raw": "CELULOSE"
-    },
-    {
-      "id": 71,
-      "raw": "53.000"
-    },
-    {
-      "id": 72,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 73,
-      "raw": "G5"
-    },
-    {
-      "id": 74,
-      "raw": "SUZANO"
-    },
-    {
-      "id": 75,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 76,
-      "raw": "9233430"
-    },
-    {
-      "id": 77,
-      "raw": "IRAKLIS"
-    },
-    {
-      "id": 78,
-      "raw": "179,99 31,00"
-    },
-    {
-      "id": 79,
-      "raw": "45.635 10,57 8,42 25/4/26"
-    },
-    {
-      "id": 80,
-      "raw": "20:00"
-    },
-    {
-      "id": 81,
-      "raw": "1/5"
-    },
-    {
-      "id": 82,
-      "raw": "6/5"
-    },
-    {
-      "id": 83,
-      "raw": "D"
-    },
-    {
-      "id": 84,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 85,
-      "raw": "34.050"
-    },
-    {
-      "id": 86,
-      "raw": "UNIMAR"
-    },
-    {
-      "id": 87,
-      "raw": "COPI"
-    },
-    {
-      "id": 88,
-      "raw": "TOCANTINS"
-    },
-    {
-      "id": 89,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 90,
-      "raw": "9824980"
-    },
-    {
-      "id": 91,
-      "raw": "GRANDIS *"
-    },
-    {
-      "id": 92,
-      "raw": "201,90 33,95"
-    },
-    {
-      "id": 93,
-      "raw": "62.353 8,00 12,00 4/5/26"
-    },
-    {
-      "id": 94,
-      "raw": "12:00"
-    },
-    {
-      "id": 95,
-      "raw": "6/5"
-    },
-    {
-      "id": 96,
-      "raw": "11/5"
-    },
-    {
-      "id": 97,
-      "raw": "C"
-    },
-    {
-      "id": 98,
-      "raw": "CELULOSE"
-    },
-    {
-      "id": 99,
-      "raw": "55.000"
-    },
-    {
-      "id": 100,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 101,
-      "raw": "G5"
-    },
-    {
-      "id": 102,
-      "raw": "SUZANO"
-    },
-    {
-      "id": 103,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 104,
-      "raw": "9836701"
-    },
-    {
-      "id": 105,
-      "raw": "TAYGETUS"
-    },
-    {
-      "id": 106,
-      "raw": "228,99 32,26"
-    },
-    {
-      "id": 107,
-      "raw": "81.746 12,50 7,00"
-    },
-    {
-      "id": 108,
-      "raw": "5/5/26"
-    },
-    {
-      "id": 109,
-      "raw": "5:00"
-    },
-    {
-      "id": 110,
-      "raw": "11/5"
-    },
-    {
-      "id": 111,
-      "raw": "14/5"
-    },
-    {
-      "id": 112,
-      "raw": "D"
-    },
-    {
-      "id": 113,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 114,
-      "raw": "20.000"
-    },
-    {
-      "id": 115,
-      "raw": "ZPORT"
-    },
-    {
-      "id": 116,
-      "raw": "COPI"
-    },
-    {
-      "id": 117,
-      "raw": "FERTGROW"
-    },
-    {
-      "id": 118,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 119,
-      "raw": "9553713"
-    },
-    {
-      "id": 120,
-      "raw": "CAPTAIN SITARAS"
-    },
-    {
-      "id": 121,
-      "raw": "199,90 32,24"
-    },
-    {
-      "id": 122,
-      "raw": "61.000 11,50 7,00"
-    },
-    {
-      "id": 123,
-      "raw": "15/5/26 12:00"
-    },
-    {
-      "id": 124,
-      "raw": "15/5"
-    },
-    {
-      "id": 125,
-      "raw": "21/5"
-    },
-    {
-      "id": 126,
-      "raw": "D"
-    },
-    {
-      "id": 127,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 128,
-      "raw": "36.345"
-    },
-    {
-      "id": 129,
-      "raw": "ZPORT"
-    },
-    {
-      "id": 130,
-      "raw": "COPI"
-    },
-    {
-      "id": 131,
-      "raw": "FERTIMAXI / MOTTA"
-    },
-    {
-      "id": 132,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 133,
-      "raw": "9606431"
-    },
-    {
-      "id": 134,
-      "raw": "YU XIAO FENG"
-    },
-    {
-      "id": 135,
-      "raw": "225,00 32,26"
-    },
-    {
-      "id": 136,
-      "raw": "75.397 13,75 7,00 17/"
-    },
-    {
-      "id": 137,
-      "raw": "5/26 8:00"
-    },
-    {
-      "id": 138,
-      "raw": "21/5"
-    },
-    {
-      "id": 139,
-      "raw": "28/5"
-    },
-    {
-      "id": 140,
-      "raw": "D"
-    },
-    {
-      "id": 141,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 142,
-      "raw": "49.000 WORLD SHIPPING"
-    },
-    {
-      "id": 143,
-      "raw": "COPI"
-    },
-    {
-      "id": 144,
-      "raw": "AMAGGI/FERTIPA"
-    },
-    {
-      "id": 145,
-      "raw": "R/ FERTGROW"
-    },
-    {
-      "id": 146,
-      "raw": "1"
-    },
-    {
-      "id": 147,
-      "raw": "Berços"
-    },
-    {
-      "id": 148,
-      "raw": "Berth"
-    },
-    {
-      "id": 149,
-      "raw": "Status"
-    },
-    {
-      "id": 150,
-      "raw": "IMO"
-    },
-    {
-      "id": 151,
-      "raw": "Navio"
-    },
-    {
-      "id": 152,
-      "raw": "LOA"
-    },
-    {
-      "id": 153,
-      "raw": "Boca"
-    },
-    {
-      "id": 154,
-      "raw": "DWT"
-    },
-    {
-      "id": 155,
-      "raw": "Calado de"
-    },
-    {
-      "id": 156,
-      "raw": "Chegada"
-    },
-    {
-      "id": 157,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 158,
-      "raw": "Prev."
-    },
-    {
-      "id": 159,
-      "raw": "Chegada"
-    },
-    {
-      "id": 160,
-      "raw": "Prev."
-    },
-    {
-      "id": 161,
-      "raw": "Atrac."
-    },
-    {
-      "id": 162,
-      "raw": "Prev."
-    },
-    {
-      "id": 163,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 164,
-      "raw": "Oper"
-    },
-    {
-      "id": 165,
-      "raw": "Produto"
-    },
-    {
-      "id": 166,
-      "raw": "Qtde."
-    },
-    {
-      "id": 167,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 168,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 169,
-      "raw": "Operator"
-    },
-    {
-      "id": 170,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 171,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 172,
-      "raw": "Status"
-    },
-    {
-      "id": 173,
-      "raw": "IMO"
-    },
-    {
-      "id": 174,
-      "raw": "Vessel"
-    },
-    {
-      "id": 175,
-      "raw": "LOA"
-    },
-    {
-      "id": 176,
-      "raw": "Beam"
-    },
-    {
-      "id": 177,
-      "raw": "DWT"
-    },
-    {
-      "id": 178,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 179,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 180,
-      "raw": "ETB"
-    },
-    {
-      "id": 181,
-      "raw": "ETS"
-    },
-    {
-      "id": 182,
-      "raw": "ação"
-    },
-    {
-      "id": 183,
-      "raw": "Cargo"
-    },
-    {
-      "id": 184,
-      "raw": "*"
-    },
-    {
-      "id": 185,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 186,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 187,
-      "raw": "Operator"
-    },
-    {
-      "id": 188,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 189,
-      "raw": "Remarks"
-    },
-    {
-      "id": 190,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 191,
-      "raw": "9717436"
-    },
-    {
-      "id": 192,
-      "raw": "KYPROS SPIRIT"
-    },
-    {
-      "id": 193,
-      "raw": "225,00 32"
-    },
-    {
-      "id": 194,
-      "raw": ",20 77.998 7,67"
-    },
-    {
-      "id": 195,
-      "raw": "13,30 1/4/26 0:01"
-    },
-    {
-      "id": 196,
-      "raw": "22/4"
-    },
-    {
-      "id": 197,
-      "raw": "24/4"
-    },
-    {
-      "id": 198,
-      "raw": "C"
-    },
-    {
-      "id": 199,
-      "raw": "SOJA"
-    },
-    {
-      "id": 200,
-      "raw": "65.000"
-    },
-    {
-      "id": 201,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 202,
-      "raw": "TEGR"
-    },
-    {
-      "id": 203,
-      "raw": "AM"
-    },
-    {
-      "id": 204,
-      "raw": "CHS"
-    },
-    {
-      "id": 205,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 206,
-      "raw": "9905617"
-    },
-    {
-      "id": 207,
-      "raw": "HONOR DIVA"
-    },
-    {
-      "id": 208,
-      "raw": "229,00 32,26"
-    },
-    {
-      "id": 209,
-      "raw": "82.541 7,00 13,"
-    },
-    {
-      "id": 210,
-      "raw": "00 4/4/26 10:00"
-    },
-    {
-      "id": 211,
-      "raw": "24/4"
-    },
-    {
-      "id": 212,
-      "raw": "27/4"
-    },
-    {
-      "id": 213,
-      "raw": "C"
-    },
-    {
-      "id": 214,
-      "raw": "SOJA"
-    },
-    {
-      "id": 215,
-      "raw": "71.420"
-    },
-    {
-      "id": 216,
-      "raw": "ALPHAMAR"
-    },
-    {
-      "id": 217,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 218,
-      "raw": "LOU"
-    },
-    {
-      "id": 219,
-      "raw": "IS DREYFUS"
-    },
-    {
-      "id": 220,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 221,
-      "raw": "9598177"
-    },
-    {
-      "id": 222,
-      "raw": "BBG BRIGHT"
-    },
-    {
-      "id": 223,
-      "raw": "228,93 32,26"
-    },
-    {
-      "id": 224,
-      "raw": "82.043 7,30 13,"
-    },
-    {
-      "id": 225,
-      "raw": "40 5/4/26 4:24"
-    },
-    {
-      "id": 226,
-      "raw": "27/4"
-    },
-    {
-      "id": 227,
-      "raw": "30/4"
-    },
-    {
-      "id": 228,
-      "raw": "C"
-    },
-    {
-      "id": 229,
-      "raw": "SOJA"
-    },
-    {
-      "id": 230,
-      "raw": "66.000"
-    },
-    {
-      "id": 231,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 232,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 233,
-      "raw": "A"
-    },
-    {
-      "id": 234,
-      "raw": "MAGGI"
-    },
-    {
-      "id": 235,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 236,
-      "raw": "9664952"
-    },
-    {
-      "id": 237,
-      "raw": "ANDREAS PETRAKIS"
-    },
-    {
-      "id": 238,
-      "raw": "225,00"
-    },
-    {
-      "id": 239,
-      "raw": "32,26 75.999 7,00"
-    },
-    {
-      "id": 240,
-      "raw": "13,30 15/4/26 0:01"
-    },
-    {
-      "id": 241,
-      "raw": "30/4"
-    },
-    {
-      "id": 242,
-      "raw": "3/5"
-    },
-    {
-      "id": 243,
-      "raw": "C"
-    },
-    {
-      "id": 244,
-      "raw": "SOJA"
-    },
-    {
-      "id": 245,
-      "raw": "65.000"
-    },
-    {
-      "id": 246,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 247,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 248,
-      "raw": "BUNGE"
-    },
-    {
-      "id": 249,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 250,
-      "raw": "9942081"
-    },
-    {
-      "id": 251,
-      "raw": "CL HYAKU"
-    },
-    {
-      "id": 252,
-      "raw": "6,40 32,2"
-    },
-    {
-      "id": 253,
-      "raw": "4 63.492 6,40 12"
-    },
-    {
-      "id": 254,
-      "raw": ",50 22/4/26 7:18"
-    },
-    {
-      "id": 255,
-      "raw": "3/5"
-    },
-    {
-      "id": 256,
-      "raw": "6/5"
-    },
-    {
-      "id": 257,
-      "raw": "C"
-    },
-    {
-      "id": 258,
-      "raw": "SOJA"
-    },
-    {
-      "id": 259,
-      "raw": "55.000"
-    },
-    {
-      "id": 260,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 261,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 262,
-      "raw": "BUNGE"
-    },
-    {
-      "id": 263,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 264,
-      "raw": "9665932"
-    },
-    {
-      "id": 265,
-      "raw": "GRAMPUS CHARM"
-    },
-    {
-      "id": 266,
-      "raw": "229,00 32"
-    },
-    {
-      "id": 267,
-      "raw": ",24 82.937 7,00"
-    },
-    {
-      "id": 268,
-      "raw": "13,00 13/4/26 13:30"
-    },
-    {
-      "id": 269,
-      "raw": "6/5"
-    },
-    {
-      "id": 270,
-      "raw": "9/5"
-    },
-    {
-      "id": 271,
-      "raw": "C"
-    },
-    {
-      "id": 272,
-      "raw": "SOJA"
-    },
-    {
-      "id": 273,
-      "raw": "66.000"
-    },
-    {
-      "id": 274,
-      "raw": "ALPHAMAR"
-    },
-    {
-      "id": 275,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 276,
-      "raw": "AMAGGI"
-    },
-    {
-      "id": 277,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 278,
-      "raw": "1026520"
-    },
-    {
-      "id": 279,
-      "raw": "SHANDONG XIN GUO"
-    },
-    {
-      "id": 280,
-      "raw": "229,00"
-    },
-    {
-      "id": 281,
-      "raw": "32,26 84.302 7,63"
-    },
-    {
-      "id": 282,
-      "raw": "13,65 20/4/26 3:30"
-    },
-    {
-      "id": 283,
-      "raw": "9/5"
-    },
-    {
-      "id": 284,
-      "raw": "14/5"
-    },
-    {
-      "id": 285,
-      "raw": "C"
-    },
-    {
-      "id": 286,
-      "raw": "SOJA"
-    },
-    {
-      "id": 287,
-      "raw": "71.518"
-    },
-    {
-      "id": 288,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 289,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 290,
-      "raw": "AMAGGI"
-    },
-    {
-      "id": 291,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 292,
-      "raw": "9354844"
-    },
-    {
-      "id": 293,
-      "raw": "INCE BOSPHORUS"
-    },
-    {
-      "id": 294,
-      "raw": "228,99 32,26"
-    },
-    {
-      "id": 295,
-      "raw": "82.329 7,10 13,30 3"
-    },
-    {
-      "id": 296,
-      "raw": "0/4/26 8:00"
-    },
-    {
-      "id": 297,
-      "raw": "14/5"
-    },
-    {
-      "id": 298,
-      "raw": "17/5"
-    },
-    {
-      "id": 299,
-      "raw": "C"
-    },
-    {
-      "id": 300,
-      "raw": "SOJA"
-    },
-    {
-      "id": 301,
-      "raw": "66.000"
-    },
-    {
-      "id": 302,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 303,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 304,
-      "raw": "BUNGE"
-    },
-    {
-      "id": 305,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 306,
-      "raw": "9865568"
-    },
-    {
-      "id": 307,
-      "raw": "MAJESTIC STAR"
-    },
-    {
-      "id": 308,
-      "raw": "229,00 32,00"
-    },
-    {
-      "id": 309,
-      "raw": "81.878 7,30 12,20 30"
-    },
-    {
-      "id": 310,
-      "raw": "/4/26 0:00"
-    },
-    {
-      "id": 311,
-      "raw": "17/5"
-    },
-    {
-      "id": 312,
-      "raw": "20/5"
-    },
-    {
-      "id": 313,
-      "raw": "C"
-    },
-    {
-      "id": 314,
-      "raw": "FAREJO DE SOJA"
-    },
-    {
-      "id": 315,
-      "raw": "63.000"
-    },
-    {
-      "id": 316,
-      "raw": "ROCHAMAR"
-    },
-    {
-      "id": 317,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 318,
-      "raw": "ADM"
-    },
-    {
-      "id": 319,
-      "raw": "1"
-    },
-    {
-      "id": 320,
-      "raw": "Berços"
-    },
-    {
-      "id": 321,
-      "raw": "Berth"
-    },
-    {
-      "id": 322,
-      "raw": "Status"
-    },
-    {
-      "id": 323,
-      "raw": "IMO"
-    },
-    {
-      "id": 324,
-      "raw": "Navio"
-    },
-    {
-      "id": 325,
-      "raw": "LOA"
-    },
-    {
-      "id": 326,
-      "raw": "Boca"
-    },
-    {
-      "id": 327,
-      "raw": "DWT"
-    },
-    {
-      "id": 328,
-      "raw": "Calado de"
-    },
-    {
-      "id": 329,
-      "raw": "Chegada"
-    },
-    {
-      "id": 330,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 331,
-      "raw": "Prev."
-    },
-    {
-      "id": 332,
-      "raw": "Chegada"
-    },
-    {
-      "id": 333,
-      "raw": "Prev."
-    },
-    {
-      "id": 334,
-      "raw": "Atrac."
-    },
-    {
-      "id": 335,
-      "raw": "Prev."
-    },
-    {
-      "id": 336,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 337,
-      "raw": "Oper"
-    },
-    {
-      "id": 338,
-      "raw": "Produto"
-    },
-    {
-      "id": 339,
-      "raw": "Qtde."
-    },
-    {
-      "id": 340,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 341,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 342,
-      "raw": "Operator"
-    },
-    {
-      "id": 343,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 344,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 345,
-      "raw": "Status"
-    },
-    {
-      "id": 346,
-      "raw": "IMO"
-    },
-    {
-      "id": 347,
-      "raw": "Vessel"
-    },
-    {
-      "id": 348,
-      "raw": "LOA"
-    },
-    {
-      "id": 349,
-      "raw": "Beam"
-    },
-    {
-      "id": 350,
-      "raw": "DWT"
-    },
-    {
-      "id": 351,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 352,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 353,
-      "raw": "ETB"
-    },
-    {
-      "id": 354,
-      "raw": "ETS"
-    },
-    {
-      "id": 355,
-      "raw": "ação"
-    },
-    {
-      "id": 356,
-      "raw": "Cargo"
-    },
-    {
-      "id": 357,
-      "raw": "*"
-    },
-    {
-      "id": 358,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 359,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 360,
-      "raw": "Operator"
-    },
-    {
-      "id": 361,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 362,
-      "raw": "Remarks"
-    },
-    {
-      "id": 363,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 364,
-      "raw": "9414474"
-    },
-    {
-      "id": 365,
-      "raw": "BAM TRITON *"
-    },
-    {
-      "id": 366,
-      "raw": "179,00 28,0"
-    },
-    {
-      "id": 367,
-      "raw": "0 30.009 10,50 7"
-    },
-    {
-      "id": 368,
-      "raw": ",20 11/4/26 5:50"
-    },
-    {
-      "id": 369,
-      "raw": "22/4"
-    },
-    {
-      "id": 370,
-      "raw": "26/4"
-    },
-    {
-      "id": 371,
-      "raw": "D"
-    },
-    {
-      "id": 372,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 373,
-      "raw": "27.700"
-    },
-    {
-      "id": 374,
-      "raw": "LBH BRA"
-    },
-    {
-      "id": 375,
-      "raw": "SIL"
-    },
-    {
-      "id": 376,
-      "raw": "COPI"
-    },
-    {
-      "id": 377,
-      "raw": "FERTGROW"
-    },
-    {
-      "id": 378,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 379,
-      "raw": "9566605"
-    },
-    {
-      "id": 380,
-      "raw": "PUFFIN ARROW *"
-    },
-    {
-      "id": 381,
-      "raw": "199,98 32"
-    },
-    {
-      "id": 382,
-      "raw": ",29 62.967 10,00"
-    },
-    {
-      "id": 383,
-      "raw": "6,00 16/4/26 10:12"
-    },
-    {
-      "id": 384,
-      "raw": "26/4"
-    },
-    {
-      "id": 385,
-      "raw": "1/5"
-    },
-    {
-      "id": 386,
-      "raw": "D"
-    },
-    {
-      "id": 387,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 388,
-      "raw": "44.000"
-    },
-    {
-      "id": 389,
-      "raw": "AMART"
-    },
-    {
-      "id": 390,
-      "raw": "COPI"
-    },
-    {
-      "id": 391,
-      "raw": "MOSAIC/FERTIPAR/NUTRISOYA/MOTTA/AMA"
-    },
-    {
-      "id": 392,
-      "raw": "GGI"
-    },
-    {
-      "id": 393,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 394,
-      "raw": "9897896"
-    },
-    {
-      "id": 395,
-      "raw": "AMIS WEALTH *"
-    },
-    {
-      "id": 396,
-      "raw": "200,00 32,00"
-    },
-    {
-      "id": 397,
-      "raw": "63.364 10,00 6,00 1/5"
-    },
-    {
-      "id": 398,
-      "raw": "/26 14:00"
-    },
-    {
-      "id": 399,
-      "raw": "1/5"
-    },
-    {
-      "id": 400,
-      "raw": "6/5"
-    },
-    {
-      "id": 401,
-      "raw": "D"
-    },
-    {
-      "id": 402,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 403,
-      "raw": "35.117"
-    },
-    {
-      "id": 404,
-      "raw": "ORION RODOS"
-    },
-    {
-      "id": 405,
-      "raw": "COPI"
-    },
-    {
-      "id": 406,
-      "raw": "M"
-    },
-    {
-      "id": 407,
-      "raw": "OSAIC/CIBRAFERT/YARA"
-    },
-    {
-      "id": 408,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 409,
-      "raw": "1082782"
-    },
-    {
-      "id": 410,
-      "raw": "HAWK S"
-    },
-    {
-      "id": 411,
-      "raw": "179,90 30,00"
-    },
-    {
-      "id": 412,
-      "raw": "40.400 10,60 7,00 29/4/26 1"
-    },
-    {
-      "id": 413,
-      "raw": "4:00"
-    },
-    {
-      "id": 414,
-      "raw": "6/5"
-    },
-    {
-      "id": 415,
-      "raw": "12/5"
-    },
-    {
-      "id": 416,
-      "raw": "D"
-    },
-    {
-      "id": 417,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 418,
-      "raw": "37.750"
-    },
-    {
-      "id": 419,
-      "raw": "LBH BRASIL"
-    },
-    {
-      "id": 420,
-      "raw": "COPI"
-    },
-    {
-      "id": 421,
-      "raw": "FERTIP"
-    },
-    {
-      "id": 422,
-      "raw": "AR / FERTGROW / ARAGUAIA / ALZ"
-    },
-    {
-      "id": 423,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 424,
-      "raw": "9812482"
-    },
-    {
-      "id": 425,
-      "raw": "SANTA VALENTINA *"
-    },
-    {
-      "id": 426,
-      "raw": "199,92 32,26"
-    },
-    {
-      "id": 427,
-      "raw": "61.310 11,00 6,00"
-    },
-    {
-      "id": 428,
-      "raw": "7/5/26 0:00"
-    },
-    {
-      "id": 429,
-      "raw": "12/5"
-    },
-    {
-      "id": 430,
-      "raw": "13/5"
-    },
-    {
-      "id": 431,
-      "raw": "D"
-    },
-    {
-      "id": 432,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 433,
-      "raw": "11.750"
-    },
-    {
-      "id": 434,
-      "raw": "ORION RODOS"
-    },
-    {
-      "id": 435,
-      "raw": "COPI"
-    },
-    {
-      "id": 436,
-      "raw": "MOSAIC"
-    },
-    {
-      "id": 437,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 438,
-      "raw": "9758143"
-    },
-    {
-      "id": 439,
-      "raw": "AMSTEL STORK"
-    },
-    {
-      "id": 440,
-      "raw": "199,98 32,26"
-    },
-    {
-      "id": 441,
-      "raw": "60.437 10,50 8,20 13/"
-    },
-    {
-      "id": 442,
-      "raw": "5/26 12:00"
-    },
-    {
-      "id": 443,
-      "raw": "13/5"
-    },
-    {
-      "id": 444,
-      "raw": "17/5"
-    },
-    {
-      "id": 445,
-      "raw": "D"
-    },
-    {
-      "id": 446,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 447,
-      "raw": "22.739"
-    },
-    {
-      "id": 448,
-      "raw": "ORION RODOS"
-    },
-    {
-      "id": 449,
-      "raw": "COPI"
-    },
-    {
-      "id": 450,
-      "raw": "MOSAIC"
-    },
-    {
-      "id": 451,
-      "raw": "1"
-    },
-    {
-      "id": 452,
-      "raw": "Berços"
-    },
-    {
-      "id": 453,
-      "raw": "Berth"
-    },
-    {
-      "id": 454,
-      "raw": "Status"
-    },
-    {
-      "id": 455,
-      "raw": "IMO"
-    },
-    {
-      "id": 456,
-      "raw": "Navio"
-    },
-    {
-      "id": 457,
-      "raw": "LOA"
-    },
-    {
-      "id": 458,
-      "raw": "Boca"
-    },
-    {
-      "id": 459,
-      "raw": "DWT"
-    },
-    {
-      "id": 460,
-      "raw": "Calado de"
-    },
-    {
-      "id": 461,
-      "raw": "Chegada"
-    },
-    {
-      "id": 462,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 463,
-      "raw": "Prev."
-    },
-    {
-      "id": 464,
-      "raw": "Chegada"
-    },
-    {
-      "id": 465,
-      "raw": "Prev."
-    },
-    {
-      "id": 466,
-      "raw": "Atrac."
-    },
-    {
-      "id": 467,
-      "raw": "Prev."
-    },
-    {
-      "id": 468,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 469,
-      "raw": "Oper"
-    },
-    {
-      "id": 470,
-      "raw": "Produto"
-    },
-    {
-      "id": 471,
-      "raw": "Qtde."
-    },
-    {
-      "id": 472,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 473,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 474,
-      "raw": "Operator"
-    },
-    {
-      "id": 475,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 476,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 477,
-      "raw": "Status"
-    },
-    {
-      "id": 478,
-      "raw": "IMO"
-    },
-    {
-      "id": 479,
-      "raw": "Vessel"
-    },
-    {
-      "id": 480,
-      "raw": "LOA"
-    },
-    {
-      "id": 481,
-      "raw": "Beam"
-    },
-    {
-      "id": 482,
-      "raw": "DWT"
-    },
-    {
-      "id": 483,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 484,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 485,
-      "raw": "ETB"
-    },
-    {
-      "id": 486,
-      "raw": "ETS"
-    },
-    {
-      "id": 487,
-      "raw": "ação"
-    },
-    {
-      "id": 488,
-      "raw": "Cargo"
-    },
-    {
-      "id": 489,
-      "raw": "*"
-    },
-    {
-      "id": 490,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 491,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 492,
-      "raw": "Operator"
-    },
-    {
-      "id": 493,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 494,
-      "raw": "Remarks"
-    },
-    {
-      "id": 495,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 496,
-      "raw": "9409742"
-    },
-    {
-      "id": 497,
-      "raw": "BARNACLE *"
-    },
-    {
-      "id": 498,
-      "raw": "185,00 23,70"
-    },
-    {
-      "id": 499,
-      "raw": "30.803 8,00 5,"
-    },
-    {
-      "id": 500,
-      "raw": "00 20/4/26 10:40"
-    },
-    {
-      "id": 501,
-      "raw": "23/4"
-    },
-    {
-      "id": 502,
-      "raw": "25/4"
-    },
-    {
-      "id": 503,
-      "raw": "D"
-    },
-    {
-      "id": 504,
-      "raw": "TRIGO"
-    },
-    {
-      "id": 505,
-      "raw": "14.400"
-    },
-    {
-      "id": 506,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 507,
-      "raw": "DATA"
-    },
-    {
-      "id": 508,
-      "raw": "B"
-    },
-    {
-      "id": 509,
-      "raw": "UNGE"
-    },
-    {
-      "id": 510,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 511,
-      "raw": "9687162"
-    },
-    {
-      "id": 512,
-      "raw": "LAWIN ARROW"
-    },
-    {
-      "id": 513,
-      "raw": "199,98 32,2"
-    },
-    {
-      "id": 514,
-      "raw": "6 62.841 10,50 4"
-    },
-    {
-      "id": 515,
-      "raw": ",00 15/4/26 5:00"
-    },
-    {
-      "id": 516,
-      "raw": "25/4"
-    },
-    {
-      "id": 517,
-      "raw": "1/5"
-    },
-    {
-      "id": 518,
-      "raw": "D"
-    },
-    {
-      "id": 519,
-      "raw": "CARVÃO"
-    },
-    {
-      "id": 520,
-      "raw": "45.000"
-    },
-    {
-      "id": 521,
-      "raw": "GEM"
-    },
-    {
-      "id": 522,
-      "raw": "COPI"
-    },
-    {
-      "id": 523,
-      "raw": "VALE"
-    },
-    {
-      "id": 524,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 525,
-      "raw": "9725029"
-    },
-    {
-      "id": 526,
-      "raw": "ASIAN PRIDE"
-    },
-    {
-      "id": 527,
-      "raw": "199,98 32,00"
-    },
-    {
-      "id": 528,
-      "raw": "62.466 11,50 9,20 23/4"
-    },
-    {
-      "id": 529,
-      "raw": "/26 20:00"
-    },
-    {
-      "id": 530,
-      "raw": "1/5"
-    },
-    {
-      "id": 531,
-      "raw": "8/5"
-    },
-    {
-      "id": 532,
-      "raw": "D"
-    },
-    {
-      "id": 533,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 534,
-      "raw": "48.083"
-    },
-    {
-      "id": 535,
-      "raw": "ORION RODOS"
-    },
-    {
-      "id": 536,
-      "raw": "COPI"
-    },
-    {
-      "id": 537,
-      "raw": "C"
-    },
-    {
-      "id": 538,
-      "raw": "IBRAFERTIL/FERTIPAR/MOSAIC/YARA"
-    },
-    {
-      "id": 539,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 540,
-      "raw": "9872169"
-    },
-    {
-      "id": 541,
-      "raw": "COSCO SHIPPING JIN XIU *"
-    },
-    {
-      "id": 542,
-      "raw": "201,80"
-    },
-    {
-      "id": 543,
-      "raw": "32,26 62.002 7,00"
-    },
-    {
-      "id": 544,
-      "raw": "6,00"
-    },
-    {
-      "id": 545,
-      "raw": "7/5/26 6:00"
-    },
-    {
-      "id": 546,
-      "raw": "8/5"
-    },
-    {
-      "id": 547,
-      "raw": "10/5"
-    },
-    {
-      "id": 548,
-      "raw": "D"
-    },
-    {
-      "id": 549,
-      "raw": "EVAPORADORES"
-    },
-    {
-      "id": 550,
-      "raw": "2.17"
-    },
-    {
-      "id": 551,
-      "raw": "1"
-    },
-    {
-      "id": 552,
-      "raw": "TRANSGLOBAL"
-    },
-    {
-      "id": 553,
-      "raw": "OPERAÇÕES"
-    },
-    {
-      "id": 554,
-      "raw": "TRANSGLOBAL"
-    },
-    {
-      "id": 555,
-      "raw": "ENEVA"
-    },
-    {
-      "id": 556,
-      "raw": "SOMENTE B.102. A COACE AUTORIZOU A ENTRADA DO NAVIO"
-    },
-    {
-      "id": 557,
-      "raw": "NO B102 COM O LOA ACIMA"
-    },
-    {
-      "id": 558,
-      "raw": "DE 200M"
-    },
-    {
-      "id": 559,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 560,
-      "raw": "9788681"
-    },
-    {
-      "id": 561,
-      "raw": "ND ARISTEIA"
-    },
-    {
-      "id": 562,
-      "raw": "199,92 32,26"
-    },
-    {
-      "id": 563,
-      "raw": "61.237 11,00 7,00"
-    },
-    {
-      "id": 564,
-      "raw": "9/5/"
-    },
-    {
-      "id": 565,
-      "raw": "26 8:00"
-    },
-    {
-      "id": 566,
-      "raw": "10/5"
-    },
-    {
-      "id": 567,
-      "raw": "12/5"
-    },
-    {
-      "id": 568,
-      "raw": "D"
-    },
-    {
-      "id": 569,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 570,
-      "raw": "11.500"
-    },
-    {
-      "id": 571,
-      "raw": "ALPHAMAR"
-    },
-    {
-      "id": 572,
-      "raw": "COPI"
-    },
-    {
-      "id": 573,
-      "raw": "FERT"
-    },
-    {
-      "id": 574,
-      "raw": "IPAR / JBS"
-    },
-    {
-      "id": 575,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 576,
-      "raw": "9552989"
-    },
-    {
-      "id": 577,
-      "raw": "AMIS ACE"
-    },
-    {
-      "id": 578,
-      "raw": "196,00 32,30"
-    },
-    {
-      "id": 579,
-      "raw": "60.830 11,50 9,50 12/5/26"
-    },
-    {
-      "id": 580,
-      "raw": "0:00"
-    },
-    {
-      "id": 581,
-      "raw": "12/5"
-    },
-    {
-      "id": 582,
-      "raw": "16/5"
-    },
-    {
-      "id": 583,
-      "raw": "D"
-    },
-    {
-      "id": 584,
-      "raw": "FERTILIZANTES"
-    },
-    {
-      "id": 585,
-      "raw": "24.000"
-    },
-    {
-      "id": 586,
-      "raw": "ORION RODOS"
-    },
-    {
-      "id": 587,
-      "raw": "COPI"
-    },
-    {
-      "id": 588,
-      "raw": "MOS"
-    },
-    {
-      "id": 589,
-      "raw": "AIC"
-    },
-    {
-      "id": 590,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 591,
-      "raw": "9536844"
-    },
-    {
-      "id": 592,
-      "raw": "ATLANTIC GLORY"
-    },
-    {
-      "id": 593,
-      "raw": "179,99 28,20"
-    },
-    {
-      "id": 594,
-      "raw": "33.472 10,50 6,50 2"
-    },
-    {
-      "id": 595,
-      "raw": "8/5/26 0:01"
-    },
-    {
-      "id": 596,
-      "raw": "28/5"
-    },
-    {
-      "id": 597,
-      "raw": "3/6"
-    },
-    {
-      "id": 598,
-      "raw": "D"
-    },
-    {
-      "id": 599,
-      "raw": "TRILHOS"
-    },
-    {
-      "id": 600,
-      "raw": "10.000"
-    },
-    {
-      "id": 601,
-      "raw": "LBH BRASIL"
-    },
-    {
-      "id": 602,
-      "raw": "NML TANKE"
-    },
-    {
-      "id": 603,
-      "raw": "RS"
-    },
-    {
-      "id": 604,
-      "raw": "VALE"
-    },
-    {
-      "id": 605,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 606,
-      "raw": "9895252"
-    },
-    {
-      "id": 607,
-      "raw": "SH VEGA"
-    },
-    {
-      "id": 608,
-      "raw": "⚓"
-    },
-    {
-      "id": 609,
-      "raw": "113,00 24,00 1.200"
-    },
-    {
-      "id": 610,
-      "raw": "6,00 6,00 18/10/26 6:30"
-    },
-    {
-      "id": 611,
-      "raw": "18/10"
-    },
-    {
-      "id": 612,
-      "raw": "19/"
-    },
-    {
-      "id": 613,
-      "raw": "10"
-    },
-    {
-      "id": 614,
-      "raw": "EMBARCAÇÃO DE"
-    },
-    {
-      "id": 615,
-      "raw": "RECREIO"
-    },
-    {
-      "id": 616,
-      "raw": "12.000"
-    },
-    {
-      "id": 617,
-      "raw": "CREW LOG"
-    },
-    {
-      "id": 618,
-      "raw": "NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARAN"
-    },
-    {
-      "id": 619,
-      "raw": "HENSE E SÃO LUIS."
-    },
-    {
-      "id": 620,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 621,
-      "raw": "9857640"
-    },
-    {
-      "id": 622,
-      "raw": "HANSEATIC SPIRIT"
-    },
-    {
-      "id": 623,
-      "raw": "⚓"
-    },
-    {
-      "id": 624,
-      "raw": "138,80 22,00 2.112"
-    },
-    {
-      "id": 625,
-      "raw": "5,70 5,70 13/11/27 0:00"
-    },
-    {
-      "id": 626,
-      "raw": "13/11"
-    },
-    {
-      "id": 627,
-      "raw": "14/"
-    },
-    {
-      "id": 628,
-      "raw": "11"
-    },
-    {
-      "id": 629,
-      "raw": "EMBARCAÇÃO DE"
-    },
-    {
-      "id": 630,
-      "raw": "RECREIO"
-    },
-    {
-      "id": 631,
-      "raw": "12.000"
-    },
-    {
-      "id": 632,
-      "raw": "CREWLOG"
-    },
-    {
-      "id": 633,
-      "raw": "BERÇO 100 Loa:"
-    },
-    {
-      "id": 634,
-      "raw": "240"
-    },
-    {
-      "id": 635,
-      "raw": "Prof.: 15m DWT:"
-    },
-    {
-      "id": 636,
-      "raw": "100.000"
-    },
-    {
-      "id": 637,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 638,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 639,
-      "raw": "BERÇO 101 Loa:"
-    },
-    {
-      "id": 640,
-      "raw": "200"
-    },
-    {
-      "id": 641,
-      "raw": "Prof.: 12m DWT:"
-    },
-    {
-      "id": 642,
-      "raw": "80.000"
-    },
-    {
-      "id": 643,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 644,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 645,
-      "raw": "BERÇO 102 Loa:"
-    },
-    {
-      "id": 646,
-      "raw": "200"
-    },
-    {
-      "id": 647,
-      "raw": "Prof.: 12m DWT:"
-    },
-    {
-      "id": 648,
-      "raw": "80.000"
-    },
-    {
-      "id": 649,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 650,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 651,
-      "raw": "BERÇO 99 Loa:"
-    },
-    {
-      "id": 652,
-      "raw": "229"
-    },
-    {
-      "id": 653,
-      "raw": "Prof.: 15m DWT:"
-    },
-    {
-      "id": 654,
-      "raw": "83.400"
-    },
-    {
-      "id": 655,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 656,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 657,
-      "raw": "Programação - LINE UP"
-    },
-    {
-      "id": 658,
-      "raw": "Atracados - Berthed"
-    },
-    {
-      "id": 659,
-      "raw": "Fundeados - At Anchorage"
-    },
-    {
-      "id": 660,
-      "raw": "Esperados - Forecasted"
-    },
-    {
-      "id": 661,
-      "raw": "Manutenção"
-    },
-    {
-      "id": 662,
-      "raw": "Novo"
-    },
-    {
-      "id": 663,
-      "raw": "Editar"
-    },
-    {
-      "id": 664,
-      "raw": "Excluir"
-    },
-    {
-      "id": 665,
-      "raw": "Código do registro: EMAP-RSGI - 35 PROGRAMAÇÃO DO NAV"
-    },
-    {
-      "id": 666,
-      "raw": "IO – LINE UP Data de revisão do template: 01/07/202"
-    },
-    {
-      "id": 667,
-      "raw": "4"
-    },
-    {
-      "id": 668,
-      "raw": "23/04/2026"
-    },
-    {
-      "id": 669,
-      "raw": "Programação - LINE UP"
-    },
-    {
-      "id": 670,
-      "raw": "1"
-    },
-    {
-      "id": 671,
-      "raw": "Berços"
-    },
-    {
-      "id": 672,
-      "raw": "Berth"
-    },
-    {
-      "id": 673,
-      "raw": "Status"
-    },
-    {
-      "id": 674,
-      "raw": "IMO"
-    },
-    {
-      "id": 675,
-      "raw": "Navio"
-    },
-    {
-      "id": 676,
-      "raw": "LOA"
-    },
-    {
-      "id": 677,
-      "raw": "Boca"
-    },
-    {
-      "id": 678,
-      "raw": "DWT"
-    },
-    {
-      "id": 679,
-      "raw": "Calado de"
-    },
-    {
-      "id": 680,
-      "raw": "Chegada"
-    },
-    {
-      "id": 681,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 682,
-      "raw": "Prev."
-    },
-    {
-      "id": 683,
-      "raw": "Chegada"
-    },
-    {
-      "id": 684,
-      "raw": "Prev."
-    },
-    {
-      "id": 685,
-      "raw": "Atrac."
-    },
-    {
-      "id": 686,
-      "raw": "Prev."
-    },
-    {
-      "id": 687,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 688,
-      "raw": "Oper"
-    },
-    {
-      "id": 689,
-      "raw": "Produto"
-    },
-    {
-      "id": 690,
-      "raw": "Qtde."
-    },
-    {
-      "id": 691,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 692,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 693,
-      "raw": "Operator"
-    },
-    {
-      "id": 694,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 695,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 696,
-      "raw": "Status"
-    },
-    {
-      "id": 697,
-      "raw": "IMO"
-    },
-    {
-      "id": 698,
-      "raw": "Vessel"
-    },
-    {
-      "id": 699,
-      "raw": "LOA"
-    },
-    {
-      "id": 700,
-      "raw": "Beam"
-    },
-    {
-      "id": 701,
-      "raw": "DWT"
-    },
-    {
-      "id": 702,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 703,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 704,
-      "raw": "ETB"
-    },
-    {
-      "id": 705,
-      "raw": "ETS"
-    },
-    {
-      "id": 706,
-      "raw": "ação"
-    },
-    {
-      "id": 707,
-      "raw": "Cargo"
-    },
-    {
-      "id": 708,
-      "raw": "*"
-    },
-    {
-      "id": 709,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 710,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 711,
-      "raw": "Operator"
-    },
-    {
-      "id": 712,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 713,
-      "raw": "Remarks"
-    },
-    {
-      "id": 714,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 715,
-      "raw": "9959759"
-    },
-    {
-      "id": 716,
-      "raw": "WISDOM DIVA"
-    },
-    {
-      "id": 717,
-      "raw": "228,99 32,2"
-    },
-    {
-      "id": 718,
-      "raw": "6 82.216 7,61 13"
-    },
-    {
-      "id": 719,
-      "raw": ",37 2/4/26 8:30"
-    },
-    {
-      "id": 720,
-      "raw": "23/4"
-    },
-    {
-      "id": 721,
-      "raw": "26/4"
-    },
-    {
-      "id": 722,
-      "raw": "C"
-    },
-    {
-      "id": 723,
-      "raw": "SOJA"
-    },
-    {
-      "id": 724,
-      "raw": "70.929"
-    },
-    {
-      "id": 725,
-      "raw": "ALPHAMAR"
-    },
-    {
-      "id": 726,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 727,
-      "raw": "CAR"
-    },
-    {
-      "id": 728,
-      "raw": "GILL"
-    },
-    {
-      "id": 729,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 730,
-      "raw": "9607112"
-    },
-    {
-      "id": 731,
-      "raw": "BORA"
-    },
-    {
-      "id": 732,
-      "raw": "229,00 32,26"
-    },
-    {
-      "id": 733,
-      "raw": "81.682 7,90 13,00 4/4"
-    },
-    {
-      "id": 734,
-      "raw": "/26 23:24"
-    },
-    {
-      "id": 735,
-      "raw": "26/4"
-    },
-    {
-      "id": 736,
-      "raw": "28/4"
-    },
-    {
-      "id": 737,
-      "raw": "C"
-    },
-    {
-      "id": 738,
-      "raw": "SOJA"
-    },
-    {
-      "id": 739,
-      "raw": "71.300"
-    },
-    {
-      "id": 740,
-      "raw": "CARGONAVE"
-    },
-    {
-      "id": 741,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 742,
-      "raw": "COFCO"
-    },
-    {
-      "id": 743,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 744,
-      "raw": "9310290"
-    },
-    {
-      "id": 745,
-      "raw": "MOTARO"
-    },
-    {
-      "id": 746,
-      "raw": "228,90 32,26"
-    },
-    {
-      "id": 747,
-      "raw": "82.951 4,00 13,00 1"
-    },
-    {
-      "id": 748,
-      "raw": "4/3/26 13:00"
-    },
-    {
-      "id": 749,
-      "raw": "28/4"
-    },
-    {
-      "id": 750,
-      "raw": "2/5"
-    },
-    {
-      "id": 751,
-      "raw": "C"
-    },
-    {
-      "id": 752,
-      "raw": "SOJA"
-    },
-    {
-      "id": 753,
-      "raw": "70.799"
-    },
-    {
-      "id": 754,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 755,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 756,
-      "raw": "BUNGE"
-    },
-    {
-      "id": 757,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 758,
-      "raw": "9728629"
-    },
-    {
-      "id": 759,
-      "raw": "GLBS ANGEL"
-    },
-    {
-      "id": 760,
-      "raw": "229,00 32,26"
-    },
-    {
-      "id": 761,
-      "raw": "81.119 7,00 13,"
-    },
-    {
-      "id": 762,
-      "raw": "00 16/3/26 12:36"
-    },
-    {
-      "id": 763,
-      "raw": "2/5"
-    },
-    {
-      "id": 764,
-      "raw": "5/5"
-    },
-    {
-      "id": 765,
-      "raw": "C"
-    },
-    {
-      "id": 766,
-      "raw": "SOJA"
-    },
-    {
-      "id": 767,
-      "raw": "66.000"
-    },
-    {
-      "id": 768,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 769,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 770,
-      "raw": "R"
-    },
-    {
-      "id": 771,
-      "raw": "EFINED SUCCESS"
-    },
-    {
-      "id": 772,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 773,
-      "raw": "9523213"
-    },
-    {
-      "id": 774,
-      "raw": "JI XIAN FENG"
-    },
-    {
-      "id": 775,
-      "raw": "225,00 32,"
-    },
-    {
-      "id": 776,
-      "raw": "26 75.409 7,00 1"
-    },
-    {
-      "id": 777,
-      "raw": "3,00 13/4/26 5:48"
-    },
-    {
-      "id": 778,
-      "raw": "5/5"
-    },
-    {
-      "id": 779,
-      "raw": "7/5"
-    },
-    {
-      "id": 780,
-      "raw": "C"
-    },
-    {
-      "id": 781,
-      "raw": "SOJA"
-    },
-    {
-      "id": 782,
-      "raw": "66.000"
-    },
-    {
-      "id": 783,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 784,
-      "raw": "TEGRA"
-    },
-    {
-      "id": 785,
-      "raw": "M"
-    },
-    {
-      "id": 786,
-      "raw": "REFINED SUCCESS"
-    },
-    {
-      "id": 787,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 788,
-      "raw": "9642382"
-    },
-    {
-      "id": 789,
-      "raw": "HERCULES"
-    },
-    {
-      "id": 790,
-      "raw": "225,00 32,26"
-    },
-    {
-      "id": 791,
-      "raw": "75.016 7,86 13,20"
-    },
-    {
-      "id": 792,
-      "raw": "17/4/26 3:18"
-    },
-    {
-      "id": 793,
-      "raw": "7/5"
-    },
-    {
-      "id": 794,
-      "raw": "10/5"
-    },
-    {
-      "id": 795,
-      "raw": "C"
-    },
-    {
-      "id": 796,
-      "raw": "SOJA"
-    },
-    {
-      "id": 797,
-      "raw": "63.000"
-    },
-    {
-      "id": 798,
-      "raw": "ROCHAMAR"
-    },
-    {
-      "id": 799,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 800,
-      "raw": "ADM"
-    },
-    {
-      "id": 801,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 802,
-      "raw": "9658886"
-    },
-    {
-      "id": 803,
-      "raw": "ATALANDI"
-    },
-    {
-      "id": 804,
-      "raw": "225,00 32,30"
-    },
-    {
-      "id": 805,
-      "raw": "77.528 7,30 13,40"
-    },
-    {
-      "id": 806,
-      "raw": "21/4/26 0:35"
-    },
-    {
-      "id": 807,
-      "raw": "10/5"
-    },
-    {
-      "id": 808,
-      "raw": "13/5"
-    },
-    {
-      "id": 809,
-      "raw": "C"
-    },
-    {
-      "id": 810,
-      "raw": "SOJA"
-    },
-    {
-      "id": 811,
-      "raw": "66.000"
-    },
-    {
-      "id": 812,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 813,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 814,
-      "raw": "BUN"
-    },
-    {
-      "id": 815,
-      "raw": "GE"
-    },
-    {
-      "id": 816,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 817,
-      "raw": "9336892"
-    },
-    {
-      "id": 818,
-      "raw": "LORIENT"
-    },
-    {
-      "id": 819,
-      "raw": "224,86"
-    },
-    {
-      "id": 820,
-      "raw": "32,26"
-    },
-    {
-      "id": 821,
-      "raw": "82.331 7,90 12,9"
-    },
-    {
-      "id": 822,
-      "raw": "0 3/5/26 15:00"
-    },
-    {
-      "id": 823,
-      "raw": "13/5"
-    },
-    {
-      "id": 824,
-      "raw": "17/5"
-    },
-    {
-      "id": 825,
-      "raw": "C"
-    },
-    {
-      "id": 826,
-      "raw": "SOJA"
-    },
-    {
-      "id": 827,
-      "raw": "66.000"
-    },
-    {
-      "id": 828,
-      "raw": "CARGONAVE"
-    },
-    {
-      "id": 829,
-      "raw": "TEGRAM"
-    },
-    {
-      "id": 830,
-      "raw": "CHS"
-    },
-    {
-      "id": 831,
-      "raw": "1"
-    },
-    {
-      "id": 832,
-      "raw": "Berços"
-    },
-    {
-      "id": 833,
-      "raw": "Berth"
-    },
-    {
-      "id": 834,
-      "raw": "Status"
-    },
-    {
-      "id": 835,
-      "raw": "IMO"
-    },
-    {
-      "id": 836,
-      "raw": "Navio"
-    },
-    {
-      "id": 837,
-      "raw": "LOA"
-    },
-    {
-      "id": 838,
-      "raw": "Boca"
-    },
-    {
-      "id": 839,
-      "raw": "DWT"
-    },
-    {
-      "id": 840,
-      "raw": "Calado de"
-    },
-    {
-      "id": 841,
-      "raw": "Chegada"
-    },
-    {
-      "id": 842,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 843,
-      "raw": "Prev."
-    },
-    {
-      "id": 844,
-      "raw": "Chegada"
-    },
-    {
-      "id": 845,
-      "raw": "Prev."
-    },
-    {
-      "id": 846,
-      "raw": "Atrac."
-    },
-    {
-      "id": 847,
-      "raw": "Prev."
-    },
-    {
-      "id": 848,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 849,
-      "raw": "Oper"
-    },
-    {
-      "id": 850,
-      "raw": "Produto"
-    },
-    {
-      "id": 851,
-      "raw": "Qtde."
-    },
-    {
-      "id": 852,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 853,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 854,
-      "raw": "Operator"
-    },
-    {
-      "id": 855,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 856,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 857,
-      "raw": "Status"
-    },
-    {
-      "id": 858,
-      "raw": "IMO"
-    },
-    {
-      "id": 859,
-      "raw": "Vessel"
-    },
-    {
-      "id": 860,
-      "raw": "LOA"
-    },
-    {
-      "id": 861,
-      "raw": "Beam"
-    },
-    {
-      "id": 862,
-      "raw": "DWT"
-    },
-    {
-      "id": 863,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 864,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 865,
-      "raw": "ETB"
-    },
-    {
-      "id": 866,
-      "raw": "ETS"
-    },
-    {
-      "id": 867,
-      "raw": "ação"
-    },
-    {
-      "id": 868,
-      "raw": "Cargo"
-    },
-    {
-      "id": 869,
-      "raw": "*"
-    },
-    {
-      "id": 870,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 871,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 872,
-      "raw": "Operator"
-    },
-    {
-      "id": 873,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 874,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 875,
-      "raw": "9596820"
-    },
-    {
-      "id": 876,
-      "raw": "OSCAR NIEMEYER *"
-    },
-    {
-      "id": 877,
-      "raw": "117,63"
-    },
-    {
-      "id": 878,
-      "raw": "19,20 5.079 11,00"
-    },
-    {
-      "id": 879,
-      "raw": "6,00 19/4/26 8:30"
-    },
-    {
-      "id": 880,
-      "raw": "22/4"
-    },
-    {
-      "id": 881,
-      "raw": "23/4"
-    },
-    {
-      "id": 882,
-      "raw": "D"
-    },
-    {
-      "id": 883,
-      "raw": "GLP"
-    },
-    {
-      "id": 884,
-      "raw": "3.892"
-    },
-    {
-      "id": 885,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 886,
-      "raw": "TRA"
-    },
-    {
-      "id": 887,
-      "raw": "NSPETRO"
-    },
-    {
-      "id": 888,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 889,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 890,
-      "raw": "BL"
-    },
-    {
-      "id": 891,
-      "raw": "BERÇO LIVRE"
-    },
-    {
-      "id": 892,
-      "raw": "-"
-    },
-    {
-      "id": 893,
-      "raw": "- - 6,00"
-    },
-    {
-      "id": 894,
-      "raw": "5,00 20/4/26 0:00"
-    },
-    {
-      "id": 895,
-      "raw": "23/4"
-    },
-    {
-      "id": 896,
-      "raw": "26/4"
-    },
-    {
-      "id": 897,
-      "raw": "BERÇO LIVRE"
-    },
-    {
-      "id": 898,
-      "raw": "1"
-    },
-    {
-      "id": 899,
-      "raw": "6.000"
-    },
-    {
-      "id": 900,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 901,
-      "raw": "9596832"
-    },
-    {
-      "id": 902,
-      "raw": "DARCY RIBEIRO *"
-    },
-    {
-      "id": 903,
-      "raw": "117,25 19,20"
-    },
-    {
-      "id": 904,
-      "raw": "5.092 11,00 8,00"
-    },
-    {
-      "id": 905,
-      "raw": "23/4/26 23:00"
-    },
-    {
-      "id": 906,
-      "raw": "26/4"
-    },
-    {
-      "id": 907,
-      "raw": "28/4"
-    },
-    {
-      "id": 908,
-      "raw": "D"
-    },
-    {
-      "id": 909,
-      "raw": "GLP"
-    },
-    {
-      "id": 910,
-      "raw": "3.500"
-    },
-    {
-      "id": 911,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 912,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 913,
-      "raw": "P"
-    },
-    {
-      "id": 914,
-      "raw": "ETROBRAS"
-    },
-    {
-      "id": 915,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 916,
-      "raw": "9391476"
-    },
-    {
-      "id": 917,
-      "raw": "SHAMAL"
-    },
-    {
-      "id": 918,
-      "raw": "182,00 40,00"
-    },
-    {
-      "id": 919,
-      "raw": "64.834 12,50 8,00 30/4/26 1"
-    },
-    {
-      "id": 920,
-      "raw": "8:00"
-    },
-    {
-      "id": 921,
-      "raw": "30/4"
-    },
-    {
-      "id": 922,
-      "raw": "3/5"
-    },
-    {
-      "id": 923,
-      "raw": "D"
-    },
-    {
-      "id": 924,
-      "raw": "QAV/DIESEL/GASOLI"
-    },
-    {
-      "id": 925,
-      "raw": "NA"
-    },
-    {
-      "id": 926,
-      "raw": "23.600"
-    },
-    {
-      "id": 927,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 928,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 929,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 930,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 931,
-      "raw": "9748978"
-    },
-    {
-      "id": 932,
-      "raw": "EPIC BALUAN *"
-    },
-    {
-      "id": 933,
-      "raw": "113,08 19,00"
-    },
-    {
-      "id": 934,
-      "raw": "7.187 10,00 6,00 25"
-    },
-    {
-      "id": 935,
-      "raw": "/4/26 1:00"
-    },
-    {
-      "id": 936,
-      "raw": "3/5"
-    },
-    {
-      "id": 937,
-      "raw": "4/5"
-    },
-    {
-      "id": 938,
-      "raw": "D"
-    },
-    {
-      "id": 939,
-      "raw": "GLP"
-    },
-    {
-      "id": 940,
-      "raw": "3.500"
-    },
-    {
-      "id": 941,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 942,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 943,
-      "raw": "PETROB"
-    },
-    {
-      "id": 944,
-      "raw": "RAS"
-    },
-    {
-      "id": 945,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 946,
-      "raw": "9168635"
-    },
-    {
-      "id": 947,
-      "raw": "BOW FORTUNE *"
-    },
-    {
-      "id": 948,
-      "raw": "183,10 32,20"
-    },
-    {
-      "id": 949,
-      "raw": "37.395 8,73 9,73"
-    },
-    {
-      "id": 950,
-      "raw": "4/"
-    },
-    {
-      "id": 951,
-      "raw": "5/26 0:00"
-    },
-    {
-      "id": 952,
-      "raw": "4/5"
-    },
-    {
-      "id": 953,
-      "raw": "6/5"
-    },
-    {
-      "id": 954,
-      "raw": "C"
-    },
-    {
-      "id": 955,
-      "raw": "SEBO BOVIMO"
-    },
-    {
-      "id": 956,
-      "raw": "4.000"
-    },
-    {
-      "id": 957,
-      "raw": "ROCHAMAR"
-    },
-    {
-      "id": 958,
-      "raw": "GRANEL QUÍM"
-    },
-    {
-      "id": 959,
-      "raw": "ICA"
-    },
-    {
-      "id": 960,
-      "raw": "FASA"
-    },
-    {
-      "id": 961,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 962,
-      "raw": "9268681"
-    },
-    {
-      "id": 963,
-      "raw": "FORTE DE COPACABANA *"
-    },
-    {
-      "id": 964,
-      "raw": "123,98 17,"
-    },
-    {
-      "id": 965,
-      "raw": "33 8.843 10,00"
-    },
-    {
-      "id": 966,
-      "raw": "6,00 4/5/26 23:00"
-    },
-    {
-      "id": 967,
-      "raw": "9/5"
-    },
-    {
-      "id": 968,
-      "raw": "11/5"
-    },
-    {
-      "id": 969,
-      "raw": "D"
-    },
-    {
-      "id": 970,
-      "raw": "GLP"
-    },
-    {
-      "id": 971,
-      "raw": "3.500"
-    },
-    {
-      "id": 972,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 973,
-      "raw": "TRANSPE"
-    },
-    {
-      "id": 974,
-      "raw": "TRO"
-    },
-    {
-      "id": 975,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 976,
-      "raw": "1"
-    },
-    {
-      "id": 977,
-      "raw": "Berços"
-    },
-    {
-      "id": 978,
-      "raw": "Berth"
-    },
-    {
-      "id": 979,
-      "raw": "Status"
-    },
-    {
-      "id": 980,
-      "raw": "IMO"
-    },
-    {
-      "id": 981,
-      "raw": "Navio"
-    },
-    {
-      "id": 982,
-      "raw": "LOA"
-    },
-    {
-      "id": 983,
-      "raw": "Boca"
-    },
-    {
-      "id": 984,
-      "raw": "DWT"
-    },
-    {
-      "id": 985,
-      "raw": "Calado de"
-    },
-    {
-      "id": 986,
-      "raw": "Chegada"
-    },
-    {
-      "id": 987,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 988,
-      "raw": "Prev."
-    },
-    {
-      "id": 989,
-      "raw": "Chegada"
-    },
-    {
-      "id": 990,
-      "raw": "Prev."
-    },
-    {
-      "id": 991,
-      "raw": "Atrac."
-    },
-    {
-      "id": 992,
-      "raw": "Prev."
-    },
-    {
-      "id": 993,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 994,
-      "raw": "Oper"
-    },
-    {
-      "id": 995,
-      "raw": "Produto"
-    },
-    {
-      "id": 996,
-      "raw": "Qtde."
-    },
-    {
-      "id": 997,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 998,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 999,
-      "raw": "Operator"
-    },
-    {
-      "id": 1000,
-      "raw": "Status"
-    },
-    {
-      "id": 1001,
-      "raw": "IMO"
-    },
-    {
-      "id": 1002,
-      "raw": "Vessel"
-    },
-    {
-      "id": 1003,
-      "raw": "LOA"
-    },
-    {
-      "id": 1004,
-      "raw": "Beam"
-    },
-    {
-      "id": 1005,
-      "raw": "DWT"
-    },
-    {
-      "id": 1006,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 1007,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 1008,
-      "raw": "ETB"
-    },
-    {
-      "id": 1009,
-      "raw": "ETS"
-    },
-    {
-      "id": 1010,
-      "raw": "ação"
-    },
-    {
-      "id": 1011,
-      "raw": "Cargo"
-    },
-    {
-      "id": 1012,
-      "raw": "*"
-    },
-    {
-      "id": 1013,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 1014,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 1015,
-      "raw": "Operator"
-    },
-    {
-      "id": 1016,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 1017,
-      "raw": "9629665"
-    },
-    {
-      "id": 1018,
-      "raw": "AQUILA TRADER"
-    },
-    {
-      "id": 1019,
-      "raw": "180,00 30"
-    },
-    {
-      "id": 1020,
-      "raw": ",00 33.737 7,00"
-    },
-    {
-      "id": 1021,
-      "raw": "10,00 19/4/26 14:50"
-    },
-    {
-      "id": 1022,
-      "raw": "22/4"
-    },
-    {
-      "id": 1023,
-      "raw": "24/4"
-    },
-    {
-      "id": 1024,
-      "raw": "C"
-    },
-    {
-      "id": 1025,
-      "raw": "COBRE"
-    },
-    {
-      "id": 1026,
-      "raw": "23.100"
-    },
-    {
-      "id": 1027,
-      "raw": "WILSON SONS"
-    },
-    {
-      "id": 1028,
-      "raw": "G"
-    },
-    {
-      "id": 1029,
-      "raw": "5"
-    },
-    {
-      "id": 1030,
-      "raw": "VALE"
-    },
-    {
-      "id": 1031,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 1032,
-      "raw": "9488475"
-    },
-    {
-      "id": 1033,
-      "raw": "WEN ZHU HAI"
-    },
-    {
-      "id": 1034,
-      "raw": "225,00 32,2"
-    },
-    {
-      "id": 1035,
-      "raw": "6 76.381 7,00 13"
-    },
-    {
-      "id": 1036,
-      "raw": ",00 1/4/26 0:01"
-    },
-    {
-      "id": 1037,
-      "raw": "24/4"
-    },
-    {
-      "id": 1038,
-      "raw": "26/4"
-    },
-    {
-      "id": 1039,
-      "raw": "C"
-    },
-    {
-      "id": 1040,
-      "raw": "SOJA"
-    },
-    {
-      "id": 1041,
-      "raw": "66.000"
-    },
-    {
-      "id": 1042,
-      "raw": "ALPHAMAR"
-    },
-    {
-      "id": 1043,
-      "raw": "VLI"
-    },
-    {
-      "id": 1044,
-      "raw": "AGREX"
-    },
-    {
-      "id": 1045,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 1046,
-      "raw": "1042275"
-    },
-    {
-      "id": 1047,
-      "raw": "EMIR AKSOY"
-    },
-    {
-      "id": 1048,
-      "raw": "199,90 32,24"
-    },
-    {
-      "id": 1049,
-      "raw": "64.072 6,80 12,"
-    },
-    {
-      "id": 1050,
-      "raw": "50 14/4/26 18:30"
-    },
-    {
-      "id": 1051,
-      "raw": "26/4"
-    },
-    {
-      "id": 1052,
-      "raw": "29/4"
-    },
-    {
-      "id": 1053,
-      "raw": "C"
-    },
-    {
-      "id": 1054,
-      "raw": "COBRE"
-    },
-    {
-      "id": 1055,
-      "raw": "41.563"
-    },
-    {
-      "id": 1056,
-      "raw": "LBH BRASIL"
-    },
-    {
-      "id": 1057,
-      "raw": "G5"
-    },
-    {
-      "id": 1058,
-      "raw": "SAL"
-    },
-    {
-      "id": 1059,
-      "raw": "OBO METAIS"
-    },
-    {
-      "id": 1060,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 1061,
-      "raw": "9749908"
-    },
-    {
-      "id": 1062,
-      "raw": "SAKIZAYA KALON"
-    },
-    {
-      "id": 1063,
-      "raw": "228,92 3"
-    },
-    {
-      "id": 1064,
-      "raw": "2,26 81.691 7,15"
-    },
-    {
-      "id": 1065,
-      "raw": "11,50 10/4/26 23:54"
-    },
-    {
-      "id": 1066,
-      "raw": "29/4"
-    },
-    {
-      "id": 1067,
-      "raw": "1/5"
-    },
-    {
-      "id": 1068,
-      "raw": "C"
-    },
-    {
-      "id": 1069,
-      "raw": "SOJA"
-    },
-    {
-      "id": 1070,
-      "raw": "69.000"
-    },
-    {
-      "id": 1071,
-      "raw": "LBH BRASIL"
-    },
-    {
-      "id": 1072,
-      "raw": "VLI"
-    },
-    {
-      "id": 1073,
-      "raw": "CARGILL"
-    },
-    {
-      "id": 1074,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1075,
-      "raw": "9855599"
-    },
-    {
-      "id": 1076,
-      "raw": "MAGIC ARIEL"
-    },
-    {
-      "id": 1077,
-      "raw": "229,00 32,26"
-    },
-    {
-      "id": 1078,
-      "raw": "81.485 8,00 13,50 24/4"
-    },
-    {
-      "id": 1079,
-      "raw": "/26 23:00"
-    },
-    {
-      "id": 1080,
-      "raw": "1/5"
-    },
-    {
-      "id": 1081,
-      "raw": "4/5"
-    },
-    {
-      "id": 1082,
-      "raw": "C"
-    },
-    {
-      "id": 1083,
-      "raw": "SOJA"
-    },
-    {
-      "id": 1084,
-      "raw": "66.000"
-    },
-    {
-      "id": 1085,
-      "raw": "LBH BRASIL"
-    },
-    {
-      "id": 1086,
-      "raw": "VLI"
-    },
-    {
-      "id": 1087,
-      "raw": "AGREX"
-    },
-    {
-      "id": 1088,
-      "raw": "FUNDEADO"
-    },
-    {
-      "id": 1089,
-      "raw": "9921843"
-    },
-    {
-      "id": 1090,
-      "raw": "GCL LUXEMBOURG"
-    },
-    {
-      "id": 1091,
-      "raw": "229,00 3"
-    },
-    {
-      "id": 1092,
-      "raw": "2,26 82.310 7,90"
-    },
-    {
-      "id": 1093,
-      "raw": "13,00 17/4/26 17:36"
-    },
-    {
-      "id": 1094,
-      "raw": "4/5"
-    },
-    {
-      "id": 1095,
-      "raw": "7/5"
-    },
-    {
-      "id": 1096,
-      "raw": "C"
-    },
-    {
-      "id": 1097,
-      "raw": "SOJA"
-    },
-    {
-      "id": 1098,
-      "raw": "70.830"
-    },
-    {
-      "id": 1099,
-      "raw": "CARGONAVE"
-    },
-    {
-      "id": 1100,
-      "raw": "VLI"
-    },
-    {
-      "id": 1101,
-      "raw": "COFCO"
-    },
-    {
-      "id": 1102,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1103,
-      "raw": "1043413"
-    },
-    {
-      "id": 1104,
-      "raw": "BASIC FORTUNE"
-    },
-    {
-      "id": 1105,
-      "raw": "229,00 32,26"
-    },
-    {
-      "id": 1106,
-      "raw": "28.061 7,10 13,30 3/"
-    },
-    {
-      "id": 1107,
-      "raw": "5/26 8:00"
-    },
-    {
-      "id": 1108,
-      "raw": "7/5"
-    },
-    {
-      "id": 1109,
-      "raw": "9/5"
-    },
-    {
-      "id": 1110,
-      "raw": "C"
-    },
-    {
-      "id": 1111,
-      "raw": "SOJA"
-    },
-    {
-      "id": 1112,
-      "raw": "66.000"
-    },
-    {
-      "id": 1113,
-      "raw": "FERTIMPORT"
-    },
-    {
-      "id": 1114,
-      "raw": "VLI"
-    },
-    {
-      "id": 1115,
-      "raw": "BUNGE"
-    },
-    {
-      "id": 1116,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1117,
-      "raw": "9911642"
-    },
-    {
-      "id": 1118,
-      "raw": "BELTRADER"
-    },
-    {
-      "id": 1119,
-      "raw": "199,90 32,24"
-    },
-    {
-      "id": 1120,
-      "raw": "61.043 6,00 12,00 24/4/2"
-    },
-    {
-      "id": 1121,
-      "raw": "6 0:01"
-    },
-    {
-      "id": 1122,
-      "raw": "9/5"
-    },
-    {
-      "id": 1123,
-      "raw": "12/5"
-    },
-    {
-      "id": 1124,
-      "raw": "C"
-    },
-    {
-      "id": 1125,
-      "raw": "COBRE"
-    },
-    {
-      "id": 1126,
-      "raw": "26.972"
-    },
-    {
-      "id": 1127,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 1128,
-      "raw": "G5"
-    },
-    {
-      "id": 1129,
-      "raw": "VALE"
-    },
-    {
-      "id": 1130,
-      "raw": "1"
-    },
-    {
-      "id": 1131,
-      "raw": "Berços"
-    },
-    {
-      "id": 1132,
-      "raw": "Berth"
-    },
-    {
-      "id": 1133,
-      "raw": "Status"
-    },
-    {
-      "id": 1134,
-      "raw": "IMO"
-    },
-    {
-      "id": 1135,
-      "raw": "Navio"
-    },
-    {
-      "id": 1136,
-      "raw": "LOA"
-    },
-    {
-      "id": 1137,
-      "raw": "Boca"
-    },
-    {
-      "id": 1138,
-      "raw": "DWT"
-    },
-    {
-      "id": 1139,
-      "raw": "Calado de"
-    },
-    {
-      "id": 1140,
-      "raw": "Chegada"
-    },
-    {
-      "id": 1141,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 1142,
-      "raw": "Prev."
-    },
-    {
-      "id": 1143,
-      "raw": "Chegada"
-    },
-    {
-      "id": 1144,
-      "raw": "Prev."
-    },
-    {
-      "id": 1145,
-      "raw": "Atrac."
-    },
-    {
-      "id": 1146,
-      "raw": "Prev."
-    },
-    {
-      "id": 1147,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 1148,
-      "raw": "Oper"
-    },
-    {
-      "id": 1149,
-      "raw": "Produto"
-    },
-    {
-      "id": 1150,
-      "raw": "Qtde."
-    },
-    {
-      "id": 1151,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 1152,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 1153,
-      "raw": "Operator"
-    },
-    {
-      "id": 1154,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 1155,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 1156,
-      "raw": "Status"
-    },
-    {
-      "id": 1157,
-      "raw": "IMO"
-    },
-    {
-      "id": 1158,
-      "raw": "Vessel"
-    },
-    {
-      "id": 1159,
-      "raw": "LOA"
-    },
-    {
-      "id": 1160,
-      "raw": "Beam"
-    },
-    {
-      "id": 1161,
-      "raw": "DWT"
-    },
-    {
-      "id": 1162,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 1163,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 1164,
-      "raw": "ETB"
-    },
-    {
-      "id": 1165,
-      "raw": "ETS"
-    },
-    {
-      "id": 1166,
-      "raw": "ação"
-    },
-    {
-      "id": 1167,
-      "raw": "Cargo"
-    },
-    {
-      "id": 1168,
-      "raw": "*"
-    },
-    {
-      "id": 1169,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 1170,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 1171,
-      "raw": "Operator"
-    },
-    {
-      "id": 1172,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 1173,
-      "raw": "Remarks"
-    },
-    {
-      "id": 1174,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 1175,
-      "raw": "BL"
-    },
-    {
-      "id": 1176,
-      "raw": "BERÇO LIVRE"
-    },
-    {
-      "id": 1177,
-      "raw": "-"
-    },
-    {
-      "id": 1178,
-      "raw": "- -"
-    },
-    {
-      "id": 1179,
-      "raw": "9,00 8,00 20/4/26 14:59"
-    },
-    {
-      "id": 1180,
-      "raw": "20/4"
-    },
-    {
-      "id": 1181,
-      "raw": "25/4"
-    },
-    {
-      "id": 1182,
-      "raw": "D"
-    },
-    {
-      "id": 1183,
-      "raw": "B"
-    },
-    {
-      "id": 1184,
-      "raw": "ERÇO LIVRE"
-    },
-    {
-      "id": 1185,
-      "raw": "8.000"
-    },
-    {
-      "id": 1186,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1187,
-      "raw": "9836440"
-    },
-    {
-      "id": 1188,
-      "raw": "ISABELLA M II"
-    },
-    {
-      "id": 1189,
-      "raw": "183,00 32,20"
-    },
-    {
-      "id": 1190,
-      "raw": "49.999 12,50 8,00 25"
-    },
-    {
-      "id": 1191,
-      "raw": "/4/26 15:00"
-    },
-    {
-      "id": 1192,
-      "raw": "25/4"
-    },
-    {
-      "id": 1193,
-      "raw": "28/4"
-    },
-    {
-      "id": 1194,
-      "raw": "D DIESEL/GASOLINA"
-    },
-    {
-      "id": 1195,
-      "raw": "34.600"
-    },
-    {
-      "id": 1196,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 1197,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 1198,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 1199,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1200,
-      "raw": "9831191"
-    },
-    {
-      "id": 1201,
-      "raw": "ELANDRA MAPLE"
-    },
-    {
-      "id": 1202,
-      "raw": "183,00 32,00"
-    },
-    {
-      "id": 1203,
-      "raw": "49.999 13,00 10,00 29/"
-    },
-    {
-      "id": 1204,
-      "raw": "4/26 21:00"
-    },
-    {
-      "id": 1205,
-      "raw": "29/4"
-    },
-    {
-      "id": 1206,
-      "raw": "3/5"
-    },
-    {
-      "id": 1207,
-      "raw": "D DIESEL / GASOLINA 37.740"
-    },
-    {
-      "id": 1208,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 1209,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 1210,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 1211,
-      "raw": "O NAVIO FARÁ DESCARGA DE ODS500 E GASOLINA, E FARÁ"
-    },
-    {
-      "id": 1212,
-      "raw": "CARGA DE ODS10"
-    },
-    {
-      "id": 1213,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1214,
-      "raw": "9890587"
-    },
-    {
-      "id": 1215,
-      "raw": "IOANNIS ZAFIRAKIS"
-    },
-    {
-      "id": 1216,
-      "raw": "183,00 32,20"
-    },
-    {
-      "id": 1217,
-      "raw": "49.999 12,50 10,00"
-    },
-    {
-      "id": 1218,
-      "raw": "5/5/26 23:00"
-    },
-    {
-      "id": 1219,
-      "raw": "5/5"
-    },
-    {
-      "id": 1220,
-      "raw": "6/5"
-    },
-    {
-      "id": 1221,
-      "raw": "D OLEO COMBUSTÍVEL 5000"
-    },
-    {
-      "id": 1222,
-      "raw": "WILHELMSEN"
-    },
-    {
-      "id": 1223,
-      "raw": "T"
-    },
-    {
-      "id": 1224,
-      "raw": "RANSPETRO"
-    },
-    {
-      "id": 1225,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 1226,
-      "raw": "1"
-    },
-    {
-      "id": 1227,
-      "raw": "Berços"
-    },
-    {
-      "id": 1228,
-      "raw": "Berth"
-    },
-    {
-      "id": 1229,
-      "raw": "Status"
-    },
-    {
-      "id": 1230,
-      "raw": "IMO"
-    },
-    {
-      "id": 1231,
-      "raw": "Navio"
-    },
-    {
-      "id": 1232,
-      "raw": "LOA"
-    },
-    {
-      "id": 1233,
-      "raw": "Boca"
-    },
-    {
-      "id": 1234,
-      "raw": "DWT"
-    },
-    {
-      "id": 1235,
-      "raw": "Calado de"
-    },
-    {
-      "id": 1236,
-      "raw": "Chegada"
-    },
-    {
-      "id": 1237,
-      "raw": "Calado de saída"
-    },
-    {
-      "id": 1238,
-      "raw": "Prev."
-    },
-    {
-      "id": 1239,
-      "raw": "Chegada"
-    },
-    {
-      "id": 1240,
-      "raw": "Prev."
-    },
-    {
-      "id": 1241,
-      "raw": "Atrac."
-    },
-    {
-      "id": 1242,
-      "raw": "Prev."
-    },
-    {
-      "id": 1243,
-      "raw": "Desatrac."
-    },
-    {
-      "id": 1244,
-      "raw": "Oper"
-    },
-    {
-      "id": 1245,
-      "raw": "Produto"
-    },
-    {
-      "id": 1246,
-      "raw": "Qtde."
-    },
-    {
-      "id": 1247,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 1248,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 1249,
-      "raw": "Operator"
-    },
-    {
-      "id": 1250,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 1251,
-      "raw": "OBSERVAÇÕES"
-    },
-    {
-      "id": 1252,
-      "raw": "Status"
-    },
-    {
-      "id": 1253,
-      "raw": "IMO"
-    },
-    {
-      "id": 1254,
-      "raw": "Vessel"
-    },
-    {
-      "id": 1255,
-      "raw": "LOA"
-    },
-    {
-      "id": 1256,
-      "raw": "Beam"
-    },
-    {
-      "id": 1257,
-      "raw": "DWT"
-    },
-    {
-      "id": 1258,
-      "raw": "Arrival Draft Sailing Draft"
-    },
-    {
-      "id": 1259,
-      "raw": "ETA / NOR"
-    },
-    {
-      "id": 1260,
-      "raw": "ETB"
-    },
-    {
-      "id": 1261,
-      "raw": "ETS"
-    },
-    {
-      "id": 1262,
-      "raw": "ação"
-    },
-    {
-      "id": 1263,
-      "raw": "Cargo"
-    },
-    {
-      "id": 1264,
-      "raw": "*"
-    },
-    {
-      "id": 1265,
-      "raw": "Agente Agency"
-    },
-    {
-      "id": 1266,
-      "raw": "Operador Portuário Port"
-    },
-    {
-      "id": 1267,
-      "raw": "Operator"
-    },
-    {
-      "id": 1268,
-      "raw": "Import./Export."
-    },
-    {
-      "id": 1269,
-      "raw": "Remarks"
-    },
-    {
-      "id": 1270,
-      "raw": "ATRACADO"
-    },
-    {
-      "id": 1271,
-      "raw": "BL"
-    },
-    {
-      "id": 1272,
-      "raw": "BERÇO LIVRE"
-    },
-    {
-      "id": 1273,
-      "raw": "-"
-    },
-    {
-      "id": 1274,
-      "raw": "- - 6,00"
-    },
-    {
-      "id": 1275,
-      "raw": "5,00 22/4/26 0:00"
-    },
-    {
-      "id": 1276,
-      "raw": "22/4"
-    },
-    {
-      "id": 1277,
-      "raw": "25/4"
-    },
-    {
-      "id": 1278,
-      "raw": "BERÇO LIVRE"
-    },
-    {
-      "id": 1279,
-      "raw": "10"
-    },
-    {
-      "id": 1280,
-      "raw": ".000"
-    },
-    {
-      "id": 1281,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1282,
-      "raw": "9849265"
-    },
-    {
-      "id": 1283,
-      "raw": "CLEAROCEAN MELODY"
-    },
-    {
-      "id": 1284,
-      "raw": "182,90 32,23"
-    },
-    {
-      "id": 1285,
-      "raw": "49.995 12,5 8,"
-    },
-    {
-      "id": 1286,
-      "raw": "50 25/4/26 18:00"
-    },
-    {
-      "id": 1287,
-      "raw": "25/4"
-    },
-    {
-      "id": 1288,
-      "raw": "27/4"
-    },
-    {
-      "id": 1289,
-      "raw": "D GASOLINA/DIESEL"
-    },
-    {
-      "id": 1290,
-      "raw": "27.300"
-    },
-    {
-      "id": 1291,
-      "raw": "WILHE"
-    },
-    {
-      "id": 1292,
-      "raw": "LMSEN"
-    },
-    {
-      "id": 1293,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 1294,
-      "raw": "PETROBRAS"
-    },
-    {
-      "id": 1295,
-      "raw": "ESPERADO"
-    },
-    {
-      "id": 1296,
-      "raw": "1055985"
-    },
-    {
-      "id": 1297,
-      "raw": "SARONIC WIND"
-    },
-    {
-      "id": 1298,
-      "raw": "182,75 32,00"
-    },
-    {
-      "id": 1299,
-      "raw": "49.985 10,95 8,00 29/"
-    },
-    {
-      "id": 1300,
-      "raw": "4/26 10:00"
-    },
-    {
-      "id": 1301,
-      "raw": "29/4"
-    },
-    {
-      "id": 1302,
-      "raw": "2/5"
-    },
-    {
-      "id": 1303,
-      "raw": "D GASOLINA / DIESEL 31.870"
-    },
-    {
-      "id": 1304,
-      "raw": "WILSON SON"
-    },
-    {
-      "id": 1305,
-      "raw": "S"
-    },
-    {
-      "id": 1306,
-      "raw": "TRANSPETRO"
-    },
-    {
-      "id": 1307,
-      "raw": "ACELEN"
-    },
-    {
-      "id": 1308,
-      "raw": "Obs.: A sequência de atracações e a determinação do"
-    },
-    {
-      "id": 1309,
-      "raw": "s piers para navios esperados é baseada em informaç"
-    },
-    {
-      "id": 1310,
-      "raw": "ões recebidas dos agentes através do pedido de atra"
-    },
-    {
-      "id": 1311,
-      "raw": "cação no sistema TOS+ e pode ser modificada conform"
-    },
-    {
-      "id": 1312,
-      "raw": "e N.O.R de cada navio, de acordo com as Normas da E"
-    },
-    {
-      "id": 1313,
-      "raw": "MAP."
-    },
-    {
-      "id": 1314,
-      "raw": "Obs.: Informamos que as informações de Equipamento"
-    },
-    {
-      "id": 1315,
-      "raw": "Especial de Cais e Transbordo foram transferidas pa"
-    },
-    {
-      "id": 1316,
-      "raw": "ra o campo observações."
-    },
-    {
-      "id": 1317,
-      "raw": "BERÇO 105 Loa:"
-    },
-    {
-      "id": 1318,
-      "raw": "229"
-    },
-    {
-      "id": 1319,
-      "raw": "Prof.: 18m DWT:"
-    },
-    {
-      "id": 1320,
-      "raw": "150.000"
-    },
-    {
-      "id": 1321,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 1322,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 1323,
-      "raw": "BERÇO 106 Loa:"
-    },
-    {
-      "id": 1324,
-      "raw": "280"
-    },
-    {
-      "id": 1325,
-      "raw": "Prof.: 19m DWT:"
-    },
-    {
-      "id": 1326,
-      "raw": "155.000"
-    },
-    {
-      "id": 1327,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 1328,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 1329,
-      "raw": "BERÇO 108 Loa:"
-    },
-    {
-      "id": 1330,
-      "raw": "245"
-    },
-    {
-      "id": 1331,
-      "raw": "Prof.: 15m DWT:"
-    },
-    {
-      "id": 1332,
-      "raw": "91.600"
-    },
-    {
-      "id": 1333,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 1334,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 1335,
-      "raw": "BERÇO 103 Loa:"
-    },
-    {
-      "id": 1336,
-      "raw": "229"
-    },
-    {
-      "id": 1337,
-      "raw": "Prof.: 15m DWT:"
-    },
-    {
-      "id": 1338,
-      "raw": "100.000"
-    },
-    {
-      "id": 1339,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 1340,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 1341,
-      "raw": "BERÇO 104 Loa:"
-    },
-    {
-      "id": 1342,
-      "raw": "183"
-    },
-    {
-      "id": 1343,
-      "raw": "Prof.: 13m DWT:"
-    },
-    {
-      "id": 1344,
-      "raw": "80.000"
-    },
-    {
-      "id": 1345,
-      "raw": "Atualização:"
-    },
-    {
-      "id": 1346,
-      "raw": "23/04 -10:00"
-    },
-    {
-      "id": 1347,
-      "raw": "Código do registro: EMAP-RSGI - 35 PROGRAMAÇÃO DO NAV"
-    },
-    {
-      "id": 1348,
-      "raw": "IO – LINE UP Data de revisão do template: 01/07/202"
-    },
-    {
-      "id": 1349,
-      "raw": "4"
-    },
-    {
-      "id": 1350,
-      "raw": "23/04/2026"
-    },
-    {
-      "id": 1351,
-      "raw": "Programação - LINE UP"
-    },
-    {
-      "id": 1352,
-      "raw": "LEGENDA"
-    },
-    {
-      "id": 1353,
-      "raw": "* - PREFERÊNCIA MÁXIMA NO BERÇO# - PREFERÊNCIA IMEDIATAMENTE APÓS A MÁXIMA"
-    },
-    {
-      "id": 1354,
-      "raw": "⚓"
-    },
-    {
-      "id": 1355,
-      "raw": "- EMBARCAÇÃO DE PASSAGEIROS"
-    },
-    {
-      "id": 1356,
-      "raw": "⊛"
-    },
-    {
-      "id": 1357,
-      "raw": "- ESTÁ NA CARÊNCIA DE 48H PARA ASSUMIR A PREFERÊNC"
-    },
-    {
-      "id": 1358,
-      "raw": "IA"
-    },
-    {
-      "id": 1359,
-      "raw": "Código do registro: EMAP-RSGI - 35 PROGRAMAÇÃO DO NAV"
-    },
-    {
-      "id": 1360,
-      "raw": "IO – LINE UP Data de revisão do template: 01/07/202"
-    },
-    {
-      "id": 1361,
-      "raw": "4"
+      "status": "ESPERADO",
+      "rawBlock": "SARONIC WIND | 182,75 32,00 | 49.985 10,95 8,00 29/ | 4/26 10:00 | 29/4 | 2/5 | D GASOLINA / DIESEL 31.870 | WILSON SON | S | TRANSPETRO | ACELEN | Obs.: A sequência de atracações e a determinação do | s piers para navios esperados é baseada em informaç | ões recebidas dos agentes através do pedido de atra | cação no sistema TOS+ e pode ser modificada conform | e N.O.R de cada navio, de acordo com as Normas da E | MAP. | Obs.: Informamos que as informações de Equipamento | Especial de Cais e Transbordo foram transferidas pa | ra o campo observações. | BERÇO 105 Loa: | Prof.: 18m DWT: | 150.000 | 23/04 -10:00 | BERÇO 106 Loa: | Prof.: 19m DWT: | 155.000 | 23/04 -10:00 | BERÇO 108 Loa: | Prof.: 15m DWT: | 91.600 | 23/04 -10:00 | BERÇO 103 Loa: | Prof.: 15m DWT: | 100.000 | 23/04 -10:00 | BERÇO 104 Loa: | Prof.: 13m DWT: | 80.000 | 23/04 -10:00 | IO – LINE UP Data de revisão do template: 01/07/202 | - EMBARCAÇÃO DE PASSAGEIROS | - ESTÁ NA CARÊNCIA DE 48H PARA ASSUMIR A PREFERÊNC | IA | IO – LINE UP Data de revisão do template: 01/07/202",
+      "lines": [
+        "SARONIC WIND",
+        "182,75 32,00",
+        "49.985 10,95 8,00 29/",
+        "4/26 10:00",
+        "29/4",
+        "2/5",
+        "D GASOLINA / DIESEL 31.870",
+        "WILSON SON",
+        "S",
+        "TRANSPETRO",
+        "ACELEN",
+        "Obs.: A sequência de atracações e a determinação do",
+        "s piers para navios esperados é baseada em informaç",
+        "ões recebidas dos agentes através do pedido de atra",
+        "cação no sistema TOS+ e pode ser modificada conform",
+        "e N.O.R de cada navio, de acordo com as Normas da E",
+        "MAP.",
+        "Obs.: Informamos que as informações de Equipamento",
+        "Especial de Cais e Transbordo foram transferidas pa",
+        "ra o campo observações.",
+        "BERÇO 105 Loa:",
+        "Prof.: 18m DWT:",
+        "150.000",
+        "23/04 -10:00",
+        "BERÇO 106 Loa:",
+        "Prof.: 19m DWT:",
+        "155.000",
+        "23/04 -10:00",
+        "BERÇO 108 Loa:",
+        "Prof.: 15m DWT:",
+        "91.600",
+        "23/04 -10:00",
+        "BERÇO 103 Loa:",
+        "Prof.: 15m DWT:",
+        "100.000",
+        "23/04 -10:00",
+        "BERÇO 104 Loa:",
+        "Prof.: 13m DWT:",
+        "80.000",
+        "23/04 -10:00",
+        "IO – LINE UP Data de revisão do template: 01/07/202",
+        "- EMBARCAÇÃO DE PASSAGEIROS",
+        "- ESTÁ NA CARÊNCIA DE 48H PARA ASSUMIR A PREFERÊNC",
+        "IA",
+        "IO – LINE UP Data de revisão do template: 01/07/202"
+      ]
     }
   ]
 }
