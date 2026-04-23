@@ -30,6 +30,9 @@ jobs:
       - name: Run PDF download
         run: npm run download
 
+      - name: Run JSON build
+        run: npm run build-json
+
       - name: Show discovered file
         if: always()
         run: |
@@ -50,6 +53,16 @@ jobs:
             echo "data/downloaded-pdf.json not found"
           fi
 
+      - name: Show latest json
+        if: always()
+        run: |
+          echo "=== latest.json ==="
+          if [ -f data/latest.json ]; then
+            cat data/latest.json
+          else
+            echo "data/latest.json not found"
+          fi
+
       - name: Commit generated files
         if: always()
         run: |
@@ -58,11 +71,13 @@ jobs:
 
           git add data/discovered-pdf.json
           git add data/downloaded-pdf.json
+          git add data/latest.json
           git add downloads/latest.pdf
+          git add downloads/latest.txt
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update discovered and downloaded Itaqui PDF"
+            git commit -m "Update Itaqui PDF, text and JSON"
             git push
           fi
