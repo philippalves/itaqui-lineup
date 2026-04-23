@@ -3,22 +3,30 @@ import pdf from "pdf-parse"
 
 const STATUS_VALUES = ["ATRACADO", "FUNDEADO", "ESPERADO"]
 
-function normalizeLine(line) {
-  return line
+function normalizeText(text) {
+  return text
     .replace(/\u00a0/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
+    .replace(/\r/g, "")
 }
 
-function shouldIgnoreLine(line) {
+function normalizeLine(line) {
+  return line.replace(/\s+/g, " ").trim()
+}
+
+function isStatusStart(line) {
+  return STATUS_VALUES.some((status) => line.startsWith(status + " "))
+}
+
+function shouldDropLine(line) {
   if (!line) return true
 
-  const ignoredPatterns = [
+  const patterns = [
+    /^\d{2}\/\d{2}\/\d{4}$/,
     /^Programação - LINE UP$/i,
-    /^\d{2}\/\d{2}\/\d{4}$/i,
+    /^LEGENDA$/i,
     /^Berço$/i,
     /^Berços$/i,
-    /^Berth$/i,
+    /^Berth/i,
     /^Status$/i,
     /^IMO$/i,
     /^Navio$/i,
@@ -41,148 +49,108 @@ function shouldIgnoreLine(line) {
     /^Cargo$/i,
     /^Qtde\.$/i,
     /^Agente/i,
+    /^Agency$/i,
     /^Operador Portuário/i,
+    /^Port Operator/i,
     /^Import\.\/Export\.$/i,
-    /^OBSERVAÇÕES/i,
+    /^OBSERVAÇÕES$/i,
     /^Remarks$/i,
-    /^LEGENDA$/i,
-    /^Código do registro:/i,
-    /^Atualização:/i,
-    /^Atracados - Berthed$/i,
-    /^Fundeados - At Anchorage$/i,
-    /^Esperados - Forecasted$/i,
+    /^Atracados - Berthed/i,
+    /^Fundeados - At Anchorage/i,
+    /^Esperados - Forecasted/i,
     /^Manutenção$/i,
     /^Novo$/i,
     /^Editar$/i,
     /^Excluir$/i,
+    /^Código do registro:/i,
     /^\* - /,
     /^# - /,
-    /^⚓/,
-    /^⊛/,
-    /^\d+$/,
-    /^Import\./i
+    /^⚓- /,
+    /^⊛ - /,
+    /^1$/,
+    /^Atualização:/i,
+    /^Prof\.:/i,
+    /^BERÇO \d+/i,
+    /^Obs\.:/i
   ]
 
-  return ignoredPatterns.some((pattern) => pattern.test(line))
+  return patterns.some((pattern) => pattern.test(line))
 }
 
-function cleanLines(text) {
-  return text
+function rebuildLogicalLines(text) {
+  const rawLines = normalizeText(text)
     .split("\n")
     .map(normalizeLine)
-    .filter((line) => !shouldIgnoreLine(line))
-}
+    .filter(Boolean)
+    .filter((line) => !shouldDropLine(line))
 
-function isStatusLine(line) {
-  return STATUS_VALUES.includes(line)
-}
+  const logical = []
+  let current = ""
 
-function looksLikeIMO(line) {
-  return /^\d{7}$/.test(line)
-}
-
-function looksLikeDecimal(line) {
-  return /^\d{1,3}(?:[.,]\d{1,2})$/.test(line)
-}
-
-function looksLikeIntegerWithThousands(line) {
-  return /^\d{1,3}(?:\.\d{3})*(?:,\d+)?$/.test(line) || /^\d{4,6}$/.test(line)
-}
-
-function isLikelyVesselName(line) {
-  if (!line) return false
-  if (looksLikeIMO(line)) return false
-  if (looksLikeDecimal(line)) return false
-  if (looksLikeIntegerWithThousands(line)) return false
-  if (STATUS_VALUES.includes(line)) return false
-  if (line.length < 3) return false
-
-  return /[A-Z]/.test(line)
-}
-
-function parseCoreFields(lines) {
-  const result = {
-    imo: null,
-    vessel: null,
-    loa: null,
-    beam: null,
-    dwt: null
-  }
-
-  const imoIndex = lines.findIndex((line) => looksLikeIMO(line))
-
-  if (imoIndex === -1) {
-    return result
-  }
-
-  result.imo = lines[imoIndex] || null
-
-  for (let i = imoIndex + 1; i < lines.length; i++) {
-    const line = lines[i]
-
-    if (isLikelyVesselName(line)) {
-      result.vessel = line
-      break
+  for (const line of rawLines) {
+    if (isStatusStart(line)) {
+      if (current) logical.push(current.trim())
+      current = line
+    } else {
+      if (!current) continue
+      current += " " + line
     }
   }
 
-  const numericCandidates = []
+  if (current) logical.push(current.trim())
 
-  for (let i = imoIndex + 1; i < lines.length; i++) {
-    const line = lines[i]
-
-    if (looksLikeDecimal(line) || looksLikeIntegerWithThousands(line)) {
-      numericCandidates.push(line)
-    }
-
-    if (numericCandidates.length >= 5) break
-  }
-
-  if (numericCandidates[0]) result.loa = numericCandidates[0]
-  if (numericCandidates[1]) result.beam = numericCandidates[1]
-  if (numericCandidates[2]) result.dwt = numericCandidates[2]
-
-  return result
+  return logical
 }
 
-function buildRecords(lines) {
-  const records = []
-  let current = null
+function parseRecordLine(line) {
+  const statusMatch = line.match(/^(ATRACADO|FUNDEADO|ESPERADO)\s+(.*)$/)
+  if (!statusMatch) return null
 
-  for (const line of lines) {
-    if (isStatusLine(line)) {
-      if (current) {
-        records.push(current)
-      }
+  const status = statusMatch[1]
+  const rest = statusMatch[2]
 
-      current = {
-        status: line,
-        lines: []
-      }
-
-      continue
-    }
-
-    if (!current) continue
-
-    current.lines.push(line)
-  }
-
-  if (current) {
-    records.push(current)
-  }
-
-  return records.map((record, index) => {
-    const parsed = parseCoreFields(record.lines)
-
+  const imoMatch = rest.match(/^(BL|\d{7})\s+(.*)$/)
+  if (!imoMatch) {
     return {
-      id: index + 1,
-      status: record.status,
-      parsed,
-      rawBlock: record.lines.join(" | "),
-      lines: record.lines
+      status,
+      raw: line,
+      parsed: {}
     }
-  })
+  }
+
+  const imo = imoMatch[1]
+  const afterImo = imoMatch[2]
+
+  const numStart = afterImo.search(/\s\d{1,3},\d{1,2}\s/)
+  let vessel = null
+  let afterVessel = afterImo
+
+  if (numStart > 0) {
+    vessel = afterImo.slice(0, numStart).trim()
+    afterVessel = afterImo.slice(numStart).trim()
+  }
+
+  const numericMatches = [...afterVessel.matchAll(/\b\d{1,3},\d{1,2}\b|\b\d{1,3}(?:\.\d{3})+\b|\b\d{4,6}\b/g)].map(m => m[0])
+
+  const loa = numericMatches[0] || null
+  const beam = numericMatches[1] || null
+  const dwt = numericMatches[2] || null
+  const arrivalDraft = numericMatches[3] || null
+  const sailingDraft = numericMatches[4] || null
+
+  return {
+    status,
+    raw: line,
+    parsed: {
+      imo,
+      vessel,
+      loa,
+      beam,
+      dwt,
+      arrivalDraft,
+      sailingDraft
+    }
+  }
 }
 
 async function main() {
@@ -196,8 +164,14 @@ async function main() {
   await fs.mkdir("downloads", { recursive: true })
   await fs.writeFile("downloads/latest.txt", text, "utf-8")
 
-  const cleaned = cleanLines(text)
-  const records = buildRecords(cleaned)
+  const logicalLines = rebuildLogicalLines(text)
+  const records = logicalLines
+    .map(parseRecordLine)
+    .filter(Boolean)
+    .map((record, index) => ({
+      id: index + 1,
+      ...record
+    }))
 
   const payload = {
     sourcePage: discovered.sourcePage || "",
@@ -205,7 +179,7 @@ async function main() {
     updatedAt: new Date().toISOString(),
     totalPages: parsedPdf.numpages || null,
     totalTextLength: text.length,
-    cleanLines: cleaned,
+    logicalLines,
     records
   }
 
@@ -216,16 +190,11 @@ async function main() {
     "utf-8"
   )
 
-  console.log("Texto extraído com sucesso.")
-  console.log(`Páginas detectadas: ${parsedPdf.numpages || 0}`)
-  console.log(`Linhas limpas: ${cleaned.length}`)
-  console.log(`Registros detectados: ${records.length}`)
-  console.log("Arquivo salvo em downloads/latest.txt")
-  console.log("Arquivo salvo em data/latest.json")
+  console.log(`Logical lines: ${logicalLines.length}`)
+  console.log(`Records: ${records.length}`)
 }
 
 main().catch((error) => {
-  console.error("Erro ao gerar JSON a partir do PDF:")
   console.error(error?.stack || error?.message || error)
   process.exit(1)
 })
