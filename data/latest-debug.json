@@ -1,8 +1,10 @@
 {
   "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
-  "generatedAt": "2026-04-23T19:36:32.476Z",
+  "generatedAt": "2026-04-23T19:40:38.873Z",
   "textLength": 18032,
-  "first500Chars": "\n\n23/04/2026\nProgramação - LINE UP\nBerço\n Berth\nStatus\nIMO\nNavio                     \nLOA\nBoca\nDWT\nCalado de \nChegada\nCalado de saída\nPrev. \nChegada\nPrev.\nAtrac.\nPrev.\nDesatrac.\nOper\nProduto            \nQtde. \nAgente   Agency\nOperador Portuário Port \nOperator\nImport./Export.\n OBSERVAÇÕES                                       \n                                                   \n        \nStatus\nIMO\nVessel\nBeam\nDWT\nArrival Draft    Sailing Draft\nETA / NOR\nETB\nETS\nação\nCargo\n*\nAgente   Agency\nOperad",
+  "rawLinesCount": 990,
+  "mergedLinesCount": 361,
   "logicalLinesCount": 0,
-  "recordsCount": 0
+  "recordsCount": 0,
+  "logicalPreview": []
 }
