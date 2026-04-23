@@ -2,8 +2,8 @@
   "sourcePage": "https://website.portodoitaqui.com.br/home",
   "pdfUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
   "linkText": "Mapa de Atracação",
-  "foundAt": "2026-04-23T19:40:35.748Z",
-  "candidatesFound": 7,
+  "foundAt": "2026-04-23T19:47:36.349Z",
+  "candidatesFound": 8,
   "topCandidates": [
     {
       "href": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA DE ATRACAÇÃO - 23 04 2026 -10h00 - clientes_69ea35dc63399.pdf",
@@ -46,6 +46,12 @@
       "text": "9 Navios Atracados",
       "absoluteUrl": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
       "score": 22
+    },
+    {
+      "href": "https://login.microsoftonline.com/",
+      "text": "Webmail",
+      "absoluteUrl": "https://login.microsoftonline.com/",
+      "score": 10
     }
   ]
 }
