@@ -15,7 +15,7 @@ function shouldIgnoreLine(line) {
 
   const ignoredPatterns = [
     /^Programação - LINE UP$/i,
-    /^23\/\d{2}\/\d{4}$/i,
+    /^\d{2}\/\d{2}\/\d{4}$/i,
     /^Berço$/i,
     /^Berços$/i,
     /^Berth$/i,
@@ -77,6 +77,74 @@ function isStatusLine(line) {
   return STATUS_VALUES.includes(line)
 }
 
+function looksLikeIMO(line) {
+  return /^\d{7}$/.test(line)
+}
+
+function looksLikeDecimal(line) {
+  return /^\d{1,3}(?:[.,]\d{1,2})$/.test(line)
+}
+
+function looksLikeIntegerWithThousands(line) {
+  return /^\d{1,3}(?:\.\d{3})*(?:,\d+)?$/.test(line) || /^\d{4,6}$/.test(line)
+}
+
+function isLikelyVesselName(line) {
+  if (!line) return false
+  if (looksLikeIMO(line)) return false
+  if (looksLikeDecimal(line)) return false
+  if (looksLikeIntegerWithThousands(line)) return false
+  if (STATUS_VALUES.includes(line)) return false
+  if (line.length < 3) return false
+
+  return /[A-Z]/.test(line)
+}
+
+function parseCoreFields(lines) {
+  const result = {
+    imo: null,
+    vessel: null,
+    loa: null,
+    beam: null,
+    dwt: null
+  }
+
+  const imoIndex = lines.findIndex((line) => looksLikeIMO(line))
+
+  if (imoIndex === -1) {
+    return result
+  }
+
+  result.imo = lines[imoIndex] || null
+
+  for (let i = imoIndex + 1; i < lines.length; i++) {
+    const line = lines[i]
+
+    if (isLikelyVesselName(line)) {
+      result.vessel = line
+      break
+    }
+  }
+
+  const numericCandidates = []
+
+  for (let i = imoIndex + 1; i < lines.length; i++) {
+    const line = lines[i]
+
+    if (looksLikeDecimal(line) || looksLikeIntegerWithThousands(line)) {
+      numericCandidates.push(line)
+    }
+
+    if (numericCandidates.length >= 5) break
+  }
+
+  if (numericCandidates[0]) result.loa = numericCandidates[0]
+  if (numericCandidates[1]) result.beam = numericCandidates[1]
+  if (numericCandidates[2]) result.dwt = numericCandidates[2]
+
+  return result
+}
+
 function buildRecords(lines) {
   const records = []
   let current = null
@@ -104,12 +172,17 @@ function buildRecords(lines) {
     records.push(current)
   }
 
-  return records.map((record, index) => ({
-    id: index + 1,
-    status: record.status,
-    rawBlock: record.lines.join(" | "),
-    lines: record.lines
-  }))
+  return records.map((record, index) => {
+    const parsed = parseCoreFields(record.lines)
+
+    return {
+      id: index + 1,
+      status: record.status,
+      parsed,
+      rawBlock: record.lines.join(" | "),
+      lines: record.lines
+    }
+  })
 }
 
 async function main() {
@@ -117,8 +190,8 @@ async function main() {
   const discoveredRaw = await fs.readFile("data/discovered-pdf.json", "utf-8")
   const discovered = JSON.parse(discoveredRaw)
 
-  const parsed = await pdf(pdfBuffer)
-  const text = parsed.text || ""
+  const parsedPdf = await pdf(pdfBuffer)
+  const text = parsedPdf.text || ""
 
   await fs.mkdir("downloads", { recursive: true })
   await fs.writeFile("downloads/latest.txt", text, "utf-8")
@@ -130,7 +203,7 @@ async function main() {
     sourcePage: discovered.sourcePage || "",
     sourcePdf: discovered.pdfUrl || "",
     updatedAt: new Date().toISOString(),
-    totalPages: parsed.numpages || null,
+    totalPages: parsedPdf.numpages || null,
     totalTextLength: text.length,
     cleanLines: cleaned,
     records
@@ -144,7 +217,7 @@ async function main() {
   )
 
   console.log("Texto extraído com sucesso.")
-  console.log(`Páginas detectadas: ${parsed.numpages || 0}`)
+  console.log(`Páginas detectadas: ${parsedPdf.numpages || 0}`)
   console.log(`Linhas limpas: ${cleaned.length}`)
   console.log(`Registros detectados: ${records.length}`)
   console.log("Arquivo salvo em downloads/latest.txt")
