@@ -99,17 +99,11 @@ function mergeBrokenLines(lines) {
       /^[,./:;-]/.test(curr) ||
       /[\/.,:-]$/.test(prev) ||
       (/^\d{1,2}$/.test(curr) && /\d,\d$/.test(prev)) ||
-      (/^\d{1,2}$/.test(curr) && /\d\/$/.test(prev)) ||
-      (/^[A-Z]{1,3}$/.test(curr) && /[A-Z]$/.test(prev)) ||
-      (/^[a-z]{1,3}$/.test(curr) && /[a-z]$/.test(prev))
+      (/^[A-Z]{1,3}$/.test(curr) && /[A-Z]$/.test(prev))
 
     const appendWithSpace =
       !isStatusOnly(curr) &&
-      (
-        /^[A-Z]{1,4}$/.test(curr) ||
-        /^[a-z]/.test(curr) ||
-        /^\d{1,2}:\d{2}$/.test(curr)
-      )
+      (/^[A-Z]{1,4}$/.test(curr) || /^[a-z]/.test(curr) || /^\d{1,2}:\d{2}$/.test(curr))
 
     if (appendNoSpace) {
       merged[merged.length - 1] = prev + curr
@@ -126,46 +120,43 @@ function mergeBrokenLines(lines) {
 function repairCommonBreaks(lines) {
   return lines.map((line) =>
     line
+      .replace(/32,2 9/g, "32,29")
       .replace(/(\d,\d)\s+(\d)\b/g, "$1$2")
       .replace(/(\d,\d{1})\s+(\d)\b/g, "$1$2")
       .replace(/(\d{1,2}\/\d{1,2})\s*\/\s*(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
       .replace(/(\d{1,2}\/\d{1,2})\s+(\d{2}\s+\d{1,2}:\d{2})/g, "$1/$2")
-      .replace(/\bWILHELMSENG\s*5\b/g, "WILHELMSEN G5")
-      .replace(/\bWILHELMSENG5\b/g, "WILHELMSEN G5")
-      .replace(/\bTEGRAMLOU\s+IS\b/g, "TEGRAM LOUIS")
-      .replace(/\bTEGRAMA\s+MAGGI\b/g, "TEGRAM AMAGGI")
-      .replace(/\bTEGRAMCHS\b/g, "TEGRAM CHS")
-      .replace(/\bTEGRAMADM\b/g, "TEGRAM ADM")
-      .replace(/\bTEGRAMCOFCO\b/g, "TEGRAM COFCO")
-      .replace(/\bVLIAGREX\b/g, "VLI AGREX")
-      .replace(/\bVLICOFCO\b/g, "VLI COFCO")
-      .replace(/\bCOPIFERTGROW\b/g, "COPI FERTGROW")
-      .replace(/\bFERTIPA\s+R\//g, "FERTIPAR/")
-      .replace(/\bSAL\s+OBO\b/g, "SALOBO")
-      .replace(/\bWILHE\s+LMSEN\b/g, "WILHELMSEN")
-      .replace(/\bWILSON\s+SON\s+S\b/g, "WILSON SONS")
-      .replace(/\bTEGR\s+AM\b/g, "TEGRAM")
-      .replace(/\bTRA\s+NSPETRO\b/g, "TRANSPETRO")
-      .replace(/\bTRANSPE\s+TRO\b/g, "TRANSPETRO")
-      .replace(/\bPETROB\s+RAS\b/g, "PETROBRAS")
-      .replace(/\bAMA\s+GGI\b/g, "AMAGGI")
-      .replace(/\bMOS\s+AIC\b/g, "MOSAIC")
-      .replace(/\bBUN\s+GE\b/g, "BUNGE")
-      .replace(/\bLOU\s+IS\b/g, "LOUIS")
-      .replace(/\bCAR\s+GILL\b/g, "CARGILL")
-      .replace(/\bFERTIP\s+AR\b/g, "FERTIPAR")
-      .replace(/\bNML\s+TANKE\s+RS\b/g, "NML TANKERS")
-      .replace(/\bLBH\s+BRA\s+SIL\b/g, "LBH BRASIL")
-      .replace(/\bGRANEL\s+QUÍM\s+ICA\b/g, "GRANEL QUÍMICA")
-      .replace(/\bQAV\/DIESEL\/GASOLI\s+NA\b/g, "QAV/DIESEL/GASOLINA")
+      .replace(/WILHELMSENG 5/g, "WILHELMSEN G5")
+      .replace(/WILHELMSENG5/g, "WILHELMSEN G5")
+      .replace(/TEGRAMLOU IS/g, "TEGRAM LOUIS")
+      .replace(/TEGRAMA MAGGI/g, "TEGRAM AMAGGI")
+      .replace(/TEGRAMCHS/g, "TEGRAM CHS")
+      .replace(/TEGRAMADM/g, "TEGRAM ADM")
+      .replace(/TEGRAMCOFCO/g, "TEGRAM COFCO")
+      .replace(/VLIAGREX/g, "VLI AGREX")
+      .replace(/VLICOFCO/g, "VLI COFCO")
+      .replace(/COPIFERTGROW/g, "COPI FERTGROW")
+      .replace(/FERTIPA R\//g, "FERTIPAR/")
+      .replace(/SAL OBO/g, "SALOBO")
+      .replace(/WILHE LMSEN/g, "WILHELMSEN")
+      .replace(/WILSON SON S/g, "WILSON SONS")
+      .replace(/TEGR AM/g, "TEGRAM")
+      .replace(/TRA NSPETRO/g, "TRANSPETRO")
+      .replace(/TRANSPE TRO/g, "TRANSPETRO")
+      .replace(/PETROB RAS/g, "PETROBRAS")
+      .replace(/AMA GGI/g, "AMAGGI")
+      .replace(/MOS AIC/g, "MOSAIC")
+      .replace(/BUN GE/g, "BUNGE")
+      .replace(/LOU IS/g, "LOUIS")
+      .replace(/CAR GILL/g, "CARGILL")
+      .replace(/FERTIP AR/g, "FERTIPAR")
+      .replace(/NML TANKE RS/g, "NML TANKERS")
+      .replace(/LBH BRA SIL/g, "LBH BRASIL")
+      .replace(/GRANEL QUÍM ICA/g, "GRANEL QUÍMICA")
+      .replace(/QAV\/DIESEL\/GASOLI NA/g, "QAV/DIESEL/GASOLINA")
       .replace(/\bCalado de Chegada.*$/i, "")
       .replace(/\s+/g, " ")
       .trim()
   )
-}
-
-function isContaminatedLine(line) {
-  return /Calado de Chegada|Atrac\.Desatrac\.|Operator \* Operator|Port Operator/i.test(line)
 }
 
 function buildLogicalLines(lines) {
@@ -180,16 +171,23 @@ function buildLogicalLines(lines) {
     }
 
     if (!current) continue
-    if (isContaminatedLine(line)) continue
-
     current += " " + line
   }
 
   if (current) logical.push(current.trim())
 
-  return logical
-    .map(normalizeLine)
-    .filter((line) => !isContaminatedLine(line))
+  return logical.map(normalizeLine)
+}
+
+function findOperationIndex(tokens) {
+  return tokens.findIndex((t) => t === "C" || t === "D")
+}
+
+function findEtaIndex(tokens) {
+  return tokens.findIndex((t, i) => {
+    const next = tokens[i + 1]
+    return /^\d{1,2}\/\d{1,2}\/\d{2}$/.test(t) && next && /^\d{1,2}:\d{2}$/.test(next)
+  })
 }
 
 function parseRecordLine(line) {
@@ -198,40 +196,49 @@ function parseRecordLine(line) {
 
   const status = statusMatch[1]
   const rest = statusMatch[2]
+  const tokens = rest.split(" ")
 
-  const imoMatch = rest.match(/^(BL|\d{7})\s+(.*)$/)
-  if (!imoMatch) {
-    return { status, raw: line, parsed: {} }
-  }
+  const imo = tokens[0] || null
+  if (!imo) return null
 
-  const imo = imoMatch[1]
-  const afterImo = imoMatch[2]
+  const etaIdx = findEtaIndex(tokens)
+  const opIdx = findOperationIndex(tokens)
 
-  const numStart = afterImo.search(/\s\d{1,3},\d{1,2}\s/)
   let vessel = null
-  let afterVessel = afterImo
+  let etaNor = null
+  let etb = null
+  let ets = null
+  let operation = null
+  let cargo = null
 
-  if (numStart > 0) {
-    vessel = afterImo.slice(0, numStart).trim()
-    afterVessel = afterImo.slice(numStart).trim()
+  if (etaIdx > 1) {
+    vessel = tokens.slice(1, etaIdx - 4).join(" ").trim() || null
+    etaNor = `${tokens[etaIdx]} ${tokens[etaIdx + 1]}`
+    etb = tokens[etaIdx + 2] || null
+    ets = tokens[etaIdx + 3] || null
   }
 
-  const numericMatches = [
-    ...afterVessel.matchAll(/\b\d{1,3},\d{1,2}\b|\b\d{1,3}(?:\.\d{3})+\b|\b\d{4,6}\b/g)
-  ].map((m) => m[0])
+  if (opIdx !== -1) {
+    operation = tokens[opIdx]
+    const cargoStart = opIdx + 1
+    const qtyIdx = tokens.findIndex((t, i) => i > cargoStart && /^\d{1,3}(?:\.\d{3})+$/.test(t))
+    if (qtyIdx !== -1) {
+      cargo = tokens.slice(cargoStart, qtyIdx).join(" ").trim() || null
+    } else {
+      cargo = tokens.slice(cargoStart).join(" ").trim() || null
+    }
+  }
 
   return {
     status,
-    raw: line,
-    parsed: {
-      imo,
-      vessel,
-      loa: numericMatches[0] || null,
-      beam: numericMatches[1] || null,
-      dwt: numericMatches[2] || null,
-      arrivalDraft: numericMatches[3] || null,
-      sailingDraft: numericMatches[4] || null
-    }
+    imo,
+    vessel,
+    etaNor,
+    etb,
+    ets,
+    operation,
+    cargo,
+    raw: line
   }
 }
 
@@ -259,16 +266,24 @@ async function main() {
       ...record
     }))
 
+  const simplified = records.map((r) => ({
+    status: r.status,
+    imo: r.imo,
+    vessel: r.vessel,
+    etaNor: r.etaNor,
+    etb: r.etb,
+    ets: r.ets,
+    operation: r.operation,
+    cargo: r.cargo
+  }))
+
   const debug = {
     sourcePdf: discovered.pdfUrl || "",
     generatedAt: new Date().toISOString(),
     textLength: text.length,
-    rawLinesCount: rawLines.length,
-    mergedLinesCount: mergedLines.length,
-    repairedLinesCount: repairedLines.length,
     logicalLinesCount: logicalLines.length,
     recordsCount: records.length,
-    logicalPreview: logicalLines.slice(0, 10)
+    preview: simplified.slice(0, 10)
   }
 
   const payload = {
@@ -277,26 +292,16 @@ async function main() {
     updatedAt: new Date().toISOString(),
     totalPages: parsedPdf.numpages || null,
     totalTextLength: text.length,
-    rawLines,
-    mergedLines,
-    repairedLines,
-    logicalLines,
-    records
+    records,
+    simplified
   }
 
   await fs.mkdir("data", { recursive: true })
   await fs.writeFile("data/latest-debug.json", JSON.stringify(debug, null, 2), "utf-8")
   await fs.writeFile("data/latest.json", JSON.stringify(payload, null, 2), "utf-8")
 
-  console.log("TXT regenerated successfully")
-  console.log(`Pages: ${parsedPdf.numpages || 0}`)
-  console.log(`Raw lines: ${rawLines.length}`)
-  console.log(`Merged lines: ${mergedLines.length}`)
-  console.log(`Repaired lines: ${repairedLines.length}`)
-  console.log(`Logical lines: ${logicalLines.length}`)
   console.log(`Records: ${records.length}`)
-  console.log("Logical preview:")
-  console.log(logicalLines.slice(0, 10).join("\n\n"))
+  console.log(JSON.stringify(debug.preview, null, 2))
 }
 
 main().catch((error) => {
