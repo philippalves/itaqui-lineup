@@ -4,17 +4,15 @@ import pdf from "pdf-parse"
 const STATUS_VALUES = ["ATRACADO", "FUNDEADO", "ESPERADO"]
 
 function normalizeText(text) {
-  return text
-    .replace(/\u00a0/g, " ")
-    .replace(/\r/g, "")
+  return text.replace(/\u00a0/g, " ").replace(/\r/g, "")
 }
 
 function normalizeLine(line) {
   return line.replace(/\s+/g, " ").trim()
 }
 
-function isStatusStart(line) {
-  return STATUS_VALUES.some((status) => line.startsWith(status + " "))
+function isStatusOnly(line) {
+  return STATUS_VALUES.includes(line)
 }
 
 function shouldDropLine(line) {
@@ -26,7 +24,7 @@ function shouldDropLine(line) {
     /^LEGENDA$/i,
     /^Berço$/i,
     /^Berços$/i,
-    /^Berth/i,
+    /^Berth$/i,
     /^Status$/i,
     /^IMO$/i,
     /^Navio$/i,
@@ -65,8 +63,8 @@ function shouldDropLine(line) {
     /^Código do registro:/i,
     /^\* - /,
     /^# - /,
-    /^⚓- /,
-    /^⊛ - /,
+    /^⚓$/,
+    /^⊛$/,
     /^1$/,
     /^Atualização:/i,
     /^Prof\.:/i,
@@ -77,29 +75,72 @@ function shouldDropLine(line) {
   return patterns.some((pattern) => pattern.test(line))
 }
 
-function rebuildLogicalLines(text) {
-  const rawLines = normalizeText(text)
+function cleanRawLines(text) {
+  return normalizeText(text)
     .split("\n")
     .map(normalizeLine)
     .filter(Boolean)
     .filter((line) => !shouldDropLine(line))
+}
 
+function mergeBrokenLines(lines) {
+  const merged = []
+
+  for (const line of lines) {
+    if (!merged.length) {
+      merged.push(line)
+      continue
+    }
+
+    const prev = merged[merged.length - 1]
+
+    const joinWithoutSpace =
+      /[\/.,-]$/.test(prev) ||
+      /^[\/.,-]/.test(line) ||
+      /^[0-9]{1,2}$/.test(line) ||
+      /^[A-Z]{1,3}$/.test(line)
+
+    const joinWithPrev =
+      !isStatusOnly(line) &&
+      (
+        /^[,./:0-9]/.test(line) ||
+        /^[A-Z]{1,4}$/.test(line) ||
+        /^[a-z]/.test(line) ||
+        /\/$/.test(prev) ||
+        /,$/.test(prev) ||
+        /\d$/.test(prev) && /^[.,]/.test(line)
+      )
+
+    if (joinWithoutSpace) {
+      merged[merged.length - 1] = prev + line
+    } else if (joinWithPrev) {
+      merged[merged.length - 1] = prev + " " + line
+    } else {
+      merged.push(line)
+    }
+  }
+
+  return merged
+}
+
+function buildLogicalLines(lines) {
   const logical = []
   let current = ""
 
-  for (const line of rawLines) {
-    if (isStatusStart(line)) {
+  for (const line of lines) {
+    if (isStatusOnly(line)) {
       if (current) logical.push(current.trim())
       current = line
-    } else {
-      if (!current) continue
-      current += " " + line
+      continue
     }
+
+    if (!current) continue
+    current += " " + line
   }
 
   if (current) logical.push(current.trim())
 
-  return logical
+  return logical.map(normalizeLine)
 }
 
 function parseRecordLine(line) {
@@ -126,7 +167,9 @@ function parseRecordLine(line) {
     afterVessel = afterImo.slice(numStart).trim()
   }
 
-  const numericMatches = [...afterVessel.matchAll(/\b\d{1,3},\d{1,2}\b|\b\d{1,3}(?:\.\d{3})+\b|\b\d{4,6}\b/g)].map(m => m[0])
+  const numericMatches = [
+    ...afterVessel.matchAll(/\b\d{1,3},\d{1,2}\b|\b\d{1,3}(?:\.\d{3})+\b|\b\d{4,6}\b/g)
+  ].map((m) => m[0])
 
   return {
     status,
@@ -154,7 +197,10 @@ async function main() {
   await fs.mkdir("downloads", { recursive: true })
   await fs.writeFile("downloads/latest.txt", text, "utf-8")
 
-  const logicalLines = rebuildLogicalLines(text)
+  const rawLines = cleanRawLines(text)
+  const mergedLines = mergeBrokenLines(rawLines)
+  const logicalLines = buildLogicalLines(mergedLines)
+
   const records = logicalLines
     .map(parseRecordLine)
     .filter(Boolean)
@@ -167,9 +213,11 @@ async function main() {
     sourcePdf: discovered.pdfUrl || "",
     generatedAt: new Date().toISOString(),
     textLength: text.length,
-    first500Chars: text.slice(0, 500),
+    rawLinesCount: rawLines.length,
+    mergedLinesCount: mergedLines.length,
     logicalLinesCount: logicalLines.length,
-    recordsCount: records.length
+    recordsCount: records.length,
+    logicalPreview: logicalLines.slice(0, 5)
   }
 
   const payload = {
@@ -178,6 +226,8 @@ async function main() {
     updatedAt: new Date().toISOString(),
     totalPages: parsedPdf.numpages || null,
     totalTextLength: text.length,
+    rawLines,
+    mergedLines,
     logicalLines,
     records
   }
@@ -188,11 +238,12 @@ async function main() {
 
   console.log("TXT regenerated successfully")
   console.log(`Pages: ${parsedPdf.numpages || 0}`)
-  console.log(`Text length: ${text.length}`)
+  console.log(`Raw lines: ${rawLines.length}`)
+  console.log(`Merged lines: ${mergedLines.length}`)
   console.log(`Logical lines: ${logicalLines.length}`)
   console.log(`Records: ${records.length}`)
-  console.log("Preview:")
-  console.log(text.slice(0, 500))
+  console.log("Logical preview:")
+  console.log(logicalLines.slice(0, 5).join("\n\n"))
 }
 
 main().catch((error) => {
