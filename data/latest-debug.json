@@ -1,6 +1,6 @@
 {
   "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
-  "generatedAt": "2026-04-24T00:53:32+00:00",
+  "generatedAt": "2026-04-24T01:12:34+00:00",
   "rawLinesCount": 131,
   "mergedLinesCount": 55,
   "logicalLinesCount": 54,
@@ -9,7 +9,7 @@
     {
       "status": "ATRACADO",
       "imo": "9613850",
-      "vessel": "SAGA FRIGG * 199,90",
+      "vessel": "SAGA FRIGG *",
       "etaNor": "31/3/26 16:54",
       "etb": "22/4",
       "ets": "26/4",
@@ -19,7 +19,7 @@
     {
       "status": "ESPERADO",
       "imo": "9613874",
-      "vessel": "SAGA FRAM * 199,90",
+      "vessel": "SAGA FRAM *",
       "etaNor": "25/4/26 8:00",
       "etb": "26/4",
       "ets": "1/5",
@@ -29,7 +29,7 @@
     {
       "status": "ESPERADO",
       "imo": "9233430",
-      "vessel": "IRAKLIS 179,99",
+      "vessel": "IRAKLIS",
       "etaNor": "25/4/26 20:00",
       "etb": "1/5",
       "ets": "6/5",
@@ -39,7 +39,7 @@
     {
       "status": "ESPERADO",
       "imo": "9824980",
-      "vessel": "GRANDIS * 201,90",
+      "vessel": "GRANDIS *",
       "etaNor": "4/5/26 12:00",
       "etb": "6/5",
       "ets": "11/5",
@@ -49,7 +49,7 @@
     {
       "status": "ESPERADO",
       "imo": "9836701",
-      "vessel": "TAYGETUS 228,99",
+      "vessel": "TAYGETUS",
       "etaNor": "5/5/26 5:00",
       "etb": "11/5",
       "ets": "14/5",
@@ -59,7 +59,7 @@
     {
       "status": "ESPERADO",
       "imo": "9553713",
-      "vessel": "CAPTAIN SITARAS 199,90",
+      "vessel": "CAPTAIN SITARAS",
       "etaNor": "15/5/26 12:00",
       "etb": "15/5",
       "ets": "21/5",
@@ -69,7 +69,7 @@
     {
       "status": "ESPERADO",
       "imo": "9606431",
-      "vessel": "YU XIAO FENG 225,00",
+      "vessel": "YU XIAO FENG",
       "etaNor": "17/5/26 8:00",
       "etb": "21/5",
       "ets": "28/5",
@@ -79,7 +79,7 @@
     {
       "status": "ATRACADO",
       "imo": "9717436",
-      "vessel": "KYPROS SPIRIT 225,00",
+      "vessel": "KYPROS SPIRIT",
       "etaNor": "1/4/26 0:01",
       "etb": "22/4",
       "ets": "24/4",
@@ -89,7 +89,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9905617",
-      "vessel": "HONOR DIVA 229,00",
+      "vessel": "HONOR DIVA",
       "etaNor": "4/4/26 10:00",
       "etb": "24/4",
       "ets": "27/4",
@@ -99,7 +99,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9598177",
-      "vessel": "BBG BRIGHT 228,93",
+      "vessel": "BBG BRIGHT",
       "etaNor": "5/4/26 4:24",
       "etb": "27/4",
       "ets": "30/4",

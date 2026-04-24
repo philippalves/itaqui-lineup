@@ -1,11 +1,11 @@
 {
   "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2004%202026%20-10h00%20-%20clientes_69ea35dc63399.pdf",
-  "updatedAt": "2026-04-24T00:53:32+00:00",
+  "updatedAt": "2026-04-24T01:12:34+00:00",
   "records": [
     {
       "status": "ATRACADO",
       "imo": "9613850",
-      "vessel": "SAGA FRIGG * 199,90",
+      "vessel": "SAGA FRIGG *",
       "etaNor": "31/3/26 16:54",
       "etb": "22/4",
       "ets": "26/4",
@@ -17,7 +17,7 @@
     {
       "status": "ESPERADO",
       "imo": "9613874",
-      "vessel": "SAGA FRAM * 199,90",
+      "vessel": "SAGA FRAM *",
       "etaNor": "25/4/26 8:00",
       "etb": "26/4",
       "ets": "1/5",
@@ -29,7 +29,7 @@
     {
       "status": "ESPERADO",
       "imo": "9233430",
-      "vessel": "IRAKLIS 179,99",
+      "vessel": "IRAKLIS",
       "etaNor": "25/4/26 20:00",
       "etb": "1/5",
       "ets": "6/5",
@@ -41,7 +41,7 @@
     {
       "status": "ESPERADO",
       "imo": "9824980",
-      "vessel": "GRANDIS * 201,90",
+      "vessel": "GRANDIS *",
       "etaNor": "4/5/26 12:00",
       "etb": "6/5",
       "ets": "11/5",
@@ -53,7 +53,7 @@
     {
       "status": "ESPERADO",
       "imo": "9836701",
-      "vessel": "TAYGETUS 228,99",
+      "vessel": "TAYGETUS",
       "etaNor": "5/5/26 5:00",
       "etb": "11/5",
       "ets": "14/5",
@@ -65,7 +65,7 @@
     {
       "status": "ESPERADO",
       "imo": "9553713",
-      "vessel": "CAPTAIN SITARAS 199,90",
+      "vessel": "CAPTAIN SITARAS",
       "etaNor": "15/5/26 12:00",
       "etb": "15/5",
       "ets": "21/5",
@@ -77,7 +77,7 @@
     {
       "status": "ESPERADO",
       "imo": "9606431",
-      "vessel": "YU XIAO FENG 225,00",
+      "vessel": "YU XIAO FENG",
       "etaNor": "17/5/26 8:00",
       "etb": "21/5",
       "ets": "28/5",
@@ -89,7 +89,7 @@
     {
       "status": "ATRACADO",
       "imo": "9717436",
-      "vessel": "KYPROS SPIRIT 225,00",
+      "vessel": "KYPROS SPIRIT",
       "etaNor": "1/4/26 0:01",
       "etb": "22/4",
       "ets": "24/4",
@@ -101,7 +101,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9905617",
-      "vessel": "HONOR DIVA 229,00",
+      "vessel": "HONOR DIVA",
       "etaNor": "4/4/26 10:00",
       "etb": "24/4",
       "ets": "27/4",
@@ -113,7 +113,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9598177",
-      "vessel": "BBG BRIGHT 228,93",
+      "vessel": "BBG BRIGHT",
       "etaNor": "5/4/26 4:24",
       "etb": "27/4",
       "ets": "30/4",
@@ -125,7 +125,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9664952",
-      "vessel": "ANDREAS PETRAKIS 225,00",
+      "vessel": "ANDREAS PETRAKIS",
       "etaNor": "15/4/26 0:01",
       "etb": "30/4",
       "ets": "3/5",
@@ -137,7 +137,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9942081",
-      "vessel": "CL HYAKU 6,40",
+      "vessel": "CL HYAKU",
       "etaNor": "22/4/26 7:18",
       "etb": "3/5",
       "ets": "6/5",
@@ -149,7 +149,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9665932",
-      "vessel": "GRAMPUS CHARM 229,00",
+      "vessel": "GRAMPUS CHARM",
       "etaNor": "13/4/26 13:30",
       "etb": "6/5",
       "ets": "9/5",
@@ -161,7 +161,7 @@
     {
       "status": "FUNDEADO",
       "imo": "1026520",
-      "vessel": "SHANDONG XIN GUO 229,00",
+      "vessel": "SHANDONG XIN GUO",
       "etaNor": "20/4/26 3:30",
       "etb": "9/5",
       "ets": "14/5",
@@ -173,7 +173,7 @@
     {
       "status": "ESPERADO",
       "imo": "9354844",
-      "vessel": "INCE BOSPHORUS 228,99",
+      "vessel": "INCE BOSPHORUS",
       "etaNor": "30/4/26 8:00",
       "etb": "14/5",
       "ets": "17/5",
@@ -185,7 +185,7 @@
     {
       "status": "ESPERADO",
       "imo": "9865568",
-      "vessel": "MAJESTIC STAR 229,00",
+      "vessel": "MAJESTIC STAR",
       "etaNor": "30/4/26 0:00",
       "etb": "17/5",
       "ets": "20/5",
@@ -197,7 +197,7 @@
     {
       "status": "ATRACADO",
       "imo": "9414474",
-      "vessel": "BAM TRITON * 179,00",
+      "vessel": "BAM TRITON *",
       "etaNor": "11/4/26 5:50",
       "etb": "22/4",
       "ets": "26/4",
@@ -209,7 +209,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9566605",
-      "vessel": "PUFFIN ARROW * 199,98",
+      "vessel": "PUFFIN ARROW *",
       "etaNor": "16/4/26 10:12",
       "etb": "26/4",
       "ets": "1/5",
@@ -221,7 +221,7 @@
     {
       "status": "ESPERADO",
       "imo": "9897896",
-      "vessel": "AMIS WEALTH * 200,00",
+      "vessel": "AMIS WEALTH *",
       "etaNor": "1/5/26 14:00",
       "etb": "1/5",
       "ets": "6/5",
@@ -233,7 +233,7 @@
     {
       "status": "ESPERADO",
       "imo": "1082782",
-      "vessel": "HAWK S 179,90",
+      "vessel": "HAWK S",
       "etaNor": "29/4/26 14:00",
       "etb": "6/5",
       "ets": "12/5",
@@ -245,7 +245,7 @@
     {
       "status": "ESPERADO",
       "imo": "9812482",
-      "vessel": "SANTA VALENTINA * 199,92",
+      "vessel": "SANTA VALENTINA *",
       "etaNor": "7/5/26 0:00",
       "etb": "12/5",
       "ets": "13/5",
@@ -257,7 +257,7 @@
     {
       "status": "ESPERADO",
       "imo": "9758143",
-      "vessel": "AMSTEL STORK 199,98",
+      "vessel": "AMSTEL STORK",
       "etaNor": "13/5/26 12:00",
       "etb": "13/5",
       "ets": "17/5",
@@ -269,7 +269,7 @@
     {
       "status": "ATRACADO",
       "imo": "9409742",
-      "vessel": "BARNACLE * 185,00",
+      "vessel": "BARNACLE *",
       "etaNor": "20/4/26 10:40",
       "etb": "23/4",
       "ets": "25/4",
@@ -281,7 +281,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9687162",
-      "vessel": "LAWIN ARROW 199,98",
+      "vessel": "LAWIN ARROW",
       "etaNor": "15/4/26 5:00",
       "etb": "25/4",
       "ets": "1/5",
@@ -293,7 +293,7 @@
     {
       "status": "ESPERADO",
       "imo": "9725029",
-      "vessel": "ASIAN PRIDE 199,98",
+      "vessel": "ASIAN PRIDE",
       "etaNor": "23/4/26 20:00",
       "etb": "1/5",
       "ets": "8/5",
@@ -305,7 +305,7 @@
     {
       "status": "ESPERADO",
       "imo": "9536844",
-      "vessel": "ATLANTIC GLORY 179,99",
+      "vessel": "ATLANTIC GLORY",
       "etaNor": "28/5/26 0:01",
       "etb": "28/5",
       "ets": "3/6",
@@ -317,7 +317,7 @@
     {
       "status": "ESPERADO",
       "imo": "9895252",
-      "vessel": "SH VEGA ⚓ 113,00",
+      "vessel": "SH VEGA ⚓",
       "etaNor": "18/10/26 6:30",
       "etb": "18/10",
       "ets": "19/10",
@@ -329,7 +329,7 @@
     {
       "status": "ESPERADO",
       "imo": "9857640",
-      "vessel": "HANSEATIC SPIRIT ⚓ 138,80",
+      "vessel": "HANSEATIC SPIRIT ⚓",
       "etaNor": "13/11/27 0:00",
       "etb": "13/11",
       "ets": "14/11",
@@ -341,7 +341,7 @@
     {
       "status": "ATRACADO",
       "imo": "9959759",
-      "vessel": "WISDOM DIVA 228,99",
+      "vessel": "WISDOM DIVA",
       "etaNor": "2/4/26 8:30",
       "etb": "23/4",
       "ets": "26/4",
@@ -353,7 +353,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9607112",
-      "vessel": "BORA 229,00",
+      "vessel": "BORA",
       "etaNor": "4/4/26 23:24",
       "etb": "26/4",
       "ets": "28/4",
@@ -365,7 +365,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9310290",
-      "vessel": "MOTARO 228,90",
+      "vessel": "MOTARO",
       "etaNor": "14/3/26 13:00",
       "etb": "28/4",
       "ets": "2/5",
@@ -377,7 +377,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9728629",
-      "vessel": "GLBS ANGEL 229,00",
+      "vessel": "GLBS ANGEL",
       "etaNor": "16/3/26 12:36",
       "etb": "2/5",
       "ets": "5/5",
@@ -389,7 +389,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9523213",
-      "vessel": "JI XIAN FENG 225,00",
+      "vessel": "JI XIAN FENG",
       "etaNor": "13/4/26 5:48",
       "etb": "5/5",
       "ets": "7/5",
@@ -401,7 +401,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9642382",
-      "vessel": "HERCULES 225,00",
+      "vessel": "HERCULES",
       "etaNor": "17/4/26 3:18",
       "etb": "7/5",
       "ets": "10/5",
@@ -413,7 +413,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9658886",
-      "vessel": "ATALANDI 225,00",
+      "vessel": "ATALANDI",
       "etaNor": "21/4/26 0:35",
       "etb": "10/5",
       "ets": "13/5",
@@ -425,7 +425,7 @@
     {
       "status": "ESPERADO",
       "imo": "9336892",
-      "vessel": "LORIENT 224,86",
+      "vessel": "LORIENT",
       "etaNor": "3/5/26 15:00",
       "etb": "13/5",
       "ets": "17/5",
@@ -437,7 +437,7 @@
     {
       "status": "ATRACADO",
       "imo": "9596820",
-      "vessel": "OSCAR NIEMEYER * 117,63",
+      "vessel": "OSCAR NIEMEYER *",
       "etaNor": "19/4/26 8:30",
       "etb": "22/4",
       "ets": "23/4",
@@ -449,7 +449,7 @@
     {
       "status": "FUNDEADO",
       "imo": "BL",
-      "vessel": "BERÇO LIVRE -",
+      "vessel": "BERÇO LIVRE - - -",
       "etaNor": "20/4/26 0:00",
       "etb": "23/4",
       "ets": "26/4",
@@ -461,7 +461,7 @@
     {
       "status": "ESPERADO",
       "imo": "9596832",
-      "vessel": "DARCY RIBEIRO * 117,25",
+      "vessel": "DARCY RIBEIRO *",
       "etaNor": "23/4/26 23:00",
       "etb": "26/4",
       "ets": "28/4",
@@ -473,7 +473,7 @@
     {
       "status": "ESPERADO",
       "imo": "9748978",
-      "vessel": "EPIC BALUAN * 113,08",
+      "vessel": "EPIC BALUAN *",
       "etaNor": "25/4/26 1:00",
       "etb": "3/5",
       "ets": "4/5",
@@ -485,7 +485,7 @@
     {
       "status": "ESPERADO",
       "imo": "9168635",
-      "vessel": "BOW FORTUNE * 183,10",
+      "vessel": "BOW FORTUNE *",
       "etaNor": "4/5/26 0:00",
       "etb": "4/5",
       "ets": "6/5",
@@ -497,7 +497,7 @@
     {
       "status": "ESPERADO",
       "imo": "9268681",
-      "vessel": "FORTE DE COPACABANA * 123,98",
+      "vessel": "FORTE DE COPACABANA *",
       "etaNor": "4/5/26 23:00",
       "etb": "9/5",
       "ets": "11/5",
@@ -509,7 +509,7 @@
     {
       "status": "ATRACADO",
       "imo": "9629665",
-      "vessel": "AQUILA TRADER 180,00",
+      "vessel": "AQUILA TRADER",
       "etaNor": "19/4/26 14:50",
       "etb": "22/4",
       "ets": "24/4",
@@ -521,7 +521,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9488475",
-      "vessel": "WEN ZHU HAI 225,00",
+      "vessel": "WEN ZHU HAI",
       "etaNor": "1/4/26 0:01",
       "etb": "24/4",
       "ets": "26/4",
@@ -533,7 +533,7 @@
     {
       "status": "FUNDEADO",
       "imo": "1042275",
-      "vessel": "EMIR AKSOY 199,90",
+      "vessel": "EMIR AKSOY",
       "etaNor": "14/4/26 18:30",
       "etb": "26/4",
       "ets": "29/4",
@@ -545,7 +545,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9749908",
-      "vessel": "SAKIZAYA KALON 228,92",
+      "vessel": "SAKIZAYA KALON",
       "etaNor": "10/4/26 23:54",
       "etb": "29/4",
       "ets": "1/5",
@@ -557,7 +557,7 @@
     {
       "status": "ESPERADO",
       "imo": "9855599",
-      "vessel": "MAGIC ARIEL 229,00",
+      "vessel": "MAGIC ARIEL",
       "etaNor": "24/4/26 23:00",
       "etb": "1/5",
       "ets": "4/5",
@@ -569,7 +569,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9921843",
-      "vessel": "GCL LUXEMBOURG 229,00",
+      "vessel": "GCL LUXEMBOURG",
       "etaNor": "17/4/26 17:36",
       "etb": "4/5",
       "ets": "7/5",
@@ -581,7 +581,7 @@
     {
       "status": "ESPERADO",
       "imo": "1043413",
-      "vessel": "BASIC FORTUNE 229,00",
+      "vessel": "BASIC FORTUNE",
       "etaNor": "3/5/26 8:00",
       "etb": "7/5",
       "ets": "9/5",
@@ -593,7 +593,7 @@
     {
       "status": "ESPERADO",
       "imo": "9911642",
-      "vessel": "BELTRADER 199,90",
+      "vessel": "BELTRADER",
       "etaNor": "24/4/26 0:01",
       "etb": "9/5",
       "ets": "12/5",
@@ -605,7 +605,7 @@
     {
       "status": "ATRACADO",
       "imo": "BL",
-      "vessel": "BERÇO LIVRE -",
+      "vessel": "BERÇO LIVRE - - -",
       "etaNor": "20/4/26 14:59",
       "etb": "20/4",
       "ets": "25/4",
@@ -617,7 +617,7 @@
     {
       "status": "ESPERADO",
       "imo": "9836440",
-      "vessel": "ISABELLA M II 183,00",
+      "vessel": "ISABELLA M II",
       "etaNor": "25/4/26 15:00",
       "etb": "25/4",
       "ets": "28/4",
@@ -629,7 +629,7 @@
     {
       "status": "ESPERADO",
       "imo": "9831191",
-      "vessel": "ELANDRA MAPLE 183,00",
+      "vessel": "ELANDRA MAPLE",
       "etaNor": "29/4/26 21:00",
       "etb": "29/4",
       "ets": "3/5",
@@ -641,7 +641,7 @@
     {
       "status": "ESPERADO",
       "imo": "9890587",
-      "vessel": "IOANNIS ZAFIRAKIS 183,00",
+      "vessel": "IOANNIS ZAFIRAKIS",
       "etaNor": "5/5/26 23:00",
       "etb": "5/5",
       "ets": "6/5",
@@ -655,7 +655,7 @@
     {
       "status": "ATRACADO",
       "imo": "9613850",
-      "vessel": "SAGA FRIGG * 199,90",
+      "vessel": "SAGA FRIGG *",
       "etaNor": "31/3/26 16:54",
       "etb": "22/4",
       "ets": "26/4",
@@ -665,7 +665,7 @@
     {
       "status": "ESPERADO",
       "imo": "9613874",
-      "vessel": "SAGA FRAM * 199,90",
+      "vessel": "SAGA FRAM *",
       "etaNor": "25/4/26 8:00",
       "etb": "26/4",
       "ets": "1/5",
@@ -675,7 +675,7 @@
     {
       "status": "ESPERADO",
       "imo": "9233430",
-      "vessel": "IRAKLIS 179,99",
+      "vessel": "IRAKLIS",
       "etaNor": "25/4/26 20:00",
       "etb": "1/5",
       "ets": "6/5",
@@ -685,7 +685,7 @@
     {
       "status": "ESPERADO",
       "imo": "9824980",
-      "vessel": "GRANDIS * 201,90",
+      "vessel": "GRANDIS *",
       "etaNor": "4/5/26 12:00",
       "etb": "6/5",
       "ets": "11/5",
@@ -695,7 +695,7 @@
     {
       "status": "ESPERADO",
       "imo": "9836701",
-      "vessel": "TAYGETUS 228,99",
+      "vessel": "TAYGETUS",
       "etaNor": "5/5/26 5:00",
       "etb": "11/5",
       "ets": "14/5",
@@ -705,7 +705,7 @@
     {
       "status": "ESPERADO",
       "imo": "9553713",
-      "vessel": "CAPTAIN SITARAS 199,90",
+      "vessel": "CAPTAIN SITARAS",
       "etaNor": "15/5/26 12:00",
       "etb": "15/5",
       "ets": "21/5",
@@ -715,7 +715,7 @@
     {
       "status": "ESPERADO",
       "imo": "9606431",
-      "vessel": "YU XIAO FENG 225,00",
+      "vessel": "YU XIAO FENG",
       "etaNor": "17/5/26 8:00",
       "etb": "21/5",
       "ets": "28/5",
@@ -725,7 +725,7 @@
     {
       "status": "ATRACADO",
       "imo": "9717436",
-      "vessel": "KYPROS SPIRIT 225,00",
+      "vessel": "KYPROS SPIRIT",
       "etaNor": "1/4/26 0:01",
       "etb": "22/4",
       "ets": "24/4",
@@ -735,7 +735,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9905617",
-      "vessel": "HONOR DIVA 229,00",
+      "vessel": "HONOR DIVA",
       "etaNor": "4/4/26 10:00",
       "etb": "24/4",
       "ets": "27/4",
@@ -745,7 +745,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9598177",
-      "vessel": "BBG BRIGHT 228,93",
+      "vessel": "BBG BRIGHT",
       "etaNor": "5/4/26 4:24",
       "etb": "27/4",
       "ets": "30/4",
@@ -755,7 +755,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9664952",
-      "vessel": "ANDREAS PETRAKIS 225,00",
+      "vessel": "ANDREAS PETRAKIS",
       "etaNor": "15/4/26 0:01",
       "etb": "30/4",
       "ets": "3/5",
@@ -765,7 +765,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9942081",
-      "vessel": "CL HYAKU 6,40",
+      "vessel": "CL HYAKU",
       "etaNor": "22/4/26 7:18",
       "etb": "3/5",
       "ets": "6/5",
@@ -775,7 +775,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9665932",
-      "vessel": "GRAMPUS CHARM 229,00",
+      "vessel": "GRAMPUS CHARM",
       "etaNor": "13/4/26 13:30",
       "etb": "6/5",
       "ets": "9/5",
@@ -785,7 +785,7 @@
     {
       "status": "FUNDEADO",
       "imo": "1026520",
-      "vessel": "SHANDONG XIN GUO 229,00",
+      "vessel": "SHANDONG XIN GUO",
       "etaNor": "20/4/26 3:30",
       "etb": "9/5",
       "ets": "14/5",
@@ -795,7 +795,7 @@
     {
       "status": "ESPERADO",
       "imo": "9354844",
-      "vessel": "INCE BOSPHORUS 228,99",
+      "vessel": "INCE BOSPHORUS",
       "etaNor": "30/4/26 8:00",
       "etb": "14/5",
       "ets": "17/5",
@@ -805,7 +805,7 @@
     {
       "status": "ESPERADO",
       "imo": "9865568",
-      "vessel": "MAJESTIC STAR 229,00",
+      "vessel": "MAJESTIC STAR",
       "etaNor": "30/4/26 0:00",
       "etb": "17/5",
       "ets": "20/5",
@@ -815,7 +815,7 @@
     {
       "status": "ATRACADO",
       "imo": "9414474",
-      "vessel": "BAM TRITON * 179,00",
+      "vessel": "BAM TRITON *",
       "etaNor": "11/4/26 5:50",
       "etb": "22/4",
       "ets": "26/4",
@@ -825,7 +825,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9566605",
-      "vessel": "PUFFIN ARROW * 199,98",
+      "vessel": "PUFFIN ARROW *",
       "etaNor": "16/4/26 10:12",
       "etb": "26/4",
       "ets": "1/5",
@@ -835,7 +835,7 @@
     {
       "status": "ESPERADO",
       "imo": "9897896",
-      "vessel": "AMIS WEALTH * 200,00",
+      "vessel": "AMIS WEALTH *",
       "etaNor": "1/5/26 14:00",
       "etb": "1/5",
       "ets": "6/5",
@@ -845,7 +845,7 @@
     {
       "status": "ESPERADO",
       "imo": "1082782",
-      "vessel": "HAWK S 179,90",
+      "vessel": "HAWK S",
       "etaNor": "29/4/26 14:00",
       "etb": "6/5",
       "ets": "12/5",
@@ -855,7 +855,7 @@
     {
       "status": "ESPERADO",
       "imo": "9812482",
-      "vessel": "SANTA VALENTINA * 199,92",
+      "vessel": "SANTA VALENTINA *",
       "etaNor": "7/5/26 0:00",
       "etb": "12/5",
       "ets": "13/5",
@@ -865,7 +865,7 @@
     {
       "status": "ESPERADO",
       "imo": "9758143",
-      "vessel": "AMSTEL STORK 199,98",
+      "vessel": "AMSTEL STORK",
       "etaNor": "13/5/26 12:00",
       "etb": "13/5",
       "ets": "17/5",
@@ -875,7 +875,7 @@
     {
       "status": "ATRACADO",
       "imo": "9409742",
-      "vessel": "BARNACLE * 185,00",
+      "vessel": "BARNACLE *",
       "etaNor": "20/4/26 10:40",
       "etb": "23/4",
       "ets": "25/4",
@@ -885,7 +885,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9687162",
-      "vessel": "LAWIN ARROW 199,98",
+      "vessel": "LAWIN ARROW",
       "etaNor": "15/4/26 5:00",
       "etb": "25/4",
       "ets": "1/5",
@@ -895,7 +895,7 @@
     {
       "status": "ESPERADO",
       "imo": "9725029",
-      "vessel": "ASIAN PRIDE 199,98",
+      "vessel": "ASIAN PRIDE",
       "etaNor": "23/4/26 20:00",
       "etb": "1/5",
       "ets": "8/5",
@@ -905,7 +905,7 @@
     {
       "status": "ESPERADO",
       "imo": "9536844",
-      "vessel": "ATLANTIC GLORY 179,99",
+      "vessel": "ATLANTIC GLORY",
       "etaNor": "28/5/26 0:01",
       "etb": "28/5",
       "ets": "3/6",
@@ -915,7 +915,7 @@
     {
       "status": "ESPERADO",
       "imo": "9895252",
-      "vessel": "SH VEGA ⚓ 113,00",
+      "vessel": "SH VEGA ⚓",
       "etaNor": "18/10/26 6:30",
       "etb": "18/10",
       "ets": "19/10",
@@ -925,7 +925,7 @@
     {
       "status": "ESPERADO",
       "imo": "9857640",
-      "vessel": "HANSEATIC SPIRIT ⚓ 138,80",
+      "vessel": "HANSEATIC SPIRIT ⚓",
       "etaNor": "13/11/27 0:00",
       "etb": "13/11",
       "ets": "14/11",
@@ -935,7 +935,7 @@
     {
       "status": "ATRACADO",
       "imo": "9959759",
-      "vessel": "WISDOM DIVA 228,99",
+      "vessel": "WISDOM DIVA",
       "etaNor": "2/4/26 8:30",
       "etb": "23/4",
       "ets": "26/4",
@@ -945,7 +945,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9607112",
-      "vessel": "BORA 229,00",
+      "vessel": "BORA",
       "etaNor": "4/4/26 23:24",
       "etb": "26/4",
       "ets": "28/4",
@@ -955,7 +955,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9310290",
-      "vessel": "MOTARO 228,90",
+      "vessel": "MOTARO",
       "etaNor": "14/3/26 13:00",
       "etb": "28/4",
       "ets": "2/5",
@@ -965,7 +965,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9728629",
-      "vessel": "GLBS ANGEL 229,00",
+      "vessel": "GLBS ANGEL",
       "etaNor": "16/3/26 12:36",
       "etb": "2/5",
       "ets": "5/5",
@@ -975,7 +975,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9523213",
-      "vessel": "JI XIAN FENG 225,00",
+      "vessel": "JI XIAN FENG",
       "etaNor": "13/4/26 5:48",
       "etb": "5/5",
       "ets": "7/5",
@@ -985,7 +985,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9642382",
-      "vessel": "HERCULES 225,00",
+      "vessel": "HERCULES",
       "etaNor": "17/4/26 3:18",
       "etb": "7/5",
       "ets": "10/5",
@@ -995,7 +995,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9658886",
-      "vessel": "ATALANDI 225,00",
+      "vessel": "ATALANDI",
       "etaNor": "21/4/26 0:35",
       "etb": "10/5",
       "ets": "13/5",
@@ -1005,7 +1005,7 @@
     {
       "status": "ESPERADO",
       "imo": "9336892",
-      "vessel": "LORIENT 224,86",
+      "vessel": "LORIENT",
       "etaNor": "3/5/26 15:00",
       "etb": "13/5",
       "ets": "17/5",
@@ -1015,7 +1015,7 @@
     {
       "status": "ATRACADO",
       "imo": "9596820",
-      "vessel": "OSCAR NIEMEYER * 117,63",
+      "vessel": "OSCAR NIEMEYER *",
       "etaNor": "19/4/26 8:30",
       "etb": "22/4",
       "ets": "23/4",
@@ -1025,7 +1025,7 @@
     {
       "status": "FUNDEADO",
       "imo": "BL",
-      "vessel": "BERÇO LIVRE -",
+      "vessel": "BERÇO LIVRE - - -",
       "etaNor": "20/4/26 0:00",
       "etb": "23/4",
       "ets": "26/4",
@@ -1035,7 +1035,7 @@
     {
       "status": "ESPERADO",
       "imo": "9596832",
-      "vessel": "DARCY RIBEIRO * 117,25",
+      "vessel": "DARCY RIBEIRO *",
       "etaNor": "23/4/26 23:00",
       "etb": "26/4",
       "ets": "28/4",
@@ -1045,7 +1045,7 @@
     {
       "status": "ESPERADO",
       "imo": "9748978",
-      "vessel": "EPIC BALUAN * 113,08",
+      "vessel": "EPIC BALUAN *",
       "etaNor": "25/4/26 1:00",
       "etb": "3/5",
       "ets": "4/5",
@@ -1055,7 +1055,7 @@
     {
       "status": "ESPERADO",
       "imo": "9168635",
-      "vessel": "BOW FORTUNE * 183,10",
+      "vessel": "BOW FORTUNE *",
       "etaNor": "4/5/26 0:00",
       "etb": "4/5",
       "ets": "6/5",
@@ -1065,7 +1065,7 @@
     {
       "status": "ESPERADO",
       "imo": "9268681",
-      "vessel": "FORTE DE COPACABANA * 123,98",
+      "vessel": "FORTE DE COPACABANA *",
       "etaNor": "4/5/26 23:00",
       "etb": "9/5",
       "ets": "11/5",
@@ -1075,7 +1075,7 @@
     {
       "status": "ATRACADO",
       "imo": "9629665",
-      "vessel": "AQUILA TRADER 180,00",
+      "vessel": "AQUILA TRADER",
       "etaNor": "19/4/26 14:50",
       "etb": "22/4",
       "ets": "24/4",
@@ -1085,7 +1085,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9488475",
-      "vessel": "WEN ZHU HAI 225,00",
+      "vessel": "WEN ZHU HAI",
       "etaNor": "1/4/26 0:01",
       "etb": "24/4",
       "ets": "26/4",
@@ -1095,7 +1095,7 @@
     {
       "status": "FUNDEADO",
       "imo": "1042275",
-      "vessel": "EMIR AKSOY 199,90",
+      "vessel": "EMIR AKSOY",
       "etaNor": "14/4/26 18:30",
       "etb": "26/4",
       "ets": "29/4",
@@ -1105,7 +1105,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9749908",
-      "vessel": "SAKIZAYA KALON 228,92",
+      "vessel": "SAKIZAYA KALON",
       "etaNor": "10/4/26 23:54",
       "etb": "29/4",
       "ets": "1/5",
@@ -1115,7 +1115,7 @@
     {
       "status": "ESPERADO",
       "imo": "9855599",
-      "vessel": "MAGIC ARIEL 229,00",
+      "vessel": "MAGIC ARIEL",
       "etaNor": "24/4/26 23:00",
       "etb": "1/5",
       "ets": "4/5",
@@ -1125,7 +1125,7 @@
     {
       "status": "FUNDEADO",
       "imo": "9921843",
-      "vessel": "GCL LUXEMBOURG 229,00",
+      "vessel": "GCL LUXEMBOURG",
       "etaNor": "17/4/26 17:36",
       "etb": "4/5",
       "ets": "7/5",
@@ -1135,7 +1135,7 @@
     {
       "status": "ESPERADO",
       "imo": "1043413",
-      "vessel": "BASIC FORTUNE 229,00",
+      "vessel": "BASIC FORTUNE",
       "etaNor": "3/5/26 8:00",
       "etb": "7/5",
       "ets": "9/5",
@@ -1145,7 +1145,7 @@
     {
       "status": "ESPERADO",
       "imo": "9911642",
-      "vessel": "BELTRADER 199,90",
+      "vessel": "BELTRADER",
       "etaNor": "24/4/26 0:01",
       "etb": "9/5",
       "ets": "12/5",
@@ -1155,7 +1155,7 @@
     {
       "status": "ATRACADO",
       "imo": "BL",
-      "vessel": "BERÇO LIVRE -",
+      "vessel": "BERÇO LIVRE - - -",
       "etaNor": "20/4/26 14:59",
       "etb": "20/4",
       "ets": "25/4",
@@ -1165,7 +1165,7 @@
     {
       "status": "ESPERADO",
       "imo": "9836440",
-      "vessel": "ISABELLA M II 183,00",
+      "vessel": "ISABELLA M II",
       "etaNor": "25/4/26 15:00",
       "etb": "25/4",
       "ets": "28/4",
@@ -1175,7 +1175,7 @@
     {
       "status": "ESPERADO",
       "imo": "9831191",
-      "vessel": "ELANDRA MAPLE 183,00",
+      "vessel": "ELANDRA MAPLE",
       "etaNor": "29/4/26 21:00",
       "etb": "29/4",
       "ets": "3/5",
@@ -1185,7 +1185,7 @@
     {
       "status": "ESPERADO",
       "imo": "9890587",
-      "vessel": "IOANNIS ZAFIRAKIS 183,00",
+      "vessel": "IOANNIS ZAFIRAKIS",
       "etaNor": "5/5/26 23:00",
       "etb": "5/5",
       "ets": "6/5",
