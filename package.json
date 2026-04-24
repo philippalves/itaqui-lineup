@@ -1,17 +1,16 @@
 {
   "name": "itaqui-lineup",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Coletor e parser do lineup do Porto do Itaqui",
   "private": true,
   "scripts": {
     "discover": "node scripts/discover-pdf.mjs",
     "download": "node scripts/download-pdf.mjs",
-    "build-json": "node scripts/build-json.mjs",
+    "build-json": "python3 scripts/build_json.py",
     "run-all": "npm run discover && npm run download && npm run build-json"
   },
   "dependencies": {
     "axios": "^1.9.0",
-    "cheerio": "^1.0.0",
-    "pdf-parse": "^1.1.1"
+    "cheerio": "^1.0.0"
   }
 }
