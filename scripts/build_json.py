@@ -114,7 +114,6 @@ def merge_broken_lines(lines: list[str]) -> list[str]:
         prev = merged[-1]
         curr = line
 
-        # Se a linha atual já começa com status, ela é um novo registro
         if starts_with_status(curr):
             merged.append(curr)
             continue
@@ -209,6 +208,14 @@ def find_operation_index(tokens: list[str], start_idx: int) -> int:
     return -1
 
 
+def is_numeric_token(token: str) -> bool:
+    return (
+        re.match(r"^\d{1,3},\d{1,2}$", token) is not None
+        or re.match(r"^\d{1,3}(?:\.\d{3})+$", token) is not None
+        or re.match(r"^\d{4,6}$", token) is not None
+    )
+
+
 def parse_record_line(line: str) -> dict | None:
     m = re.match(r"^(ATRACADO|FUNDEADO|ESPERADO)\s+(BL|\d{7})\s+(.*)$", line)
     if not m:
@@ -233,9 +240,18 @@ def parse_record_line(line: str) -> dict | None:
             "raw": line,
         }
 
-    # antes do ETA/NOR há: vessel + loa + beam + dwt + arrival draft + sailing draft
-    vessel_end = max(0, eta_idx - 4)
-    vessel = " ".join(tokens[:vessel_end]).strip() or None
+    # Achar o início do bloco numérico antes do ETA:
+    # vessel termina antes do primeiro token numérico do bloco LOA/Beam/DWT/Drafts
+    vessel_end = 0
+    for i in range(0, eta_idx):
+        if is_numeric_token(tokens[i]):
+            vessel_end = i
+            break
+
+    if vessel_end == 0:
+        vessel = " ".join(tokens[: max(0, eta_idx - 5)]).strip() or None
+    else:
+        vessel = " ".join(tokens[:vessel_end]).strip() or None
 
     eta_nor = f"{tokens[eta_idx]} {tokens[eta_idx + 1]}" if eta_idx + 1 < len(tokens) else None
     etb = tokens[eta_idx + 2] if eta_idx + 2 < len(tokens) else None
@@ -324,8 +340,14 @@ def main() -> None:
     }
 
     data_dir.mkdir(parents=True, exist_ok=True)
-    (data_dir / "latest-debug.json").write_text(json.dumps(debug, ensure_ascii=False, indent=2), encoding="utf-8")
-    (data_dir / "latest.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    (data_dir / "latest-debug.json").write_text(
+        json.dumps(debug, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    (data_dir / "latest.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     print(json.dumps(debug, ensure_ascii=False, indent=2))
 
