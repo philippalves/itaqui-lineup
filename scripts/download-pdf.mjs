@@ -17,7 +17,7 @@ async function main() {
     responseType: "arraybuffer",
     timeout: 60000,
     headers: {
-      "User-Agent": "Mozilla/5.0 (compatible; ItaquiLineupBot/1.0)"
+      "User-Agent": "Mozilla/5.0 (compatible; ItaquiLineupBot/2.0)"
     }
   })
 
@@ -41,11 +41,9 @@ async function main() {
   )
 
   console.log("PDF salvo em downloads/latest.pdf")
-  console.log("Metadados salvos em data/downloaded-pdf.json")
 }
 
 main().catch((error) => {
-  console.error("Erro ao baixar o PDF:")
   console.error(error?.stack || error?.message || error)
   process.exit(1)
 })
