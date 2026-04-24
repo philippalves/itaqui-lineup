@@ -28,7 +28,7 @@ async function main() {
   const response = await axios.get(SOURCE_PAGE, {
     timeout: 30000,
     headers: {
-      "User-Agent": "Mozilla/5.0 (compatible; ItaquiLineupBot/1.0)"
+      "User-Agent": "Mozilla/5.0 (compatible; ItaquiLineupBot/2.0)"
     }
   })
 
@@ -68,27 +68,26 @@ async function main() {
     })
   })
 
-  console.log(`Candidatos encontrados: ${candidates.length}`)
-
   if (!candidates.length) {
-    const debugPayload = {
-      sourcePage: SOURCE_PAGE,
-      foundAt: new Date().toISOString(),
-      error: "Nenhum link candidato foi encontrado na página."
-    }
-
     await fs.mkdir("data", { recursive: true })
     await fs.writeFile(
       "data/discovered-pdf.json",
-      JSON.stringify(debugPayload, null, 2),
+      JSON.stringify(
+        {
+          sourcePage: SOURCE_PAGE,
+          foundAt: new Date().toISOString(),
+          error: "Nenhum link candidato encontrado."
+        },
+        null,
+        2
+      ),
       "utf-8"
     )
 
-    throw new Error("Nenhum link candidato foi encontrado na página.")
+    throw new Error("Nenhum link candidato encontrado.")
   }
 
   candidates.sort((a, b) => b.score - a.score)
-
   const best = candidates[0]
 
   const payload = {
@@ -107,13 +106,10 @@ async function main() {
     "utf-8"
   )
 
-  console.log("PDF encontrado com sucesso:")
-  console.log(best.absoluteUrl)
-  console.log("Arquivo salvo em data/discovered-pdf.json")
+  console.log("PDF encontrado:", best.absoluteUrl)
 }
 
 main().catch((error) => {
-  console.error("Erro ao descobrir o PDF:")
   console.error(error?.stack || error?.message || error)
   process.exit(1)
 })
