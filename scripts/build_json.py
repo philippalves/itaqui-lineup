@@ -6,7 +6,7 @@ from pathlib import Path
 import pdfplumber
 
 
-STATUS_VALUES = {"ATRACADO", "FUNDEADO", "ESPERADO"}
+STATUS_VALUES = ("ATRACADO", "FUNDEADO", "ESPERADO")
 
 
 def now_iso() -> str:
@@ -19,6 +19,10 @@ def normalize_spaces(text: str) -> str:
 
 def clean_line(line: str) -> str:
     return normalize_spaces(line)
+
+
+def starts_with_status(line: str) -> bool:
+    return any(line.startswith(status + " ") for status in STATUS_VALUES)
 
 
 def should_drop_line(line: str) -> bool:
@@ -70,6 +74,8 @@ def should_drop_line(line: str) -> bool:
         r"^Código do registro:.*$",
         r"^\* - .*",
         r"^# - .*",
+        r"^⚓- .*",
+        r"^⊛ - .*",
         r"^⚓$",
         r"^⊛$",
         r"^1$",
@@ -108,6 +114,11 @@ def merge_broken_lines(lines: list[str]) -> list[str]:
         prev = merged[-1]
         curr = line
 
+        # Se a linha atual já começa com status, ela é um novo registro
+        if starts_with_status(curr):
+            merged.append(curr)
+            continue
+
         append_no_space = (
             re.match(r"^[,./:;-]", curr) is not None
             or re.search(r"[\/.,:-]$", prev) is not None
@@ -116,12 +127,11 @@ def merge_broken_lines(lines: list[str]) -> list[str]:
         )
 
         append_with_space = (
-            curr not in STATUS_VALUES
-            and (
-                re.match(r"^[A-Z]{1,4}$", curr)
-                or re.match(r"^[a-z]", curr)
-                or re.match(r"^\d{1,2}:\d{2}$", curr)
-            )
+            re.match(r"^[A-Z]{1,4}$", curr)
+            or re.match(r"^[a-z]", curr)
+            or re.match(r"^\d{1,2}:\d{2}$", curr)
+            or re.match(r"^\d{1,2}/\d{1,2}$", curr)
+            or re.match(r"^\d{1,2}/\d{1,2}/\d{2}$", curr)
         )
 
         if append_no_space:
@@ -129,9 +139,9 @@ def merge_broken_lines(lines: list[str]) -> list[str]:
         elif append_with_space:
             merged[-1] = prev + " " + curr
         else:
-            merged.append(curr)
+            merged[-1] = prev + " " + curr
 
-    return merged
+    return [normalize_spaces(x) for x in merged if x.strip()]
 
 
 def repair_common_breaks(line: str) -> str:
@@ -169,46 +179,20 @@ def repair_common_breaks(line: str) -> str:
         (r"LBH BRA SIL", "LBH BRASIL"),
         (r"GRANEL QUÍM ICA", "GRANEL QUÍMICA"),
         (r"QAV/DIESEL/GASOLI NA", "QAV/DIESEL/GASOLINA"),
-        (r"\bCalado de Chegada.*$", ""),
+        (r"Calado de Chegada.*$", ""),
     ]
 
     out = line
     for pattern, repl in repairs:
         out = re.sub(pattern, repl, out)
 
-    out = normalize_spaces(out)
-    return out
+    return normalize_spaces(out)
 
 
 def build_logical_lines(lines: list[str]) -> list[str]:
-    logical: list[str] = []
-    current = ""
-
-    for line in lines:
-        line = repair_common_breaks(line)
-
-        if line in STATUS_VALUES:
-            if current:
-                logical.append(normalize_spaces(current))
-            current = line
-            continue
-
-        if not current:
-            continue
-
-        current += " " + line
-
-    if current:
-        logical.append(normalize_spaces(current))
-
-    cleaned = []
-    for line in logical:
-        if "Calado de Chegada" in line:
-            line = re.sub(r"Calado de Chegada.*$", "", line).strip()
-        if line:
-            cleaned.append(normalize_spaces(line))
-
-    return cleaned
+    repaired = [repair_common_breaks(line) for line in lines]
+    logical = [line for line in repaired if starts_with_status(line)]
+    return logical
 
 
 def find_eta_index(tokens: list[str]) -> int:
@@ -233,7 +217,6 @@ def parse_record_line(line: str) -> dict | None:
     status = m.group(1)
     imo = m.group(2)
     rest = m.group(3)
-
     tokens = rest.split(" ")
 
     eta_idx = find_eta_index(tokens)
@@ -250,9 +233,7 @@ def parse_record_line(line: str) -> dict | None:
             "raw": line,
         }
 
-    # Antes do ETA, a estrutura é:
-    # vessel + loa + beam + dwt + arrival draft + sailing draft
-    # então o vessel termina 4 posições antes do eta_idx
+    # antes do ETA/NOR há: vessel + loa + beam + dwt + arrival draft + sailing draft
     vessel_end = max(0, eta_idx - 4)
     vessel = " ".join(tokens[:vessel_end]).strip() or None
 
