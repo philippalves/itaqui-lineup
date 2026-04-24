@@ -21,8 +21,16 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Install dependencies
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Node dependencies
         run: npm install
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
 
       - name: Run PDF discovery
         run: npm run discover
@@ -53,7 +61,7 @@ jobs:
             echo "data/downloaded-pdf.json not found"
           fi
 
-      - name: Show generated parser files
+      - name: Show parser outputs
         if: always()
         run: |
           echo "=== latest-debug.json ==="
@@ -61,14 +69,6 @@ jobs:
             cat data/latest-debug.json
           else
             echo "data/latest-debug.json not found"
-          fi
-
-          echo ""
-          echo "=== first 80 lines of downloads/latest.txt ==="
-          if [ -f downloads/latest.txt ]; then
-            head -n 80 downloads/latest.txt
-          else
-            echo "downloads/latest.txt not found"
           fi
 
           echo ""
@@ -90,11 +90,10 @@ jobs:
           git add data/latest-debug.json
           git add data/latest.json
           git add downloads/latest.pdf
-          git add downloads/latest.txt
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update Itaqui PDF, text and JSON"
+            git commit -m "Update Itaqui lineup data"
             git push
           fi
