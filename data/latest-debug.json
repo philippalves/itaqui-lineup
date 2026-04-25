@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2024%2004%202026%20-15h00%20clientes_69ebdbd0d2e9d.pdf",
-  "generatedAt": "2026-04-25T19:59:16+00:00",
-  "rawLinesCount": 435,
-  "mergedLinesCount": 34,
-  "logicalLinesCount": 33,
-  "recordsCount": 32,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2004%202026%20-14h00%20-%20clientes_69ed2681060db.pdf",
+  "generatedAt": "2026-04-25T20:41:42+00:00",
+  "rawLinesCount": 130,
+  "mergedLinesCount": 54,
+  "logicalLinesCount": 53,
+  "recordsCount": 52,
   "preview": [
     {
       "status": "ATRACADO",
@@ -12,7 +12,7 @@
       "vessel": "SAGA FRIGG *",
       "etaNor": "31/3/26 16:54",
       "etb": "22/4",
-      "ets": "26/4",
+      "ets": "27/4",
       "operation": "C",
       "cargo": "CELULOSE"
     },
@@ -27,11 +27,41 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "FUNDEADO",
+      "imo": "9613874",
+      "vessel": "SAGA FRAM *",
+      "etaNor": "25/4/26 5:48",
+      "etb": "2/5",
+      "ets": "6/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613290",
+      "vessel": "BRASSIANA *",
+      "etaNor": "1/5/26 0:01",
+      "etb": "6/5",
+      "ets": "11/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824980",
+      "vessel": "GRANDIS *",
+      "etaNor": "4/5/26 12:00",
+      "etb": "11/5",
+      "ets": "17/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
       "status": "ESPERADO",
       "imo": "9836701",
       "vessel": "TAYGETUS",
       "etaNor": "5/5/26 10:00",
-      "etb": "16/5",
+      "etb": "17/5",
       "ets": "20/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
@@ -42,27 +72,27 @@
       "vessel": "STAR LUSTER",
       "etaNor": "8/5/26 0:00",
       "etb": "20/5",
-      "ets": "21/5",
+      "ets": "22/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9606431",
+      "vessel": "YU XIAO FENG",
+      "etaNor": "17/5/26 8:00",
+      "etb": "22/5",
+      "ets": "29/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
-      "imo": "9717436",
-      "vessel": "KYPROS SPIRIT",
-      "etaNor": "1/4/26 0:01",
-      "etb": "22/4",
-      "ets": "24/4",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9905617",
       "vessel": "HONOR DIVA",
       "etaNor": "4/4/26 10:00",
       "etb": "24/4",
-      "ets": "26/4",
+      "ets": "27/4",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,38 +101,8 @@
       "imo": "9598177",
       "vessel": "BBG BRIGHT",
       "etaNor": "5/4/26 4:24",
-      "etb": "26/4",
+      "etb": "27/4",
       "ets": "1/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "1026520",
-      "vessel": "SHANDONG XIN GUO",
-      "etaNor": "20/4/26 3:30",
-      "etb": "9/5",
-      "ets": "12/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9354844",
-      "vessel": "INCE BOSPHORUS",
-      "etaNor": "30/4/26 8:00",
-      "etb": "12/5",
-      "ets": "15/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9336892",
-      "vessel": "LORIENT",
-      "etaNor": "3/5/26 20:40",
-      "etb": "15/5",
-      "ets": "18/5",
       "operation": "C",
       "cargo": "SOJA"
     }
