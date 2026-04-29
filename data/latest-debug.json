@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2004%202026%20-10h00%20-%20clientes_69f21b016a27e.pdf",
-  "generatedAt": "2026-04-29T20:07:27+00:00",
-  "rawLinesCount": 126,
-  "mergedLinesCount": 50,
-  "logicalLinesCount": 49,
-  "recordsCount": 49,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2004%202026%20-15h00%20-%20clientes_69f2653382927.pdf",
+  "generatedAt": "2026-04-29T21:38:03+00:00",
+  "rawLinesCount": 130,
+  "mergedLinesCount": 53,
+  "logicalLinesCount": 52,
+  "recordsCount": 52,
   "preview": [
     {
       "status": "ATRACADO",
@@ -68,11 +68,21 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9860740",
+      "vessel": "CORE IMPERIAL",
+      "etaNor": "8/5/26 20:00",
+      "etb": "22/5",
+      "ets": "24/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9606431",
       "vessel": "YU XIAO FENG",
       "etaNor": "17/5/26 8:00",
-      "etb": "22/5",
-      "ets": "29/5",
+      "etb": "24/5",
+      "ets": "31/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -93,16 +103,6 @@
       "etaNor": "15/4/26 0:01",
       "etb": "30/4",
       "ets": "3/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9607112",
-      "vessel": "BORA",
-      "etaNor": "4/4/26 23:24",
-      "etb": "3/5",
-      "ets": "6/5",
       "operation": "C",
       "cargo": "SOJA"
     }
