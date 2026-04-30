@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2004%202026%20-15h00%20-%20clientes_69f2653382927.pdf",
-  "generatedAt": "2026-04-30T13:44:51+00:00",
-  "rawLinesCount": 130,
-  "mergedLinesCount": 53,
-  "logicalLinesCount": 52,
-  "recordsCount": 52,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2004%202026%20-10h00%20Clientes_69f3789135d71.pdf",
+  "generatedAt": "2026-04-30T15:44:43+00:00",
+  "rawLinesCount": 479,
+  "mergedLinesCount": 37,
+  "logicalLinesCount": 36,
+  "recordsCount": 36,
   "preview": [
     {
       "status": "ATRACADO",
@@ -28,51 +28,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9613290",
-      "vessel": "BRASSIANA *",
-      "etaNor": "30/4/26 4:00",
-      "etb": "7/5",
-      "ets": "12/5",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9824980",
-      "vessel": "GRANDIS *",
-      "etaNor": "4/5/26 12:00",
-      "etb": "12/5",
-      "ets": "17/5",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9836701",
-      "vessel": "TAYGETUS",
-      "etaNor": "5/5/26 10:00",
-      "etb": "17/5",
-      "ets": "20/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9603805",
       "vessel": "STAR LUSTER",
-      "etaNor": "8/5/26 0:00",
+      "etaNor": "9/5/26 0:00",
       "etb": "20/5",
       "ets": "22/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9860740",
-      "vessel": "CORE IMPERIAL",
-      "etaNor": "8/5/26 20:00",
-      "etb": "22/5",
-      "ets": "24/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -81,8 +41,8 @@
       "imo": "9606431",
       "vessel": "YU XIAO FENG",
       "etaNor": "17/5/26 8:00",
-      "etb": "24/5",
-      "ets": "31/5",
+      "etb": "22/5",
+      "ets": "29/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -92,7 +52,7 @@
       "vessel": "BBG BRIGHT",
       "etaNor": "5/4/26 4:24",
       "etb": "28/4",
-      "ets": "30/4",
+      "ets": "1/5",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -101,8 +61,48 @@
       "imo": "9664952",
       "vessel": "ANDREAS PETRAKIS",
       "etaNor": "15/4/26 0:01",
-      "etb": "30/4",
-      "ets": "3/5",
+      "etb": "1/5",
+      "ets": "4/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9607112",
+      "vessel": "BORA",
+      "etaNor": "4/4/26 23:24",
+      "etb": "4/5",
+      "ets": "6/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9336892",
+      "vessel": "LORIENT",
+      "etaNor": "3/5/26 20:40",
+      "etb": "14/5",
+      "ets": "17/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9796573",
+      "vessel": "MEGA BENEFIT",
+      "etaNor": "7/5/26 8:00",
+      "etb": "17/5",
+      "ets": "21/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9950430",
+      "vessel": "MH OSLO",
+      "etaNor": "2/5/26 0:01",
+      "etb": "21/5",
+      "ets": "23/5",
       "operation": "C",
       "cargo": "SOJA"
     }
