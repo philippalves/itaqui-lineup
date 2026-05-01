@@ -2,7 +2,7 @@
   "sourcePage": "https://website.portodoitaqui.com.br/home",
   "pdfUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2004%202026%20-15h00%20CLIENTES_69f3ac11a53de.pdf",
   "linkText": "Mapa de Atracação",
-  "foundAt": "2026-04-30T23:43:36.489Z",
+  "foundAt": "2026-05-01T02:10:46.161Z",
   "candidatesFound": 8,
   "topCandidates": [
     {
@@ -10,12 +10,6 @@
       "text": "Mapa de Atracação",
       "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2004%202026%20-15h00%20CLIENTES_69f3ac11a53de.pdf",
       "score": 97
-    },
-    {
-      "href": "https://www.portodoitaqui.com/public/_files/arquivos/569-passagem-nivel_69f38c60bb2de.pdf",
-      "text": "Mapa Ferroviário",
-      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/569-passagem-nivel_69f38c60bb2de.pdf",
-      "score": 72
     },
     {
       "href": "https://www.portodoitaqui.com/_files/arquivos/NORMA PARA ATRACAÇÃO E DESATRACAÇÃO DE NAVIOS NO PORTO ORGANIZADO DO ITAQUI_6515d675a489f.pdf",
@@ -40,6 +34,12 @@
       "text": "Normas de Manobra",
       "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
       "score": 52
+    },
+    {
+      "href": "https://www.portodoitaqui.com/public/_files/arquivos/",
+      "text": "Mapa Ferroviário",
+      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/",
+      "score": 22
     },
     {
       "href": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
