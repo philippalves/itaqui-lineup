@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2002%2005%202026%20-14h00%20CLIENTES_69f65a8705252.pdf",
-  "generatedAt": "2026-05-03T18:45:22+00:00",
-  "rawLinesCount": 443,
-  "mergedLinesCount": 38,
-  "logicalLinesCount": 37,
-  "recordsCount": 37,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2003%2005%202026%20-14h00%20-%20clientes_69f7a4284cb35.pdf",
+  "generatedAt": "2026-05-03T19:48:44+00:00",
+  "rawLinesCount": 133,
+  "mergedLinesCount": 55,
+  "logicalLinesCount": 54,
+  "recordsCount": 54,
   "preview": [
     {
       "status": "ATRACADO",
@@ -25,6 +25,36 @@
       "ets": "8/5",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9836701",
+      "vessel": "TAYGETUS",
+      "etaNor": "5/5/26 10:00",
+      "etb": "8/5",
+      "ets": "11/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824992",
+      "vessel": "ROBUSTA *",
+      "etaNor": "8/5/26 5:00",
+      "etb": "11/5",
+      "ets": "17/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9603805",
+      "vessel": "STAR LUSTER",
+      "etaNor": "9/5/26 21:00",
+      "etb": "17/5",
+      "ets": "18/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "FUNDEADO",
@@ -73,36 +103,6 @@
       "etaNor": "13/4/26 13:30",
       "etb": "7/5",
       "ets": "10/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9796573",
-      "vessel": "MEGA BENEFIT",
-      "etaNor": "7/5/26 8:00",
-      "etb": "19/5",
-      "ets": "22/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9590761",
-      "vessel": "GOLDEN GINGER",
-      "etaNor": "8/5/26 8:00",
-      "etb": "22/5",
-      "ets": "25/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9848998",
-      "vessel": "KIM OLDENDORFF",
-      "etaNor": "9/5/26 23:00",
-      "etb": "25/5",
-      "ets": "28/5",
       "operation": "C",
       "cargo": "SOJA"
     }
