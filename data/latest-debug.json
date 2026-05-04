@@ -1,9 +1,110 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/822-passagem-nivel_69f8e42aa4fed.pdf",
-  "generatedAt": "2026-05-04T20:59:48+00:00",
-  "rawLinesCount": 33,
-  "mergedLinesCount": 1,
-  "logicalLinesCount": 0,
-  "recordsCount": 0,
-  "preview": []
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2005%202026%20-15h00%20clientes_69f90b7a89233.pdf",
+  "generatedAt": "2026-05-04T22:05:01+00:00",
+  "rawLinesCount": 435,
+  "mergedLinesCount": 32,
+  "logicalLinesCount": 31,
+  "recordsCount": 31,
+  "preview": [
+    {
+      "status": "ATRACADO",
+      "imo": "9233430",
+      "vessel": "IRAKLIS",
+      "etaNor": "26/4/26 20:30",
+      "etb": "27/4",
+      "ets": "5/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9613874",
+      "vessel": "SAGA FRAM *",
+      "etaNor": "25/4/26 5:48",
+      "etb": "5/5",
+      "ets": "9/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9552989",
+      "vessel": "AMIS ACE",
+      "etaNor": "12/5/26 9:00",
+      "etb": "19/5",
+      "ets": "23/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9606431",
+      "vessel": "YU XIAO FENG",
+      "etaNor": "18/5/26 8:00",
+      "etb": "23/5",
+      "ets": "31/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9607112",
+      "vessel": "BORA",
+      "etaNor": "4/4/26 23:24",
+      "etb": "4/5",
+      "ets": "6/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9665932",
+      "vessel": "GRAMPUS CHARM",
+      "etaNor": "13/4/26 13:30",
+      "etb": "6/5",
+      "ets": "9/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "1026520",
+      "vessel": "SHANDONG XIN GUO",
+      "etaNor": "20/4/26 3:30",
+      "etb": "9/5",
+      "ets": "12/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9461178",
+      "vessel": "KIRRIBILLI",
+      "etaNor": "4/5/26 19:00",
+      "etb": "22/5",
+      "ets": "25/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9607162",
+      "vessel": "KERKYRA",
+      "etaNor": "8/5/26 13:30",
+      "etb": "25/5",
+      "ets": "28/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9848998",
+      "vessel": "KIM OLDENDORFF",
+      "etaNor": "9/5/26 23:00",
+      "etb": "28/5",
+      "ets": "31/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    }
+  ]
 }
