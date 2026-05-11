@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2011%2005%202026%20-10h00%20-%20Clientes_6a01e9954838f.pdf",
-  "generatedAt": "2026-05-11T18:15:27+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2011%2005%202026%20-15h00%20-%20Clientes_6a022a5f94c6a.pdf",
+  "generatedAt": "2026-05-11T20:12:59+00:00",
   "rawLinesCount": 130,
-  "mergedLinesCount": 50,
-  "logicalLinesCount": 49,
-  "recordsCount": 49,
+  "mergedLinesCount": 49,
+  "logicalLinesCount": 48,
+  "recordsCount": 48,
   "preview": [
     {
       "status": "ATRACADO",
@@ -48,11 +48,21 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9186780",
+      "vessel": "TEAL ARROW *",
+      "etaNor": "21/5/26 0:00",
+      "etb": "26/5",
+      "ets": "28/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9606431",
       "vessel": "YU XIAO FENG",
       "etaNor": "18/5/26 20:00",
-      "etb": "26/5",
-      "ets": "2/6",
+      "etb": "28/5",
+      "ets": "5/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -93,16 +103,6 @@
       "etaNor": "7/5/26 12:00",
       "etb": "20/5",
       "ets": "23/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9590761",
-      "vessel": "GOLDEN GINGER",
-      "etaNor": "8/5/26 3:42",
-      "etb": "23/5",
-      "ets": "26/5",
       "operation": "C",
       "cargo": "SOJA"
     }
