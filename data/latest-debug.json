@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2005%202026%20-10h00%20-%20clientes_6a048d1dc958e.pdf",
-  "generatedAt": "2026-05-13T18:52:59+00:00",
-  "rawLinesCount": 125,
-  "mergedLinesCount": 48,
-  "logicalLinesCount": 47,
-  "recordsCount": 47,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2005%202026%20-15h00%20-%20clientes_6a04daba57b3c.pdf",
+  "generatedAt": "2026-05-13T20:27:36+00:00",
+  "rawLinesCount": 127,
+  "mergedLinesCount": 50,
+  "logicalLinesCount": 49,
+  "recordsCount": 48,
   "preview": [
     {
       "status": "ATRACADO",
@@ -12,7 +12,7 @@
       "vessel": "TAYGETUS",
       "etaNor": "5/5/26 7:24",
       "etb": "9/5",
-      "ets": "13/5",
+      "ets": "14/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -21,8 +21,8 @@
       "imo": "9824992",
       "vessel": "ROBUSTA *",
       "etaNor": "7/5/26 22:00",
-      "etb": "13/5",
-      "ets": "18/5",
+      "etb": "14/5",
+      "ets": "19/5",
       "operation": "C",
       "cargo": "CELULOSE"
     },
@@ -31,8 +31,8 @@
       "imo": "9603805",
       "vessel": "STAR LUSTER",
       "etaNor": "10/5/26 7:24",
-      "etb": "18/5",
-      "ets": "20/5",
+      "etb": "19/5",
+      "ets": "21/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -41,20 +41,10 @@
       "imo": "9606431",
       "vessel": "YU XIAO FENG",
       "etaNor": "18/5/26 11:00",
-      "etb": "20/5",
-      "ets": "27/5",
+      "etb": "21/5",
+      "ets": "28/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9186780",
-      "vessel": "TEAL ARROW *",
-      "etaNor": "21/5/26 0:00",
-      "etb": "27/5",
-      "ets": "30/5",
-      "operation": "C",
-      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -68,16 +58,6 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "1026520",
-      "vessel": "SHANDONG XIN GUO",
-      "etaNor": "20/4/26 3:30",
-      "etb": "10/5",
-      "ets": "13/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9354844",
       "vessel": "INCE BOSPHORUS",
       "etaNor": "29/4/26 20:40",
@@ -103,6 +83,26 @@
       "etaNor": "7/5/26 12:00",
       "etb": "19/5",
       "ets": "22/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9461178",
+      "vessel": "KIRRIBILLI",
+      "etaNor": "8/5/26 15:00",
+      "etb": "24/5",
+      "ets": "27/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9848998",
+      "vessel": "KIM OLDENDORFF",
+      "etaNor": "9/5/26 16:00",
+      "etb": "27/5",
+      "ets": "30/5",
       "operation": "C",
       "cargo": "SOJA"
     }
