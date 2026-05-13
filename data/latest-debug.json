@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2012%2005%202026%20-14h00%20Clientes_6a037fd7ba758.pdf",
-  "generatedAt": "2026-05-13T14:09:30+00:00",
-  "rawLinesCount": 433,
-  "mergedLinesCount": 29,
-  "logicalLinesCount": 28,
-  "recordsCount": 28,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2005%202026%20-10h00%20-%20clientes_6a048d1dc958e.pdf",
+  "generatedAt": "2026-05-13T16:37:46+00:00",
+  "rawLinesCount": 125,
+  "mergedLinesCount": 48,
+  "logicalLinesCount": 47,
+  "recordsCount": 47,
   "preview": [
     {
       "status": "ATRACADO",
@@ -13,6 +13,36 @@
       "etaNor": "5/5/26 7:24",
       "etb": "9/5",
       "ets": "13/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9824992",
+      "vessel": "ROBUSTA *",
+      "etaNor": "7/5/26 22:00",
+      "etb": "13/5",
+      "ets": "18/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9603805",
+      "vessel": "STAR LUSTER",
+      "etaNor": "10/5/26 7:24",
+      "etb": "18/5",
+      "ets": "20/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9606431",
+      "vessel": "YU XIAO FENG",
+      "etaNor": "18/5/26 11:00",
+      "etb": "20/5",
+      "ets": "27/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -62,49 +92,19 @@
       "vessel": "LORIENT",
       "etaNor": "3/5/26 12:54",
       "etb": "16/5",
-      "ets": "20/5",
+      "ets": "19/5",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9979125",
-      "vessel": "SANTA CENTELLAR",
-      "etaNor": "12/5/26 17:00",
-      "etb": "28/5",
-      "ets": "31/5",
+      "status": "FUNDEADO",
+      "imo": "9796573",
+      "vessel": "MEGA BENEFIT",
+      "etaNor": "7/5/26 12:00",
+      "etb": "19/5",
+      "ets": "22/5",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9493999",
-      "vessel": "RANGER",
-      "etaNor": "13/5/26 22:00",
-      "etb": "31/5",
-      "ets": "3/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9748796",
-      "vessel": "SHANDONG FU ZHI",
-      "etaNor": "26/5/26 12:00",
-      "etb": "3/6",
-      "ets": "6/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9897896",
-      "vessel": "AMIS WEALTH *",
-      "etaNor": "29/4/26 11:12",
-      "etb": "9/5",
-      "ets": "14/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
