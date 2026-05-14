@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2005%202026%20-10h00%20Clientes_6a05e036aad5c.pdf",
-  "updatedAt": "2026-05-14T19:28:52+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2005%202026%20-15h00%20CLIENTES_6a06251ec1baa.pdf",
+  "updatedAt": "2026-05-14T20:53:32+00:00",
   "records": [
     {
       "status": "ATRACADO",
@@ -11,7 +11,7 @@
       "ets": "14/5",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ATRACADO 9836701 TAYGETUS 228,99 32,26 81.746 12,50 7,00 5/5/26 7:24 9/5 14/5 D FERTILIZANTES 20.000 ZPORT COPI FERTGROW POB 09/05/26 18:36 B PE rR oÇ f.O : 19 59 m L o Da: W 2 T2 :9 FUNDEADO 9824992 ROBUSTA * 201,90 33,95 62.361 9,00 12,00 7/5/26 22:00 14/5 19/5 C CELULOSE 59.000 WILSON SONS G5 SUZANO NAVIO COM PRONTIDÃO PARA 12/05/2026 83.400 FUNDEADO 9603805 STAR LUSTER 204,35 32,26 50.740 10,15 11,30 10/5/26 7:24 19/5 21/5 D FERTILIZANTES 8.800 ROCHAMAR COPI MOSAIC Atualiz -a 1ç 0ã :0o 0: 14/05 ESPERADO 9606431 YU XIAO FENG 225,00 32,26 75.397 13,75 7,00 18/5/26 11:00 21/5 28/5 D FERTILIZANTES 49.000 WORLD SHIPPING COPI AMAGGI/FERTIPAR/ FERTGROW",
+      "raw": "ATRACADO 9836701 TAYGETUS 228,99 32,26 81.746 12,50 7,00 5/5/26 7:24 9/5 14/5 D FERTILIZANTES 20.000 ZPORT COPI FERTGROW POB 09/05/26 18:36 B PE rR oÇ f.O : 19 59 m L o Da: W 2 T2 :9 FUNDEADO 9824992 ROBUSTA * 201,90 33,95 62.361 9,00 12,00 7/5/26 22:00 14/5 19/5 C CELULOSE 59.000 WILSON SONS G5 SUZANO NAVIO COM PRONTIDÃO PARA 12/05/2026 83.400 FUNDEADO 9603805 STAR LUSTER 204,35 32,26 50.740 10,15 11,30 10/5/26 7:24 19/5 21/5 D FERTILIZANTES 8.800 ROCHAMAR COPI MOSAIC Atualiz -a 1ç 5ã :0o 0: 14/05 ESPERADO 9606431 YU XIAO FENG 225,00 32,26 75.397 13,75 7,00 18/5/26 11:00 21/5 28/5 D FERTILIZANTES 49.000 WORLD SHIPPING COPI AMAGGI/FERTIPAR/ FERTGROW",
       "id": 1
     },
     {
@@ -59,19 +59,19 @@
       "ets": "22/5",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9796573 MEGA BENEFIT 229,00 32,00 81.018 7,00 13,00 7/5/26 12:00 19/5 22/5 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI AP tr uo af l. i1: z 01 a0 ç5 ã.m 0 o0 : 0D 1 4W /T 0: 5 FUNDEADO 9461178 KIRRIBILLI 228,99 32,26 82.206 7,44 13,47 8/5/26 15:00 24/5 27/5 C SOJA 66.000 ALPHAMAR TEGRAM LOUIS DREYFUS-10:00 FUNDEADO 9848998 KIM OLDENDORFF 229,00 32,26 81.284 7,00 13,00 9/5/26 16:00 27/5 30/5 C SOJA 70.413 FERTIMPORT TEGRAM BUNGE",
+      "raw": "FUNDEADO 9796573 MEGA BENEFIT 229,00 32,00 81.018 7,00 13,00 7/5/26 12:00 19/5 22/5 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI Atuali1 z -0 a 10 ç 5ã. :0 0o0 0: 0 1 4/05 FUNDEADO 9461178 KIRRIBILLI 228,99 32,26 82.206 7,44 13,47 8/5/26 15:00 24/5 27/5 C SOJA 66.000 ALPHAMAR TEGRAM LOUIS DREYFUS",
       "id": 5
     },
     {
-      "status": "ESPERADO",
-      "imo": "9979125",
-      "vessel": "SANTA CENTELLAR",
-      "etaNor": "12/5/26 17:00",
-      "etb": "30/5",
-      "ets": "1/6",
+      "status": "FUNDEADO",
+      "imo": "9848998",
+      "vessel": "KIM OLDENDORFF",
+      "etaNor": "9/5/26 16:00",
+      "etb": "27/5",
+      "ets": "30/5",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9979125 SANTA CENTELLAR 199,98 32,24 63.482 7,00 14,10 12/5/26 17:00 30/5 1/6 C SOJA 58.400 ORION RODOS TEGRAM CARGILL",
+      "raw": "FUNDEADO 9848998 KIM OLDENDORFF 229,00 32,26 81.284 7,00 13,00 9/5/26 16:00 27/5 30/5 C SOJA 70.413 FERTIMPORT TEGRAM BUNGE",
       "id": 6
     },
     {
@@ -79,11 +79,11 @@
       "imo": "9851531",
       "vessel": "TONG XIANG",
       "etaNor": "19/5/26 12:00",
-      "etb": "1/6",
-      "ets": "4/6",
+      "etb": "30/5",
+      "ets": "2/6",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9851531 TONG XIANG 229,00 32,26 81.607 7,00 13,00 19/5/26 12:00 1/6 4/6 C SOJA 66.000 ALPHAMAR TEGRAM CHS",
+      "raw": "ESPERADO 9851531 TONG XIANG 229,00 32,26 81.607 7,00 13,00 19/5/26 12:00 30/5 2/6 C SOJA 66.000 ALPHAMAR TEGRAM CHS",
       "id": 7
     },
     {
@@ -91,11 +91,11 @@
       "imo": "9609627",
       "vessel": "SCARLET ROSELLA",
       "etaNor": "15/5/26 1:00",
-      "etb": "4/6",
-      "ets": "7/6",
+      "etb": "2/6",
+      "ets": "5/6",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9609627 SCARLET ROSELLA 228,99 32,26 82.235 4,00 13,00 15/5/26 1:00 4/6 7/6 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
+      "raw": "ESPERADO 9609627 SCARLET ROSELLA 228,99 32,26 82.235 4,00 13,00 15/5/26 1:00 2/6 5/6 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
       "id": 8
     },
     {
@@ -119,7 +119,7 @@
       "ets": "17/5",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9812482 SANTA VALENTINA * 199,92 32,26 61.310 11,00 6,00 7/5/26 10:00 15/5 17/5 D FERTILIZANTES 11.750 ORION RODOS COPI MOSAIC Atualiz -a 1ç 0ã :0o 0: 14/05 ESPERADO 9496173 GEM STAR * 177,00 28,60 33.171 10,00 8,00 18/5/26 12:00 26/5 27/5 D FERTILIZANTES 6.358 AMART COPISI COPI",
+      "raw": "ESPERADO 9812482 SANTA VALENTINA * 199,92 32,26 61.310 11,00 6,00 7/5/26 10:00 15/5 17/5 D FERTILIZANTES 11.750 ORION RODOS COPI MOSAIC Atualiz -a 1ç 5ã :0o 0: 14/05 ESPERADO 9496173 GEM STAR * 177,00 28,60 33.171 10,00 8,00 18/5/26 12:00 26/5 27/5 D FERTILIZANTES 6.358 AMART COPISI COPI",
       "id": 10
     },
     {
@@ -152,10 +152,10 @@
       "vessel": "COSCO SHIPPING JIN XIU *",
       "etaNor": "8/5/26 12:00",
       "etb": "12/5",
-      "ets": "15/5",
+      "ets": "16/5",
       "operation": "D",
       "cargo": "EVAPORADORES",
-      "raw": "ATRACADO 9872169 COSCO SHIPPING JIN XIU * 201,80 32,26 62.002 7,00 6,00 8/5/26 12:00 12/5 15/5 D EVAPORADORES 2.199 TR OA PN ERSG AÇLO ÕB EA SL TRANSGLOBAL ENEVA SOMENTE B.102. A COACE AUTORIZOU A ENTRADA DO NAVIO NO B102 COM O LOA ACIMA DE 200M",
+      "raw": "ATRACADO 9872169 COSCO SHIPPING JIN XIU * 201,80 32,26 62.002 7,00 6,00 8/5/26 12:00 12/5 16/5 D EVAPORADORES 2.199 TR OA PN ERSG AÇLO ÕB EA SL TRANSGLOBAL ENEVA SOMENTE B.102. A COACE AUTORIZOU A ENTRADA DO NAVIO NO B102 COM O LOA ACIMA DE 200M",
       "id": 13
     },
     {
@@ -163,11 +163,11 @@
       "imo": "9788681",
       "vessel": "ND ARISTEIA",
       "etaNor": "8/5/26 16:30",
-      "etb": "15/5",
-      "ets": "17/5",
+      "etb": "16/5",
+      "ets": "18/5",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "FUNDEADO 9788681 ND ARISTEIA 199,92 32,26 61.237 11,00 7,00 8/5/26 16:30 15/5 17/5 D FERTILIZANTES 11.500 ALPHAMAR COPI FERTIPAR / JBS",
+      "raw": "FUNDEADO 9788681 ND ARISTEIA 199,92 32,26 61.237 11,00 7,00 8/5/26 16:30 16/5 18/5 D FERTILIZANTES 11.500 ALPHAMAR COPI FERTIPAR / JBS",
       "id": 14
     },
     {
@@ -175,11 +175,11 @@
       "imo": "9552989",
       "vessel": "AMIS ACE",
       "etaNor": "13/5/26 20:48",
-      "etb": "17/5",
-      "ets": "21/5",
+      "etb": "18/5",
+      "ets": "22/5",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "FUNDEADO 9552989 AMIS ACE 196,00 32,30 60.830 11,50 9,50 13/5/26 20:48 17/5 21/5 D FERTILIZANTES 24.000 ORION RODOS COPI MOSAIC Atualiz -a 1ç 0ã :0o 0: 14/05 ESPERADO 9536844 ATLANTIC GLORY 179,99 28,20 33.472 10,50 6,50 29/5/26 8:00 29/5 4/6 D TRILHOS 10.248 LBH BRASIL NML TANKERS VALE",
+      "raw": "FUNDEADO 9552989 AMIS ACE 196,00 32,30 60.830 11,50 9,50 13/5/26 20:48 18/5 22/5 D FERTILIZANTES 24.000 ORION RODOS COPI MOSAIC Atualiz -a 1ç 5ã :0o 0: 14/05 ESPERADO 9536844 ATLANTIC GLORY 179,99 28,20 33.472 10,50 6,50 29/5/26 8:00 29/5 4/6 D TRILHOS 10.248 LBH BRASIL NML TANKERS VALE",
       "id": 15
     },
     {
@@ -251,7 +251,7 @@
       "ets": "21/5",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9783980 ATLANTIC SAMURAI 228,99 32,26 81.725 7,00 11,30 5/5/26 15:20 18/5 21/5 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Prof. 1: 01 05 .m 00 0D WT: FUNDEADO 9590761 GOLDEN GINGER 229,00 32,26 81.507 7,00 13,30 8/5/26 3:42 24/5 27/5 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Atualiz -a 1ç 0ã :0o 0: 14/05 FUNDEADO 9607162 KERKYRA 229,00 32,26 81.376 7,00 13,00 8/5/26 17:00 27/5 30/5 C SOJA 66.000 WILSON SONS TEGRAM AMAGGI",
+      "raw": "FUNDEADO 9783980 ATLANTIC SAMURAI 228,99 32,26 81.725 7,00 11,30 5/5/26 15:20 18/5 21/5 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Atuali1 z0 a0 çã.0 o0 : 0 1 4/05 FUNDEADO 9607162 KERKYRA 229,00 32,26 81.376 7,00 13,00 8/5/26 17:00 27/5 30/5 C SOJA 66.000 WILSON SONS TEGRAM AMAGGI-15:00",
       "id": 21
     },
     {
@@ -267,28 +267,40 @@
       "id": 22
     },
     {
+      "status": "ESPERADO",
+      "imo": "9979125",
+      "vessel": "SANTA CENTELLAR",
+      "etaNor": "12/5/26 17:00",
+      "etb": "1/6",
+      "ets": "3/6",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "ESPERADO 9979125 SANTA CENTELLAR 199,98 32,24 63.482 7,00 14,10 12/5/26 17:00 1/6 3/6 C SOJA 58.400 ORION RODOS TEGRAM CARGILL",
+      "id": 23
+    },
+    {
       "status": "FUNDEADO",
       "imo": "9493999",
       "vessel": "RANGER",
       "etaNor": "14/5/26 3:45",
-      "etb": "1/6",
-      "ets": "4/6",
+      "etb": "3/6",
+      "ets": "6/6",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9493999 RANGER 228,99 32,26 82.172 7,90 13,00 14/5/26 3:45 1/6 4/6 C SOJA 70.300 CARGONAVE TEGRAM CHS AGRONEGOCIO",
-      "id": 23
+      "raw": "FUNDEADO 9493999 RANGER 228,99 32,26 82.172 7,90 13,00 14/5/26 3:45 3/6 6/6 C SOJA 70.300 CARGONAVE TEGRAM CHS AGRONEGOCIO",
+      "id": 24
     },
     {
       "status": "ESPERADO",
       "imo": "9748796",
       "vessel": "SHANDONG FU ZHI",
       "etaNor": "26/5/26 12:00",
-      "etb": "4/6",
-      "ets": "7/6",
+      "etb": "6/6",
+      "ets": "9/6",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9748796 SHANDONG FU ZHI 229,00 32,26 81.780 4,00 12,50 26/5/26 12:00 4/6 7/6 C SOJA 66.000 ZYON TEGRAM NOVAAGRI B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..Atualiz8 a0 ç. ã0 o0 :0 1 4/05 ESPERADO 9489895 CELSO FURTADO 183,00 32,44 48.300 12,00 8,00 20/5/26 23:00 22/5 25/5 D DIESEL 29.300 WILHELMSEN TRANSPETRO PETROBRAS-10:00",
-      "id": 24
+      "raw": "ESPERADO 9748796 SHANDONG FU ZHI 229,00 32,26 81.780 4,00 12,50 26/5/26 12:00 6/6 9/6 C SOJA 66.000 ZYON TEGRAM NOVAAGRI B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..Atualiz8 a0 ç. ã0 o0 :0 1 4/05 ESPERADO 9489895 CELSO FURTADO 183,00 32,44 48.300 12,00 8,00 20/5/26 23:00 22/5 25/5 D DIESEL 29.300 WILHELMSEN TRANSPETRO PETROBRAS-15:00",
+      "id": 25
     },
     {
       "status": "ESPERADO",
@@ -300,7 +312,7 @@
       "operation": "C",
       "cargo": "SEBO BOVINO",
       "raw": "ESPERADO 9828211 BOW EXPLORER * 183,00 33,00 38.235 8,73 9,73 7/6/26 0:00 7/6 7/6 C SEBO BOVINO 3.000 ROCHAMAR GRANEL QUÍMICA FASA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
-      "id": 25
+      "id": 26
     },
     {
       "status": "ATRACADO",
@@ -312,7 +324,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ATRACADO 1043413 BASIC FORTUNE 229,00 32,26 28.061 7,10 13,30 2/5/26 8:18 14/5 16/5 C SOJA 66.000 FERTIMPORT VLI BUNGE",
-      "id": 26
+      "id": 27
     },
     {
       "status": "FUNDEADO",
@@ -323,8 +335,8 @@
       "ets": "18/5",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9597800 SYROS I 229,02 32,25 81.370 7,00 13,00 2/5/26 15:36 16/5 18/5 C SOJA 64.000 WILSON SONS VLI CARGILL Atuali1 z5 a0 çã.0 o0 : 0 1 4/05 ESPERADO 9634842 STAR CALYPSO 228,99 32,26 81.890 6,58 13,66 16/5/26 2:00 20/5 22/5 C SOJA 70.862 WAYPOINT VLI AMAGGI-10:00",
-      "id": 27
+      "raw": "FUNDEADO 9597800 SYROS I 229,02 32,25 81.370 7,00 13,00 2/5/26 15:36 16/5 18/5 C SOJA 64.000 WILSON SONS VLI CARGILL Atuali1 z5 a0 çã.0 o0 : 0 1 4/05 ESPERADO 9634842 STAR CALYPSO 228,99 32,26 81.890 6,58 13,66 16/5/26 2:00 20/5 22/5 C SOJA 70.862 WAYPOINT VLI AMAGGI-15:00",
+      "id": 28
     },
     {
       "status": "ESPERADO",
@@ -336,7 +348,7 @@
       "operation": "C",
       "cargo": "COBRE",
       "raw": "ESPERADO 9414474 BAM TRITON 179,00 28,00 30.009 6,10 8,91 19/5/26 0:01 22/5 25/5 C COBRE 24.329 WILSON SONS G5 VALE O NAVIO IRÁ ABASTECER NO BERÇO 105 PELA TRANSPETRO",
-      "id": 28
+      "id": 29
     },
     {
       "status": "ESPERADO",
@@ -347,8 +359,8 @@
       "ets": "28/5",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9691400 MAGIC MARS 223,00 32,26 76.822 7,50 13,50 22/5/26 6:00 25/5 28/5 C SOJA 66.000 LBH BRASIL VLI CHS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Prof. 1: 51 59 .m 00 0D WT: ESPERADO 9380104 MITERA 182,50 32,20 47.370 12,60 9,50 16/5/26 19:30 16/5 21/5 D DIESEL 50.182 NORTH STAR TRANSPETRO VIBRA Atualiz -a 1ç 0ã :0o 0: 14/05 ESPERADO 9890587 IOANNIS ZAFIRAKIS 183,00 32,20 49.999 10,00 8,00 19/5/26 18:00 21/5 22/5 D OLEO COMBUSTÍVEL 5.000 WILHELMSEN TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Atualiz -a 1ç 0ã :0o 0: 14/05 FUNDEADO 9786152 MAERSK CALLAO 183,00 32,00 52.000 12,00 8,00 5/5/26 14:12 21/5 25/5 D GASOLINA / DIESEL 39.800 WILHELMSEN TRANSPETRO PETROBRAS INFORMADO PRONTIDÃO PARA 19/05 AS 12:00HS;",
-      "id": 29
+      "raw": "ESPERADO 9691400 MAGIC MARS 223,00 32,26 76.822 7,50 13,50 22/5/26 6:00 25/5 28/5 C SOJA 66.000 LBH BRASIL VLI CHS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES AP tr uo af l. i1: z - 51 a 15 ç9 5ã.m :0 0o0 0 : 0D 1 4W /T 0: 5 E ES SP PE ER RA AD DO O 9 93 88 90 01 50 84 7 IOANNM ISIT ZE AR FA IR AKIS 1 18 82 3, ,5 00 0 3 32 2, ,2 20 0 4 47 9. .3 97 90 9 1 12 0, ,6 00 0 9 8, ,5 00 0 16 1//5 6/ /22 66 82 :0 0: 000 1 16 // 65 2 24 // 65 D D OLEO CD OI MES BE UL STÍVEL 8 56 .. 03 06 04 WNO ILR HT EH LM ST SA ENR TRAN TS RQP AE U NT I SR M PO EIC/ TG A RR OANEL PETV RIB OR BA RAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Atualiz -a 1ç 5ã :0o 0: 14/05 FUNDEADO 9786152 MAERSK CALLAO 183,00 32,00 52.000 12,00 8,00 5/5/26 14:12 21/5 25/5 D GASOLINA / DIESEL 39.800 WILHELMSEN TRANSPETRO PETROBRAS INFORMADO PRONTIDÃO PARA 19/05 AS 12:00HS;",
+      "id": 30
     }
   ],
   "simplified": [
@@ -403,12 +415,12 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9979125",
-      "vessel": "SANTA CENTELLAR",
-      "etaNor": "12/5/26 17:00",
-      "etb": "30/5",
-      "ets": "1/6",
+      "status": "FUNDEADO",
+      "imo": "9848998",
+      "vessel": "KIM OLDENDORFF",
+      "etaNor": "9/5/26 16:00",
+      "etb": "27/5",
+      "ets": "30/5",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -417,8 +429,8 @@
       "imo": "9851531",
       "vessel": "TONG XIANG",
       "etaNor": "19/5/26 12:00",
-      "etb": "1/6",
-      "ets": "4/6",
+      "etb": "30/5",
+      "ets": "2/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -427,8 +439,8 @@
       "imo": "9609627",
       "vessel": "SCARLET ROSELLA",
       "etaNor": "15/5/26 1:00",
-      "etb": "4/6",
-      "ets": "7/6",
+      "etb": "2/6",
+      "ets": "5/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -478,7 +490,7 @@
       "vessel": "COSCO SHIPPING JIN XIU *",
       "etaNor": "8/5/26 12:00",
       "etb": "12/5",
-      "ets": "15/5",
+      "ets": "16/5",
       "operation": "D",
       "cargo": "EVAPORADORES"
     },
@@ -487,8 +499,8 @@
       "imo": "9788681",
       "vessel": "ND ARISTEIA",
       "etaNor": "8/5/26 16:30",
-      "etb": "15/5",
-      "ets": "17/5",
+      "etb": "16/5",
+      "ets": "18/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -497,8 +509,8 @@
       "imo": "9552989",
       "vessel": "AMIS ACE",
       "etaNor": "13/5/26 20:48",
-      "etb": "17/5",
-      "ets": "21/5",
+      "etb": "18/5",
+      "ets": "22/5",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -573,12 +585,22 @@
       "cargo": "SOJA"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9979125",
+      "vessel": "SANTA CENTELLAR",
+      "etaNor": "12/5/26 17:00",
+      "etb": "1/6",
+      "ets": "3/6",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
       "status": "FUNDEADO",
       "imo": "9493999",
       "vessel": "RANGER",
       "etaNor": "14/5/26 3:45",
-      "etb": "1/6",
-      "ets": "4/6",
+      "etb": "3/6",
+      "ets": "6/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -587,8 +609,8 @@
       "imo": "9748796",
       "vessel": "SHANDONG FU ZHI",
       "etaNor": "26/5/26 12:00",
-      "etb": "4/6",
-      "ets": "7/6",
+      "etb": "6/6",
+      "ets": "9/6",
       "operation": "C",
       "cargo": "SOJA"
     },
