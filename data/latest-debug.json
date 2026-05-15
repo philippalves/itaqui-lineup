@@ -1,18 +1,48 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2005%202026%20-15h00%20CLIENTES_6a06251ec1baa.pdf",
-  "generatedAt": "2026-05-15T14:59:59+00:00",
-  "rawLinesCount": 431,
-  "mergedLinesCount": 31,
-  "logicalLinesCount": 30,
-  "recordsCount": 30,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2015%2005%202026%20-10h00%20-%20clientes_6a07376405df9.pdf",
+  "generatedAt": "2026-05-15T16:53:30+00:00",
+  "rawLinesCount": 127,
+  "mergedLinesCount": 51,
+  "logicalLinesCount": 50,
+  "recordsCount": 49,
   "preview": [
     {
       "status": "ATRACADO",
-      "imo": "9836701",
-      "vessel": "TAYGETUS",
-      "etaNor": "5/5/26 7:24",
-      "etb": "9/5",
-      "ets": "14/5",
+      "imo": "9824992",
+      "vessel": "ROBUSTA *",
+      "etaNor": "7/5/26 22:00",
+      "etb": "15/5",
+      "ets": "20/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9603805",
+      "vessel": "STAR LUSTER",
+      "etaNor": "10/5/26 7:24",
+      "etb": "20/5",
+      "ets": "22/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9186780",
+      "vessel": "TEAL ARROW *",
+      "etaNor": "21/5/26 0:00",
+      "etb": "22/5",
+      "ets": "25/5",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9606431",
+      "vessel": "YU XIAO FENG",
+      "etaNor": "18/5/26 11:00",
+      "etb": "25/5",
+      "ets": "1/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -21,8 +51,8 @@
       "imo": "9605085",
       "vessel": "GULLHOLMEN ISLAND",
       "etaNor": "30/5/26 18:00",
-      "etb": "30/5",
-      "ets": "5/6",
+      "etb": "1/6",
+      "ets": "6/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -58,6 +88,16 @@
     },
     {
       "status": "FUNDEADO",
+      "imo": "9461178",
+      "vessel": "KIRRIBILLI",
+      "etaNor": "8/5/26 15:00",
+      "etb": "24/5",
+      "ets": "27/5",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
       "imo": "9848998",
       "vessel": "KIM OLDENDORFF",
       "etaNor": "9/5/26 16:00",
@@ -65,46 +105,6 @@
       "ets": "30/5",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9851531",
-      "vessel": "TONG XIANG",
-      "etaNor": "19/5/26 12:00",
-      "etb": "30/5",
-      "ets": "2/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9609627",
-      "vessel": "SCARLET ROSELLA",
-      "etaNor": "15/5/26 1:00",
-      "etb": "2/6",
-      "ets": "5/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9897896",
-      "vessel": "AMIS WEALTH *",
-      "etaNor": "29/4/26 11:12",
-      "etb": "9/5",
-      "ets": "15/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9812482",
-      "vessel": "SANTA VALENTINA *",
-      "etaNor": "7/5/26 10:00",
-      "etb": "15/5",
-      "ets": "17/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
