@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2024%2005%202026%20-14h00%20Clientes_6a134c94eaf14.pdf",
-  "generatedAt": "2026-05-25T14:37:08+00:00",
-  "rawLinesCount": 540,
-  "mergedLinesCount": 28,
-  "logicalLinesCount": 27,
-  "recordsCount": 27,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2005%202026%20-10h00%20-%20clientes_6a146ebd865f3.pdf",
+  "generatedAt": "2026-05-25T17:00:32+00:00",
+  "rawLinesCount": 122,
+  "mergedLinesCount": 46,
+  "logicalLinesCount": 45,
+  "recordsCount": 45,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,23 +18,63 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9414151",
-      "vessel": "XSSC BRIGHT",
-      "etaNor": "5/6/26 0:00",
+      "imo": "9186780",
+      "vessel": "TEAL ARROW *",
+      "etaNor": "28/5/26 1:00",
+      "etb": "29/5",
+      "ets": "1/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613329",
+      "vessel": "HALOPHYLA *",
+      "etaNor": "1/6/26 10:00",
+      "etb": "1/6",
+      "ets": "6/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9687162",
+      "vessel": "LAWIN ARROW *",
+      "etaNor": "6/6/26 0:00",
+      "etb": "6/6",
+      "ets": "9/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9536844",
+      "vessel": "ATLANTIC GLORY",
+      "etaNor": "30/5/26 22:00",
       "etb": "9/6",
-      "ets": "12/6",
+      "ets": "16/6",
       "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "cargo": "TRILHOS"
     },
     {
       "status": "ESPERADO",
       "imo": "9687174",
       "vessel": "OSPREY ARROW *",
       "etaNor": "11/6/26 0:00",
-      "etb": "12/6",
-      "ets": "15/6",
+      "etb": "16/6",
+      "ets": "18/6",
       "operation": "C",
       "cargo": "ALUMINIO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9414151",
+      "vessel": "XSSC BRIGHT",
+      "etaNor": "5/6/26 0:00",
+      "etb": "18/6",
+      "ets": "21/6",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
@@ -65,46 +105,6 @@
       "ets": "29/5",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9553218",
-      "vessel": "LV STAR",
-      "etaNor": "26/5/26 5:00",
-      "etb": "5/6",
-      "ets": "8/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9616905",
-      "vessel": "NIRIIS",
-      "etaNor": "7/6/26 12:00",
-      "etb": "8/6",
-      "ets": "11/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1083451",
-      "vessel": "BASIC PROSPERITY",
-      "etaNor": "8/6/26 18:00",
-      "etb": "11/6",
-      "ets": "14/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9860740",
-      "vessel": "CORE IMPERIAL *",
-      "etaNor": "8/5/26 17:18",
-      "etb": "18/5",
-      "ets": "24/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
