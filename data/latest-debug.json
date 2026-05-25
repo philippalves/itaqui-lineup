@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2005%202026%20-10h00%20-%20clientes_6a146ebd865f3.pdf",
-  "generatedAt": "2026-05-25T20:20:59+00:00",
-  "rawLinesCount": 122,
-  "mergedLinesCount": 46,
-  "logicalLinesCount": 45,
-  "recordsCount": 45,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2005%202026%20-15h00%20-%20clientes_6a14b10f218b6.pdf",
+  "generatedAt": "2026-05-25T21:40:19+00:00",
+  "rawLinesCount": 123,
+  "mergedLinesCount": 47,
+  "logicalLinesCount": 46,
+  "recordsCount": 46,
   "preview": [
     {
       "status": "ATRACADO",
@@ -78,11 +78,21 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9461178",
-      "vessel": "KIRRIBILLI",
-      "etaNor": "8/5/26 15:00",
-      "etb": "23/5",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "25/5/26 0:00",
+      "etb": "25/5",
       "ets": "25/5",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9848998",
+      "vessel": "KIM OLDENDORFF",
+      "etaNor": "9/5/26 16:00",
+      "etb": "25/5",
+      "ets": "28/5",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,18 +101,8 @@
       "imo": "9959773",
       "vessel": "SERENITY DIVA",
       "etaNor": "9/5/26 16:00",
-      "etb": "25/5",
-      "ets": "27/5",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9493999",
-      "vessel": "RANGER",
-      "etaNor": "14/5/26 3:45",
-      "etb": "27/5",
-      "ets": "29/5",
+      "etb": "28/5",
+      "ets": "31/5",
       "operation": "C",
       "cargo": "SOJA"
     }
