@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2026%2005%202026%20-14h00%20clientes_6a160325450db.pdf",
-  "generatedAt": "2026-05-27T14:57:05+00:00",
-  "rawLinesCount": 537,
-  "mergedLinesCount": 26,
-  "logicalLinesCount": 25,
-  "recordsCount": 25,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2027%2005%202026%20-10h00%20-%20clientes_6a170811c086b.pdf",
+  "generatedAt": "2026-05-27T17:56:06+00:00",
+  "rawLinesCount": 129,
+  "mergedLinesCount": 50,
+  "logicalLinesCount": 49,
+  "recordsCount": 49,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,9 +18,39 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9186780",
+      "vessel": "TEAL ARROW *",
+      "etaNor": "28/5/26 1:00",
+      "etb": "29/5",
+      "ets": "1/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613329",
+      "vessel": "HALOPHYLA *",
+      "etaNor": "1/6/26 10:00",
+      "etb": "1/6",
+      "ets": "6/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9687162",
+      "vessel": "LAWIN ARROW *",
+      "etaNor": "6/6/26 0:00",
+      "etb": "6/6",
+      "ets": "9/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9536844",
       "vessel": "ATLANTIC GLORY",
-      "etaNor": "31/5/26 6:00",
+      "etaNor": "31/5/26 11:00",
       "etb": "9/6",
       "ets": "16/6",
       "operation": "D",
@@ -48,9 +78,9 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9607162",
-      "vessel": "KERKYRA",
-      "etaNor": "8/5/26 17:00",
+      "imo": "9609627",
+      "vessel": "SCARLET ROSELLA",
+      "etaNor": "14/5/26 23:42",
       "etb": "28/5",
       "ets": "31/5",
       "operation": "C",
@@ -58,53 +88,23 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9609627",
-      "vessel": "SCARLET ROSELLA",
-      "etaNor": "14/5/26 23:42",
+      "imo": "9959773",
+      "vessel": "SERENITY DIVA",
+      "etaNor": "9/5/26 16:00",
       "etb": "31/5",
       "ets": "2/6",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9691412",
-      "vessel": "JIN CHAO",
-      "etaNor": "24/5/26 7:00",
-      "etb": "7/6",
-      "ets": "10/6",
+      "status": "FUNDEADO",
+      "imo": "9461166",
+      "vessel": "OCEAN ANNA",
+      "etaNor": "25/5/26 16:50",
+      "etb": "2/6",
+      "ets": "5/6",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9748796",
-      "vessel": "SHANDONG FU ZHI",
-      "etaNor": "28/5/26 0:00",
-      "etb": "10/6",
-      "ets": "12/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1083451",
-      "vessel": "BASIC PROSPERITY",
-      "etaNor": "8/6/26 18:00",
-      "etb": "12/6",
-      "ets": "16/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9758143",
-      "vessel": "AMSTEL STORK *",
-      "etaNor": "13/5/26 14:12",
-      "etb": "24/5",
-      "ets": "27/5",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
