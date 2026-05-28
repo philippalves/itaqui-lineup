@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2027%2005%202026%20-15h00%20-%20clientes_6a1752af7b26f.pdf",
-  "generatedAt": "2026-05-28T14:30:46+00:00",
-  "rawLinesCount": 131,
-  "mergedLinesCount": 53,
-  "logicalLinesCount": 52,
-  "recordsCount": 52,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2005%202026%20-10h00%20clientes_6a18592b4975d.pdf",
+  "generatedAt": "2026-05-28T17:57:49+00:00",
+  "rawLinesCount": 548,
+  "mergedLinesCount": 35,
+  "logicalLinesCount": 34,
+  "recordsCount": 34,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,43 +18,13 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9186780",
-      "vessel": "TEAL ARROW *",
-      "etaNor": "27/5/26 21:30",
-      "etb": "29/5",
-      "ets": "1/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9613329",
-      "vessel": "HALOPHYLA *",
-      "etaNor": "1/6/26 10:00",
-      "etb": "1/6",
-      "ets": "6/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9687162",
-      "vessel": "LAWIN ARROW *",
-      "etaNor": "6/6/26 0:00",
-      "etb": "6/6",
-      "ets": "9/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9536844",
-      "vessel": "ATLANTIC GLORY",
-      "etaNor": "31/5/26 11:00",
+      "imo": "9479008",
+      "vessel": "LUZON",
+      "etaNor": "2/6/26 6:00",
       "etb": "9/6",
       "ets": "16/6",
       "operation": "D",
-      "cargo": "TRILHOS"
+      "cargo": "FERTLIZANTES"
     },
     {
       "status": "ESPERADO",
@@ -97,14 +67,44 @@
       "cargo": "SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9461166",
-      "vessel": "OCEAN ANNA",
-      "etaNor": "25/5/26 16:50",
-      "etb": "2/6",
-      "ets": "5/6",
+      "status": "ESPERADO",
+      "imo": "9691412",
+      "vessel": "JIN CHAO",
+      "etaNor": "24/5/26 7:00",
+      "etb": "7/6",
+      "ets": "10/6",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9748796",
+      "vessel": "SHANDONG FU ZHI",
+      "etaNor": "27/5/26 23:54",
+      "etb": "10/6",
+      "ets": "12/6",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1083451",
+      "vessel": "BASIC PROSPERITY",
+      "etaNor": "8/6/26 18:00",
+      "etb": "12/6",
+      "ets": "16/6",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9496173",
+      "vessel": "GEM STAR *",
+      "etaNor": "18/5/26 14:30",
+      "etb": "28/5",
+      "ets": "28/5",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
