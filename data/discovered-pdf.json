@@ -1,16 +1,10 @@
 {
   "sourcePage": "https://website.portodoitaqui.com.br/home",
-  "pdfUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2005%202026%20-10h00%20clientes_6a18592b4975d.pdf",
-  "linkText": "Mapa de Atracação",
-  "foundAt": "2026-05-28T17:57:46.535Z",
+  "pdfUrl": "https://www.portodoitaqui.com/public/_files/arquivos/176-passagem-nivel_6a18755ac5c41.pdf",
+  "linkText": "Mapa Ferroviário",
+  "foundAt": "2026-05-28T20:19:32.101Z",
   "candidatesFound": 8,
   "topCandidates": [
-    {
-      "href": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA DE ATRACAÇÃO - 28 05 2026 -10h00 clientes_6a18592b4975d.pdf",
-      "text": "Mapa de Atracação",
-      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2005%202026%20-10h00%20clientes_6a18592b4975d.pdf",
-      "score": 97
-    },
     {
       "href": "https://www.portodoitaqui.com/public/_files/arquivos/176-passagem-nivel_6a18755ac5c41.pdf",
       "text": "Mapa Ferroviário",
@@ -40,6 +34,12 @@
       "text": "Normas de Manobra",
       "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
       "score": 52
+    },
+    {
+      "href": "https://www.portodoitaqui.com/public/_files/arquivos/",
+      "text": "Mapa de Atracação",
+      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/",
+      "score": 42
     },
     {
       "href": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
