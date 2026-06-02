@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2002%2006%202026%20-10h00%20-%20clientes_6a1ef1ecb8794.pdf",
-  "generatedAt": "2026-06-02T18:00:26+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2002%2006%202026%20-14h00%20-%20clientes_6a1f358a1fff5.pdf",
+  "generatedAt": "2026-06-02T20:55:22+00:00",
   "rawLinesCount": 132,
-  "mergedLinesCount": 59,
-  "logicalLinesCount": 58,
-  "recordsCount": 58,
+  "mergedLinesCount": 58,
+  "logicalLinesCount": 57,
+  "recordsCount": 57,
   "preview": [
     {
       "status": "ATRACADO",
@@ -82,7 +82,7 @@
       "vessel": "KERKYRA",
       "etaNor": "8/5/26 17:00",
       "etb": "31/5",
-      "ets": "2/6",
+      "ets": "3/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,8 +91,8 @@
       "imo": "9738349",
       "vessel": "DSI POLARIS",
       "etaNor": "20/5/26 16:10",
-      "etb": "2/6",
-      "ets": "4/6",
+      "etb": "3/6",
+      "ets": "5/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -101,7 +101,7 @@
       "imo": "9523201",
       "vessel": "YUN LONG FENG",
       "etaNor": "21/5/26 8:00",
-      "etb": "4/6",
+      "etb": "5/6",
       "ets": "7/6",
       "operation": "C",
       "cargo": "SOJA"
