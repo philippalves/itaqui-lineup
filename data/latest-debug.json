@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2003%2006%202026%20-15h00%20clientes_6a20a96677873.pdf",
-  "generatedAt": "2026-06-04T20:30:18+00:00",
-  "rawLinesCount": 444,
-  "mergedLinesCount": 45,
-  "logicalLinesCount": 44,
-  "recordsCount": 39,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2006%202026%20-14h00%20clientes_6a21eb8069f63.pdf",
+  "generatedAt": "2026-06-04T22:05:30+00:00",
+  "rawLinesCount": 450,
+  "mergedLinesCount": 47,
+  "logicalLinesCount": 46,
+  "recordsCount": 41,
   "preview": [
     {
       "status": "ATRACADO",
@@ -17,22 +17,22 @@
       "cargo": "CELULOSE"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9687162",
-      "vessel": "LAWIN ARROW *",
-      "etaNor": "5/6/26 17:00",
+      "status": "FUNDEADO",
+      "imo": "9605085",
+      "vessel": "GULLHOLMEN ISLAND",
+      "etaNor": "1/6/26 4:25",
       "etb": "8/6",
-      "ets": "11/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
+      "ets": "13/6",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9688635",
-      "vessel": "SEAHARMONY",
-      "etaNor": "9/6/26 8:00",
-      "etb": "25/6",
-      "ets": "30/6",
+      "status": "FUNDEADO",
+      "imo": "9414151",
+      "vessel": "XSSC BRIGHT",
+      "etaNor": "3/6/26 9:00",
+      "etb": "24/6",
+      "ets": "28/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -91,8 +91,8 @@
       "imo": "9330812",
       "vessel": "YANGTZE SELINDA",
       "etaNor": "14/6/26 12:00",
-      "etb": "25/6",
-      "ets": "27/6",
+      "etb": "24/6",
+      "ets": "26/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -101,8 +101,8 @@
       "imo": "9537628",
       "vessel": "SAUVAN",
       "etaNor": "11/6/26 12:00",
-      "etb": "27/6",
-      "ets": "30/6",
+      "etb": "26/6",
+      "ets": "29/6",
       "operation": "C",
       "cargo": "SOJA"
     }
