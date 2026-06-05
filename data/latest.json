@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2006%202026%20-14h00%20Clientes_6a232f7f39e3e.pdf",
-  "updatedAt": "2026-06-05T20:21:50+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2006%202026%20-14h00%20Clientes_6a23339e9ecd4.pdf",
+  "updatedAt": "2026-06-05T21:54:14+00:00",
   "records": [
     {
       "status": "ATRACADO",
@@ -479,20 +479,8 @@
       "ets": "7/7",
       "operation": "D",
       "cargo": "COBRE",
-      "raw": "ESPERADO 9849784 ATALANTI.GR 200,00 32,25 60.394 8,25 10,25 17/6/26 12:00 4/7 7/7 D COBRE 44.995 GEM G5 VALE B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
+      "raw": "ESPERADO 9849784 ATALANTI.GR 200,00 32,25 60.394 8,25 10,25 17/6/26 12:00 4/7 7/7 D COBRE 44.995 GEM G5 VALE B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Atuali1 z5 a5 çã.0 o0 : 0 0 5/06 ESPERADO 9693824 WECO MADELEINE *² 184,00 32,20 49.708 11,90 8,00 7/6/26 17:00 9/6 15/6 DC GASOLINA/DIESEL 60.825 NORTH STAR TRANSPETRO VIBRA-14:00",
       "id": 44
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9788540",
-      "vessel": "PACIFIC AZUR",
-      "etaNor": "31/5/26 2:00",
-      "etb": "2/6",
-      "ets": "5/6",
-      "operation": "D",
-      "cargo": "DIESEL / GASOLINA",
-      "raw": "ATRACADO 9788540 PACIFIC AZUR 182,50 32,23 49.996 11,00 9,00 31/5/26 2:00 2/6 5/6 D DIESEL / GASOLINA 31.900 WILHELMSEN TRANSPETRO PETROBRAS NAVIO FOI BY PASSADO PELO CELSO FURTADO A PEDIDO DO CLIENTE Prof. 1: 51 59 .m 00 0D WT: ESPERADO 9407380 HORIZON THETIS 183,00 32,20 49.999 10,40 8,60 6/6/26 8:00 7/6 9/6 D DIESEL / GASOLINA 15.980 WILSON SONS TRANSPETRO ACELEN Atualiz -a 1ç 4ã :0o 0: 05/06 ESPERADO 9693824 WECO MADELEINE *² 184,00 32,20 49.708 11,90 8,00 7/6/26 17:00 9/6 15/6 DC GASOLINA/DIESEL 60825 NORTH STAR TRANSPETRO VIBRA",
-      "id": 45
     },
     {
       "status": "ESPERADO",
@@ -504,7 +492,7 @@
       "operation": "D",
       "cargo": "DIESEL",
       "raw": "ESPERADO 9390020 DALLAS 182,90 32,20 65.118 12,00 10,50 11/6/26 0:00 15/6 19/6 D DIESEL 38800 WILHELMSEN TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
-      "id": 46
+      "id": 45
     },
     {
       "status": "ATRACADO",
@@ -516,7 +504,7 @@
       "operation": "D",
       "cargo": "DIESEL",
       "raw": "ATRACADO 9960291 PARTRIDGE PACIFIC- *¹ TB 183,00 32,00 49.750 12,00 10,00 2/6/26 11:00 4/6 8/6 D DIESEL 47.368 GAC GRANEL QUIMICA ACELEN Atualiz -a 1ç 4ã :0o 0: 05/06 ESPERADO 9336517 URIEL 228,49 32,23 74.993 14,00 7,00 9/6/26 12:00 12/6 14/6 D DIESEL 10.000 ZYON TRANSPETRO VIBRA",
-      "id": 47
+      "id": 46
     },
     {
       "status": "ESPERADO",
@@ -528,7 +516,7 @@
       "operation": "D",
       "cargo": "DIESEL/GASOLINA",
       "raw": "ESPERADO 9457713 PINE OLIA 183,00 32,20 50.275 11,00 8,00 10/6/26 12:00 14/6 16/6 D DIESEL/GASOLINA 26.100 WILHELMSEN TRANSPETRO PETROBRAS",
-      "id": 48
+      "id": 47
     }
   ],
   "simplified": [
@@ -931,16 +919,6 @@
       "ets": "7/7",
       "operation": "D",
       "cargo": "COBRE"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9788540",
-      "vessel": "PACIFIC AZUR",
-      "etaNor": "31/5/26 2:00",
-      "etb": "2/6",
-      "ets": "5/6",
-      "operation": "D",
-      "cargo": "DIESEL / GASOLINA"
     },
     {
       "status": "ESPERADO",
