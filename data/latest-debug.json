@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2006%202026%20-14h00%20clientes_6a21eb8069f63.pdf",
-  "generatedAt": "2026-06-05T18:21:14+00:00",
-  "rawLinesCount": 450,
-  "mergedLinesCount": 47,
-  "logicalLinesCount": 46,
-  "recordsCount": 41,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2006%202026%20-14h00%20Clientes_6a232f7f39e3e.pdf",
+  "generatedAt": "2026-06-05T20:21:50+00:00",
+  "rawLinesCount": 449,
+  "mergedLinesCount": 49,
+  "logicalLinesCount": 48,
+  "recordsCount": 44,
   "preview": [
     {
       "status": "ATRACADO",
@@ -27,12 +27,22 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9687174",
+      "vessel": "OSPREY ARROW *",
+      "etaNor": "12/6/26 0:00",
+      "etb": "24/6",
+      "ets": "26/6",
+      "operation": "C",
+      "cargo": "ALUMINIO"
+    },
+    {
       "status": "FUNDEADO",
       "imo": "9414151",
       "vessel": "XSSC BRIGHT",
       "etaNor": "3/6/26 9:00",
-      "etb": "24/6",
-      "ets": "28/6",
+      "etb": "26/6",
+      "ets": "30/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -93,16 +103,6 @@
       "etaNor": "14/6/26 12:00",
       "etb": "24/6",
       "ets": "26/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9537628",
-      "vessel": "SAUVAN",
-      "etaNor": "11/6/26 12:00",
-      "etb": "26/6",
-      "ets": "29/6",
       "operation": "C",
       "cargo": "SOJA"
     }
