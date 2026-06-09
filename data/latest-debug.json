@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2006%202026%20-10h00%20CLIENTES_6a282c1980d6f.pdf",
-  "generatedAt": "2026-06-09T20:26:57+00:00",
-  "rawLinesCount": 441,
-  "mergedLinesCount": 42,
-  "logicalLinesCount": 41,
-  "recordsCount": 39,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2006%202026%20-14h00%20clientes_6a28793bcd711.pdf",
+  "generatedAt": "2026-06-09T22:04:33+00:00",
+  "rawLinesCount": 443,
+  "mergedLinesCount": 41,
+  "logicalLinesCount": 40,
+  "recordsCount": 37,
   "preview": [
     {
       "status": "ATRACADO",
@@ -17,24 +17,24 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9687174",
+      "vessel": "OSPREY ARROW *",
+      "etaNor": "13/6/26 9:00",
+      "etb": "28/6",
+      "ets": "30/6",
+      "operation": "C",
+      "cargo": "ALUMINIO"
+    },
+    {
       "status": "FUNDEADO",
       "imo": "9414151",
       "vessel": "XSSC BRIGHT",
       "etaNor": "3/6/26 9:00",
-      "etb": "24/6",
-      "ets": "28/6",
+      "etb": "30/6",
+      "ets": "4/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9674218",
-      "vessel": "BUBBA BOOSH",
-      "etaNor": "21/6/26 6:00",
-      "etb": "28/6",
-      "ets": "2/7",
-      "operation": "D",
-      "cargo": "CARVÃO MINERAL"
     },
     {
       "status": "ATRACADO",
@@ -68,9 +68,9 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9602435",
-      "vessel": "CYMONA PROGRESS",
-      "etaNor": "3/6/26 17:00",
+      "imo": "1083451",
+      "vessel": "BASIC PROSPERITY",
+      "etaNor": "8/6/26 0:54",
       "etb": "24/6",
       "ets": "27/6",
       "operation": "C",
@@ -78,11 +78,21 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9616905",
-      "vessel": "NIRIIS",
-      "etaNor": "8/6/26 13:18",
+      "imo": "9602435",
+      "vessel": "CYMONA PROGRESS",
+      "etaNor": "3/6/26 17:00",
       "etb": "27/6",
       "ets": "30/6",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9731834",
+      "vessel": "THALIA",
+      "etaNor": "16/6/26 8:00",
+      "etb": "30/6",
+      "ets": "3/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,20 +101,10 @@
       "imo": "9537628",
       "vessel": "SAUVAN",
       "etaNor": "11/6/26 12:00",
-      "etb": "30/6",
-      "ets": "3/7",
+      "etb": "3/7",
+      "ets": "6/7",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9479008",
-      "vessel": "LUZON *",
-      "etaNor": "1/6/26 19:00",
-      "etb": "6/6",
-      "ets": "11/6",
-      "operation": "D",
-      "cargo": "FERTLIZANTES"
     }
   ]
 }
