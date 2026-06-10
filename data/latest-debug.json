@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2006%202026%20-14h00%20clientes_6a28793bcd711.pdf",
-  "generatedAt": "2026-06-10T14:33:04+00:00",
-  "rawLinesCount": 443,
-  "mergedLinesCount": 41,
-  "logicalLinesCount": 40,
-  "recordsCount": 37,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2010%2006%202026%20-10h00%20-%20clientes_6a29847c211fa.pdf",
+  "generatedAt": "2026-06-10T17:52:47+00:00",
+  "rawLinesCount": 140,
+  "mergedLinesCount": 61,
+  "logicalLinesCount": 60,
+  "recordsCount": 54,
   "preview": [
     {
       "status": "ATRACADO",
@@ -15,6 +15,26 @@
       "ets": "15/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9687162",
+      "vessel": "LAWIN ARROW *",
+      "etaNor": "5/6/26 6:00",
+      "etb": "15/6",
+      "ets": "19/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9363637",
+      "vessel": "SAGA JOURNEY *",
+      "etaNor": "11/6/26 12:00",
+      "etb": "24/6",
+      "ets": "28/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -67,42 +87,22 @@
       "cargo": "SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "1083451",
-      "vessel": "BASIC PROSPERITY",
-      "etaNor": "8/6/26 0:54",
-      "etb": "24/6",
-      "ets": "27/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9602435",
-      "vessel": "CYMONA PROGRESS",
-      "etaNor": "3/6/26 17:00",
-      "etb": "27/6",
-      "ets": "30/6",
+      "status": "ESPERADO",
+      "imo": "9960461",
+      "vessel": "FW VENUS",
+      "etaNor": "4/6/26 0:00",
+      "etb": "15/6",
+      "ets": "18/6",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9731834",
-      "vessel": "THALIA",
-      "etaNor": "16/6/26 8:00",
-      "etb": "30/6",
-      "ets": "3/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9537628",
-      "vessel": "SAUVAN",
-      "etaNor": "11/6/26 12:00",
-      "etb": "3/7",
-      "ets": "6/7",
+      "imo": "1040837",
+      "vessel": "DUCHESS MAGNOLIA",
+      "etaNor": "6/6/26 14:00",
+      "etb": "18/6",
+      "ets": "20/6",
       "operation": "C",
       "cargo": "SOJA"
     }
