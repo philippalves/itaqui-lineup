@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2012%2006%202026%20-10h00%20-%20clientes_6a2c2a5c9455d.pdf",
-  "generatedAt": "2026-06-12T18:58:38+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2012%2006%202026%20-15h00%20-%20clientes_6a2c68d525da5.pdf",
+  "generatedAt": "2026-06-12T21:01:53+00:00",
   "rawLinesCount": 137,
-  "mergedLinesCount": 59,
-  "logicalLinesCount": 58,
-  "recordsCount": 52,
+  "mergedLinesCount": 60,
+  "logicalLinesCount": 59,
+  "recordsCount": 53,
   "preview": [
     {
       "status": "ATRACADO",
@@ -57,12 +57,22 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9847011",
+      "vessel": "KOBAYASHI MARU",
+      "etaNor": "25/7/26 6:00",
+      "etb": "25/7",
+      "ets": "1/8",
+      "operation": "D",
+      "cargo": "CLINQUER"
+    },
+    {
       "status": "ATRACADO",
       "imo": "9720225",
       "vessel": "AFRICAN BUZZARD",
       "etaNor": "29/5/26 6:06",
       "etb": "11/6",
-      "ets": "14/6",
+      "ets": "13/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,7 +81,7 @@
       "imo": "9619787",
       "vessel": "SEABISCUIT",
       "etaNor": "6/6/26 12:18",
-      "etb": "14/6",
+      "etb": "13/6",
       "ets": "16/6",
       "operation": "C",
       "cargo": "SOJA"
@@ -92,17 +102,7 @@
       "vessel": "DUCHESS MAGNOLIA",
       "etaNor": "6/6/26 14:00",
       "etb": "18/6",
-      "ets": "22/6",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "1083451",
-      "vessel": "BASIC PROSPERITY",
-      "etaNor": "8/6/26 0:54",
-      "etb": "24/6",
-      "ets": "27/6",
+      "ets": "21/6",
       "operation": "C",
       "cargo": "SOJA"
     }
