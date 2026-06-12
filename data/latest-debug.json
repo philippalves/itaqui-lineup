@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2011%2006%202026%20-15h00%20Clientes_6a2be932e9f3d.pdf",
-  "generatedAt": "2026-06-12T13:58:36+00:00",
-  "rawLinesCount": 443,
-  "mergedLinesCount": 40,
-  "logicalLinesCount": 39,
-  "recordsCount": 36,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2012%2006%202026%20-10h00%20-%20clientes_6a2c2a5c9455d.pdf",
+  "generatedAt": "2026-06-12T16:44:52+00:00",
+  "rawLinesCount": 137,
+  "mergedLinesCount": 59,
+  "logicalLinesCount": 58,
+  "recordsCount": 52,
   "preview": [
     {
       "status": "ATRACADO",
@@ -17,11 +17,31 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "FUNDEADO",
+      "imo": "9687162",
+      "vessel": "LAWIN ARROW *",
+      "etaNor": "5/6/26 6:00",
+      "etb": "15/6",
+      "ets": "19/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9363637",
+      "vessel": "SAGA JOURNEY *",
+      "etaNor": "11/6/26 13:18",
+      "etb": "19/6",
+      "ets": "22/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
       "status": "ESPERADO",
       "imo": "9687174",
       "vessel": "OSPREY ARROW *",
-      "etaNor": "13/6/26 9:00",
-      "etb": "23/6",
+      "etaNor": "12/6/26 19:00",
+      "etb": "24/6",
       "ets": "26/6",
       "operation": "C",
       "cargo": "ALUMINIO"
@@ -77,32 +97,12 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9902548",
-      "vessel": "YM PIONEER",
-      "etaNor": "15/6/26 12:00",
-      "etb": "30/6",
-      "ets": "3/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9537628",
-      "vessel": "SAUVAN",
-      "etaNor": "11/6/26 12:00",
-      "etb": "3/7",
-      "ets": "6/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9731834",
-      "vessel": "THALIA",
-      "etaNor": "16/6/26 8:00",
-      "etb": "6/7",
-      "ets": "9/7",
+      "status": "FUNDEADO",
+      "imo": "1083451",
+      "vessel": "BASIC PROSPERITY",
+      "etaNor": "8/6/26 0:54",
+      "etb": "24/6",
+      "ets": "27/6",
       "operation": "C",
       "cargo": "SOJA"
     }
