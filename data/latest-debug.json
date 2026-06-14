@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2006%202026%20-14h00%20clientes_6a2dbca9c96f5.pdf",
-  "generatedAt": "2026-06-14T19:10:46+00:00",
-  "rawLinesCount": 438,
-  "mergedLinesCount": 37,
-  "logicalLinesCount": 36,
-  "recordsCount": 33,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2006%202026%20-14h00%20-%20clientes_6a2f129a278da.pdf",
+  "generatedAt": "2026-06-14T20:44:55+00:00",
+  "rawLinesCount": 134,
+  "mergedLinesCount": 54,
+  "logicalLinesCount": 53,
+  "recordsCount": 47,
   "preview": [
     {
       "status": "ATRACADO",
@@ -25,6 +25,26 @@
       "ets": "19/6",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9363637",
+      "vessel": "SAGA JOURNEY *",
+      "etaNor": "11/6/26 13:18",
+      "etb": "19/6",
+      "ets": "22/6",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9687174",
+      "vessel": "OSPREY ARROW *",
+      "etaNor": "12/6/26 19:24",
+      "etb": "24/6",
+      "ets": "26/6",
+      "operation": "C",
+      "cargo": "ALUMINIO"
     },
     {
       "status": "FUNDEADO",
@@ -77,34 +97,14 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9731834",
-      "vessel": "THALIA",
-      "etaNor": "14/6/26 12:00",
-      "etb": "2/7",
-      "ets": "5/7",
+      "status": "FUNDEADO",
+      "imo": "9932799",
+      "vessel": "PORT FUKUOKA",
+      "etaNor": "8/6/26 0:01",
+      "etb": "24/6",
+      "ets": "26/6",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9900203",
-      "vessel": "IONIAN SEA",
-      "etaNor": "17/6/26 11:00",
-      "etb": "5/7",
-      "ets": "8/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9688635",
-      "vessel": "SEAHARMONY *",
-      "etaNor": "8/6/26 20:24",
-      "etb": "13/6",
-      "ets": "17/6",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
