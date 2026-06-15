@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2006%202026%20-14h00%20-%20clientes_6a2f129a278da.pdf",
-  "generatedAt": "2026-06-15T08:51:04+00:00",
-  "rawLinesCount": 134,
-  "mergedLinesCount": 54,
-  "logicalLinesCount": 53,
-  "recordsCount": 47,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2015%2006%202026%20-10h00%20Clientes_6a30118b8070a.pdf",
+  "generatedAt": "2026-06-15T14:56:59+00:00",
+  "rawLinesCount": 439,
+  "mergedLinesCount": 37,
+  "logicalLinesCount": 36,
+  "recordsCount": 34,
   "preview": [
     {
       "status": "ATRACADO",
@@ -25,26 +25,6 @@
       "ets": "19/6",
       "operation": "C",
       "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9363637",
-      "vessel": "SAGA JOURNEY *",
-      "etaNor": "11/6/26 13:18",
-      "etb": "19/6",
-      "ets": "22/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9687174",
-      "vessel": "OSPREY ARROW *",
-      "etaNor": "12/6/26 19:24",
-      "etb": "24/6",
-      "ets": "26/6",
-      "operation": "C",
-      "cargo": "ALUMINIO"
     },
     {
       "status": "FUNDEADO",
@@ -77,12 +57,22 @@
       "cargo": "SOJA"
     },
     {
+      "status": "FUNDEADO",
+      "imo": "9460734",
+      "vessel": "WADI SAFAGA",
+      "etaNor": "4/6/26 11:00",
+      "etb": "15/6",
+      "ets": "18/6",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
       "status": "ESPERADO",
       "imo": "9971484",
       "vessel": "SHINE AGATE",
       "etaNor": "15/6/26 21:00",
-      "etb": "15/6",
-      "ets": "18/6",
+      "etb": "18/6",
+      "ets": "20/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,18 +81,28 @@
       "imo": "1040837",
       "vessel": "DUCHESS MAGNOLIA",
       "etaNor": "6/6/26 14:00",
-      "etb": "18/6",
-      "ets": "21/6",
+      "etb": "20/6",
+      "ets": "23/6",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "FUNDEADO",
-      "imo": "9932799",
-      "vessel": "PORT FUKUOKA",
-      "etaNor": "8/6/26 0:01",
-      "etb": "24/6",
-      "ets": "26/6",
+      "imo": "9902548",
+      "vessel": "YM PIONEER",
+      "etaNor": "14/6/26 13:54",
+      "etb": "29/6",
+      "ets": "2/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9731834",
+      "vessel": "THALIA",
+      "etaNor": "14/6/26 12:00",
+      "etb": "2/7",
+      "ets": "5/7",
       "operation": "C",
       "cargo": "SOJA"
     }
