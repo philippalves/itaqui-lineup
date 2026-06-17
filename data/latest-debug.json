@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2006%202026%20-10h00%20clientes_6a32b86cd7e89.pdf",
-  "generatedAt": "2026-06-17T19:34:54+00:00",
-  "rawLinesCount": 443,
-  "mergedLinesCount": 41,
-  "logicalLinesCount": 40,
-  "recordsCount": 38,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2006%202026%20-15h00%20Clientes_6a3302e3c10ed.pdf",
+  "generatedAt": "2026-06-17T21:53:35+00:00",
+  "rawLinesCount": 447,
+  "mergedLinesCount": 43,
+  "logicalLinesCount": 42,
+  "recordsCount": 40,
   "preview": [
     {
       "status": "ATRACADO",
@@ -68,11 +68,21 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9480552",
+      "vessel": "SHANDONG PENG CHENG",
+      "etaNor": "26/6/26 8:00",
+      "etb": "1/7",
+      "ets": "5/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9731834",
       "vessel": "THALIA",
       "etaNor": "14/6/26 12:00",
-      "etb": "1/7",
-      "ets": "5/7",
+      "etb": "5/7",
+      "ets": "8/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -81,8 +91,8 @@
       "imo": "9900203",
       "vessel": "IONIAN SEA",
       "etaNor": "17/6/26 11:00",
-      "etb": "5/7",
-      "ets": "8/7",
+      "etb": "8/7",
+      "ets": "11/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,16 +101,6 @@
       "imo": "9919929",
       "vessel": "AGILITY DIVA",
       "etaNor": "20/6/26 12:00",
-      "etb": "8/7",
-      "ets": "11/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9979216",
-      "vessel": "GOLDEN SAKURA",
-      "etaNor": "23/6/26 17:00",
       "etb": "11/7",
       "ets": "14/7",
       "operation": "C",
