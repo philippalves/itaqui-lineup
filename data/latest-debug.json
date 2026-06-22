@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2006%202026%20-10h00%20-%20clientes_6a394702ba1a6.pdf",
-  "generatedAt": "2026-06-22T18:00:15+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2006%202026%20-15h00%20-%20clientes_6a3988719298b.pdf",
+  "generatedAt": "2026-06-22T20:53:53+00:00",
   "rawLinesCount": 135,
   "mergedLinesCount": 59,
   "logicalLinesCount": 58,
@@ -37,24 +37,24 @@
       "cargo": "CELULOSE"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9613874",
-      "vessel": "SAGA FRAM *",
-      "etaNor": "23/6/26 1:00",
-      "etb": "1/7",
-      "ets": "5/7",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
       "status": "FUNDEADO",
       "imo": "9414151",
       "vessel": "XSSC BRIGHT",
       "etaNor": "3/6/26 9:00",
-      "etb": "5/7",
-      "ets": "9/7",
+      "etb": "30/6",
+      "ets": "4/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613874",
+      "vessel": "SAGA FRAM *",
+      "etaNor": "23/6/26 1:00",
+      "etb": "5/7",
+      "ets": "9/7",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
