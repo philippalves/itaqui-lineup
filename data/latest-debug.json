@@ -1,7 +1,7 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2006%202026%20-10h00%20clientes_6a3aa0299c115.pdf",
-  "generatedAt": "2026-06-23T20:29:58+00:00",
-  "rawLinesCount": 439,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2006%202026%20-15h00%20%20clientes_6a3afd1d23eb5.pdf",
+  "generatedAt": "2026-06-23T21:57:52+00:00",
+  "rawLinesCount": 437,
   "mergedLinesCount": 36,
   "logicalLinesCount": 35,
   "recordsCount": 29,
@@ -88,11 +88,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9966817",
-      "vessel": "BRIGHTON",
-      "etaNor": "10/7/26 12:00",
-      "etb": "10/7",
-      "ets": "12/7",
+      "imo": "9760055",
+      "vessel": "CHRISTINA V",
+      "etaNor": "6/7/26 8:00",
+      "etb": "9/7",
+      "ets": "14/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },

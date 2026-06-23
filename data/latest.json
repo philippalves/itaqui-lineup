@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2006%202026%20-10h00%20clientes_6a3aa0299c115.pdf",
-  "updatedAt": "2026-06-23T20:29:58+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2006%202026%20-15h00%20%20clientes_6a3afd1d23eb5.pdf",
+  "updatedAt": "2026-06-23T21:57:52+00:00",
   "records": [
     {
       "status": "ESPERADO",
@@ -47,7 +47,7 @@
       "ets": "29/6",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9330812 YANGTZE SELINDA 225,00 32,30 76.499 7,00 13,00 14/6/26 20:12 26/6 29/6 C SOJA 65.300 ALPHAMAR TEGRAM CHS 100.000 Atualiz -a 1ç 0ã :0o 0: 23/06 ESPERADO 9731834 THALIA 229,00 32,26 81.031 8,10 9,14 14/6/26 12:00 4/7 6/7 C SOJA 66.000 WILSON SONS TEGRAM AMAGGI",
+      "raw": "FUNDEADO 9330812 YANGTZE SELINDA 225,00 32,30 76.499 7,00 13,00 14/6/26 20:12 26/6 29/6 C SOJA 65.300 ALPHAMAR TEGRAM CHS 100.000 Atualiz -a 1ç 5ã :0o 0: 23/06 ESPERADO 9731834 THALIA 229,00 32,26 81.031 8,10 9,14 14/6/26 12:00 4/7 6/7 C SOJA 66.000 WILSON SONS TEGRAM AMAGGI",
       "id": 6
     },
     {
@@ -100,14 +100,14 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9966817",
-      "vessel": "BRIGHTON",
-      "etaNor": "10/7/26 12:00",
-      "etb": "10/7",
-      "ets": "12/7",
+      "imo": "9760055",
+      "vessel": "CHRISTINA V",
+      "etaNor": "6/7/26 8:00",
+      "etb": "9/7",
+      "ets": "14/7",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9966817 BRIGHTON 199,00 32,00 64.701 10,30 9,00 10/7/26 12:00 10/7 12/7 D FERTILIZANTES 10.000 ORION RODOS COPI YARA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
+      "raw": "ESPERADO 9760055 CHRISTINA V 199,99 36,00 66.653 10,45 6,15 6/7/26 8:00 9/7 14/7 D FERTILIZANTES 30.125 ALPHAMAR COPI FERTGROW B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
       "id": 12
     },
     {
@@ -123,16 +123,28 @@
       "id": 13
     },
     {
-      "status": "ESPERADO",
-      "imo": "9978597",
-      "vessel": "KIMOLOS",
-      "etaNor": "5/7/26 17:00",
-      "etb": "6/7",
-      "ets": "13/7",
+      "status": "FUNDEADO",
+      "imo": "9779032",
+      "vessel": "TUNA S",
+      "etaNor": "20/6/26 3:00",
+      "etb": "26/6",
+      "ets": "29/6",
       "operation": "D",
-      "cargo": "CLINQUER",
-      "raw": "ESPERADO 9978597 KIMOLOS 199,90 32,26 63.640 11,50 7,00 5/7/26 17:00 6/7 13/7 D CLINQUER 49.420 LBH FAROL CIMAR",
+      "cargo": "FERTILIZANTES",
+      "raw": "FUNDEADO 9779032 TUNA S 179,99 30,00 38.575 11,50 7,00 20/6/26 3:00 26/6 29/6 D FERTILIZANTES 15.750 LBH COPI AGRO INDUSTRIAL Atualiz -a 1ç 5ã :0o 0: 23/06 ESPERADO 9978597 KIMOLOS 199,90 32,26 63.640 11,50 7,00 5/7/26 17:00 6/7 13/7 D CLINQUER 49.420 LBH FAROL CIMAR",
       "id": 15
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9966817",
+      "vessel": "BRIGHTON",
+      "etaNor": "10/7/26 12:00",
+      "etb": "13/7",
+      "ets": "15/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES",
+      "raw": "ESPERADO 9966817 BRIGHTON 199,00 32,00 64.701 10,30 9,00 10/7/26 12:00 13/7 15/7 D FERTILIZANTES 10.000 ORION RODOS COPI YARA",
+      "id": 16
     },
     {
       "status": "ESPERADO",
@@ -144,7 +156,7 @@
       "operation": null,
       "cargo": null,
       "raw": "ESPERADO 9895252 SH VEGA ⚓ 113,00 24,00 1.200 6,00 6,00 18/10/26 6:30 18/10 19/10 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREW LOG NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARANHENSE E SÃO LUIS.",
-      "id": 16
+      "id": 17
     },
     {
       "status": "ESPERADO",
@@ -156,7 +168,7 @@
       "operation": "D",
       "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
       "raw": "ESPERADO 9857640 HANSEATIC SPIRIT ⚓ 138,80 22,00 2.112 5,70 5,70 13/11/27 0:00 13/11 14/11 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREWLOG B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
-      "id": 17
+      "id": 18
     },
     {
       "status": "ATRACADO",
@@ -168,7 +180,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ATRACADO 9537628 SAUVAN 229,00 32,26 79.699 7,00 13,40 11/6/26 17:00 21/6 24/6 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE",
-      "id": 18
+      "id": 19
     },
     {
       "status": "FUNDEADO",
@@ -180,7 +192,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "FUNDEADO 9932799 PORT FUKUOKA 199,95 32,26 64.611 6,94 13,03 8/6/26 0:01 26/6 29/6 C SOJA 63.000 WILSON SONS TEGRAM AMAGGI",
-      "id": 20
+      "id": 21
     },
     {
       "status": "FUNDEADO",
@@ -191,8 +203,8 @@
       "ets": "1/7",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9544085 CAMELLIA BLISS 229,00 32,30 81.896 7,00 13,30 18/6/26 10:30 29/6 1/7 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Prof. 1: 01 05 .m 00 0D WT: FUNDEADO 9902548 YM PIONEER 229,00 32,24 81.898 7,00 13,42 14/6/26 13:54 4/7 6/7 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Atualiz -a 1ç 0ã :0o 0: 23/06 FUNDEADO 9687124 BELMONTE 224,99 32,26 81.281 7,00 13,30 21/6/26 8:06 6/7 9/7 C SOJA 68.000 FERTIMPORT TEGRAM BUNGE",
-      "id": 21
+      "raw": "FUNDEADO 9544085 CAMELLIA BLISS 229,00 32,30 81.896 7,00 13,30 18/6/26 10:30 29/6 1/7 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Prof. 1: 01 05 .m 00 0D WT: FUNDEADO 9902548 YM PIONEER 229,00 32,24 81.898 7,00 13,42 14/6/26 13:54 4/7 6/7 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE Atualiz -a 1ç 5ã :0o 0: 23/06 FUNDEADO 9687124 BELMONTE 224,99 32,26 81.281 7,00 13,30 21/6/26 8:06 6/7 9/7 C SOJA 68.000 FERTIMPORT TEGRAM BUNGE",
+      "id": 22
     },
     {
       "status": "ESPERADO",
@@ -204,7 +216,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ESPERADO 9979216 GOLDEN SAKURA 199,98 32,24 63.425 10,00 14,10 24/6/26 6:00 9/7 11/7 C SOJA 61.425 ORION RODOS TEGRAM CARGILL",
-      "id": 22
+      "id": 23
     },
     {
       "status": "ESPERADO",
@@ -216,7 +228,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ESPERADO 9401489 STAR MARIA 228,99 32,26 82.578 5,50 7,50 24/6/26 10:00 11/7 14/7 C SOJA 66.000 FERTIMPORT TEGRAM BUNGE",
-      "id": 23
+      "id": 24
     },
     {
       "status": "ESPERADO",
@@ -228,7 +240,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ESPERADO 9392432 ISLAND 229,00 32,26 82.449 7,00 13,00 25/6/26 9:00 14/7 16/7 C SOJA 65.000 LBH BRASIL TEGRAM NOVAAGRI",
-      "id": 24
+      "id": 25
     },
     {
       "status": "ESPERADO",
@@ -240,7 +252,7 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ESPERADO 9997921 GREEN QINGDAO 225,00 32,26 77.168 9,10 13,30 2/7/26 12:00 16/7 19/7 C SOJA 66.000 WILSON SONS TEGRAM AMAGGI B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..",
-      "id": 25
+      "id": 26
     },
     {
       "status": "ATRACADO",
@@ -250,32 +262,20 @@
       "etb": "22/6",
       "ets": "25/6",
       "operation": "D",
-      "cargo": "DIESEL",
-      "raw": "ATRACADO BL BERÇO LIVRE - - - 9,00 8,00 22/6/26 0:00 22/6 25/6 BERÇO LIVRE 3.000 Atualiz8 a0 ç. ã0 o0 :0 2 3/06 ESPERADO 9405899 MERSINI 183,31 32,24 51.753 11,00 10,00 26/6/26 12:00 27/6 30/6 D DIESEL 20.000 WILSON SONS ULTRACARGO OIL TRADING-10:00",
-      "id": 26
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9794446",
-      "vessel": "STI JARDINS",
-      "etaNor": "29/6/26 8:00",
-      "etb": "30/6",
-      "ets": "2/7",
-      "operation": "D",
       "cargo": "DIESEL / GASOLINA",
-      "raw": "ESPERADO 9794446 STI JARDINS 183,00 32,00 52.160 12,00 8,00 29/6/26 8:00 30/6 2/7 D DIESEL / GASOLINA 27.800 WILHELMSEN TRANSPETRO PETROBRAS",
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 9,00 8,00 22/6/26 0:00 22/6 25/6 BERÇO LIVRE 3.000 Atualiz -a 1ç 5ã :0o 0: 23/06 ESPERADO 9407380 HORIZON THETIS 183,00 32,20 49.999 10,40 9,00 28/6/26 12:00 28/6 30/6 D DIESEL / GASOLINA 19.577 WILSON SONS TRANSPETRO ACELEN",
       "id": 27
     },
     {
       "status": "ESPERADO",
-      "imo": "1063906",
-      "vessel": "HORIZON EMMANUEL",
-      "etaNor": "30/6/26 12:00",
-      "etb": "2/7",
-      "ets": "4/7",
+      "imo": "1015210",
+      "vessel": "STENA CONTENDER",
+      "etaNor": "30/6/26 0:01",
+      "etb": "30/6",
+      "ets": "3/7",
       "operation": "D",
-      "cargo": "SODA CAUSTICA",
-      "raw": "ESPERADO 1063906 HORIZON EMMANUEL 182,75 32,20 49.999 10,00 8,20 30/6/26 12:00 2/7 4/7 D SODA CAUSTICA 7.969 NORTH STAR GRANEL QUIMICA SUZANO B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
+      "cargo": "DIESEL / GASOLINA",
+      "raw": "ESPERADO 1015210 STENA CONTENDER 183,06 32,20 44.997 12,00 10,00 30/6/26 0:01 30/6 3/7 D DIESEL / GASOLINA 30.000 GAC DO BRASIL TRANSPETRO VIBRA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
       "id": 28
     },
     {
@@ -323,8 +323,20 @@
       "ets": "24/6",
       "operation": "D",
       "cargo": "DIESEL/GASOLINA",
-      "raw": "ATRACADO 9404223 HORIZON EKAVI 183,00 32,00 49.999 10,10 8,90 20/6/26 6:00 20/6 24/6 D DIESEL/GASOLINA 37.102 NORTH STAR TRANSP OET /R SAO N/U TOLT SR ACARG REFINARIA DE MATARIPE AP tr uo af l. i1: z - 51 a 15 ç9 0ã.m :0 0o0 0 : 0D 2 3W /T 0: 6 E ES SP PE ER RA AD DO O 9 93 49 09 78 37 80 0 HORIB ZR OU NN TO H ETIS 1 18 83 3, ,0 00 0 3 32 2, ,2 20 0 5 40 9. .5 99 91 9 1 11 0, ,0 40 0 8 9, ,0 00 0 22 86 // 66 // 22 66 1 3 2: :0 00 0 2 26 9/ /6 6 2 19 // 76 D D DIESG ELA /S O GL AI SN OA LINA 2 14 9. 51 70 75 WN IO LSR OTH N S ST OA NR S ULT BR RA TAC RSA AIR NL G / S PO G E R/ T A RS NA OEN LTOS IPIRANG AA CE / L B ENLUEWAY",
+      "raw": "ATRACADO 9404223 HORIZON EKAVI 183,00 32,00 49.999 10,10 8,90 20/6/26 6:00 20/6 24/6 D DIESEL/GASOLINA 37.102 NORTH STAR TRANSP OET /R SAO N/U TOLT SR ACARG REFINARIA DE MATARIPE Prof. 1: 51 59 .m 00 0D WT: ESPERADO 9405899 MERSINI 183,31 32,24 51.753 11,00 10,00 26/6/26 12:00 26/6 29/6 D DIESEL 20.000 WILSON SONS ULTRACARGO OIL TRADING Atualiz -a 1ç 5ã :0o 0: 23/06 ESPERADO 9794446 STI JARDINS 183,00 32,00 52.160 12,00 8,00 29/6/26 8:00 29/6 2/7 D DIESEL / GASOLINA 27800 WILHELMSEN TRANSPETRO PETROBRAS",
       "id": 33
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1063906",
+      "vessel": "HORIZON EMMANUEL",
+      "etaNor": "30/6/26 12:00",
+      "etb": "2/7",
+      "ets": "3/7",
+      "operation": "D",
+      "cargo": "SODA CAUSTICA",
+      "raw": "ESPERADO 1063906 HORIZON EMMANUEL 182,75 32,20 49.999 10,00 8,20 30/6/26 12:00 2/7 3/7 D SODA CAUSTICA 7969 NORTH STAR GRANEL QUIMICA SUZANO B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Atualiz9 -a 11 ç 5. ã6 :0o0 0:0 2 3/06 ESPERADO 9399870 BRUNO 183,00 32,20 50.591 11,00 8,00 27/6/26 9:00 28/6 1/7 D GASOLINA 24.105 NORTH STAR ULT BR RA AC SA IR L G / O G R/ AS NA EN LTOS IPIRANGA / BLUEWAY",
+      "id": 34
     },
     {
       "status": "ESPERADO",
@@ -335,19 +347,7 @@
       "ets": "4/7",
       "operation": "D",
       "cargo": "DIESEL / GASOLINA",
-      "raw": "ESPERADO 9489924 JOSE ALENCAR 182,85 32,20 48.300 11,00 8,00 29/6/26 15:00 1/7 4/7 D DIESEL / GASOLINA 27500 WILHELMSEN TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Atualiz9 a1 ç. ã6 o0 :0 2 3/06 ESPERADO 9416836 FLUMAR BRASIL 183,00 32,20 51.188 11,00 8,00 25/6/26 8:45 25/6 29/6 D DIESEL 41.200 PETROBRAS TRANSPETRO PETROBRAS-10:00",
-      "id": 34
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1015210",
-      "vessel": "STENA CONTENDER",
-      "etaNor": "29/6/26 0:01",
-      "etb": "29/6",
-      "ets": "2/7",
-      "operation": "D",
-      "cargo": "DIESEL / GASOLINA",
-      "raw": "ESPERADO 1015210 STENA CONTENDER 183,06 32,20 44.997 12,00 10,00 29/6/26 0:01 29/6 2/7 D DIESEL / GASOLINA 30.000 GAC DO BRASIL TRANSPETRO VIBRA",
+      "raw": "ESPERADO 9489924 JOSE ALENCAR 182,85 32,20 48.300 11,00 8,00 29/6/26 15:00 1/7 4/7 D DIESEL / GASOLINA 27.500 WILHELMSEN TRANSPETRO PETROBRAS",
       "id": 35
     }
   ],
@@ -434,11 +434,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9966817",
-      "vessel": "BRIGHTON",
-      "etaNor": "10/7/26 12:00",
-      "etb": "10/7",
-      "ets": "12/7",
+      "imo": "9760055",
+      "vessel": "CHRISTINA V",
+      "etaNor": "6/7/26 8:00",
+      "etb": "9/7",
+      "ets": "14/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -453,14 +453,24 @@
       "cargo": "ALUMINIO"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9978597",
-      "vessel": "KIMOLOS",
-      "etaNor": "5/7/26 17:00",
-      "etb": "6/7",
-      "ets": "13/7",
+      "status": "FUNDEADO",
+      "imo": "9779032",
+      "vessel": "TUNA S",
+      "etaNor": "20/6/26 3:00",
+      "etb": "26/6",
+      "ets": "29/6",
       "operation": "D",
-      "cargo": "CLINQUER"
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9966817",
+      "vessel": "BRIGHTON",
+      "etaNor": "10/7/26 12:00",
+      "etb": "13/7",
+      "ets": "15/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
@@ -560,27 +570,17 @@
       "etb": "22/6",
       "ets": "25/6",
       "operation": "D",
-      "cargo": "DIESEL"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9794446",
-      "vessel": "STI JARDINS",
-      "etaNor": "29/6/26 8:00",
-      "etb": "30/6",
-      "ets": "2/7",
-      "operation": "D",
       "cargo": "DIESEL / GASOLINA"
     },
     {
       "status": "ESPERADO",
-      "imo": "1063906",
-      "vessel": "HORIZON EMMANUEL",
-      "etaNor": "30/6/26 12:00",
-      "etb": "2/7",
-      "ets": "4/7",
+      "imo": "1015210",
+      "vessel": "STENA CONTENDER",
+      "etaNor": "30/6/26 0:01",
+      "etb": "30/6",
+      "ets": "3/7",
       "operation": "D",
-      "cargo": "SODA CAUSTICA"
+      "cargo": "DIESEL / GASOLINA"
     },
     {
       "status": "ATRACADO",
@@ -624,21 +624,21 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "1063906",
+      "vessel": "HORIZON EMMANUEL",
+      "etaNor": "30/6/26 12:00",
+      "etb": "2/7",
+      "ets": "3/7",
+      "operation": "D",
+      "cargo": "SODA CAUSTICA"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9489924",
       "vessel": "JOSE ALENCAR",
       "etaNor": "29/6/26 15:00",
       "etb": "1/7",
       "ets": "4/7",
-      "operation": "D",
-      "cargo": "DIESEL / GASOLINA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1015210",
-      "vessel": "STENA CONTENDER",
-      "etaNor": "29/6/26 0:01",
-      "etb": "29/6",
-      "ets": "2/7",
       "operation": "D",
       "cargo": "DIESEL / GASOLINA"
     }
