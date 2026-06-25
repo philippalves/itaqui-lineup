@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2024%2006%202026%20-15h00%20-%20clientes_6a3c2e8fcaa8d.pdf",
-  "generatedAt": "2026-06-25T13:32:37+00:00",
-  "rawLinesCount": 132,
-  "mergedLinesCount": 54,
-  "logicalLinesCount": 53,
-  "recordsCount": 48,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2006%202026%20-10h00%20clientes_6a3d4142026f6.pdf",
+  "generatedAt": "2026-06-25T16:16:47+00:00",
+  "rawLinesCount": 433,
+  "mergedLinesCount": 32,
+  "logicalLinesCount": 31,
+  "recordsCount": 26,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,51 +18,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9593892",
-      "vessel": "STAR LOFOTEN *",
-      "etaNor": "28/6/26 17:00",
-      "etb": "28/6",
-      "ets": "30/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9414151",
-      "vessel": "XSSC BRIGHT",
-      "etaNor": "3/6/26 9:00",
-      "etb": "30/6",
-      "ets": "4/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9613874",
-      "vessel": "SAGA FRAM *",
-      "etaNor": "23/6/26 1:30",
-      "etb": "5/7",
-      "ets": "9/7",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9966817",
-      "vessel": "BRIGHTON",
-      "etaNor": "6/7/26 12:00",
-      "etb": "9/7",
-      "ets": "11/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9847011",
       "vessel": "KOBAYASHI MARU",
-      "etaNor": "25/7/26 6:00",
-      "etb": "25/7",
-      "ets": "1/8",
+      "etaNor": "5/8/26 15:00",
+      "etb": "5/8",
+      "ets": "12/8",
       "operation": "D",
       "cargo": "CLINQUER"
     },
@@ -98,13 +58,53 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9480552",
-      "vessel": "SHANDONG PENG CHENG",
-      "etaNor": "26/6/26 8:00",
-      "etb": "1/7",
-      "ets": "4/7",
+      "imo": "9979216",
+      "vessel": "GOLDEN SAKURA",
+      "etaNor": "24/6/26 6:00",
+      "etb": "8/7",
+      "ets": "11/7",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9392432",
+      "vessel": "ISLAND",
+      "etaNor": "25/6/26 8:00",
+      "etb": "11/7",
+      "ets": "13/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9579274",
+      "vessel": "GUO YUAN 18",
+      "etaNor": "23/6/26 18:00",
+      "etb": "13/7",
+      "ets": "15/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9997921",
+      "vessel": "GREEN QINGDAO",
+      "etaNor": "2/7/26 12:00",
+      "etb": "15/7",
+      "ets": "19/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9966817",
+      "vessel": "BRIGHTON",
+      "etaNor": "6/7/26 12:00",
+      "etb": "9/7",
+      "ets": "11/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
