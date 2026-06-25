@@ -1,9 +1,9 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2006%202026%20-10h00%20clientes_6a3d4142026f6.pdf",
-  "generatedAt": "2026-06-25T20:32:16+00:00",
-  "rawLinesCount": 433,
-  "mergedLinesCount": 32,
-  "logicalLinesCount": 31,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2006%202026%20-15h00%20CLIENTES_6a3d9990aec99.pdf",
+  "generatedAt": "2026-06-25T22:16:01+00:00",
+  "rawLinesCount": 432,
+  "mergedLinesCount": 31,
+  "logicalLinesCount": 30,
   "recordsCount": 26,
   "preview": [
     {
@@ -12,7 +12,7 @@
       "vessel": "SAGA JOURNEY *",
       "etaNor": "11/6/26 13:18",
       "etb": "24/6",
-      "ets": "28/6",
+      "ets": "27/6",
       "operation": "C",
       "cargo": "CELULOSE"
     },
@@ -67,10 +67,10 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
+      "status": "FUNDEADO",
       "imo": "9392432",
       "vessel": "ISLAND",
-      "etaNor": "25/6/26 8:00",
+      "etaNor": "25/6/26 7:36",
       "etb": "11/7",
       "ets": "13/7",
       "operation": "C",
@@ -97,12 +97,12 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9966817",
-      "vessel": "BRIGHTON",
-      "etaNor": "6/7/26 12:00",
-      "etb": "9/7",
-      "ets": "11/7",
+      "status": "ATRACADO",
+      "imo": "9984821",
+      "vessel": "POLSTEAM RUDNO *",
+      "etaNor": "8/6/26 14:30",
+      "etb": "25/6",
+      "ets": "29/6",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     }
