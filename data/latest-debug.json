@@ -1,51 +1,11 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2026%2006%202026%20-15h00%20-%20clientes_6a3ee000ad252.pdf",
-  "generatedAt": "2026-06-27T20:51:48+00:00",
-  "rawLinesCount": 133,
-  "mergedLinesCount": 52,
-  "logicalLinesCount": 51,
-  "recordsCount": 51,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2027%2006%202026%20-14h00%20Clientes_6a403a74be6d9.pdf",
+  "generatedAt": "2026-06-27T21:55:36+00:00",
+  "rawLinesCount": 433,
+  "mergedLinesCount": 29,
+  "logicalLinesCount": 28,
+  "recordsCount": 28,
   "preview": [
-    {
-      "status": "ATRACADO",
-      "imo": "9363637",
-      "vessel": "SAGA JOURNEY *",
-      "etaNor": "11/6/26 13:18",
-      "etb": "24/6",
-      "ets": "27/6",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9414151",
-      "vessel": "XSSC BRIGHT",
-      "etaNor": "3/6/26 9:00",
-      "etb": "27/6",
-      "ets": "1/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9593892",
-      "vessel": "STAR LOFOTEN *",
-      "etaNor": "28/6/26 3:00",
-      "etb": "1/7",
-      "ets": "3/7",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9667588",
-      "vessel": "NORDIC DALIAN",
-      "etaNor": "4/7/26 8:00",
-      "etb": "4/7",
-      "ets": "6/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
     {
       "status": "ESPERADO",
       "imo": "9760055",
@@ -62,7 +22,7 @@
       "vessel": "YANGTZE SELINDA",
       "etaNor": "14/6/26 20:12",
       "etb": "26/6",
-      "ets": "29/6",
+      "ets": "28/6",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,7 +31,7 @@
       "imo": "9615418",
       "vessel": "STAR CHARIS",
       "etaNor": "22/6/26 15:42",
-      "etb": "29/6",
+      "etb": "28/6",
       "ets": "1/7",
       "operation": "C",
       "cargo": "SOJA"
@@ -88,23 +48,63 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9731834",
-      "vessel": "THALIA",
-      "etaNor": "15/6/26 19:00",
-      "etb": "4/7",
-      "ets": "6/7",
+      "imo": "9392432",
+      "vessel": "ISLAND",
+      "etaNor": "25/6/26 7:36",
+      "etb": "10/7",
+      "ets": "13/7",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9900203",
-      "vessel": "IONIAN SEA",
-      "etaNor": "22/6/26 16:50",
-      "etb": "6/7",
-      "ets": "8/7",
+      "status": "ESPERADO",
+      "imo": "9579274",
+      "vessel": "GUO YUAN 18",
+      "etaNor": "23/6/26 18:00",
+      "etb": "13/7",
+      "ets": "15/7",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9997921",
+      "vessel": "GREEN QINGDAO",
+      "etaNor": "2/7/26 12:00",
+      "etb": "15/7",
+      "ets": "18/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9984821",
+      "vessel": "POLSTEAM RUDNO *",
+      "etaNor": "8/6/26 14:30",
+      "etb": "25/6",
+      "ets": "29/6",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "21/8/26 0:00",
+      "etb": "21/8",
+      "ets": "23/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9779032",
+      "vessel": "TUNA S",
+      "etaNor": "20/6/26 3:00",
+      "etb": "26/6",
+      "ets": "29/6",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
