@@ -1,18 +1,58 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2006%202026%20-14h00%20Clientes_6a42d5b06f1c8.pdf",
-  "generatedAt": "2026-06-30T21:12:20+00:00",
-  "rawLinesCount": 428,
-  "mergedLinesCount": 27,
-  "logicalLinesCount": 26,
-  "recordsCount": 26,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2006%202026%20-14h00%20-%20clientes_6a4433649f431.pdf",
+  "generatedAt": "2026-06-30T22:47:51+00:00",
+  "rawLinesCount": 127,
+  "mergedLinesCount": 47,
+  "logicalLinesCount": 46,
+  "recordsCount": 46,
   "preview": [
     {
+      "status": "ATRACADO",
+      "imo": "9414151",
+      "vessel": "XSSC BRIGHT",
+      "etaNor": "3/6/26 9:00",
+      "etb": "27/6",
+      "ets": "1/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9593892",
+      "vessel": "STAR LOFOTEN *",
+      "etaNor": "28/6/26 9:00",
+      "etb": "1/7",
+      "ets": "3/7",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
       "status": "ESPERADO",
-      "imo": "9760055",
-      "vessel": "CHRISTINA V",
-      "etaNor": "6/7/26 8:00",
+      "imo": "9667588",
+      "vessel": "NORDIC DALIAN",
+      "etaNor": "6/7/26 0:00",
+      "etb": "6/7",
+      "ets": "8/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9401790",
+      "vessel": "PELICANA *",
+      "etaNor": "8/7/26 12:00",
       "etb": "8/7",
-      "ets": "15/7",
+      "ets": "12/7",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9966817",
+      "vessel": "BRIGHTON",
+      "etaNor": "6/7/26 12:00",
+      "etb": "12/7",
+      "ets": "14/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -22,89 +62,49 @@
       "vessel": "STAR CHARIS",
       "etaNor": "22/6/26 15:42",
       "etb": "28/6",
-      "ets": "1/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9480552",
-      "vessel": "SHANDONG PENG CHENG",
-      "etaNor": "25/6/26 19:36",
-      "etb": "1/7",
-      "ets": "3/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9731834",
-      "vessel": "THALIA",
-      "etaNor": "15/6/26 19:00",
-      "etb": "3/7",
-      "ets": "5/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9579274",
-      "vessel": "GUO YUAN 18",
-      "etaNor": "23/6/26 13:00",
-      "etb": "13/7",
-      "ets": "16/7",
+      "ets": "2/7",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9997921",
-      "vessel": "GREEN QINGDAO",
-      "etaNor": "2/7/26 12:00",
-      "etb": "16/7",
-      "ets": "18/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9697868",
-      "vessel": "SAKIZAYA DIAMOND",
-      "etaNor": "12/7/26 23:00",
-      "etb": "18/7",
-      "ets": "21/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9984821",
-      "vessel": "POLSTEAM RUDNO *",
-      "etaNor": "8/6/26 14:30",
-      "etb": "25/6",
-      "ets": "29/6",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9748722",
-      "vessel": "IOKASTI GS",
-      "etaNor": "18/8/26 0:00",
-      "etb": "18/8",
-      "ets": "20/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9674218",
-      "vessel": "BUBBA BOOSH",
-      "etaNor": "28/6/26 22:00",
-      "etb": "29/6",
+      "imo": "9836701",
+      "vessel": "TAYGETUS",
+      "etaNor": "19/6/26 10:00",
+      "etb": "2/7",
       "ets": "4/7",
-      "operation": "D",
-      "cargo": "CARVÃO MINERAL"
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9902548",
+      "vessel": "YM PIONEER",
+      "etaNor": "14/6/26 13:54",
+      "etb": "4/7",
+      "ets": "6/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9919929",
+      "vessel": "AGILITY DIVA",
+      "etaNor": "24/6/26 12:00",
+      "etb": "6/7",
+      "ets": "8/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9900203",
+      "vessel": "IONIAN SEA",
+      "etaNor": "22/6/26 16:50",
+      "etb": "8/7",
+      "ets": "11/7",
+      "operation": "C",
+      "cargo": "SOJA"
     }
   ]
 }
