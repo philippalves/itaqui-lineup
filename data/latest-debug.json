@@ -1,30 +1,20 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2001%2007%202026%20-10h00%20Clientes_6a452fc091176.pdf",
-  "generatedAt": "2026-07-01T18:55:25+00:00",
-  "rawLinesCount": 430,
-  "mergedLinesCount": 27,
-  "logicalLinesCount": 26,
-  "recordsCount": 26,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2001%2007%202026%20-15h00%20clientes_6a4579198a152.pdf",
+  "generatedAt": "2026-07-01T20:45:26+00:00",
+  "rawLinesCount": 428,
+  "mergedLinesCount": 28,
+  "logicalLinesCount": 27,
+  "recordsCount": 27,
   "preview": [
     {
-      "status": "ATRACADO",
-      "imo": "9414151",
-      "vessel": "XSSC BRIGHT",
-      "etaNor": "3/6/26 9:00",
-      "etb": "27/6",
-      "ets": "1/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
       "status": "ESPERADO",
-      "imo": "9966817",
-      "vessel": "BRIGHTON",
-      "etaNor": "6/7/26 12:00",
-      "etb": "12/7",
-      "ets": "14/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "imo": "9401790",
+      "vessel": "PELICANA *",
+      "etaNor": "8/7/26 12:00",
+      "etb": "8/7",
+      "ets": "12/7",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ATRACADO",
@@ -105,6 +95,16 @@
       "ets": "28/7",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "23/8/26 0:00",
+      "etb": "23/8",
+      "ets": "25/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
