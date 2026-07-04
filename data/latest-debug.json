@@ -1,11 +1,41 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2003%2007%202026%20-15h00%20Clientes_6a4828ec7633b.pdf",
-  "generatedAt": "2026-07-04T19:05:22+00:00",
-  "rawLinesCount": 428,
-  "mergedLinesCount": 25,
-  "logicalLinesCount": 24,
-  "recordsCount": 24,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2007%202026%20-14h00%20-%20clientes_6a496aab5d7d3.pdf",
+  "generatedAt": "2026-07-04T20:27:18+00:00",
+  "rawLinesCount": 121,
+  "mergedLinesCount": 45,
+  "logicalLinesCount": 44,
+  "recordsCount": 44,
   "preview": [
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "4/7/26 10:38",
+      "etb": "4/7",
+      "ets": "5/7",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9966817",
+      "vessel": "BRIGHTON",
+      "etaNor": "5/7/26 23:30",
+      "etb": "5/7",
+      "ets": "7/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9667588",
+      "vessel": "NORDIC DALIAN",
+      "etaNor": "6/7/26 0:00",
+      "etb": "7/7",
+      "ets": "10/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
     {
       "status": "ESPERADO",
       "imo": "9401790",
@@ -18,21 +48,11 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9836701",
-      "vessel": "TAYGETUS",
-      "etaNor": "22/6/26 16:50",
-      "etb": "2/7",
-      "ets": "4/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9687124",
       "vessel": "BELMONTE",
       "etaNor": "21/6/26 8:06",
       "etb": "4/7",
-      "ets": "6/7",
+      "ets": "7/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -41,8 +61,38 @@
       "imo": "9919929",
       "vessel": "AGILITY DIVA",
       "etaNor": "24/6/26 12:00",
-      "etb": "6/7",
-      "ets": "8/7",
+      "etb": "7/7",
+      "ets": "9/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9900203",
+      "vessel": "IONIAN SEA",
+      "etaNor": "22/6/26 16:50",
+      "etb": "9/7",
+      "ets": "11/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9401489",
+      "vessel": "STAR MARIA",
+      "etaNor": "24/6/26 2:08",
+      "etb": "11/7",
+      "ets": "14/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9866627",
+      "vessel": "RANGAKU",
+      "etaNor": "9/7/26 20:45",
+      "etb": "14/7",
+      "ets": "16/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -52,59 +102,9 @@
       "vessel": "DESPINA V",
       "etaNor": "29/6/26 12:00",
       "etb": "16/7",
-      "ets": "18/7",
+      "ets": "19/7",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9929003",
-      "vessel": "BBG MUARA",
-      "etaNor": "3/7/26 12:00",
-      "etb": "18/7",
-      "ets": "22/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9852822",
-      "vessel": "MALENA",
-      "etaNor": "9/7/26 7:00",
-      "etb": "22/7",
-      "ets": "25/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9697868",
-      "vessel": "SAKIZAYA DIAMOND",
-      "etaNor": "12/7/26 20:00",
-      "etb": "25/7",
-      "ets": "28/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9674218",
-      "vessel": "BUBBA BOOSH",
-      "etaNor": "28/6/26 22:00",
-      "etb": "29/6",
-      "ets": "4/7",
-      "operation": "D",
-      "cargo": "CARVÃO MINERAL"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9857640",
-      "vessel": "HANSEATIC SPIRIT ⚓",
-      "etaNor": "13/11/27 0:00",
-      "etb": "13/11",
-      "ets": "14/11",
-      "operation": "D",
-      "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES"
     }
   ]
 }
