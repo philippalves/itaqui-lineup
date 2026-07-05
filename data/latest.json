@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2007%202026%20-14h00%20-%20clientes_6a496aab5d7d3.pdf",
-  "updatedAt": "2026-07-05T18:00:24+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2007%202026%20-14h00%20-%20clientes_6a4aafbbd0ba1.pdf",
+  "updatedAt": "2026-07-05T19:48:24+00:00",
   "records": [
     {
       "status": "ATRACADO",
@@ -18,24 +18,24 @@
       "status": "ESPERADO",
       "imo": "9966817",
       "vessel": "BRIGHTON",
-      "etaNor": "5/7/26 23:30",
+      "etaNor": "5/7/26 22:00",
       "etb": "5/7",
       "ets": "7/7",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9966817 BRIGHTON 199,00 32,00 64.701 11,50 10,50 5/7/26 23:30 5/7 7/7 D FERTILIZANTES 10.150 ORION RODOS COPI YARA",
+      "raw": "ESPERADO 9966817 BRIGHTON 199,00 32,00 64.701 11,50 10,50 5/7/26 22:00 5/7 7/7 D FERTILIZANTES 10.150 ORION RODOS COPI YARA",
       "id": 2
     },
     {
       "status": "ESPERADO",
-      "imo": "9667588",
-      "vessel": "NORDIC DALIAN",
-      "etaNor": "6/7/26 0:00",
+      "imo": "9760055",
+      "vessel": "CHRISTINA V",
+      "etaNor": "6/7/26 8:00",
       "etb": "7/7",
-      "ets": "10/7",
+      "ets": "15/7",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9667588 NORDIC DALIAN 180,00 30,00 37.500 9,00 7,00 6/7/26 0:00 7/7 10/7 D FERTILIZANTES 14.300 AMART COPI OCP",
+      "raw": "ESPERADO 9760055 CHRISTINA V 199,99 36,00 66.653 10,45 6,15 6/7/26 8:00 7/7 15/7 D FERTILIZANTES 48.500 ALPHAMAR COPI FERTGROW / FERTIPAR / CHS",
       "id": 3
     },
     {
@@ -43,11 +43,11 @@
       "imo": "9401790",
       "vessel": "PELICANA *",
       "etaNor": "8/7/26 4:00",
-      "etb": "10/7",
-      "ets": "14/7",
+      "etb": "15/7",
+      "ets": "19/7",
       "operation": "C",
       "cargo": "CELULOSE",
-      "raw": "ESPERADO 9401790 PELICANA * 212,50 32,26 57.792 7,07 11,50 8/7/26 4:00 10/7 14/7 C CELULOSE 53.000 WILHELMSEN G5 SUZANO B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "raw": "ESPERADO 9401790 PELICANA * 212,50 32,26 57.792 7,07 11,50 8/7/26 4:00 15/7 19/7 C CELULOSE 53.000 WILHELMSEN G5 SUZANO B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
       "id": 4
     },
     {
@@ -184,14 +184,14 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9760055",
-      "vessel": "CHRISTINA V",
-      "etaNor": "6/7/26 8:00",
+      "imo": "9667588",
+      "vessel": "NORDIC DALIAN",
+      "etaNor": "7/7/26 6:00",
       "etb": "9/7",
-      "ets": "16/7",
+      "ets": "12/7",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9760055 CHRISTINA V 199,99 36,00 66.653 10,45 6,15 6/7/26 8:00 9/7 16/7 D FERTILIZANTES 48.500 ALPHAMAR COPI FERTGROW / FERTIPAR / CHS",
+      "raw": "ESPERADO 9667588 NORDIC DALIAN 180,00 30,00 37.500 9,00 7,00 7/7/26 6:00 9/7 12/7 D FERTILIZANTES 14.300 AMART COPI OCP",
       "id": 16
     },
     {
@@ -203,7 +203,7 @@
       "ets": "22/8",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9748722 IOKASTI GS 189,99 32,26 55.857 11,00 9,00 20/8/26 0:00 20/8 22/8 D FERTILIZANTES 13.200 ZYON SHIPPING COPI GEES B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Novo Editar Excluir 229 Prof.: 15m DWT:83.400 04/07 -14:00 240 Prof.: 15m DWT:100.000 Atualização: 04/07 -14:00 Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "raw": "ESPERADO 9748722 IOKASTI GS 189,99 32,26 55.857 11,00 9,00 20/8/26 0:00 20/8 22/8 D FERTILIZANTES 13.200 ZYON SHIPPING COPI GEES B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Novo Editar Excluir 229 Prof.: 15m DWT:83.400 05/07 -14:00 240 Prof.: 15m DWT:100.000 Atualização: 05/07 -14:00 Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
       "id": 17
     },
     {
@@ -214,8 +214,8 @@
       "etb": "4/7",
       "ets": "5/7",
       "operation": "D",
-      "cargo": "L Woa T: : E ES SP PE ER RA AD DO O 9 99 57 98 85 99 97 5 ETHRK AIM DO IAL MOS O ND 11 79 99 ,, 99 00 23 82 ,, 42 06 36 23 .. 36 54 30 1 91 ,, 65 80 77 ,, 80 20 15 6/ /7 7/ /2 26 6 2 20 2: :0 00 0 15 6/ /7 7 11 83 // 77 DD FEC RL TIN ILQ IZU AE NR TE 14 09 .. 54 02 00 PRS OH TIL P EB P CH I TN IOG N F CA OR PO IL FEC RIM TIA PAR R MANTER NO B.102 Atu8 a0 l. i0 za0 ç0 ã o: ESPERADO 9847011 KOBAYASHI MARU 196,00 32,26",
-      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 4/7/26 9:38 4/7 5/7 BERÇO LIVRE 5.000 PB rE oR f.Ç : O 12 2 01 m00 2 D L Woa T: : E ES SP PE ER RA AD DO O 9 99 57 98 85 99 97 5 ETHRK AIM DO IAL MOS O ND 11 79 99 ,, 99 00 23 82 ,, 42 06 36 23 .. 36 54 30 1 91 ,, 65 80 77 ,, 80 20 15 6/ /7 7/ /2 26 6 2 20 2: :0 00 0 15 6/ /7 7 11 83 // 77 DD FEC RL TIN ILQ IZU AE NR TE 14 09 .. 54 02 00 PRS OH TIL P EB P CH I TN IOG N F CA OR PO IL FEC RIM TIA PAR R MANTER NO B.102 Atu8 a0 l. i0 za0 ç0 ã o: ESPERADO 9847011 KOBAYASHI MARU 196,00 32,26 60.397 11,50 5,00 5/8/26 15:00 5/8 12/8 D CLINQUER 45.000 LBH BRASIL FAROL CIMAR 04/07 -14:00 ESPERADO 9895252 SH VEGA ⚓ 113,00 24,00 1.200 6,00 6,00 18/10/26 6:30 18/10 19/10 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREW LOG NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARANHENSE E SÃO LUIS.",
+      "cargo": "L Woa T: : E ES SP PE ER RA AD DO O 9 99 57 98 85 99 97 5 ETHRK AIM DO IAL MOS O ND 11 79 99 ,, 99 00 23 82 ,, 42 06 36 23 .. 36 54 30 1 91 ,, 65 80 77 ,, 80 20 15 6/ /7 7/ /2 26 6 1 27 2: :0 00 0 15 6/ /7 7 11 83 // 77 DD FEC RL TIN ILQ IZU AE NR TE 14 09 .. 54 02 00 PRS OH TIL P EB P CH I TN IOG N F CA OR PO IL FEC RIM TIA PAR R MANTER NO B.102 Atu8 a0 l. i0 za0 ç0 ã o: ESPERADO 9847011 KOBAYASHI MARU 196,00 32,26",
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 4/7/26 9:38 4/7 5/7 BERÇO LIVRE 5.000 PB rE oR f.Ç : O 12 2 01 m00 2 D L Woa T: : E ES SP PE ER RA AD DO O 9 99 57 98 85 99 97 5 ETHRK AIM DO IAL MOS O ND 11 79 99 ,, 99 00 23 82 ,, 42 06 36 23 .. 36 54 30 1 91 ,, 65 80 77 ,, 80 20 15 6/ /7 7/ /2 26 6 1 27 2: :0 00 0 15 6/ /7 7 11 83 // 77 DD FEC RL TIN ILQ IZU AE NR TE 14 09 .. 54 02 00 PRS OH TIL P EB P CH I TN IOG N F CA OR PO IL FEC RIM TIA PAR R MANTER NO B.102 Atu8 a0 l. i0 za0 ç0 ã o: ESPERADO 9847011 KOBAYASHI MARU 196,00 32,26 60.397 11,50 5,00 5/8/26 15:00 5/8 12/8 D CLINQUER 45.000 LBH BRASIL FAROL CIMAR 05/07 -14:00 ESPERADO 9895252 SH VEGA ⚓ 113,00 24,00 1.200 6,00 6,00 18/10/26 6:30 18/10 19/10 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREW LOG NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARANHENSE E SÃO LUIS.",
       "id": 18
     },
     {
@@ -316,14 +316,14 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9596856",
-      "vessel": "LUCIO COSTA *",
-      "etaNor": "2/7/26 18:25",
-      "etb": "4/7",
-      "ets": "5/7",
-      "operation": "D",
-      "cargo": "GLP",
-      "raw": "ATRACADO 9596856 LUCIO COSTA * 117,63 19,20 5.097 6,00 5,00 2/7/26 18:25 4/7 5/7 D GLP 3.500 WILHELMSEN TRANSPETRO PETROBRAS",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "5/7/26 18:49",
+      "etb": "5/7",
+      "ets": "8/7",
+      "operation": null,
+      "cargo": null,
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 5/7/26 18:49 5/7 8/7 BERÇO LIVRE 22.000",
       "id": 27
     },
     {
@@ -503,7 +503,7 @@
       "ets": "4/8",
       "operation": "D",
       "cargo": "DIESEL",
-      "raw": "ESPERADO 1025564 SEA PENGUIN 248,80 44,00 113.659 14,00 10,00 20/7/26 12:00 24/7 4/8 D DIESEL 130000 GAC DO BRASIL TRANSPETRO PETROBRAS B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação 229 Prof.: 18m DWT:150.000 Atualização:04/07 -14:00 Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "raw": "ESPERADO 1025564 SEA PENGUIN 248,80 44,00 113.659 14,00 10,00 20/7/26 12:00 24/7 4/8 D DIESEL 130000 GAC DO BRASIL TRANSPETRO PETROBRAS B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação 229 Prof.: 18m DWT:150.000 Atualização:05/07 -14:00 Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
       "id": 42
     },
     {
@@ -515,7 +515,7 @@
       "ets": "5/7",
       "operation": "D",
       "cargo": "GASOLINA",
-      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 4/7/26 17:16 4/7 5/7 BERÇO LIVRE 5.000 0A 4t /u 0a 7li z -1aç 4ã :0o 0: ESPERADO 9820283 AGIOS NIKOLAOS 183,06 32,20 49.998 11,00 8,00 10/7/26 12:00 12/7 14/7 D GASOLINA 24.862 NORTH STAR GRANEL BLUEWAY",
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 4/7/26 17:16 4/7 5/7 BERÇO LIVRE 5.000 0A 5t /u 0a 7li z -1aç 4ã :0o 0: ESPERADO 9820283 AGIOS NIKOLAOS 183,06 32,20 49.998 11,00 8,00 10/7/26 12:00 12/7 14/7 D GASOLINA 24.862 NORTH STAR GRANEL BLUEWAY",
       "id": 43
     },
     {
@@ -546,7 +546,7 @@
       "status": "ESPERADO",
       "imo": "9966817",
       "vessel": "BRIGHTON",
-      "etaNor": "5/7/26 23:30",
+      "etaNor": "5/7/26 22:00",
       "etb": "5/7",
       "ets": "7/7",
       "operation": "D",
@@ -554,11 +554,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9667588",
-      "vessel": "NORDIC DALIAN",
-      "etaNor": "6/7/26 0:00",
+      "imo": "9760055",
+      "vessel": "CHRISTINA V",
+      "etaNor": "6/7/26 8:00",
       "etb": "7/7",
-      "ets": "10/7",
+      "ets": "15/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -567,8 +567,8 @@
       "imo": "9401790",
       "vessel": "PELICANA *",
       "etaNor": "8/7/26 4:00",
-      "etb": "10/7",
-      "ets": "14/7",
+      "etb": "15/7",
+      "ets": "19/7",
       "operation": "C",
       "cargo": "CELULOSE"
     },
@@ -684,11 +684,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9760055",
-      "vessel": "CHRISTINA V",
-      "etaNor": "6/7/26 8:00",
+      "imo": "9667588",
+      "vessel": "NORDIC DALIAN",
+      "etaNor": "7/7/26 6:00",
       "etb": "9/7",
-      "ets": "16/7",
+      "ets": "12/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -710,7 +710,7 @@
       "etb": "4/7",
       "ets": "5/7",
       "operation": "D",
-      "cargo": "L Woa T: : E ES SP PE ER RA AD DO O 9 99 57 98 85 99 97 5 ETHRK AIM DO IAL MOS O ND 11 79 99 ,, 99 00 23 82 ,, 42 06 36 23 .. 36 54 30 1 91 ,, 65 80 77 ,, 80 20 15 6/ /7 7/ /2 26 6 2 20 2: :0 00 0 15 6/ /7 7 11 83 // 77 DD FEC RL TIN ILQ IZU AE NR TE 14 09 .. 54 02 00 PRS OH TIL P EB P CH I TN IOG N F CA OR PO IL FEC RIM TIA PAR R MANTER NO B.102 Atu8 a0 l. i0 za0 ç0 ã o: ESPERADO 9847011 KOBAYASHI MARU 196,00 32,26"
+      "cargo": "L Woa T: : E ES SP PE ER RA AD DO O 9 99 57 98 85 99 97 5 ETHRK AIM DO IAL MOS O ND 11 79 99 ,, 99 00 23 82 ,, 42 06 36 23 .. 36 54 30 1 91 ,, 65 80 77 ,, 80 20 15 6/ /7 7/ /2 26 6 1 27 2: :0 00 0 15 6/ /7 7 11 83 // 77 DD FEC RL TIN ILQ IZU AE NR TE 14 09 .. 54 02 00 PRS OH TIL P EB P CH I TN IOG N F CA OR PO IL FEC RIM TIA PAR R MANTER NO B.102 Atu8 a0 l. i0 za0 ç0 ã o: ESPERADO 9847011 KOBAYASHI MARU 196,00 32,26"
     },
     {
       "status": "ESPERADO",
@@ -794,13 +794,13 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9596856",
-      "vessel": "LUCIO COSTA *",
-      "etaNor": "2/7/26 18:25",
-      "etb": "4/7",
-      "ets": "5/7",
-      "operation": "D",
-      "cargo": "GLP"
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "5/7/26 18:49",
+      "etb": "5/7",
+      "ets": "8/7",
+      "operation": null,
+      "cargo": null
     },
     {
       "status": "ESPERADO",
