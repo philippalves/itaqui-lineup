@@ -1,43 +1,13 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2006%2007%202026%20-15h00%20-%20clientes_6a4c1cfc154dc.pdf",
-  "generatedAt": "2026-07-07T13:21:13+00:00",
-  "rawLinesCount": 125,
-  "mergedLinesCount": 47,
-  "logicalLinesCount": 46,
-  "recordsCount": 46,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2007%2007%202026%20-10h00%20%20clientes_6a4d09701a13a.pdf",
+  "generatedAt": "2026-07-07T15:59:36+00:00",
+  "rawLinesCount": 431,
+  "mergedLinesCount": 27,
+  "logicalLinesCount": 26,
+  "recordsCount": 26,
   "preview": [
     {
-      "status": "ESPERADO",
-      "imo": "9760055",
-      "vessel": "CHRISTINA V",
-      "etaNor": "6/7/26 8:00",
-      "etb": "7/7",
-      "ets": "15/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9401790",
-      "vessel": "PELICANA *",
-      "etaNor": "8/7/26 2:00",
-      "etb": "15/7",
-      "ets": "19/7",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
       "status": "ATRACADO",
-      "imo": "9687124",
-      "vessel": "BELMONTE",
-      "etaNor": "21/6/26 8:06",
-      "etb": "4/7",
-      "ets": "7/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9902548",
       "vessel": "YM PIONEER",
       "etaNor": "14/6/26 13:54",
@@ -58,36 +28,6 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9919929",
-      "vessel": "AGILITY DIVA",
-      "etaNor": "24/6/26 12:00",
-      "etb": "11/7",
-      "ets": "14/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9727986",
-      "vessel": "DESPINA V",
-      "etaNor": "29/6/26 12:00",
-      "etb": "14/7",
-      "ets": "16/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9990351",
-      "vessel": "UBON NAREE",
-      "etaNor": "7/7/26 8:00",
-      "etb": "16/7",
-      "ets": "18/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9929003",
       "vessel": "BBG MUARA",
       "etaNor": "3/7/26 12:00",
@@ -103,6 +43,66 @@
       "etaNor": "26/6/26 2:30",
       "etb": "20/7",
       "ets": "22/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "1030911",
+      "vessel": "NORSE SUCCESSION",
+      "etaNor": "30/6/26 17:54",
+      "etb": "2/7",
+      "ets": "9/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "21/8/26 0:00",
+      "etb": "21/8",
+      "ets": "23/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9978597",
+      "vessel": "KIMOLOS",
+      "etaNor": "5/7/26 15:06",
+      "etb": "5/7",
+      "ets": "13/7",
+      "operation": "D",
+      "cargo": "CLINQUER"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9857640",
+      "vessel": "HANSEATIC SPIRIT ⚓",
+      "etaNor": "13/11/27 0:00",
+      "etb": "13/11",
+      "ets": "14/11",
+      "operation": "D",
+      "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9900203",
+      "vessel": "IONIAN SEA",
+      "etaNor": "22/6/26 16:50",
+      "etb": "6/7",
+      "ets": "8/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9392432",
+      "vessel": "ISLAND",
+      "etaNor": "25/6/26 7:36",
+      "etb": "8/7",
+      "ets": "11/7",
       "operation": "C",
       "cargo": "SOJA"
     }
