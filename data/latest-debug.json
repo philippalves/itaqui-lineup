@@ -1,11 +1,21 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2008%2007%202026%20-10h00%20-%20clientes_6a4e6f3b0bf49.pdf",
-  "generatedAt": "2026-07-08T20:41:10+00:00",
-  "rawLinesCount": 132,
-  "mergedLinesCount": 50,
-  "logicalLinesCount": 49,
-  "recordsCount": 49,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2008%2007%202026%20-15h00%20-%20clientes_6a4ec15bc97b0.pdf",
+  "generatedAt": "2026-07-08T21:59:15+00:00",
+  "rawLinesCount": 131,
+  "mergedLinesCount": 49,
+  "logicalLinesCount": 48,
+  "recordsCount": 48,
   "preview": [
+    {
+      "status": "ATRACADO",
+      "imo": "9760055",
+      "vessel": "CHRISTINA V",
+      "etaNor": "7/7/26 6:00",
+      "etb": "8/7",
+      "ets": "14/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
     {
       "status": "FUNDEADO",
       "imo": "9401790",
@@ -18,11 +28,21 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9459979",
-      "vessel": "SHOVELER",
-      "etaNor": "21/7/26 12:00",
+      "imo": "9598995",
+      "vessel": "ETHRA DIAMOND",
+      "etaNor": "21/7/26 0:01",
       "etb": "21/7",
-      "ets": "24/7",
+      "ets": "22/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9665700",
+      "vessel": "WEST HARMONY",
+      "etaNor": "22/7/26 12:00",
+      "etb": "22/7",
+      "ets": "28/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -32,7 +52,7 @@
       "vessel": "YM PIONEER",
       "etaNor": "14/6/26 13:54",
       "etb": "7/7",
-      "ets": "9/7",
+      "ets": "10/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -41,8 +61,8 @@
       "imo": "9579274",
       "vessel": "GUO YUAN 18",
       "etaNor": "23/6/26 13:00",
-      "etb": "9/7",
-      "ets": "11/7",
+      "etb": "10/7",
+      "ets": "12/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -51,8 +71,8 @@
       "imo": "9919929",
       "vessel": "AGILITY DIVA",
       "etaNor": "24/6/26 12:00",
-      "etb": "11/7",
-      "ets": "14/7",
+      "etb": "12/7",
+      "ets": "15/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -61,8 +81,8 @@
       "imo": "9727986",
       "vessel": "DESPINA V",
       "etaNor": "29/6/26 12:00",
-      "etb": "14/7",
-      "ets": "16/7",
+      "etb": "15/7",
+      "ets": "17/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,8 +91,8 @@
       "imo": "9990351",
       "vessel": "UBON NAREE",
       "etaNor": "6/7/26 21:48",
-      "etb": "16/7",
-      "ets": "18/7",
+      "etb": "17/7",
+      "ets": "19/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -81,28 +101,8 @@
       "imo": "9929003",
       "vessel": "BBG MUARA",
       "etaNor": "3/7/26 12:00",
-      "etb": "18/7",
-      "ets": "20/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9537733",
-      "vessel": "GLEAMSTAR",
-      "etaNor": "8/7/26 15:30",
-      "etb": "20/7",
-      "ets": "23/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9697868",
-      "vessel": "SAKIZAYA DIAMOND",
-      "etaNor": "12/7/26 8:00",
-      "etb": "23/7",
-      "ets": "27/7",
+      "etb": "19/7",
+      "ets": "21/7",
       "operation": "C",
       "cargo": "SOJA"
     }
