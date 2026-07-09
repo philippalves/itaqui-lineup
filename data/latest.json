@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2007%202026%20-15h00%20clientes_6a4ffc92e9192.pdf",
-  "updatedAt": "2026-07-09T21:00:39+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2007%202026%20-15h00%20clientes_6a50174ad9291.pdf",
+  "updatedAt": "2026-07-09T22:47:20+00:00",
   "records": [
     {
       "status": "ESPERADO",
@@ -239,19 +239,19 @@
       "ets": "12/7",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 1049285 BERGE RYSY 199,99 32,24 63.923 7,64 8,81 26/6/26 0:00 10/7 12/7 C SOJA 69.000 ROCHAMAR VLI ADM Atuali1 z5 a0 çã.0 o0 : 0 0 9/07 FUNDEADO 9481958 MIKE BAY 180,00 30,00 36.447 6,25 9,71 9/6/26 17:00 15/7 16/7 C SOJA 31.100 WORLD SHIPPING VLI BTG PACTUAL-15:00",
+      "raw": "FUNDEADO 1049285 BERGE RYSY 199,99 32,24 63.923 7,64 8,81 26/6/26 0:00 10/7 12/7 C SOJA 69.000 ROCHAMAR VLI ADM Atuali1 z5 a0 çã.0 o0 : 0 0 9/07 ESPERADO 9739020 THEODORE JR 228,99 32,26 81.715 6,60 13,09 13/7/26 3:00 15/7 17/7 C SOJA 66.000 ALPHAMAR VLI AGREX-15:00",
       "id": 20
     },
     {
-      "status": "ESPERADO",
-      "imo": "9739020",
-      "vessel": "THEODORE JR",
-      "etaNor": "13/7/26 3:00",
-      "etb": "16/7",
+      "status": "FUNDEADO",
+      "imo": "9481958",
+      "vessel": "MIKE BAY",
+      "etaNor": "9/6/26 17:00",
+      "etb": "17/7",
       "ets": "18/7",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9739020 THEODORE JR 228,99 32,26 81.715 6,60 13,09 13/7/26 3:00 16/7 18/7 C SOJA 66.000 ALPHAMAR VLI AGREX",
+      "raw": "FUNDEADO 9481958 MIKE BAY 180,00 30,00 36.447 6,25 9,71 9/6/26 17:00 17/7 18/7 C SOJA 31.100 WORLD SHIPPING VLI BTG PACTUAL",
       "id": 21
     },
     {
@@ -553,11 +553,11 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9739020",
-      "vessel": "THEODORE JR",
-      "etaNor": "13/7/26 3:00",
-      "etb": "16/7",
+      "status": "FUNDEADO",
+      "imo": "9481958",
+      "vessel": "MIKE BAY",
+      "etaNor": "9/6/26 17:00",
+      "etb": "17/7",
       "ets": "18/7",
       "operation": "C",
       "cargo": "SOJA"
