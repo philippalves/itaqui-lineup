@@ -1,43 +1,23 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2007%202026%20-14h00%20-%20clientes_6a5697c7c935c.pdf",
-  "generatedAt": "2026-07-15T14:42:10+00:00",
-  "rawLinesCount": 122,
-  "mergedLinesCount": 44,
-  "logicalLinesCount": 43,
-  "recordsCount": 43,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2015%2007%202026%20-10h00%20clientes_6a57a5487a33b.pdf",
+  "generatedAt": "2026-07-15T16:13:53+00:00",
+  "rawLinesCount": 430,
+  "mergedLinesCount": 27,
+  "logicalLinesCount": 26,
+  "recordsCount": 26,
   "preview": [
-    {
-      "status": "ESPERADO",
-      "imo": "9598995",
-      "vessel": "ETHRA DIAMOND",
-      "etaNor": "26/7/26 0:01",
-      "etb": "26/7",
-      "ets": "27/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTE"
-    },
     {
       "status": "ESPERADO",
       "imo": "1115888",
       "vessel": "LYNUX ROSETTA",
       "etaNor": "27/7/26 12:00",
-      "etb": "27/7",
-      "ets": "30/7",
+      "etb": "28/7",
+      "ets": "31/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
-      "imo": "9919929",
-      "vessel": "AGILITY DIVA",
-      "etaNor": "27/6/26 10:45",
-      "etb": "12/7",
-      "ets": "15/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9990351",
       "vessel": "UBON NAREE",
       "etaNor": "6/7/26 21:48",
@@ -58,39 +38,9 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9929003",
-      "vessel": "BBG MUARA",
-      "etaNor": "3/7/26 12:00",
-      "etb": "19/7",
-      "ets": "21/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9537733",
-      "vessel": "GLEAMSTAR",
-      "etaNor": "8/7/26 13:42",
-      "etb": "21/7",
-      "ets": "24/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9697868",
-      "vessel": "SAKIZAYA DIAMOND",
-      "etaNor": "12/7/26 0:00",
-      "etb": "24/7",
-      "ets": "26/7",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1112848",
-      "vessel": "GUO REN HAI",
-      "etaNor": "22/7/26 12:00",
+      "imo": "1030868",
+      "vessel": "PUNTA DEL CHILENO",
+      "etaNor": "15/7/26 10:00",
       "etb": "26/7",
       "ets": "29/7",
       "operation": "C",
@@ -105,6 +55,56 @@
       "ets": "4/8",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "12/7/26 17:44",
+      "etb": "12/7",
+      "ets": "16/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9494060",
+      "vessel": "OMORFI",
+      "etaNor": "6/8/26 6:00",
+      "etb": "6/8",
+      "ets": "10/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "22/8/26 0:00",
+      "etb": "22/8",
+      "ets": "24/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9596856",
+      "vessel": "LUCIO COSTA",
+      "etaNor": "13/7/26 11:00",
+      "etb": "14/7",
+      "ets": "16/7",
+      "operation": "D",
+      "cargo": "GLP"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9857640",
+      "vessel": "HANSEATIC SPIRIT ⚓",
+      "etaNor": "13/11/27 0:00",
+      "etb": "13/11",
+      "ets": "14/11",
+      "operation": "D",
+      "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES"
     }
   ]
 }
