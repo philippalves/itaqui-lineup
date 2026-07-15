@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2015%2007%202026%20-10h00%20clientes_6a57a5487a33b.pdf",
-  "updatedAt": "2026-07-15T18:56:26+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2015%2007%202026%20-10h00%20clientes_6a57e0c334534.pdf",
+  "updatedAt": "2026-07-15T20:04:01+00:00",
   "records": [
     {
       "status": "ESPERADO",
@@ -191,7 +191,7 @@
       "ets": "6/8",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9582532 IONIC KIZUNA 228,99 32,26 81.868 7,00 13,00 21/7/26 12:00 3/8 6/8 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..Atualiz8 a0 ç. ã0 o0 :0 1 5/07 ESPERADO 9407380 HORIZON THETIS 183,00 32,20 49.999 9,50 8,50 17/7/26 22:00 18/7 22/7 D GASOLINA / DIESEL 39.409 WILSON SONS TRANSPETRO ACELEN-10:00",
+      "raw": "ESPERADO 9582532 IONIC KIZUNA 228,99 32,26 81.868 7,00 13,00 21/7/26 12:00 3/8 6/8 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..Atualiz8 a0 ç. ã0 o0 :0 1 5/07 ESPERADO 9890587 IOANNIS ZAFIRAKIS 183,00 32,20 49.999 10,00 8,00 17/7/26 15:00 18/7 19/7 D OLEO COMBUSTIVEL 5.000 WILHELMSEN TRANSPETRO PETROBRAS-10:00",
       "id": 16
     },
     {
@@ -199,11 +199,11 @@
       "imo": "9866770",
       "vessel": "BOW PROSPER *",
       "etaNor": "21/7/26 12:00",
-      "etb": "22/7",
-      "ets": "23/7",
+      "etb": "21/7",
+      "ets": "22/7",
       "operation": "C",
       "cargo": "SEBO BOVINO",
-      "raw": "ESPERADO 9866770 BOW PROSPER * 182,90 28,30 36.221 7,73 8,73 21/7/26 12:00 22/7 23/7 C SEBO BOVINO 5.600 ROCHAMAR GRANEL FASA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
+      "raw": "ESPERADO 9866770 BOW PROSPER * 182,90 28,30 36.221 7,73 8,73 21/7/26 12:00 21/7 22/7 C SEBO BOVINO 5.600 ROCHAMAR GRANEL FASA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
       "id": 17
     },
     {
@@ -263,7 +263,7 @@
       "ets": "16/7",
       "operation": "D",
       "cargo": "GASOLINA",
-      "raw": "ATRACADO 9820283 AGIOS NIKOLAOS 183,06 32,20 49.998 9,50 8,50 12/7/26 1:12 13/7 16/7 D GASOLINA 24.862 NORTH STAR GRANEL BLUEWAY Atuali1 z5 a5 çã.0 o0 : 0 1 5/07 ESPERADO 9890587 IOANNIS ZAFIRAKIS 183,00 32,20 49.999 10,00 8,00 17/7/26 15:00 20/7 21/7 D OLEO COMBUSTIVEL 5000 WILHELMSEN TRANSPETRO PETROBRAS-10:00",
+      "raw": "ATRACADO 9820283 AGIOS NIKOLAOS 183,06 32,20 49.998 9,50 8,50 12/7/26 1:12 13/7 16/7 D GASOLINA 24.862 NORTH STAR GRANEL BLUEWAY Atuali1 z5 a5 çã.0 o0 : 0 1 5/07 ESPERADO 9407380 HORIZON THETIS 183,00 32,20 49.999 9,50 8,50 17/7/26 22:00 20/7 24/7 D GASOLINA / DIESEL 39409 WILSON SONS TRANSPETRO ACELEN-10:00",
       "id": 22
     },
     {
@@ -271,11 +271,11 @@
       "imo": "1025564",
       "vessel": "SEA PENGUIN *²-STS",
       "etaNor": "21/7/26 22:00",
-      "etb": "21/7",
-      "ets": "27/7",
+      "etb": "24/7",
+      "ets": "29/7",
       "operation": "D",
       "cargo": "DIESEL",
-      "raw": "ESPERADO 1025564 SEA PENGUIN *²-STS 248,80 44,00 113.659 14,00 10,00 21/7/26 22:00 21/7 27/7 D DIESEL 130.000 GAC DO BRASIL TRANSPETRO PETROBRAS",
+      "raw": "ESPERADO 1025564 SEA PENGUIN *²-STS 248,80 44,00 113.659 14,00 10,00 21/7/26 22:00 24/7 29/7 D DIESEL 130000 GAC DO BRASIL TRANSPETRO PETROBRAS",
       "id": 23
     },
     {
@@ -481,8 +481,8 @@
       "imo": "9866770",
       "vessel": "BOW PROSPER *",
       "etaNor": "21/7/26 12:00",
-      "etb": "22/7",
-      "ets": "23/7",
+      "etb": "21/7",
+      "ets": "22/7",
       "operation": "C",
       "cargo": "SEBO BOVINO"
     },
@@ -541,8 +541,8 @@
       "imo": "1025564",
       "vessel": "SEA PENGUIN *²-STS",
       "etaNor": "21/7/26 22:00",
-      "etb": "21/7",
-      "ets": "27/7",
+      "etb": "24/7",
+      "ets": "29/7",
       "operation": "D",
       "cargo": "DIESEL"
     },
