@@ -1,21 +1,11 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2016%2007%202026%20-10h00%20-%20clientes_6a58fd3109999.pdf",
-  "generatedAt": "2026-07-16T21:29:53+00:00",
-  "rawLinesCount": 124,
-  "mergedLinesCount": 47,
-  "logicalLinesCount": 46,
-  "recordsCount": 46,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2016%2007%202026%20-15h00%20-%20clientes_6a5954cabbce2.pdf",
+  "generatedAt": "2026-07-16T22:29:43+00:00",
+  "rawLinesCount": 125,
+  "mergedLinesCount": 46,
+  "logicalLinesCount": 45,
+  "recordsCount": 45,
   "preview": [
-    {
-      "status": "ATRACADO",
-      "imo": "9401790",
-      "vessel": "PELICANA *",
-      "etaNor": "7/7/26 21:30",
-      "etb": "13/7",
-      "ets": "17/7",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
     {
       "status": "ESPERADO",
       "imo": "9708928",
@@ -28,23 +18,13 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9598995",
-      "vessel": "ETHRA DIAMOND",
-      "etaNor": "26/7/26 0:01",
+      "imo": "9529592",
+      "vessel": "EAGLE ARROW",
+      "etaNor": "26/7/26 15:00",
       "etb": "26/7",
-      "ets": "28/7",
+      "ets": "3/8",
       "operation": "D",
-      "cargo": "FERTILIZANTE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1115888",
-      "vessel": "LYNUX ROSETTA",
-      "etaNor": "28/7/26 12:00",
-      "etb": "28/7",
-      "ets": "31/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "cargo": "FERT TR ILIL IZH AO N / T ES"
     },
     {
       "status": "ATRACADO",
@@ -72,7 +52,7 @@
       "vessel": "BBG MUARA",
       "etaNor": "3/7/26 12:00",
       "etb": "19/7",
-      "ets": "21/7",
+      "ets": "22/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -81,7 +61,7 @@
       "imo": "9537733",
       "vessel": "GLEAMSTAR",
       "etaNor": "8/7/26 13:42",
-      "etb": "21/7",
+      "etb": "22/7",
       "ets": "24/7",
       "operation": "C",
       "cargo": "SOJA"
@@ -103,6 +83,26 @@
       "etaNor": "15/7/26 10:00",
       "etb": "26/7",
       "ets": "29/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1112848",
+      "vessel": "GUO REN HAI",
+      "etaNor": "22/7/26 22:00",
+      "etb": "29/7",
+      "ets": "1/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9592056",
+      "vessel": "XIN QI XING",
+      "etaNor": "20/7/26 8:00",
+      "etb": "1/8",
+      "ets": "4/8",
       "operation": "C",
       "cargo": "SOJA"
     }
