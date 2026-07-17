@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2007%202026%20-10h00%20clientes_6a5a4c70881d3.pdf",
-  "generatedAt": "2026-07-17T20:58:21+00:00",
-  "rawLinesCount": 434,
-  "mergedLinesCount": 29,
-  "logicalLinesCount": 28,
-  "recordsCount": 28,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2007%202026%20-15h00%20clientes_6a5a9c6944acc.pdf",
+  "generatedAt": "2026-07-17T21:53:38+00:00",
+  "rawLinesCount": 436,
+  "mergedLinesCount": 32,
+  "logicalLinesCount": 31,
+  "recordsCount": 31,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,9 +18,9 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9727986",
-      "vessel": "DESPINA V",
-      "etaNor": "29/6/26 6:48",
+      "imo": "9979216",
+      "vessel": "GOLDEN SAKURA",
+      "etaNor": "26/6/26 12:00",
       "etb": "17/7",
       "ets": "19/7",
       "operation": "C",
@@ -52,7 +52,17 @@
       "vessel": "XIN QI XING",
       "etaNor": "20/7/26 8:00",
       "etb": "1/8",
-      "ets": "4/8",
+      "ets": "5/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9846134",
+      "vessel": "LEMESSOS CASTLE",
+      "etaNor": "27/7/26 12:00",
+      "etb": "5/8",
+      "ets": "8/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -61,16 +71,6 @@
       "imo": "9589683",
       "vessel": "STAR BETTY",
       "etaNor": "1/8/26 12:00",
-      "etb": "4/8",
-      "ets": "8/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9494096",
-      "vessel": "DIAMANTI",
-      "etaNor": "23/7/26 8:00",
       "etb": "8/8",
       "ets": "11/8",
       "operation": "C",
