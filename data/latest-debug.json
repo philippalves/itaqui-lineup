@@ -1,23 +1,53 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2007%202026%20-15h00%20clientes_6a5a9c6944acc.pdf",
-  "generatedAt": "2026-07-18T18:49:13+00:00",
-  "rawLinesCount": 436,
-  "mergedLinesCount": 32,
-  "logicalLinesCount": 31,
-  "recordsCount": 31,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2018%2007%202026%20-14h00%20-%20clientes_6a5bce14c4864.pdf",
+  "generatedAt": "2026-07-18T19:59:20+00:00",
+  "rawLinesCount": 175,
+  "mergedLinesCount": 50,
+  "logicalLinesCount": 49,
+  "recordsCount": 49,
   "preview": [
     {
       "status": "ATRACADO",
-      "imo": "9990351",
-      "vessel": "UBON NAREE",
-      "etaNor": "6/7/26 21:48",
-      "etb": "15/7",
-      "ets": "17/7",
-      "operation": "C",
-      "cargo": "SOJA"
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "17/7/26 0:00",
+      "etb": "17/7",
+      "ets": "20/7",
+      "operation": null,
+      "cargo": null
     },
     {
-      "status": "FUNDEADO",
+      "status": "ESPERADO",
+      "imo": "9613329",
+      "vessel": "HALOPHYLA *",
+      "etaNor": "19/7/26 13:00",
+      "etb": "20/7",
+      "ets": "25/7",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9708928",
+      "vessel": "ES VANQUISH",
+      "etaNor": "22/7/26 2:00",
+      "etb": "25/7",
+      "ets": "29/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9598995",
+      "vessel": "ETHRA DIAMOND",
+      "etaNor": "29/7/26 14:00",
+      "etb": "29/7",
+      "ets": "31/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTE"
+    },
+    {
+      "status": "ATRACADO",
       "imo": "9979216",
       "vessel": "GOLDEN SAKURA",
       "etaNor": "26/6/26 12:00",
@@ -47,64 +77,34 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9592056",
-      "vessel": "XIN QI XING",
-      "etaNor": "20/7/26 8:00",
-      "etb": "1/8",
-      "ets": "5/8",
+      "status": "FUNDEADO",
+      "imo": "9697868",
+      "vessel": "SAKIZAYA DIAMOND",
+      "etaNor": "12/7/26 0:00",
+      "etb": "24/7",
+      "ets": "26/7",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "1030868",
+      "vessel": "PUNTA DEL CHILENO",
+      "etaNor": "15/7/26 8:54",
+      "etb": "26/7",
+      "ets": "29/7",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9846134",
-      "vessel": "LEMESSOS CASTLE",
-      "etaNor": "27/7/26 12:00",
-      "etb": "5/8",
-      "ets": "8/8",
+      "imo": "1112848",
+      "vessel": "GUO REN HAI",
+      "etaNor": "22/7/26 22:00",
+      "etb": "29/7",
+      "ets": "1/8",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9589683",
-      "vessel": "STAR BETTY",
-      "etaNor": "1/8/26 12:00",
-      "etb": "8/8",
-      "ets": "11/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9474709",
-      "vessel": "AGIOS MAKARIOS",
-      "etaNor": "7/8/26 6:00",
-      "etb": "11/8",
-      "ets": "14/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "12/7/26 17:44",
-      "etb": "12/7",
-      "ets": "19/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9494060",
-      "vessel": "OMORFI",
-      "etaNor": "6/8/26 6:00",
-      "etb": "6/8",
-      "ets": "10/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
