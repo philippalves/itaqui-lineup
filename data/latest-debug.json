@@ -1,31 +1,11 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2020%2007%202026%20-15h00%20-%20clientes_6a5e86a9b6c30.pdf",
-  "generatedAt": "2026-07-21T14:30:45+00:00",
-  "rawLinesCount": 129,
-  "mergedLinesCount": 50,
-  "logicalLinesCount": 49,
-  "recordsCount": 49,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2021%2007%202026%20-10h00%20Clientes_6a5f8bf0441f6.pdf",
+  "generatedAt": "2026-07-21T16:16:27+00:00",
+  "rawLinesCount": 474,
+  "mergedLinesCount": 31,
+  "logicalLinesCount": 30,
+  "recordsCount": 30,
   "preview": [
-    {
-      "status": "ESPERADO",
-      "imo": "9665700",
-      "vessel": "WEST HARMONY",
-      "etaNor": "22/7/26 11:30",
-      "etb": "25/7",
-      "ets": "31/7",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9847011",
-      "vessel": "KOBAYASHI MARU",
-      "etaNor": "5/8/26 23:00",
-      "etb": "5/8",
-      "ets": "13/8",
-      "operation": "D",
-      "cargo": "CLINQUER"
-    },
     {
       "status": "ATRACADO",
       "imo": "9727986",
@@ -68,36 +48,6 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9605865",
-      "vessel": "WARRIOR",
-      "etaNor": "21/7/26 18:00",
-      "etb": "29/7",
-      "ets": "1/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1112848",
-      "vessel": "GUO REN HAI",
-      "etaNor": "22/7/26 16:00",
-      "etb": "1/8",
-      "ets": "4/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9592056",
-      "vessel": "XIN QI XING",
-      "etaNor": "20/7/26 8:00",
-      "etb": "4/8",
-      "ets": "7/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9846134",
       "vessel": "LEMESSOS CASTLE",
       "etaNor": "27/7/26 12:00",
@@ -105,6 +55,56 @@
       "ets": "10/8",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9589683",
+      "vessel": "STAR BETTY",
+      "etaNor": "1/8/26 12:00",
+      "etb": "10/8",
+      "ets": "13/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9474709",
+      "vessel": "AGIOS MAKARIOS",
+      "etaNor": "7/8/26 6:00",
+      "etb": "13/8",
+      "ets": "17/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9935454",
+      "vessel": "TRANS ASIA",
+      "etaNor": "28/7/26 23:00",
+      "etb": "17/8",
+      "ets": "20/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9459979",
+      "vessel": "SHOVELER *",
+      "etaNor": "20/7/26 5:30",
+      "etb": "21/7",
+      "ets": "24/7",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9494060",
+      "vessel": "OMORFI",
+      "etaNor": "11/8/26 12:00",
+      "etb": "11/8",
+      "ets": "15/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
