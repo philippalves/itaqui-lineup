@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2021%2007%202026%20-10h00%20Clientes_6a5f8bf0441f6.pdf",
-  "generatedAt": "2026-07-21T19:04:48+00:00",
-  "rawLinesCount": 474,
-  "mergedLinesCount": 31,
-  "logicalLinesCount": 30,
-  "recordsCount": 30,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2021%2007%202026%20-14h00%20Clientes_6a5fce97db006.pdf",
+  "generatedAt": "2026-07-21T20:40:53+00:00",
+  "rawLinesCount": 473,
+  "mergedLinesCount": 30,
+  "logicalLinesCount": 29,
+  "recordsCount": 29,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,9 +18,9 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9537733",
-      "vessel": "GLEAMSTAR",
-      "etaNor": "8/7/26 13:42",
+      "imo": "9697868",
+      "vessel": "SAKIZAYA DIAMOND",
+      "etaNor": "12/7/26 0:00",
       "etb": "21/7",
       "ets": "24/7",
       "operation": "C",
@@ -28,21 +28,21 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9697868",
-      "vessel": "SAKIZAYA DIAMOND",
-      "etaNor": "12/7/26 0:00",
+      "imo": "9537733",
+      "vessel": "GLEAMSTAR",
+      "etaNor": "8/7/26 13:42",
       "etb": "24/7",
       "ets": "26/7",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9615406",
-      "vessel": "MODIGLIANI",
-      "etaNor": "14/7/26 5:15",
-      "etb": "26/7",
-      "ets": "29/7",
+      "status": "ESPERADO",
+      "imo": "9592056",
+      "vessel": "XIN QI XING",
+      "etaNor": "20/7/26 8:00",
+      "etb": "4/8",
+      "ets": "7/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -58,31 +58,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9589683",
-      "vessel": "STAR BETTY",
-      "etaNor": "1/8/26 12:00",
+      "imo": "9966300",
+      "vessel": "NORA SCHULTE",
+      "etaNor": "8/8/26 8:00",
       "etb": "10/8",
-      "ets": "13/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9474709",
-      "vessel": "AGIOS MAKARIOS",
-      "etaNor": "7/8/26 6:00",
-      "etb": "13/8",
-      "ets": "17/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9935454",
-      "vessel": "TRANS ASIA",
-      "etaNor": "28/7/26 23:00",
-      "etb": "17/8",
-      "ets": "20/8",
+      "ets": "14/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -105,6 +85,26 @@
       "ets": "15/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "23/8/26 0:00",
+      "etb": "23/8",
+      "ets": "25/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9596844",
+      "vessel": "BARBOSA LIMA SOBRINHO",
+      "etaNor": "18/7/26 11:30",
+      "etb": "20/7",
+      "ets": "21/7",
+      "operation": "D",
+      "cargo": "GLP"
     }
   ]
 }
