@@ -1,7 +1,7 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2027%2007%202026%20-14h00%20clientes_6a67cd162e571.pdf",
-  "generatedAt": "2026-07-28T19:10:41+00:00",
-  "rawLinesCount": 433,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2007%202026%20-14h00%20clientes_6a69127a8091f.pdf",
+  "generatedAt": "2026-07-28T20:40:03+00:00",
+  "rawLinesCount": 432,
   "mergedLinesCount": 29,
   "logicalLinesCount": 28,
   "recordsCount": 28,
@@ -10,7 +10,7 @@
       "status": "ESPERADO",
       "imo": "9847011",
       "vessel": "KOBAYASHI MARU",
-      "etaNor": "6/8/26 6:00",
+      "etaNor": "6/8/26 2:00",
       "etb": "6/8",
       "ets": "14/8",
       "operation": "D",
@@ -58,11 +58,21 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "1021714",
+      "vessel": "KAREN OLDENDORFF",
+      "etaNor": "29/7/26 19:00",
+      "etb": "13/8",
+      "ets": "16/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9474709",
       "vessel": "AGIOS MAKARIOS",
       "etaNor": "7/8/26 6:00",
-      "etb": "13/8",
-      "ets": "15/8",
+      "etb": "16/8",
+      "ets": "18/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,8 +81,8 @@
       "imo": "9966300",
       "vessel": "NORA SCHULTE",
       "etaNor": "8/8/26 8:00",
-      "etb": "15/8",
-      "ets": "17/8",
+      "etb": "18/8",
+      "ets": "20/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -82,7 +92,7 @@
       "vessel": "ES VANQUISH *",
       "etaNor": "22/7/26 1:48",
       "etb": "23/7",
-      "ets": "28/7",
+      "ets": "29/7",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -92,19 +102,9 @@
       "vessel": "NM CHERRY BLOSSOM",
       "etaNor": "10/8/26 8:00",
       "etb": "13/8",
-      "ets": "18/8",
+      "ets": "19/8",
       "operation": "D",
       "cargo": "CARVÃO"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9748722",
-      "vessel": "IOKASTI GS",
-      "etaNor": "23/8/26 0:00",
-      "etb": "23/8",
-      "ets": "25/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
