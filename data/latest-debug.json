@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2007%202026%20-10h00%20Clientes_6a6a1db9a923f.pdf",
-  "generatedAt": "2026-07-29T20:43:45+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2007%202026%20-15h00%20clientes_6a6a67a87cf46.pdf",
+  "generatedAt": "2026-07-29T21:51:19+00:00",
   "rawLinesCount": 432,
-  "mergedLinesCount": 29,
-  "logicalLinesCount": 28,
-  "recordsCount": 28,
+  "mergedLinesCount": 30,
+  "logicalLinesCount": 29,
+  "recordsCount": 29,
   "preview": [
     {
       "status": "ATRACADO",
@@ -38,9 +38,9 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9641704",
-      "vessel": "APPLEPIE",
-      "etaNor": "25/7/26 2:00",
+      "imo": "9615406",
+      "vessel": "MODIGLIANI",
+      "etaNor": "14/7/26 5:15",
       "etb": "29/7",
       "ets": "1/8",
       "operation": "C",
