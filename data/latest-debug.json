@@ -1,11 +1,41 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2031%2007%202026%20-15h00%20clientes_6a6d02036e5b0.pdf",
-  "generatedAt": "2026-08-01T18:55:55+00:00",
-  "rawLinesCount": 471,
-  "mergedLinesCount": 29,
-  "logicalLinesCount": 28,
-  "recordsCount": 28,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2001%2008%202026%20-14h00%20-%20clientes_6a6e49ba63b10.pdf",
+  "generatedAt": "2026-08-01T20:06:22+00:00",
+  "rawLinesCount": 125,
+  "mergedLinesCount": 48,
+  "logicalLinesCount": 47,
+  "recordsCount": 46,
   "preview": [
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "31/7/26 17:45",
+      "etb": "31/7",
+      "ets": "2/8",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9363637",
+      "vessel": "SAGA JOURNEY *",
+      "etaNor": "2/8/26 12:00",
+      "etb": "2/8",
+      "ets": "6/8",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9847011",
+      "vessel": "KOBAYASHI MARU",
+      "etaNor": "6/8/26 2:00",
+      "etb": "6/8",
+      "ets": "13/8",
+      "operation": "D",
+      "cargo": "CLINQUER"
+    },
     {
       "status": "ESPERADO",
       "imo": "9703655",
@@ -57,54 +87,24 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "1027809",
-      "vessel": "AQUALUCKY",
-      "etaNor": "31/7/26 1:00",
-      "etb": "17/8",
-      "ets": "19/8",
+      "status": "FUNDEADO",
+      "imo": "9592056",
+      "vessel": "XIN QI XING",
+      "etaNor": "25/7/26 0:01",
+      "etb": "9/8",
+      "ets": "11/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9966300",
-      "vessel": "NORA SCHULTE",
-      "etaNor": "8/8/26 8:00",
-      "etb": "19/8",
-      "ets": "22/8",
+      "status": "FUNDEADO",
+      "imo": "9935454",
+      "vessel": "TRANS ASIA",
+      "etaNor": "28/7/26 13:12",
+      "etb": "11/8",
+      "ets": "14/8",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9598799",
-      "vessel": "IOLCOS CONFIDENCE",
-      "etaNor": "2/8/26 0:00",
-      "etb": "22/8",
-      "ets": "24/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1028190",
-      "vessel": "NORD COVE",
-      "etaNor": "7/8/26 12:00",
-      "etb": "24/8",
-      "ets": "27/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9791066",
-      "vessel": "ECO LEGACY *",
-      "etaNor": "30/7/26 1:30",
-      "etb": "31/7",
-      "ets": "2/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
