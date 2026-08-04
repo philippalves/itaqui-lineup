@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2008%202026%20-10h00%20clientes_6a7200b61f11d.pdf",
-  "generatedAt": "2026-08-04T19:08:19+00:00",
-  "rawLinesCount": 422,
-  "mergedLinesCount": 22,
-  "logicalLinesCount": 21,
-  "recordsCount": 21,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2008%202026%20-14h00%20Clientes_6a723a9b4a483.pdf",
+  "generatedAt": "2026-08-04T20:49:08+00:00",
+  "rawLinesCount": 423,
+  "mergedLinesCount": 24,
+  "logicalLinesCount": 23,
+  "recordsCount": 22,
   "preview": [
     {
       "status": "ESPERADO",
@@ -38,31 +38,41 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9494096",
-      "vessel": "DIAMANTI",
-      "etaNor": "23/7/26 20:00",
+      "imo": "1112848",
+      "vessel": "GUO REN HAI",
+      "etaNor": "22/7/26 12:00",
       "etb": "9/8",
-      "ets": "12/8",
+      "ets": "11/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9966300",
-      "vessel": "NORA SCHULTE",
-      "etaNor": "8/8/26 8:00",
-      "etb": "20/8",
+      "imo": "9474709",
+      "vessel": "AGIOS MAKARIOS",
+      "etaNor": "5/8/26 22:30",
+      "etb": "19/8",
       "ets": "22/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "FUNDEADO",
-      "imo": "9589683",
-      "vessel": "STAR BETTY",
-      "etaNor": "3/8/26 16:45",
+      "imo": "9598799",
+      "vessel": "IOLCOS CONFIDENCE",
+      "etaNor": "2/8/26 12:18",
       "etb": "22/8",
-      "ets": "24/8",
+      "ets": "25/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9363132",
+      "vessel": "IOLE R",
+      "etaNor": "10/8/26 10:00",
+      "etb": "25/8",
+      "ets": "28/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,8 +81,8 @@
       "imo": "1028190",
       "vessel": "NORD COVE",
       "etaNor": "7/8/26 12:00",
-      "etb": "24/8",
-      "ets": "27/8",
+      "etb": "28/8",
+      "ets": "31/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -95,16 +105,6 @@
       "ets": "23/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9529592",
-      "vessel": "EAGLE ARROW",
-      "etaNor": "1/8/26 14:30",
-      "etb": "2/8",
-      "ets": "12/8",
-      "operation": "D",
-      "cargo": "FERT TR ILIL IZH AO N / T ES"
     }
   ]
 }
