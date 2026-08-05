@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2008%202026%20-10h00%20-%20clientes_6a735332a7455.pdf",
-  "generatedAt": "2026-08-05T20:02:34+00:00",
-  "rawLinesCount": 121,
-  "mergedLinesCount": 45,
-  "logicalLinesCount": 44,
-  "recordsCount": 44,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2008%202026%20-15h00%20-%20clientes_6a73a294de3a4.pdf",
+  "generatedAt": "2026-08-05T21:40:47+00:00",
+  "rawLinesCount": 152,
+  "mergedLinesCount": 48,
+  "logicalLinesCount": 47,
+  "recordsCount": 47,
   "preview": [
     {
       "status": "ATRACADO",
@@ -38,13 +38,13 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9687148",
-      "vessel": "LUNAR STAR 1",
-      "etaNor": "13/8/26 12:00",
+      "imo": "9613290",
+      "vessel": "BRASSIANA *",
+      "etaNor": "15/8/26 0:00",
       "etb": "18/8",
-      "ets": "22/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "ets": "23/8",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -102,7 +102,7 @@
       "vessel": "PUMA MAX",
       "etaNor": "26/7/26 20:42",
       "etb": "11/8",
-      "ets": "14/8",
+      "ets": "13/8",
       "operation": "C",
       "cargo": "SOJA"
     }
