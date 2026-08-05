@@ -1,11 +1,51 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2008%202026%20-14h00%20Clientes_6a723a9b4a483.pdf",
-  "generatedAt": "2026-08-05T14:43:24+00:00",
-  "rawLinesCount": 423,
-  "mergedLinesCount": 24,
-  "logicalLinesCount": 23,
-  "recordsCount": 22,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2008%202026%20-10h00%20-%20clientes_6a735332a7455.pdf",
+  "generatedAt": "2026-08-05T16:26:36+00:00",
+  "rawLinesCount": 121,
+  "mergedLinesCount": 45,
+  "logicalLinesCount": 44,
+  "recordsCount": 44,
   "preview": [
+    {
+      "status": "ATRACADO",
+      "imo": "9363637",
+      "vessel": "SAGA JOURNEY *",
+      "etaNor": "2/8/26 19:36",
+      "etb": "2/8",
+      "ets": "6/8",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9415210",
+      "vessel": "TORRENT",
+      "etaNor": "8/8/26 18:00",
+      "etb": "8/8",
+      "ets": "13/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9703655",
+      "vessel": "NM CHERRY BLOSSOM",
+      "etaNor": "11/8/26 8:00",
+      "etb": "13/8",
+      "ets": "18/8",
+      "operation": "D",
+      "cargo": "CARVÃO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9687148",
+      "vessel": "LUNAR STAR 1",
+      "etaNor": "13/8/26 12:00",
+      "etb": "18/8",
+      "ets": "22/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
     {
       "status": "ESPERADO",
       "imo": "9824978",
@@ -15,6 +55,16 @@
       "ets": "29/8",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9523213",
+      "vessel": "JI XIAN FENG",
+      "etaNor": "6/9/26 12:00",
+      "etb": "6/9",
+      "ets": "9/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
@@ -47,64 +97,14 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9474709",
-      "vessel": "AGIOS MAKARIOS",
-      "etaNor": "5/8/26 22:30",
-      "etb": "19/8",
-      "ets": "22/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
       "status": "FUNDEADO",
-      "imo": "9598799",
-      "vessel": "IOLCOS CONFIDENCE",
-      "etaNor": "2/8/26 12:18",
-      "etb": "22/8",
-      "ets": "25/8",
+      "imo": "9589152",
+      "vessel": "PUMA MAX",
+      "etaNor": "26/7/26 20:42",
+      "etb": "11/8",
+      "ets": "14/8",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9363132",
-      "vessel": "IOLE R",
-      "etaNor": "10/8/26 10:00",
-      "etb": "25/8",
-      "ets": "28/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1028190",
-      "vessel": "NORD COVE",
-      "etaNor": "7/8/26 12:00",
-      "etb": "28/8",
-      "ets": "31/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9846304",
-      "vessel": "BERGE JUNGFRAU *",
-      "etaNor": "31/7/26 10:00",
-      "etb": "3/8",
-      "ets": "4/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9748722",
-      "vessel": "IOKASTI GS",
-      "etaNor": "21/8/26 0:00",
-      "etb": "21/8",
-      "ets": "23/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
