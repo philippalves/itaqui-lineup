@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2006%2008%202026%20-15h00%20clientes_6a74ecf869317.pdf",
-  "generatedAt": "2026-08-07T15:44:50+00:00",
-  "rawLinesCount": 432,
-  "mergedLinesCount": 31,
-  "logicalLinesCount": 30,
-  "recordsCount": 30,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2007%2008%202026%20-10h00%20-%20Clientes_6a760254c9a3b.pdf",
+  "generatedAt": "2026-08-07T16:42:37+00:00",
+  "rawLinesCount": 133,
+  "mergedLinesCount": 53,
+  "logicalLinesCount": 52,
+  "recordsCount": 52,
   "preview": [
     {
       "status": "ATRACADO",
@@ -15,6 +15,36 @@
       "ets": "8/8",
       "operation": null,
       "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9415210",
+      "vessel": "TORRENT",
+      "etaNor": "8/8/26 18:00",
+      "etb": "8/8",
+      "ets": "13/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9494060",
+      "vessel": "OMORFI",
+      "etaNor": "11/8/26 20:00",
+      "etb": "13/8",
+      "ets": "17/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613290",
+      "vessel": "BRASSIANA *",
+      "etaNor": "14/8/26 18:00",
+      "etb": "17/8",
+      "ets": "22/8",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -62,49 +92,19 @@
       "vessel": "PUMA MAX",
       "etaNor": "26/7/26 20:42",
       "etb": "11/8",
-      "ets": "13/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9598799",
-      "vessel": "IOLCOS CONFIDENCE",
-      "etaNor": "2/8/26 12:18",
-      "etb": "21/8",
-      "ets": "23/8",
+      "ets": "14/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9595589",
-      "vessel": "CARAVOS HARMONY",
-      "etaNor": "8/8/26 8:00",
-      "etb": "23/8",
-      "ets": "26/8",
-      "operation": "C",
-      "cargo": "MILHO"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1028190",
-      "vessel": "NORD COVE",
-      "etaNor": "7/8/26 6:00",
-      "etb": "26/8",
-      "ets": "28/8",
+      "imo": "9989948",
+      "vessel": "STAR EXPLORER",
+      "etaNor": "28/6/26 23:00",
+      "etb": "14/8",
+      "ets": "16/8",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9847011",
-      "vessel": "KOBAYASHI MARU",
-      "etaNor": "5/8/26 21:40",
-      "etb": "6/8",
-      "ets": "13/8",
-      "operation": "D",
-      "cargo": "CLINQUER"
     }
   ]
 }
