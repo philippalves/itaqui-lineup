@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2007%2008%202026%20-15h00%20-%20clientes_6a76438723922.pdf",
-  "generatedAt": "2026-08-08T20:18:11+00:00",
-  "rawLinesCount": 133,
-  "mergedLinesCount": 53,
-  "logicalLinesCount": 52,
-  "recordsCount": 52,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2008%2008%202026%20-14h00%20clientes_6a77928690f93.pdf",
+  "generatedAt": "2026-08-08T20:55:51+00:00",
+  "rawLinesCount": 434,
+  "mergedLinesCount": 33,
+  "logicalLinesCount": 32,
+  "recordsCount": 32,
   "preview": [
     {
       "status": "ATRACADO",
@@ -23,36 +23,6 @@
       "etaNor": "8/8/26 18:00",
       "etb": "8/8",
       "ets": "13/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9494060",
-      "vessel": "OMORFI",
-      "etaNor": "11/8/26 20:00",
-      "etb": "13/8",
-      "ets": "17/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9613290",
-      "vessel": "BRASSIANA *",
-      "etaNor": "14/8/26 18:00",
-      "etb": "17/8",
-      "ets": "22/8",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9905734",
-      "vessel": "VERILA",
-      "etaNor": "22/8/26 14:00",
-      "etb": "22/8",
-      "ets": "25/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -78,11 +48,21 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9582532",
-      "vessel": "IONIC KIZUNA",
-      "etaNor": "21/7/26 4:54",
-      "etb": "6/8",
-      "ets": "9/8",
+      "imo": "9592056",
+      "vessel": "XIN QI XING",
+      "etaNor": "25/7/26 0:01",
+      "etb": "8/8",
+      "ets": "10/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9935454",
+      "vessel": "TRANS ASIA",
+      "etaNor": "28/7/26 13:12",
+      "etb": "28/7",
+      "ets": "31/7",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,18 +71,38 @@
       "imo": "1112848",
       "vessel": "GUO REN HAI",
       "etaNor": "22/7/26 12:00",
-      "etb": "9/8",
-      "ets": "11/8",
+      "etb": "10/8",
+      "ets": "12/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "FUNDEADO",
-      "imo": "9589152",
-      "vessel": "PUMA MAX",
-      "etaNor": "26/7/26 20:42",
-      "etb": "11/8",
-      "ets": "14/8",
+      "imo": "9595589",
+      "vessel": "CARAVOS HARMONY",
+      "etaNor": "8/8/26 7:00",
+      "etb": "23/8",
+      "ets": "27/8",
+      "operation": "C",
+      "cargo": "MILHO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9983530",
+      "vessel": "PEDHOULAS FIGHTER",
+      "etaNor": "10/8/26 10:00",
+      "etb": "27/8",
+      "ets": "30/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1028190",
+      "vessel": "NORD COVE",
+      "etaNor": "7/8/26 6:00",
+      "etb": "30/8",
+      "ets": "1/9",
       "operation": "C",
       "cargo": "SOJA"
     }
