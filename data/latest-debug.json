@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2008%202026%20-10h00%20-%20clientes_6a7ddfb4eb15d.pdf",
-  "generatedAt": "2026-08-13T20:31:58+00:00",
-  "rawLinesCount": 131,
-  "mergedLinesCount": 53,
-  "logicalLinesCount": 52,
-  "recordsCount": 52,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2008%202026%20-15h00%20-%20clientes_6a7e383488bfd.pdf",
+  "generatedAt": "2026-08-13T21:35:16+00:00",
+  "rawLinesCount": 130,
+  "mergedLinesCount": 55,
+  "logicalLinesCount": 54,
+  "recordsCount": 53,
   "preview": [
     {
       "status": "ATRACADO",
@@ -20,7 +20,7 @@
       "status": "ESPERADO",
       "imo": "9613290",
       "vessel": "BRASSIANA *",
-      "etaNor": "15/8/26 6:00",
+      "etaNor": "15/8/26 1:00",
       "etb": "17/8",
       "ets": "22/8",
       "operation": "C",
@@ -28,11 +28,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9497842",
-      "vessel": "ANNA THERESA",
-      "etaNor": "23/8/26 14:00",
-      "etb": "23/8",
-      "ets": "27/8",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "21/8/26 5:00",
+      "etb": "22/8",
+      "ets": "24/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -41,10 +41,20 @@
       "imo": "9824978",
       "vessel": "DUNNII *",
       "etaNor": "24/8/26 0:00",
-      "etb": "27/8",
-      "ets": "2/9",
+      "etb": "24/8",
+      "ets": "30/8",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9497842",
+      "vessel": "ANNA THERESA",
+      "etaNor": "23/8/26 14:00",
+      "etb": "30/8",
+      "ets": "3/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
@@ -78,31 +88,21 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "1027809",
-      "vessel": "AQUALUCKY",
-      "etaNor": "31/7/26 0:48",
+      "imo": "1021714",
+      "vessel": "KAREN OLDENDORFF",
+      "etaNor": "29/7/26 19:18",
       "etb": "15/8",
-      "ets": "18/8",
+      "ets": "17/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "FUNDEADO",
-      "imo": "9474709",
-      "vessel": "AGIOS MAKARIOS",
-      "etaNor": "5/8/26 13:12",
-      "etb": "18/8",
-      "ets": "21/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9598799",
-      "vessel": "IOLCOS CONFIDENCE",
-      "etaNor": "2/8/26 12:18",
-      "etb": "21/8",
-      "ets": "23/8",
+      "imo": "9847853",
+      "vessel": "DAISY GLORY",
+      "etaNor": "1/8/26 10:54",
+      "etb": "17/8",
+      "ets": "19/8",
       "operation": "C",
       "cargo": "SOJA"
     }
