@@ -1,23 +1,13 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2012%2008%202026%20-15h00%20clientes_6a7cd7ff9fc26.pdf",
-  "generatedAt": "2026-08-13T14:16:18+00:00",
-  "rawLinesCount": 437,
-  "mergedLinesCount": 34,
-  "logicalLinesCount": 33,
-  "recordsCount": 33,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2013%2008%202026%20-10h00%20-%20clientes_6a7ddfb4eb15d.pdf",
+  "generatedAt": "2026-08-13T15:28:31+00:00",
+  "rawLinesCount": 131,
+  "mergedLinesCount": 53,
+  "logicalLinesCount": 52,
+  "recordsCount": 52,
   "preview": [
     {
       "status": "ATRACADO",
-      "imo": "9415210",
-      "vessel": "TORRENT",
-      "etaNor": "8/8/26 20:59",
-      "etb": "8/8",
-      "ets": "13/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9494060",
       "vessel": "OMORFI",
       "etaNor": "11/8/26 14:48",
@@ -25,6 +15,36 @@
       "ets": "17/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613290",
+      "vessel": "BRASSIANA *",
+      "etaNor": "15/8/26 6:00",
+      "etb": "17/8",
+      "ets": "22/8",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9497842",
+      "vessel": "ANNA THERESA",
+      "etaNor": "23/8/26 14:00",
+      "etb": "23/8",
+      "ets": "27/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824978",
+      "vessel": "DUNNII *",
+      "etaNor": "24/8/26 0:00",
+      "etb": "27/8",
+      "ets": "2/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -48,16 +68,6 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9935454",
-      "vessel": "TRANS ASIA",
-      "etaNor": "28/7/26 13:12",
-      "etb": "10/8",
-      "ets": "12/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "1112848",
       "vessel": "GUO REN HAI",
       "etaNor": "22/7/26 12:00",
@@ -87,22 +97,12 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9460538",
-      "vessel": "OMICRON OCTO",
-      "etaNor": "24/8/26 5:00",
-      "etb": "28/8",
-      "ets": "31/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1018767",
-      "vessel": "SEA LYNX",
-      "etaNor": "21/8/26 22:00",
-      "etb": "31/8",
-      "ets": "2/9",
+      "status": "FUNDEADO",
+      "imo": "9598799",
+      "vessel": "IOLCOS CONFIDENCE",
+      "etaNor": "2/8/26 12:18",
+      "etb": "21/8",
+      "ets": "23/8",
       "operation": "C",
       "cargo": "SOJA"
     }
