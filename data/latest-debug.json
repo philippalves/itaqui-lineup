@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2015%2008%202026%20-14h00%20-%20clientes_6a80c76e68da1.pdf",
-  "generatedAt": "2026-08-16T20:11:26+00:00",
-  "rawLinesCount": 133,
-  "mergedLinesCount": 56,
-  "logicalLinesCount": 55,
-  "recordsCount": 54,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2016%2008%202026%20-14h00%20clientes_6a8220513a773.pdf",
+  "generatedAt": "2026-08-16T20:44:35+00:00",
+  "rawLinesCount": 436,
+  "mergedLinesCount": 34,
+  "logicalLinesCount": 33,
+  "recordsCount": 32,
   "preview": [
     {
       "status": "ATRACADO",
@@ -23,46 +23,6 @@
       "etaNor": "15/8/26 6:00",
       "etb": "17/8",
       "ets": "20/8",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9748722",
-      "vessel": "IOKASTI GS",
-      "etaNor": "22/8/26 5:00",
-      "etb": "22/8",
-      "ets": "24/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9497842",
-      "vessel": "ANNA THERESA",
-      "etaNor": "23/8/26 14:00",
-      "etb": "24/8",
-      "ets": "28/8",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9824978",
-      "vessel": "DUNNII *",
-      "etaNor": "25/8/26 22:00",
-      "etb": "28/8",
-      "ets": "3/9",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1051111",
-      "vessel": "COSCO SHIPPING RU YI *",
-      "etaNor": "27/8/26 12:00",
-      "etb": "3/9",
-      "ets": "8/9",
       "operation": "C",
       "cargo": "CELULOSE"
     },
@@ -88,21 +48,61 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "1112848",
-      "vessel": "GUO REN HAI",
-      "etaNor": "22/7/26 12:00",
-      "etb": "12/8",
-      "ets": "15/8",
+      "imo": "9589683",
+      "vessel": "STAR BETTY",
+      "etaNor": "3/8/26 16:45",
+      "etb": "15/8",
+      "ets": "19/8",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "FUNDEADO",
-      "imo": "9589683",
-      "vessel": "STAR BETTY",
-      "etaNor": "3/8/26 16:45",
-      "etb": "15/8",
-      "ets": "18/8",
+      "imo": "9474709",
+      "vessel": "AGIOS MAKARIOS",
+      "etaNor": "5/8/26 13:12",
+      "etb": "19/8",
+      "ets": "21/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9966300",
+      "vessel": "NORA SCHULTE",
+      "etaNor": "8/8/26 4:00",
+      "etb": "21/8",
+      "ets": "23/8",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9595589",
+      "vessel": "CARAVOS HARMONY",
+      "etaNor": "8/8/26 7:00",
+      "etb": "23/8",
+      "ets": "25/8",
+      "operation": "C",
+      "cargo": "MILHO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9705354",
+      "vessel": "JAG ARNAV",
+      "etaNor": "21/8/26 19:00",
+      "etb": "2/9",
+      "ets": "4/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9460538",
+      "vessel": "OMICRON OCTO",
+      "etaNor": "25/8/26 13:00",
+      "etb": "4/9",
+      "ets": "6/9",
       "operation": "C",
       "cargo": "SOJA"
     }
