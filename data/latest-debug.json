@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2008%202026%20-10h00%20-%20clientes_6a8327e0d2774.pdf",
-  "generatedAt": "2026-08-17T20:15:39+00:00",
-  "rawLinesCount": 127,
-  "mergedLinesCount": 51,
-  "logicalLinesCount": 50,
-  "recordsCount": 49,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2008%202026%20-15h00%20-%20clientes_6a8370f21ccd2.pdf",
+  "generatedAt": "2026-08-17T20:50:23+00:00",
+  "rawLinesCount": 130,
+  "mergedLinesCount": 54,
+  "logicalLinesCount": 53,
+  "recordsCount": 52,
   "preview": [
     {
       "status": "ATRACADO",
@@ -82,7 +82,7 @@
       "vessel": "AGIOS MAKARIOS",
       "etaNor": "5/8/26 13:12",
       "etb": "18/8",
-      "ets": "20/8",
+      "ets": "21/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,8 +91,8 @@
       "imo": "9966300",
       "vessel": "NORA SCHULTE",
       "etaNor": "8/8/26 4:00",
-      "etb": "20/8",
-      "ets": "22/8",
+      "etb": "21/8",
+      "ets": "23/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -101,8 +101,8 @@
       "imo": "9595589",
       "vessel": "CARAVOS HARMONY",
       "etaNor": "8/8/26 7:00",
-      "etb": "22/8",
-      "ets": "24/8",
+      "etb": "23/8",
+      "ets": "25/8",
       "operation": "C",
       "cargo": "MILHO"
     }
