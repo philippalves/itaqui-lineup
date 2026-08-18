@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2018%2008%202026%20-10h00%20-%20clientes_6a8475727eb72.pdf",
-  "generatedAt": "2026-08-18T17:51:03+00:00",
-  "rawLinesCount": 130,
-  "mergedLinesCount": 54,
-  "logicalLinesCount": 53,
-  "recordsCount": 52,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2018%2008%202026%20-14h00%20-%20clientes_6a84b3dd28f75.pdf",
+  "generatedAt": "2026-08-18T19:46:42+00:00",
+  "rawLinesCount": 134,
+  "mergedLinesCount": 56,
+  "logicalLinesCount": 55,
+  "recordsCount": 54,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,11 +18,11 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9748722",
-      "vessel": "IOKASTI GS",
-      "etaNor": "21/8/26 5:00",
-      "etb": "21/8",
-      "ets": "23/8",
+      "imo": "9905734",
+      "vessel": "VERILA",
+      "etaNor": "19/8/26 12:00",
+      "etb": "20/8",
+      "ets": "24/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -31,8 +31,8 @@
       "imo": "9497842",
       "vessel": "ANNA THERESA",
       "etaNor": "23/8/26 14:00",
-      "etb": "23/8",
-      "ets": "27/8",
+      "etb": "24/8",
+      "ets": "28/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -52,7 +52,7 @@
       "vessel": "JI XIAN FENG",
       "etaNor": "7/9/26 12:00",
       "etb": "7/9",
-      "ets": "10/9",
+      "ets": "11/9",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -68,16 +68,6 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9589683",
-      "vessel": "STAR BETTY",
-      "etaNor": "3/8/26 16:45",
-      "etb": "15/8",
-      "ets": "18/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9474709",
       "vessel": "AGIOS MAKARIOS",
       "etaNor": "5/8/26 13:12",
@@ -105,6 +95,16 @@
       "ets": "25/8",
       "operation": "C",
       "cargo": "MILHO"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9983530",
+      "vessel": "PEDHOULAS FIGHTER",
+      "etaNor": "10/8/26 1:18",
+      "etb": "25/8",
+      "ets": "28/8",
+      "operation": "C",
+      "cargo": "SOJA"
     }
   ]
 }
