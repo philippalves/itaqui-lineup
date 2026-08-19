@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2019%2008%202026%20-10h00%20-%20clientes_6a85d04935541.pdf",
-  "generatedAt": "2026-08-19T20:16:41+00:00",
-  "rawLinesCount": 130,
-  "mergedLinesCount": 55,
-  "logicalLinesCount": 54,
-  "recordsCount": 52,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2019%2008%202026%20-15h00%20-%20clientes_6a8612c36feec.pdf",
+  "generatedAt": "2026-08-19T20:51:17+00:00",
+  "rawLinesCount": 137,
+  "mergedLinesCount": 60,
+  "logicalLinesCount": 59,
+  "recordsCount": 58,
   "preview": [
     {
       "status": "ATRACADO",
@@ -12,9 +12,19 @@
       "vessel": "BRASSIANA * 2ª ATRACAÇÃO",
       "etaNor": "15/8/26 6:00",
       "etb": "17/8",
-      "ets": "20/8",
+      "ets": "19/8",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "19/8/26 0:00",
+      "etb": "19/8",
+      "ets": "20/8",
+      "operation": null,
+      "cargo": null
     },
     {
       "status": "FUNDEADO",
@@ -22,7 +32,7 @@
       "vessel": "LUNAR STAR 1",
       "etaNor": "15/8/26 10:42",
       "etb": "20/8",
-      "ets": "23/8",
+      "ets": "22/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -35,6 +45,16 @@
       "ets": "27/8",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824978",
+      "vessel": "DUNNII *",
+      "etaNor": "25/8/26 20:00",
+      "etb": "27/8",
+      "ets": "2/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -72,7 +92,7 @@
       "vessel": "AGIOS MAKARIOS",
       "etaNor": "5/8/26 13:12",
       "etb": "18/8",
-      "ets": "21/8",
+      "ets": "20/8",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -81,28 +101,8 @@
       "imo": "9966300",
       "vessel": "NORA SCHULTE",
       "etaNor": "8/8/26 4:00",
-      "etb": "21/8",
+      "etb": "20/8",
       "ets": "23/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9595589",
-      "vessel": "CARAVOS HARMONY",
-      "etaNor": "8/8/26 7:00",
-      "etb": "23/8",
-      "ets": "25/8",
-      "operation": "C",
-      "cargo": "MILHO"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9983530",
-      "vessel": "PEDHOULAS FIGHTER",
-      "etaNor": "10/8/26 1:18",
-      "etb": "25/8",
-      "ets": "28/8",
       "operation": "C",
       "cargo": "SOJA"
     }
