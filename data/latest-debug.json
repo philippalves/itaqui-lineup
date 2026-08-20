@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2020%2008%202026%20-10h00%20Clientes_6a87151be60a9.pdf",
-  "generatedAt": "2026-08-20T18:25:06+00:00",
-  "rawLinesCount": 443,
-  "mergedLinesCount": 41,
-  "logicalLinesCount": 40,
-  "recordsCount": 40,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2020%2008%202026%20-15h00%20-%20Clientes_6a874f721155a.pdf",
+  "generatedAt": "2026-08-20T19:09:12+00:00",
+  "rawLinesCount": 140,
+  "mergedLinesCount": 63,
+  "logicalLinesCount": 62,
+  "recordsCount": 62,
   "preview": [
     {
       "status": "ATRACADO",
@@ -15,6 +15,36 @@
       "ets": "20/8",
       "operation": null,
       "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9748722",
+      "vessel": "IOKASTI GS",
+      "etaNor": "20/8/26 22:00",
+      "etb": "21/8",
+      "ets": "23/8",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824978",
+      "vessel": "DUNNII *",
+      "etaNor": "25/8/26 20:00",
+      "etb": "25/8",
+      "ets": "31/8",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1051111",
+      "vessel": "COSCO SHIPPING RU YI *",
+      "etaNor": "27/8/26 12:00",
+      "etb": "31/8",
+      "ets": "5/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -67,44 +97,14 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9705354",
-      "vessel": "JAG ARNAV",
-      "etaNor": "21/8/26 7:00",
-      "etb": "1/9",
-      "ets": "4/9",
+      "status": "FUNDEADO",
+      "imo": "9701164",
+      "vessel": "NORD TITAN",
+      "etaNor": "10/8/26 0:42",
+      "etb": "26/8",
+      "ets": "28/8",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9460538",
-      "vessel": "OMICRON OCTO",
-      "etaNor": "25/8/26 5:00",
-      "etb": "4/9",
-      "ets": "6/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9544401",
-      "vessel": "GU IMABARI",
-      "etaNor": "24/8/26 12:00",
-      "etb": "6/9",
-      "ets": "8/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9324239",
-      "vessel": "HOANH SON PACIFIC",
-      "etaNor": "28/8/26 16:00",
-      "etb": "8/9",
-      "ets": "11/9",
-      "operation": "C",
-      "cargo": "MILHO"
     }
   ]
 }
