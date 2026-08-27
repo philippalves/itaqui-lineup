@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2026%2008%202026%20-15h00%20Clientes_6a8f5ac5852f0.pdf",
-  "generatedAt": "2026-08-27T05:54:18+00:00",
-  "rawLinesCount": 432,
-  "mergedLinesCount": 30,
-  "logicalLinesCount": 29,
-  "recordsCount": 28,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2027%2008%202026%20-10h00%20-%20clientes_6a9053389848d.pdf",
+  "generatedAt": "2026-08-27T17:08:26+00:00",
+  "rawLinesCount": 133,
+  "mergedLinesCount": 51,
+  "logicalLinesCount": 50,
+  "recordsCount": 47,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,21 +18,31 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9519200",
-      "vessel": "STAR TAISHAN",
+      "imo": "9701231",
+      "vessel": "ADASTAR",
       "etaNor": "30/8/26 12:00",
       "etb": "31/8",
-      "ets": "2/9",
+      "ets": "3/9",
       "operation": "D",
-      "cargo": "TRIGO"
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1051111",
+      "vessel": "COSCO SHIPPING RU YI *",
+      "etaNor": "27/8/26 16:00",
+      "etb": "3/9",
+      "ets": "8/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
       "imo": "9523213",
       "vessel": "JI XIAN FENG",
       "etaNor": "7/9/26 12:00",
-      "etb": "7/9",
-      "ets": "10/9",
+      "etb": "8/9",
+      "ets": "11/9",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -58,16 +68,6 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9701164",
-      "vessel": "NORD TITAN",
-      "etaNor": "10/8/26 0:42",
-      "etb": "25/8",
-      "ets": "27/8",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9363132",
       "vessel": "IOLE R",
       "etaNor": "10/8/26 13:42",
@@ -88,21 +88,21 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9854301",
-      "vessel": "GOLDEN FRIEND",
-      "etaNor": "25/8/26 16:06",
-      "etb": "6/9",
-      "ets": "8/9",
+      "imo": "9681950",
+      "vessel": "GERDT OLDENDORFF",
+      "etaNor": "22/8/26 0:30",
+      "etb": "31/8",
+      "ets": "2/9",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9452543",
-      "vessel": "THEMIS",
-      "etaNor": "28/8/26 0:00",
-      "etb": "8/9",
-      "ets": "12/9",
+      "status": "FUNDEADO",
+      "imo": "9705354",
+      "vessel": "JAG ARNAV",
+      "etaNor": "21/8/26 5:40",
+      "etb": "2/9",
+      "ets": "4/9",
       "operation": "C",
       "cargo": "SOJA"
     }
