@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2029%2008%202026%20-14h00%20-%20clientes_6a933735bd905.pdf",
-  "generatedAt": "2026-08-30T18:06:24+00:00",
-  "rawLinesCount": 123,
-  "mergedLinesCount": 46,
-  "logicalLinesCount": 45,
-  "recordsCount": 42,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2008%202026%20-14h00%20Clientes_6a94888dba29b.pdf",
+  "generatedAt": "2026-08-30T21:17:39+00:00",
+  "rawLinesCount": 428,
+  "mergedLinesCount": 27,
+  "logicalLinesCount": 26,
+  "recordsCount": 26,
   "preview": [
     {
       "status": "ATRACADO",
@@ -30,9 +30,9 @@
       "status": "ESPERADO",
       "imo": "9523213",
       "vessel": "JI XIAN FENG",
-      "etaNor": "8/9/26 12:00",
+      "etaNor": "8/9/26 20:00",
       "etb": "8/9",
-      "ets": "11/9",
+      "ets": "12/9",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -64,7 +64,7 @@
       "etb": "14/10",
       "ets": "15/10",
       "operation": "D",
-      "cargo": "(CC OO NN TT EE NIN TE OR RE ES S ) 860 ROCHAMAR NML TANKERS G2 OCEAN AS B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks"
+      "cargo": "(CC OO NN TT EE NIN TOER RE ES S ) 860 ROCHAMAR NML TANKERS G2 OCEAN AS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES"
     },
     {
       "status": "ATRACADO",
@@ -98,11 +98,11 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "1018767",
-      "vessel": "SEA LYNX",
-      "etaNor": "22/8/26 2:42",
-      "etb": "4/9",
-      "ets": "6/9",
+      "imo": "9452543",
+      "vessel": "THEMIS",
+      "etaNor": "28/8/26 16:36",
+      "etb": "8/9",
+      "ets": "12/9",
       "operation": "C",
       "cargo": "SOJA"
     }
