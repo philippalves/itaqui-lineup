@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2031%2008%202026%20-15h00%20-%20clientes_6a95c8cec8d3d.pdf",
-  "generatedAt": "2026-09-01T11:23:19+00:00",
-  "rawLinesCount": 120,
-  "mergedLinesCount": 42,
-  "logicalLinesCount": 41,
-  "recordsCount": 38,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2001%2009%202026%20-10h00%20Clientes_6a96e928801aa.pdf",
+  "generatedAt": "2026-09-01T15:29:48+00:00",
+  "rawLinesCount": 427,
+  "mergedLinesCount": 24,
+  "logicalLinesCount": 23,
+  "recordsCount": 23,
   "preview": [
     {
       "status": "ATRACADO",
@@ -28,16 +28,6 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9523213",
-      "vessel": "JI XIAN FENG",
-      "etaNor": "9/9/26 6:00",
-      "etb": "9/9",
-      "ets": "12/9",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9858292",
       "vessel": "BABITONGA",
       "etaNor": "25/9/26 2:00",
@@ -50,21 +40,11 @@
       "status": "ESPERADO",
       "imo": "9922287",
       "vessel": "PRESTIGE DIVA",
-      "etaNor": "26/9/26 12:00",
+      "etaNor": "30/9/26 12:00",
       "etb": "3/10",
-      "ets": "14/10",
+      "ets": "9/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1070650",
-      "vessel": "STAR NORGE",
-      "etaNor": "7/10/26 8:00",
-      "etb": "14/10",
-      "ets": "15/10",
-      "operation": "D",
-      "cargo": "(CC OO NN TT EE NIN TE OR RE ES S ) 860 ROCHAMAR NML TANKERS G2 OCEAN AS B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks"
     },
     {
       "status": "ATRACADO",
@@ -87,24 +67,44 @@
       "cargo": "SOJA"
     },
     {
+      "status": "ESPERADO",
+      "imo": "1026063",
+      "vessel": "PAXOS",
+      "etaNor": "2/9/26 9:00",
+      "etb": "13/9",
+      "ets": "15/9",
+      "operation": "C",
+      "cargo": "MILHO"
+    },
+    {
       "status": "FUNDEADO",
-      "imo": "1018767",
-      "vessel": "SEA LYNX",
-      "etaNor": "22/8/26 2:42",
-      "etb": "4/9",
-      "ets": "7/9",
+      "imo": "9420265",
+      "vessel": "AROSA",
+      "etaNor": "1/9/26 0:01",
+      "etb": "15/9",
+      "ets": "16/9",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9854301",
-      "vessel": "GOLDEN FRIEND",
-      "etaNor": "25/8/26 16:06",
-      "etb": "7/9",
-      "ets": "8/9",
-      "operation": "C",
-      "cargo": "SOJA"
+      "status": "ESPERADO",
+      "imo": "9545077",
+      "vessel": "MAREM *",
+      "etaNor": "8/9/26 15:00",
+      "etb": "8/9",
+      "ets": "12/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9519200",
+      "vessel": "STAR TAISHAN",
+      "etaNor": "30/8/26 22:00",
+      "etb": "31/8",
+      "ets": "2/9",
+      "operation": "D",
+      "cargo": "TRIGO"
     }
   ]
 }
