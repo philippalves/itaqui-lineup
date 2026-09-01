@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2001%2009%202026%20-10h00%20Clientes_6a96e928801aa.pdf",
-  "generatedAt": "2026-09-01T18:44:13+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2001%2009%202026%20-14h00%20Clientes_6a97285810916.pdf",
+  "generatedAt": "2026-09-01T21:30:19+00:00",
   "rawLinesCount": 427,
   "mergedLinesCount": 24,
   "logicalLinesCount": 23,
@@ -12,7 +12,7 @@
       "vessel": "BERÇO LIVRE - - -",
       "etaNor": "31/8/26 0:00",
       "etb": "31/8",
-      "ets": "1/9",
+      "ets": "2/9",
       "operation": null,
       "cargo": null
     },
@@ -21,8 +21,8 @@
       "imo": "1051111",
       "vessel": "COSCO SHIPPING RU YI *",
       "etaNor": "28/8/26 0:36",
-      "etb": "1/9",
-      "ets": "6/9",
+      "etb": "2/9",
+      "ets": "7/9",
       "operation": "C",
       "cargo": "CELULOSE"
     },
