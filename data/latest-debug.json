@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2003%2009%202026%20-15h00%20Clientes_6a99cfc011e7f.pdf",
-  "generatedAt": "2026-09-04T13:38:19+00:00",
-  "rawLinesCount": 426,
-  "mergedLinesCount": 27,
-  "logicalLinesCount": 26,
-  "recordsCount": 26,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2009%202026%20-10h00%20-%20clientes_6a9adda320136.pdf",
+  "generatedAt": "2026-09-04T17:16:53+00:00",
+  "rawLinesCount": 122,
+  "mergedLinesCount": 45,
+  "logicalLinesCount": 44,
+  "recordsCount": 42,
   "preview": [
     {
       "status": "ATRACADO",
@@ -25,6 +25,16 @@
       "ets": "12/9",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9007544",
+      "vessel": "QUETZAL ARROW *",
+      "etaNor": "11/9/26 0:00",
+      "etb": "12/9",
+      "ets": "14/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -58,9 +68,9 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "1018767",
-      "vessel": "SEA LYNX",
-      "etaNor": "22/8/26 2:42",
+      "imo": "9464405",
+      "vessel": "CORAL VI",
+      "etaNor": "25/8/26 14:30",
       "etb": "4/9",
       "ets": "7/9",
       "operation": "C",
@@ -68,43 +78,33 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9420265",
-      "vessel": "AROSA",
-      "etaNor": "1/9/26 0:01",
-      "etb": "15/9",
-      "ets": "16/9",
+      "imo": "9544401",
+      "vessel": "GU IMABARI",
+      "etaNor": "23/8/26 8:54",
+      "etb": "7/9",
+      "ets": "9/9",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9942811",
-      "vessel": "LIGNUM NETWORK",
-      "etaNor": "9/9/26 6:00",
-      "etb": "16/9",
-      "ets": "18/9",
+      "status": "FUNDEADO",
+      "imo": "9324239",
+      "vessel": "HOANH SON PACIFIC",
+      "etaNor": "27/8/26 14:15",
+      "etb": "9/9",
+      "ets": "11/9",
       "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "MILHO"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9597654",
-      "vessel": "ECO CROSSFIRE",
-      "etaNor": "16/9/26 11:00",
-      "etb": "16/9",
-      "ets": "17/9",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9748978",
-      "vessel": "EPIC BALUAN",
-      "etaNor": "2/9/26 8:15",
-      "etb": "2/9",
-      "ets": "4/9",
-      "operation": "D",
-      "cargo": "GLP"
+      "status": "FUNDEADO",
+      "imo": "1026063",
+      "vessel": "PAXOS",
+      "etaNor": "1/9/26 20:00",
+      "etb": "11/9",
+      "ets": "13/9",
+      "operation": "C",
+      "cargo": "MILHO"
     }
   ]
 }

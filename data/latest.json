@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2003%2009%202026%20-15h00%20Clientes_6a99cfc011e7f.pdf",
-  "updatedAt": "2026-09-04T13:38:19+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2009%202026%20-10h00%20-%20clientes_6a9adda320136.pdf",
+  "updatedAt": "2026-09-04T17:16:53+00:00",
   "records": [
     {
       "status": "ATRACADO",
@@ -23,8 +23,20 @@
       "ets": "12/9",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9523213 JI XIAN FENG 225,00 32,26 75.409 12,10 8,11 9/9/26 6:00 9/9 12/9 D FERTILIZANTES 20.600 WILSON SONS COPI AMAGGI/TOCANTINS SOMENTE B.99 DEVIDO AO LOA B PE rR oÇ f.O : 19 59 m L o Da: W 2 T2 :9 ESPERADO 9007544 QUETZAL ARROW * 199,20 30,50 46.908 6,50 10,00 11/9/26 0:00 12/9 14/9 C CELULOSE 23.500 ROCHAMAR G5 SUZANO 83.400 ESPERADO TBN-C NAVIO DE CELULOSE * 200,00 32,00 75.000 6,00 5,00 15/9/26 0:00 15/9 19/9 C CELULOSE 49.700 G5 SUZANO Atualiz -a 1ç 5ã :0o 0: 03/09 ESPERADO TBN-C NAVIO DE CELULOSE * 200,00 32,00 75.000 6,00 5,00 24/9/26 0:00 24/9 27/9 C CELULOSE 43.000 G5 SUZANO",
+      "raw": "ESPERADO 9523213 JI XIAN FENG 225,00 32,26 75.409 12,10 8,11 9/9/26 6:00 9/9 12/9 D FERTILIZANTES 20.600 WILSON SONS COPI AMAGGI/TOCANTINS SOMENTE B.99 DEVIDO AO LOA",
       "id": 2
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9007544",
+      "vessel": "QUETZAL ARROW *",
+      "etaNor": "11/9/26 0:00",
+      "etb": "12/9",
+      "ets": "14/9",
+      "operation": "C",
+      "cargo": "CELULOSE",
+      "raw": "ESPERADO 9007544 QUETZAL ARROW * 199,20 30,50 46.908 6,50 10,00 11/9/26 0:00 12/9 14/9 C CELULOSE 23.500 ROCHAMAR G5 SUZANO",
+      "id": 3
     },
     {
       "status": "ESPERADO",
@@ -36,7 +48,7 @@
       "operation": "D",
       "cargo": "FERTILIZANTES",
       "raw": "ESPERADO 9858292 BABITONGA 228,99 32,26 81.770 14,00 8,00 25/9/26 2:00 27/9 3/10 D FERTILIZANTES 40.329 ORION RODOS COPI FERTGROW SOMENTE B.99 DEVIDO AO LOA",
-      "id": 3
+      "id": 6
     },
     {
       "status": "ESPERADO",
@@ -47,8 +59,8 @@
       "ets": "9/10",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9922287 PRESTIGE DIVA 228,99 32,26 82.597 14,00 7,00 30/9/26 12:00 3/10 9/10 D FERTILIZANTES 40.800 ALPHAMAR COPI TOCANTINS/AGRO /ARAGUAIA/ GEES SOMENTE B.99 DEVIDO AO LOA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
-      "id": 4
+      "raw": "ESPERADO 9922287 PRESTIGE DIVA 228,99 32,26 82.597 14,00 7,00 30/9/26 12:00 3/10 9/10 D FERTILIZANTES 40.800 ALPHAMAR COPI TOCANTINS/AGRO /ARAGUAIA/ GEES SOMENTE B.99 DEVIDO AO LOA B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "id": 7
     },
     {
       "status": "ATRACADO",
@@ -60,67 +72,151 @@
       "operation": "C",
       "cargo": "SOJA",
       "raw": "ATRACADO 9705354 JAG ARNAV 228,99 32,26 81.732 7,00 13,50 21/8/26 5:40 2/9 4/9 C SOJA 70.100 LBH BRASIL TEGRAM NOVAAGRI",
-      "id": 5
+      "id": 8
     },
     {
       "status": "FUNDEADO",
-      "imo": "1018767",
-      "vessel": "SEA LYNX",
-      "etaNor": "22/8/26 2:42",
+      "imo": "9464405",
+      "vessel": "CORAL VI",
+      "etaNor": "25/8/26 14:30",
       "etb": "4/9",
       "ets": "7/9",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 1018767 SEA LYNX 229,00 32,26 82.182 7,90 13,00 22/8/26 2:42 4/9 7/9 C SOJA 71.685 CARGONAVE TEGRAM COFCO Prof. 1: 01 05 .m 00 0D WT: FUNDEADO 9452543 THEMIS 196,00 32,26 58.487 4,00 13,00 28/8/26 16:36 9/9 13/9 C SOJA 50.000 FERTIMPORT TEGRAM BUNGE-15:00 FUNDEADO 1026063 PAXOS 229,00 32,26 82.062 7,45 13,50 1/9/26 20:00 13/9 15/9 C MILHO 71.500 ALPHAMAR TEGRAM ALZ",
-      "id": 6
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9420265",
-      "vessel": "AROSA",
-      "etaNor": "1/9/26 0:01",
-      "etb": "15/9",
-      "ets": "16/9",
-      "operation": "C",
-      "cargo": "SOJA",
-      "raw": "FUNDEADO 9420265 AROSA 189,90 32,26 55.477 7,00 13,00 1/9/26 0:01 15/9 16/9 C SOJA 45.000 ALPHAMAR TEGRAM OLAM",
-      "id": 7
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9942811",
-      "vessel": "LIGNUM NETWORK",
-      "etaNor": "9/9/26 6:00",
-      "etb": "16/9",
-      "ets": "18/9",
-      "operation": "C",
-      "cargo": "SOJA",
-      "raw": "ESPERADO 9942811 LIGNUM NETWORK 199,92 32,26 64.171 7,00 13,00 9/9/26 6:00 16/9 18/9 C SOJA 58.000 LBH BRASIL TEGRAM ADM B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES Atualiz8 -a 10 ç 5. ã0 :0o0 0:0 0 3/09 ESPERADO 9598995 ETHRA DIAMOND * 179,90 28,40 32.353 9,68 7,82 8/9/26 18:00 12/9 14/9 D FERTILIZANTES 10.500 PRS OH TIP EP CI TN IOG N COPI FERTIPAR INDICADO PARA MECANIZADO NO DIA 06/08 09:49.",
-      "id": 8
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9597654",
-      "vessel": "ECO CROSSFIRE",
-      "etaNor": "16/9/26 11:00",
-      "etb": "16/9",
-      "ets": "17/9",
-      "operation": "D",
-      "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9597654 ECO CROSSFIRE 179,99 28,20 33.649 9,90 7,00 16/9/26 11:00 16/9 17/9 D FERTILIZANTES 5.000 ORION RODOS DATA GEES B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
+      "raw": "FUNDEADO 9464405 CORAL VI 224,94 32,26 76.596 7,00 13,00 25/8/26 14:30 4/9 7/9 C SOJA 66.000 WILSON SONS TEGRAM ALZ",
       "id": 9
     },
     {
-      "status": "ATRACADO",
-      "imo": "9748978",
-      "vessel": "EPIC BALUAN",
-      "etaNor": "2/9/26 8:15",
-      "etb": "2/9",
-      "ets": "4/9",
-      "operation": "D",
-      "cargo": "GLP",
-      "raw": "ATRACADO 9748978 EPIC BALUAN 113,08 19,00 7.187 7,00 6,00 2/9/26 8:15 2/9 4/9 D GLP 3.892 WILHELMSEN TRANSPETRO PETROBRAS",
+      "status": "FUNDEADO",
+      "imo": "9544401",
+      "vessel": "GU IMABARI",
+      "etaNor": "23/8/26 8:54",
+      "etb": "7/9",
+      "ets": "9/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "FUNDEADO 9544401 GU IMABARI 224,94 32,26 76.619 7,50 13,50 23/8/26 8:54 7/9 9/9 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI",
       "id": 10
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9324239",
+      "vessel": "HOANH SON PACIFIC",
+      "etaNor": "27/8/26 14:15",
+      "etb": "9/9",
+      "ets": "11/9",
+      "operation": "C",
+      "cargo": "MILHO",
+      "raw": "FUNDEADO 9324239 HOANH SON PACIFIC 224,89 32,20 74.143 7,00 13,00 27/8/26 14:15 9/9 11/9 C MILHO 68.812 WILSON SONS TEGRAM AMAGGI",
+      "id": 11
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "1026063",
+      "vessel": "PAXOS",
+      "etaNor": "1/9/26 20:00",
+      "etb": "11/9",
+      "ets": "13/9",
+      "operation": "C",
+      "cargo": "MILHO",
+      "raw": "FUNDEADO 1026063 PAXOS 229,00 32,26 82.062 7,45 13,50 1/9/26 20:00 11/9 13/9 C MILHO 71.500 ALPHAMAR TEGRAM ALZ",
+      "id": 12
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9595670",
+      "vessel": "SAFEEN AL SAFA",
+      "etaNor": "7/9/26 3:00",
+      "etb": "13/9",
+      "ets": "15/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "ESPERADO 9595670 SAFEEN AL SAFA 229,00 32,26 81.874 7,10 13,50 7/9/26 3:00 13/9 15/9 C SOJA 65.000 FERTIMPORT TEGRAM BUNGE",
+      "id": 13
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9364758",
+      "vessel": "DE XIN HAI",
+      "etaNor": "5/9/26 12:00",
+      "etb": "15/9",
+      "ets": "17/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "ESPERADO 9364758 DE XIN HAI 225,00 32,26 76.432 7,00 13,00 5/9/26 12:00 15/9 17/9 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI",
+      "id": 14
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9505352",
+      "vessel": "ANDROS",
+      "etaNor": "10/9/26 12:00",
+      "etb": "17/9",
+      "ets": "19/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "ESPERADO 9505352 ANDROS 228,99 32,26 82.158 7,38 13,51 10/9/26 12:00 17/9 19/9 C SOJA 66.000 ALPHAMAR TEGRAM CARGILL",
+      "id": 15
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9624653",
+      "vessel": "PEGASOS",
+      "etaNor": "9/9/26 18:00",
+      "etb": "19/9",
+      "ets": "22/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "ESPERADO 9624653 PEGASOS 299,07 32,26 81.598 7,90 13,00 9/9/26 18:00 19/9 22/9 C SOJA 69.300 CARGONAVE TEGRAM CHS B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "id": 16
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "3/9/26 8:00",
+      "etb": "3/9",
+      "ets": "8/9",
+      "operation": null,
+      "cargo": null,
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 9,00 8,00 3/9/26 8:00 3/9 8/9 BERÇO LIVRE 8.000",
+      "id": 17
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9545077",
+      "vessel": "MAREM *",
+      "etaNor": "8/9/26 12:00",
+      "etb": "8/9",
+      "ets": "12/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES",
+      "raw": "ESPERADO 9545077 MAREM * 180,40 30,00 34.148 10,50 7,00 8/9/26 12:00 8/9 12/9 D FERTILIZANTES 32.465 LBH BRASIL COPI FERTGROW INDICADO PARA MECANIZADO NO DIA 26/08 AS 10:04",
+      "id": 18
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9598995",
+      "vessel": "ETHRA DIAMOND *",
+      "etaNor": "8/9/26 18:00",
+      "etb": "12/9",
+      "ets": "14/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES",
+      "raw": "ESPERADO 9598995 ETHRA DIAMOND * 179,90 28,40 32.353 9,68 7,82 8/9/26 18:00 12/9 14/9 D FERTILIZANTES 10.500 PRS OH TIP EP CI TN IOG N COPI FERTIPAR INDICADO PARA MECANIZADO NO DIA 06/08 09:49. ESPERADO 9597654 ECO CROSSFIRE 179,99 28,20 33.649 9,90 7,00 16/9/26 11:00 16/9 17/9 D FERTILIZANTES 5.000 ORION RODOS DATA GEES B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Novo Editar Excluir 04/09 -10:00 200 Prof.: 12m DWT:80.000 Atualização: 04/09 -10:00 Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "id": 19
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "3/9/26 21:50",
+      "etb": "3/9",
+      "ets": "9/9",
+      "operation": null,
+      "cargo": null,
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 3/9/26 21:50 3/9 9/9 BERÇO LIVRE 35.000",
+      "id": 20
     },
     {
       "status": "ESPERADO",
@@ -128,11 +224,11 @@
       "vessel": "FREJA BULKER",
       "etaNor": "9/9/26 1:00",
       "etb": "9/9",
-      "ets": "10/9",
+      "ets": "11/9",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9991135 FREJA BULKER 183,00 31,00 40.281 10,00 8,00 9/9/26 1:00 9/9 10/9 D FERTILIZANTES 10.400 AMART SERVICES COPI OCP AP tr uo af l. i: z8 - 1 a 10 ç2 5. ã0m :0o0 0 :0 D 0 3W /T 0: 9 E ES SP PE ER RA AD DO O 9 91 78 66 87 58 50 2 TE DA AL XA IR AR NO GW 1 17 73 9, ,0 60 7 2 29 8, ,0 00 0 3 26 8. .4 56 76 7 5 7, ,3 55 0 6 7, ,5 20 0 1 11 8/ /9 9/ /2 26 6 2 83 :: 00 00 1 13 8/ /9 9 1 26 0/ /9 9 DC TC RH AA NAP SLA U FS OM/ RT ÍI MNR IA AOS D D OE R 8 2. .0 40 50 5 ROC NH MAM LAR TE NG MRA LM GRAS ÇO AU ATH RA32 NHA",
-      "id": 11
+      "raw": "ESPERADO 9991135 FREJA BULKER 183,00 31,00 40.281 10,00 8,00 9/9/26 1:00 9/9 11/9 D FERTILIZANTES 10.400 AMART SERVICES COPI OCP 0A 4t /u 0a 9li z -1aç 0ã :0o 0: ESPERADO 9768552 DA XIANG 179,67 28,00 28.577 7,50 7,20 18/9/26 8:00 18/9 20/9 D TRANSFORMADOR 2.455 NML NML GRAÇA ARANHA",
+      "id": 21
     },
     {
       "status": "ESPERADO",
@@ -144,7 +240,7 @@
       "operation": null,
       "cargo": null,
       "raw": "ESPERADO 9895252 SH VEGA ⚓ 113,00 24,00 1.200 6,00 6,00 18/10/26 6:30 18/10 19/10 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREW LOG NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARANHENSE E SÃO LUIS.",
-      "id": 12
+      "id": 22
     },
     {
       "status": "ESPERADO",
@@ -153,82 +249,94 @@
       "etaNor": "13/11/27 0:00",
       "etb": "13/11",
       "ets": "14/11",
-      "operation": "D",
-      "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
-      "raw": "ESPERADO 9857640 HANSEATIC SPIRIT ⚓ 138,80 22,00 2.112 5,70 5,70 13/11/27 0:00 13/11 14/11 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREWLOG B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES",
-      "id": 13
+      "operation": "C",
+      "cargo": "Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "raw": "ESPERADO 9857640 HANSEATIC SPIRIT ⚓ 138,80 22,00 2.112 5,70 5,70 13/11/27 0:00 13/11 14/11 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREWLOG B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "id": 23
     },
     {
       "status": "ATRACADO",
-      "imo": "9460538",
-      "vessel": "OMICRON OCTO",
-      "etaNor": "24/8/26 16:12",
-      "etb": "1/9",
-      "ets": "3/9",
-      "operation": "C",
-      "cargo": "SOJA",
-      "raw": "ATRACADO 9460538 OMICRON OCTO 225,00 32,00 76.334 7,50 11,30 24/8/26 16:12 1/9 3/9 C SOJA 65.000 LBH TEGRAM CHS",
-      "id": 14
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9464405",
-      "vessel": "CORAL VI",
-      "etaNor": "25/8/26 14:30",
-      "etb": "3/9",
+      "imo": "1078042",
+      "vessel": "SYLVANA",
+      "etaNor": "30/8/26 14:52",
+      "etb": "4/9",
       "ets": "6/9",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9464405 CORAL VI 224,94 32,26 76.596 7,00 13,00 25/8/26 14:30 3/9 6/9 C SOJA 66.000 WILSON SONS TEGRAM ALZ",
-      "id": 15
+      "raw": "ATRACADO 1078042 SYLVANA 229,00 32,26 82.000 7,00 13,30 30/8/26 14:52 4/9 6/9 C SOJA 70.400 FERTIMPORT TEGRAM BUNGE",
+      "id": 24
     },
     {
       "status": "FUNDEADO",
-      "imo": "9544401",
-      "vessel": "GU IMABARI",
-      "etaNor": "23/8/26 8:54",
+      "imo": "1018767",
+      "vessel": "SEA LYNX",
+      "etaNor": "22/8/26 2:42",
       "etb": "6/9",
       "ets": "8/9",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "FUNDEADO 9544401 GU IMABARI 224,94 32,26 76.619 7,50 13,50 23/8/26 8:54 6/9 8/9 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI Atuali1 z0 a0 çã.0 o0 : 0 0 3/09 ESPERADO 9364758 DE XIN HAI 225,00 32,26 76.432 7,00 13,00 5/9/26 12:00 14/9 16/9 C SOJA 66.000 ALPHAMAR TEGRAM NOVAAGRI-15:00",
-      "id": 16
+      "raw": "FUNDEADO 1018767 SEA LYNX 229,00 32,26 82.182 7,90 13,00 22/8/26 2:42 6/9 8/9 C SOJA 71.685 CARGONAVE TEGRAM COFCO",
+      "id": 25
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9854301",
+      "vessel": "GOLDEN FRIEND",
+      "etaNor": "25/8/26 16:06",
+      "etb": "8/9",
+      "ets": "11/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "FUNDEADO 9854301 GOLDEN FRIEND 229,00 32,26 81.206 7,00 13,00 25/8/26 16:06 8/9 11/9 C SOJA 66.000 ZYON SHIPPING TEGRAM NOVAAGRI",
+      "id": 26
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9452543",
+      "vessel": "THEMIS",
+      "etaNor": "28/8/26 16:36",
+      "etb": "11/9",
+      "ets": "15/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "FUNDEADO 9452543 THEMIS 196,00 32,26 58.487 4,00 13,00 28/8/26 16:36 11/9 15/9 C SOJA 50.000 FERTIMPORT TEGRAM BUNGE",
+      "id": 27
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9420265",
+      "vessel": "AROSA",
+      "etaNor": "1/9/26 0:01",
+      "etb": "15/9",
+      "ets": "16/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "FUNDEADO 9420265 AROSA 189,90 32,26 55.477 7,00 13,00 1/9/26 0:01 15/9 16/9 C SOJA 45.000 ALPHAMAR TEGRAM OLAM",
+      "id": 28
     },
     {
       "status": "ESPERADO",
-      "imo": "9595670",
-      "vessel": "SAFEEN AL SAFA",
-      "etaNor": "7/9/26 3:00",
+      "imo": "9942811",
+      "vessel": "LIGNUM NETWORK",
+      "etaNor": "9/9/26 6:00",
       "etb": "16/9",
       "ets": "18/9",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9595670 SAFEEN AL SAFA 229,00 32,26 81.874 7,10 13,50 7/9/26 3:00 16/9 18/9 C SOJA 65.000 FERTIMPORT TEGRAM BUNGE",
-      "id": 17
+      "raw": "ESPERADO 9942811 LIGNUM NETWORK 199,92 32,26 64.171 7,00 13,00 9/9/26 6:00 16/9 18/9 C SOJA 58.000 LBH BRASIL TEGRAM ADM",
+      "id": 29
     },
     {
       "status": "ESPERADO",
-      "imo": "9505352",
-      "vessel": "ANDROS",
-      "etaNor": "10/9/26 12:00",
+      "imo": "9950533",
+      "vessel": "KATAGALAN BRAVE",
+      "etaNor": "12/9/26 12:00",
       "etb": "18/9",
-      "ets": "21/9",
+      "ets": "22/9",
       "operation": "C",
-      "cargo": "SOJA",
-      "raw": "ESPERADO 9505352 ANDROS 228,99 32,26 82.158 7,38 13,51 10/9/26 12:00 18/9 21/9 C SOJA 66.000 ALPHAMAR TEGRAM CARGILL",
-      "id": 18
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9624653",
-      "vessel": "PEGASOS",
-      "etaNor": "9/9/26 18:00",
-      "etb": "21/9",
-      "ets": "24/9",
-      "operation": "C",
-      "cargo": "SOJA",
-      "raw": "ESPERADO 9624653 PEGASOS 299,07 32,26 81.598 7,90 13,00 9/9/26 18:00 21/9 24/9 C SOJA 69.300 CARGONAVE TEGRAM CHS",
-      "id": 19
+      "cargo": "FARELO DE SOJA",
+      "raw": "ESPERADO 9950533 KATAGALAN BRAVE 229,00 32,26 82.719 7,30 13,00 12/9/26 12:00 18/9 22/9 C FARELO DE SOJA 64.000 FERTIMPORT TEGRAM BUNGE",
+      "id": 30
     },
     {
       "status": "ESPERADO",
@@ -238,21 +346,57 @@
       "etb": "7/10",
       "ets": "8/10",
       "operation": "D",
-      "cargo": "C PO RN OT JE EIN TOER / / VC AA GR ÕG E D SE",
-      "raw": "ESPERADO 1070650 STAR NORGE * 225,00 36,00 51.999 9,00 8,00 7/10/26 8:00 7/10 8/10 D C PO RN OT JE EIN TOER / / VC AA GR ÕG E D SE 2.001 ROCHAMAR NML TANKERS G2 OCEAN AS NAVIO IRÁ DPEOSRCTAARNRTEOG SAORL 1IC0I TUANMIDOASD EESM BDAER CQOUNET EPIRNIEORR I,T CÁARRIOG AN OP RBOEJREÇTOO 1 E03 1. 5 VAGÕES.B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..",
-      "id": 20
+      "cargo": "C PO RN OT JE EI TN OER / / VC AA GR ÕG E D SE",
+      "raw": "ESPERADO 1070650 STAR NORGE * 225,00 36,00 51.999 9,00 8,00 7/10/26 8:00 7/10 8/10 D C PO RN OT JE EI TN OER / / VC AA GR ÕG E D SE 2.001 ROCHAMAR NML TANKERS G2 OCEAN AS NAVIO IRÁ DPEOSRCTAARNRTEOG SAORL 1IC0I TUANMIDOASD EESM BDAER CQOUNET EPIRNIEORR I,T CÁARRIOG NAO P RBOERJEÇTOO 1 E03 1. 5 VAGÕES.B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export.",
+      "id": 31
     },
     {
       "status": "ATRACADO",
-      "imo": "9836452",
-      "vessel": "CLYDE 2ª ATRACAÇÃO ² ³ TB",
-      "etaNor": "25/8/26 21:30",
-      "etb": "2/9",
-      "ets": "4/9",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "4/9/26 6:30",
+      "etb": "4/9",
+      "ets": "7/9",
+      "operation": null,
+      "cargo": null,
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 6,00 5,00 4/9/26 6:30 4/9 7/9 BERÇO LIVRE 30.000",
+      "id": 32
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9596856",
+      "vessel": "LUCIO COSTA *",
+      "etaNor": "5/9/26 6:00",
+      "etb": "7/9",
+      "ets": "9/9",
+      "operation": "D",
+      "cargo": "GLP",
+      "raw": "ESPERADO 9596856 LUCIO COSTA * 117,63 19,20 5.097 6,00 5,00 5/9/26 6:00 7/9 9/9 D GLP 3.892 WILHELMSEN TRANSPETRO PETROBRAS",
+      "id": 33
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1063918",
+      "vessel": "BALTIC CHAMPION",
+      "etaNor": "9/9/26 12:00",
+      "etb": "9/9",
+      "ets": "11/9",
+      "operation": "D",
+      "cargo": "DIESEL",
+      "raw": "ESPERADO 1063918 BALTIC CHAMPION 182,75 32,20 49.999 10,00 7,00 9/9/26 12:00 9/9 11/9 D DIESEL 10.000 LACHMANN GRANEL VIBRA",
+      "id": 34
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9635767",
+      "vessel": "ELANDRA STAR ¹-TB",
+      "etaNor": "9/9/26 8:00",
+      "etb": "11/9",
+      "ets": "12/9",
       "operation": "C",
-      "cargo": "DIESEL/GASOLINA",
-      "raw": "ATRACADO 9836452 CLYDE 2ª ATRACAÇÃO ² ³ TB 183,00 32,23 49.999 10,00 9,00 25/8/26 21:30 2/9 4/9 C DIESEL/GASOLINA 26.213 WILHELMSEN TRANSPETRO PETROBRAS RECEBE TB GASO STRENGHT / RECEBE TB DIESEL SEA PENGUIM Atualiz8 a0 ç. ã0 o0 :0 0 3/09 ESPERADO 9390020 DALLAS *¹-TB 182,90 32,20 65.118 9,00 10,00 10/9/26 8:00 10/9 12/9 C DIESEL 23.583 WILHELMSEN TRANSPETRO PETROBRAS-15:00",
-      "id": 21
+      "cargo": "DIESEL",
+      "raw": "ESPERADO 9635767 ELANDRA STAR ¹-TB 183,00 32,20 49.999 10,00 10,50 9/9/26 8:00 11/9 12/9 C DIESEL 13.250 WILHELMSEN TRANSPETRO PETROBRAS",
+      "id": 35
     },
     {
       "status": "ESPERADO",
@@ -264,7 +408,7 @@
       "operation": "D",
       "cargo": "GLP",
       "raw": "ESPERADO 9596832 DARCY RIBEIRO * 117,25 19,20 5.092 6,00 5,00 7/9/26 8:00 13/9 14/9 D GLP 3.892 WILHELMSEN TRANSPETRO PETROBRAS",
-      "id": 22
+      "id": 36
     },
     {
       "status": "ESPERADO",
@@ -275,20 +419,44 @@
       "ets": "20/9",
       "operation": "C",
       "cargo": "SEBO BOVINO",
-      "raw": "ESPERADO 9952141 BOW CHEETAH 156,53 25,00 26.029 6,70 7,20 19/9/26 12:00 19/9 20/9 C SEBO BOVINO 5.000 ROCHAMAR GRANEL QUÍMICA FASA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
-      "id": 23
+      "raw": "ESPERADO 9952141 BOW CHEETAH 156,53 25,00 26.029 6,70 7,20 19/9/26 12:00 19/9 20/9 C SEBO BOVINO 5.000 ROCHAMAR GRANEL QUÍMICA FASA B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port",
+      "id": 37
     },
     {
       "status": "ATRACADO",
       "imo": "9825520",
       "vessel": "AQUILA OCEAN",
-      "etaNor": "31/8/26 14:00",
+      "etaNor": "31/8/26 18:48",
       "etb": "3/9",
       "ets": "7/9",
       "operation": "C",
       "cargo": "FERRO GUSA",
-      "raw": "ATRACADO 9825520 AQUILA OCEAN 229,00 32,00 82.071 6,00 15,00 31/8/26 14:00 3/9 7/9 C FERRO GUSA 79.000 ORION RODOS VLI VIENA/SINOBRAS Atuali1 z5 a0 çã.0 o0 : 0 0 3/09 ESPERADO 9658056 SEMIRAMIS 228,90 32,24 82.301 7,30 13,23 7/9/26 15:00 10/9 13/9 C SOJA 70.190 FERTIMPORT VLI BUNGE-15:00",
-      "id": 24
+      "raw": "ATRACADO 9825520 AQUILA OCEAN 229,00 32,00 82.071 6,00 15,00 31/8/26 18:48 3/9 7/9 C FERRO GUSA 79.018 ORION RODOS VLI VIENA/SINOBRAS",
+      "id": 38
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9790921",
+      "vessel": "YOGA",
+      "etaNor": "5/9/26 10:00",
+      "etb": "7/9",
+      "ets": "10/9",
+      "operation": "C",
+      "cargo": "MILHO",
+      "raw": "ESPERADO 9790921 YOGA 199,98 32,24 63.511 7,00 13,00 5/9/26 10:00 7/9 10/9 C MILHO 66.000 ALPHAMAR VLI LOUIS DREYFUS",
+      "id": 39
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9658056",
+      "vessel": "SEMIRAMIS",
+      "etaNor": "7/9/26 15:00",
+      "etb": "10/9",
+      "ets": "13/9",
+      "operation": "C",
+      "cargo": "SOJA",
+      "raw": "ESPERADO 9658056 SEMIRAMIS 228,90 32,24 82.301 7,30 13,23 7/9/26 15:00 10/9 13/9 C SOJA 70.190 FERTIMPORT VLI BUNGE",
+      "id": 40
     },
     {
       "status": "ESPERADO",
@@ -299,20 +467,44 @@
       "ets": "15/9",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9918743 SSI VIGILANT 199,94 32,26 63.861 7,90 12,50 8/9/26 12:00 13/9 15/9 C SOJA 57.000 CARGONAVE VLI CARGILL B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES AP tr uo af l. i1: z - 51 a 12 5 ç9 58 ã.m :0 00 o0 0 : 0D 0 3W /T 0: 9 E ES SP PE ER RA AD DO O 9 94 80 07 03 39 12 2 HH AO FNRI IZ AO NN E T SH OE *A ¹-N SO TS 1 28 43 9, ,0 40 0 3 42 4, ,0 00 0 1 5 00 9. .2 96 98 0 1 11 4, ,0 70 0 9 9, ,0 00 0 6 6/ /9 9/ /2 26 6 8 3: :0 00 0 6 8/ /9 9 18 5/ /9 9 D D QAV D/ IO ESD EM LAR 11 23 5. .5 00 00 3 WILH GE ALM CSEN T TR RA AN NS SP PE ET TR RO O P PE ET TR RO OB BR RA AS S TRDTAERN A DSN EBS SOB CRO ADR ROD G DO AE D V DE IAE D SPECÍS EAC RRA GDR EAG 1VA 3I T A.A E2 5P RC 0Í RO EMANR ³T D DDR EEEA 4 B2D83O I.E. 1R5 7S8D 0E3O MLM D ³S³ E D1D E0E4 0 P DD. A0 II E0ERS0SA EME ELL³ L SDSA1E1N0 0DD PRIEAASR SEATL DA SAR1L 0 - L DPAEASSR -CA TA HRROAGNN ASE PBS AOT RYR AD- O",
-      "id": 25
+      "raw": "ESPERADO 9918743 SSI VIGILANT 199,94 32,26 63.861 7,90 12,50 8/9/26 12:00 13/9 15/9 C SOJA 57.000 CARGONAVE VLI CARGILL B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks",
+      "id": 41
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "1025564",
+      "vessel": "SEA PENGUIN² TB",
+      "etaNor": "30/8/26 8:00",
+      "etb": "31/8",
+      "ets": "6/9",
+      "operation": "D",
+      "cargo": "DIESEL",
+      "raw": "ATRACADO 1025564 SEA PENGUIN² TB 248,80 44,00 113.659 14,80 8,00 30/8/26 8:00 31/8 6/9 D DIESEL 116.199 GAC TRANSPETRO PETROBRAS",
+      "id": 42
     },
     {
       "status": "ESPERADO",
-      "imo": "9416393",
-      "vessel": "HONESTY *¹-STS",
-      "etaNor": "8/9/26 8:00",
+      "imo": "9407392",
+      "vessel": "HORIZON THEANO",
+      "etaNor": "6/9/26 8:00",
+      "etb": "6/9",
+      "ets": "8/9",
+      "operation": "D",
+      "cargo": "QAV/ODMAR",
+      "raw": "ESPERADO 9407392 HORIZON THEANO 183,00 32,00 50.268 11,00 9,00 6/9/26 8:00 6/9 8/9 D QAV/ODMAR 13.500 WILHELMSEN TRANSPETRO PETROBRAS",
+      "id": 43
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9800312",
+      "vessel": "HAFNIA NESO ¹-STS",
+      "etaNor": "6/9/26 3:00",
       "etb": "8/9",
-      "ets": "9/9",
-      "operation": "C",
+      "ets": "13/9",
+      "operation": "D",
       "cargo": "DIESEL",
-      "raw": "ESPERADO 9416393 HONESTY *¹-STS 183,00 32,00 50.384 9,00 11,00 8/9/26 8:00 8/9 9/9 C DIESEL 40000 WILHELMSEN TRANSPETRO PETROBRAS FARÁ STS/TRANSBORDO COM O HAFNIA NESO B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES AP tr uo af l. i: z9 - 1 a 11 ç5 5. ã6m :0o0 0 :0 D 0 3W /T 0: 9 E ES SP PE ER RA AD DO O 9 94 70 24 72 52 33 4 HAH FO NR II AZ O AN M E MK OA LV II T E 1 18 83 4, ,0 00 6 3 22 7, ,0 40 4 4 39 8. .9 59 09 6 1 1 10 ,0,00 1 80 ,, 51 05 17 4/ /9 9/ /2 26 6 1 15 1:0 :50 8 17 4/ /9 9 1 10 7/ /9 9 D D D SIE OS DEL A / C G AA US SO TIL CIN AA 1 19 8. .0 03 09 0 N NO OR RT TH H S ST TA AR R T BR R GA A RN S AS IL NP /E EUT LLR QTO R U/ A IS MCA AN ICRT AGO OS REFINAR SIA U ZD AE N M OATARIPE",
-      "id": 26
+      "raw": "ESPERADO 9800312 HAFNIA NESO ¹-STS 249,40 44,00 109.990 14,70 9,00 6/9/26 3:00 8/9 13/9 D DIESEL 125.003 GAC TRANSPETRO PETROBRAS HDTOARNLAELNSASTSBY -O -T RTRDRAOAN NSDSBEBO DORERDSDOCO A D DR EEG D ADE EA SS CCCAOARNRGTGARA A V VB IAIOA PR PÍD EÍOERR D D DE EE 4 1 023.3.0 2.055080 3 M M M³ ³ D³D DE EE D D DI IE EIES SSE EEL LL S S S1 1010 0 P P PA AAR RRA AA ESPERADO 9416393 HONESTY ¹-STS 183,00 32,00 50.384 9,00 11,00 8/9/26 8:00 8/9 10/9 C DIESEL 40000 WILHELMSEN TRANSPETRO PETROBRAS FARÁ STS/TRANSBORDO COM O HAFNIA NESO B Be erç rto hs Status IMO Navio LOA Boca DWT C Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação 229 Prof.: 15m DWT:100.000 Atualização:04/09 -10:00 183 Prof.: 13m DWT:80.000 Atualização:04/09 -10:00 229 Prof.: 18m DWT:150.000 Atualização:04/09 -10:00 280 Prof.: 19m DWT:155.000 Atualização: 04/09 -10:00 Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks PB rE oR f.Ç : O 12 5 41 m50 8 D L Woa T: : A EST PR EA RC AA DD OO 940B 4L 223 HOBE RR IZÇ OO N L I EV KR AE VI 1 8 3 , 0 0- 3 2 , 0 - 0 4 9 . 9 9 9- 16 0,0 ,20 5 8, ,0 90 0 74 // 99 // 22 66 1 5 5:3 :05 0 4 7/ /9 9 17 0/ /9 9 D BER DÇ IO ES L EI LVRE 13 70 .. 90 20 50 NORTH STAR TRA BN RS AP SE IT L/R GO R/ ASA NN ELTOS REFINARIA DE MATARIPE Atu9 a1 l. i6 za0 ç0 ã o: ESPERADO 9390020 DALLAS ¹-TB 182,90 32,20 65.118 9,00 10,00 10/9/26 8:00 10/9 12/9 C DIESEL 23.583 WILHELMSEN TRANSPETRO PETROBRAS 04/09 -10:00 ESPERADO 9727534 HAFNIA AMMOLITE 184,06 27,44 38.506 11,00 8,50 14/9/26 11:58 14/9 17/9 D SODA CAUSTICA 18.000 NORTH STAR GRANEL QUIMICA SUZANO",
+      "id": 44
     }
   ],
   "simplified": [
@@ -338,6 +530,16 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9007544",
+      "vessel": "QUETZAL ARROW *",
+      "etaNor": "11/9/26 0:00",
+      "etb": "12/9",
+      "ets": "14/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9858292",
       "vessel": "BABITONGA",
       "etaNor": "25/9/26 2:00",
@@ -368,11 +570,191 @@
     },
     {
       "status": "FUNDEADO",
+      "imo": "9464405",
+      "vessel": "CORAL VI",
+      "etaNor": "25/8/26 14:30",
+      "etb": "4/9",
+      "ets": "7/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9544401",
+      "vessel": "GU IMABARI",
+      "etaNor": "23/8/26 8:54",
+      "etb": "7/9",
+      "ets": "9/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9324239",
+      "vessel": "HOANH SON PACIFIC",
+      "etaNor": "27/8/26 14:15",
+      "etb": "9/9",
+      "ets": "11/9",
+      "operation": "C",
+      "cargo": "MILHO"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "1026063",
+      "vessel": "PAXOS",
+      "etaNor": "1/9/26 20:00",
+      "etb": "11/9",
+      "ets": "13/9",
+      "operation": "C",
+      "cargo": "MILHO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9595670",
+      "vessel": "SAFEEN AL SAFA",
+      "etaNor": "7/9/26 3:00",
+      "etb": "13/9",
+      "ets": "15/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9364758",
+      "vessel": "DE XIN HAI",
+      "etaNor": "5/9/26 12:00",
+      "etb": "15/9",
+      "ets": "17/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9505352",
+      "vessel": "ANDROS",
+      "etaNor": "10/9/26 12:00",
+      "etb": "17/9",
+      "ets": "19/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9624653",
+      "vessel": "PEGASOS",
+      "etaNor": "9/9/26 18:00",
+      "etb": "19/9",
+      "ets": "22/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "3/9/26 8:00",
+      "etb": "3/9",
+      "ets": "8/9",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9545077",
+      "vessel": "MAREM *",
+      "etaNor": "8/9/26 12:00",
+      "etb": "8/9",
+      "ets": "12/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9598995",
+      "vessel": "ETHRA DIAMOND *",
+      "etaNor": "8/9/26 18:00",
+      "etb": "12/9",
+      "ets": "14/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "3/9/26 21:50",
+      "etb": "3/9",
+      "ets": "9/9",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9991135",
+      "vessel": "FREJA BULKER",
+      "etaNor": "9/9/26 1:00",
+      "etb": "9/9",
+      "ets": "11/9",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9895252",
+      "vessel": "SH VEGA ⚓",
+      "etaNor": "18/10/26 6:30",
+      "etb": "18/10",
+      "ets": "19/10",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9857640",
+      "vessel": "HANSEATIC SPIRIT ⚓",
+      "etaNor": "13/11/27 0:00",
+      "etb": "13/11",
+      "ets": "14/11",
+      "operation": "C",
+      "cargo": "Ca hla ed go a dd ae Calado de saída ChP er ge av d. a AP tr re av c. . DeP sr ae tv ra. c. Oper Produto Qtde. Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. OBSERVAÇÕES Status IMO Vessel LOA Beam DWT Arrival Draft Sailing Draft ETA / NOR ETB ETS ação Cargo * Agente Agency Operado Or p P eo rart tu oá rrio Port Import./Export. Remarks"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "1078042",
+      "vessel": "SYLVANA",
+      "etaNor": "30/8/26 14:52",
+      "etb": "4/9",
+      "ets": "6/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
       "imo": "1018767",
       "vessel": "SEA LYNX",
       "etaNor": "22/8/26 2:42",
-      "etb": "4/9",
-      "ets": "7/9",
+      "etb": "6/9",
+      "ets": "8/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9854301",
+      "vessel": "GOLDEN FRIEND",
+      "etaNor": "25/8/26 16:06",
+      "etb": "8/9",
+      "ets": "11/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9452543",
+      "vessel": "THEMIS",
+      "etaNor": "28/8/26 16:36",
+      "etb": "11/9",
+      "ets": "15/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -398,113 +780,13 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9597654",
-      "vessel": "ECO CROSSFIRE",
-      "etaNor": "16/9/26 11:00",
-      "etb": "16/9",
-      "ets": "17/9",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9748978",
-      "vessel": "EPIC BALUAN",
-      "etaNor": "2/9/26 8:15",
-      "etb": "2/9",
-      "ets": "4/9",
-      "operation": "D",
-      "cargo": "GLP"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9991135",
-      "vessel": "FREJA BULKER",
-      "etaNor": "9/9/26 1:00",
-      "etb": "9/9",
-      "ets": "10/9",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9895252",
-      "vessel": "SH VEGA ⚓",
-      "etaNor": "18/10/26 6:30",
-      "etb": "18/10",
-      "ets": "19/10",
-      "operation": null,
-      "cargo": null
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9857640",
-      "vessel": "HANSEATIC SPIRIT ⚓",
-      "etaNor": "13/11/27 0:00",
-      "etb": "13/11",
-      "ets": "14/11",
-      "operation": "D",
-      "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9460538",
-      "vessel": "OMICRON OCTO",
-      "etaNor": "24/8/26 16:12",
-      "etb": "1/9",
-      "ets": "3/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9464405",
-      "vessel": "CORAL VI",
-      "etaNor": "25/8/26 14:30",
-      "etb": "3/9",
-      "ets": "6/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9544401",
-      "vessel": "GU IMABARI",
-      "etaNor": "23/8/26 8:54",
-      "etb": "6/9",
-      "ets": "8/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9595670",
-      "vessel": "SAFEEN AL SAFA",
-      "etaNor": "7/9/26 3:00",
-      "etb": "16/9",
-      "ets": "18/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9505352",
-      "vessel": "ANDROS",
-      "etaNor": "10/9/26 12:00",
+      "imo": "9950533",
+      "vessel": "KATAGALAN BRAVE",
+      "etaNor": "12/9/26 12:00",
       "etb": "18/9",
-      "ets": "21/9",
+      "ets": "22/9",
       "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9624653",
-      "vessel": "PEGASOS",
-      "etaNor": "9/9/26 18:00",
-      "etb": "21/9",
-      "ets": "24/9",
-      "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "FARELO DE SOJA"
     },
     {
       "status": "ESPERADO",
@@ -514,17 +796,47 @@
       "etb": "7/10",
       "ets": "8/10",
       "operation": "D",
-      "cargo": "C PO RN OT JE EIN TOER / / VC AA GR ÕG E D SE"
+      "cargo": "C PO RN OT JE EI TN OER / / VC AA GR ÕG E D SE"
     },
     {
       "status": "ATRACADO",
-      "imo": "9836452",
-      "vessel": "CLYDE 2ª ATRACAÇÃO ² ³ TB",
-      "etaNor": "25/8/26 21:30",
-      "etb": "2/9",
-      "ets": "4/9",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "4/9/26 6:30",
+      "etb": "4/9",
+      "ets": "7/9",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9596856",
+      "vessel": "LUCIO COSTA *",
+      "etaNor": "5/9/26 6:00",
+      "etb": "7/9",
+      "ets": "9/9",
+      "operation": "D",
+      "cargo": "GLP"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1063918",
+      "vessel": "BALTIC CHAMPION",
+      "etaNor": "9/9/26 12:00",
+      "etb": "9/9",
+      "ets": "11/9",
+      "operation": "D",
+      "cargo": "DIESEL"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9635767",
+      "vessel": "ELANDRA STAR ¹-TB",
+      "etaNor": "9/9/26 8:00",
+      "etb": "11/9",
+      "ets": "12/9",
       "operation": "C",
-      "cargo": "DIESEL/GASOLINA"
+      "cargo": "DIESEL"
     },
     {
       "status": "ESPERADO",
@@ -550,11 +862,31 @@
       "status": "ATRACADO",
       "imo": "9825520",
       "vessel": "AQUILA OCEAN",
-      "etaNor": "31/8/26 14:00",
+      "etaNor": "31/8/26 18:48",
       "etb": "3/9",
       "ets": "7/9",
       "operation": "C",
       "cargo": "FERRO GUSA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9790921",
+      "vessel": "YOGA",
+      "etaNor": "5/9/26 10:00",
+      "etb": "7/9",
+      "ets": "10/9",
+      "operation": "C",
+      "cargo": "MILHO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9658056",
+      "vessel": "SEMIRAMIS",
+      "etaNor": "7/9/26 15:00",
+      "etb": "10/9",
+      "ets": "13/9",
+      "operation": "C",
+      "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
@@ -567,13 +899,33 @@
       "cargo": "SOJA"
     },
     {
+      "status": "ATRACADO",
+      "imo": "1025564",
+      "vessel": "SEA PENGUIN² TB",
+      "etaNor": "30/8/26 8:00",
+      "etb": "31/8",
+      "ets": "6/9",
+      "operation": "D",
+      "cargo": "DIESEL"
+    },
+    {
       "status": "ESPERADO",
-      "imo": "9416393",
-      "vessel": "HONESTY *¹-STS",
-      "etaNor": "8/9/26 8:00",
+      "imo": "9407392",
+      "vessel": "HORIZON THEANO",
+      "etaNor": "6/9/26 8:00",
+      "etb": "6/9",
+      "ets": "8/9",
+      "operation": "D",
+      "cargo": "QAV/ODMAR"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9800312",
+      "vessel": "HAFNIA NESO ¹-STS",
+      "etaNor": "6/9/26 3:00",
       "etb": "8/9",
-      "ets": "9/9",
-      "operation": "C",
+      "ets": "13/9",
+      "operation": "D",
       "cargo": "DIESEL"
     }
   ]
