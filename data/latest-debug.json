@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2009%202026%20-14h00%20clientes_6a9c75ef2d577.pdf",
-  "generatedAt": "2026-09-06T18:27:00+00:00",
-  "rawLinesCount": 429,
-  "mergedLinesCount": 29,
-  "logicalLinesCount": 28,
-  "recordsCount": 28,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2006%2009%202026%20-14h00%20-%20clientes_6a9dbb01d7c1e.pdf",
+  "generatedAt": "2026-09-06T20:37:15+00:00",
+  "rawLinesCount": 121,
+  "mergedLinesCount": 45,
+  "logicalLinesCount": 44,
+  "recordsCount": 43,
   "preview": [
     {
       "status": "ATRACADO",
@@ -28,9 +28,39 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9007544",
+      "vessel": "QUETZAL ARROW *",
+      "etaNor": "11/9/26 0:00",
+      "etb": "12/9",
+      "ets": "14/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613305",
+      "vessel": "CITRIODORA *",
+      "etaNor": "18/9/26 0:00",
+      "etb": "18/9",
+      "ets": "22/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9441324",
+      "vessel": "IBIS BULKER",
+      "etaNor": "25/9/26 0:00",
+      "etb": "28/9",
+      "ets": "1/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9858292",
       "vessel": "BABITONGA",
-      "etaNor": "25/9/26 2:00",
+      "etaNor": "25/9/26 8:00",
       "etb": "1/10",
       "ets": "7/10",
       "operation": "D",
@@ -48,21 +78,11 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "5/9/26 8:00",
-      "etb": "5/9",
-      "ets": "5/9",
-      "operation": null,
-      "cargo": null
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "1018767",
       "vessel": "SEA LYNX",
       "etaNor": "22/8/26 2:42",
       "etb": "5/9",
-      "ets": "9/9",
+      "ets": "8/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -71,40 +91,20 @@
       "imo": "9544401",
       "vessel": "GU IMABARI",
       "etaNor": "23/8/26 8:54",
-      "etb": "9/9",
-      "ets": "11/9",
+      "etb": "8/9",
+      "ets": "10/9",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9364758",
-      "vessel": "DE XIN HAI",
-      "etaNor": "5/9/26 12:00",
-      "etb": "17/9",
-      "ets": "19/9",
+      "status": "FUNDEADO",
+      "imo": "9324239",
+      "vessel": "HOANH SON PACIFIC",
+      "etaNor": "27/8/26 14:15",
+      "etb": "10/9",
+      "ets": "12/9",
       "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9505352",
-      "vessel": "ANDROS",
-      "etaNor": "10/9/26 12:00",
-      "etb": "19/9",
-      "ets": "21/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9624653",
-      "vessel": "PEGASOS",
-      "etaNor": "9/9/26 18:00",
-      "etb": "21/9",
-      "ets": "23/9",
-      "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "MILHO"
     }
   ]
 }
