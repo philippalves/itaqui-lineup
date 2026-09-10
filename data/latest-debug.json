@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2009%202026%20-15h00%20clientes_6aa1c50cb0722.pdf",
-  "generatedAt": "2026-09-10T11:35:41+00:00",
-  "rawLinesCount": 597,
-  "mergedLinesCount": 19,
-  "logicalLinesCount": 18,
-  "recordsCount": 18,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2010%2009%202026%20-10h00%20-%20clientes_6aa2be37de6da.pdf",
+  "generatedAt": "2026-09-10T15:32:27+00:00",
+  "rawLinesCount": 113,
+  "mergedLinesCount": 37,
+  "logicalLinesCount": 36,
+  "recordsCount": 35,
   "preview": [
     {
       "status": "ATRACADO",
@@ -28,11 +28,21 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9613305",
+      "vessel": "CITRIODORA *",
+      "etaNor": "18/9/26 4:00",
+      "etb": "18/9",
+      "ets": "22/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9858292",
       "vessel": "BABITONGA",
       "etaNor": "25/9/26 8:00",
-      "etb": "1/10",
-      "ets": "7/10",
+      "etb": "28/9",
+      "ets": "4/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -41,8 +51,8 @@
       "imo": "9922287",
       "vessel": "PRESTIGE DIVA",
       "etaNor": "30/9/26 12:00",
-      "etb": "7/10",
-      "ets": "13/10",
+      "etb": "4/10",
+      "ets": "10/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -67,12 +77,12 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9624653",
-      "vessel": "PEGASOS",
-      "etaNor": "9/9/26 18:00",
-      "etb": "19/9",
-      "ets": "23/9",
+      "status": "FUNDEADO",
+      "imo": "9854301",
+      "vessel": "GOLDEN FRIEND",
+      "etaNor": "25/8/26 16:06",
+      "etb": "12/9",
+      "ets": "15/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -81,30 +91,20 @@
       "imo": "1026063",
       "vessel": "PAXOS",
       "etaNor": "1/9/26 20:00",
-      "etb": "23/9",
-      "ets": "25/9",
+      "etb": "15/9",
+      "ets": "17/9",
       "operation": "C",
       "cargo": "MILHO"
     },
     {
-      "status": "ATRACADO",
-      "imo": "9991135",
-      "vessel": "FREJA BULKER",
-      "etaNor": "8/9/26 23:51",
-      "etb": "9/9",
-      "ets": "11/9",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9857640",
-      "vessel": "HANSEATIC SPIRIT ⚓",
-      "etaNor": "13/11/27 0:00",
-      "etb": "13/11",
-      "ets": "14/11",
-      "operation": "D",
-      "cargo": "DW WTT AC rC ra ih vla e ad g l o a D dd ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC TAhP e r /ge Nav d.O a R AP Etr r Te a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or P Cro ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OB RSE eR mV aA rkÇ sÕES"
+      "status": "FUNDEADO",
+      "imo": "9364758",
+      "vessel": "DE XIN HAI",
+      "etaNor": "8/9/26 8:00",
+      "etb": "17/9",
+      "ets": "19/9",
+      "operation": "C",
+      "cargo": "SOJA"
     }
   ]
 }
