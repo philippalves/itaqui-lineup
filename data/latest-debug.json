@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2009%202026%20-10h00%20clientes_6aac00359ee2f.pdf",
-  "generatedAt": "2026-09-17T18:23:22+00:00",
-  "rawLinesCount": 452,
-  "mergedLinesCount": 15,
-  "logicalLinesCount": 14,
-  "recordsCount": 14,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2009%202026%20-15h00%20clientes_6aac4663eae37.pdf",
+  "generatedAt": "2026-09-17T21:33:15+00:00",
+  "rawLinesCount": 454,
+  "mergedLinesCount": 18,
+  "logicalLinesCount": 17,
+  "recordsCount": 17,
   "preview": [
     {
       "status": "ATRACADO",
@@ -37,14 +37,44 @@
       "cargo": "SOJA"
     },
     {
+      "status": "FUNDEADO",
+      "imo": "9364758",
+      "vessel": "DE XIN HAI",
+      "etaNor": "8/9/26 8:00",
+      "etb": "17/9",
+      "ets": "21/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
       "status": "ESPERADO",
       "imo": "9563603",
       "vessel": "HONG DAI",
       "etaNor": "25/9/26 0:00",
-      "etb": "26/9",
-      "ets": "28/9",
+      "etb": "27/9",
+      "ets": "29/9",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9665360",
+      "vessel": "M/V SSI DIGNITY",
+      "etaNor": "23/9/26 22:30",
+      "etb": "29/9",
+      "ets": "1/10",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9991264",
+      "vessel": "OMISHIMA",
+      "etaNor": "27/9/26 0:00",
+      "etb": "29/9",
+      "ets": "4/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
@@ -58,21 +88,11 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "1026063",
-      "vessel": "PAXOS",
-      "etaNor": "1/9/26 20:00",
+      "imo": "9595670",
+      "vessel": "SAFEEN AL SAFA",
+      "etaNor": "6/9/26 17:54",
       "etb": "19/9",
       "ets": "21/9",
-      "operation": "C",
-      "cargo": "MILHO"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9478949",
-      "vessel": "KOUROS LEADER",
-      "etaNor": "26/9/26 0:01",
-      "etb": "27/9",
-      "ets": "29/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -85,26 +105,6 @@
       "ets": "2/10",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1070650",
-      "vessel": "STAR NORGE *",
-      "etaNor": "7/10/26 8:00",
-      "etb": "7/10",
-      "ets": "8/10",
-      "operation": "D",
-      "cargo": "C PO RN OT JE EIN TOER / / VC AA GR ÕG E D SE"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "17/9/26 0:00",
-      "etb": "17/9",
-      "ets": "18/9",
-      "operation": "D",
-      "cargo": "GLP"
     }
   ]
 }
