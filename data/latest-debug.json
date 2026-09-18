@@ -1,18 +1,38 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2017%2009%202026%20-15h00%20clientes_6aac4663eae37.pdf",
-  "generatedAt": "2026-09-18T12:31:04+00:00",
-  "rawLinesCount": 454,
-  "mergedLinesCount": 18,
-  "logicalLinesCount": 17,
-  "recordsCount": 17,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2018%2009%202026%20-10h00%20clientes_6aad6565eec27.pdf",
+  "generatedAt": "2026-09-18T16:50:12+00:00",
+  "rawLinesCount": 122,
+  "mergedLinesCount": 38,
+  "logicalLinesCount": 37,
+  "recordsCount": 37,
   "preview": [
     {
       "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "14/9/26 15:25",
-      "etb": "14/9",
-      "ets": "17/9",
+      "imo": "9613305",
+      "vessel": "CITRIODORA",
+      "etaNor": "17/9/26 4:32",
+      "etb": "18/9",
+      "ets": "22/9",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9858292",
+      "vessel": "BABITONGA",
+      "etaNor": "25/9/26 22:00",
+      "etb": "25/9",
+      "ets": "1/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9144354",
+      "vessel": "SAGA SKY",
+      "etaNor": "26/9/26 0:01",
+      "etb": "1/10",
+      "ets": "5/10",
       "operation": "C",
       "cargo": "CELULOSE"
     },
@@ -32,7 +52,7 @@
       "vessel": "GOLDEN FRIEND",
       "etaNor": "25/8/26 16:06",
       "etb": "15/9",
-      "ets": "17/9",
+      "ets": "18/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -41,10 +61,30 @@
       "imo": "9364758",
       "vessel": "DE XIN HAI",
       "etaNor": "8/9/26 8:00",
-      "etb": "17/9",
+      "etb": "18/9",
       "ets": "21/9",
       "operation": "C",
       "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9942811",
+      "vessel": "LIGNUM NETWORK",
+      "etaNor": "9/9/26 0:24",
+      "etb": "21/9",
+      "ets": "23/9",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9950533",
+      "vessel": "KATAGALAN BRAVE",
+      "etaNor": "10/9/26 16:12",
+      "etb": "23/9",
+      "ets": "27/9",
+      "operation": "C",
+      "cargo": "FARELO DE SOJA"
     },
     {
       "status": "ESPERADO",
@@ -52,7 +92,7 @@
       "vessel": "HONG DAI",
       "etaNor": "25/9/26 0:00",
       "etb": "27/9",
-      "ets": "29/9",
+      "ets": "30/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -61,46 +101,6 @@
       "imo": "9665360",
       "vessel": "M/V SSI DIGNITY",
       "etaNor": "23/9/26 22:30",
-      "etb": "29/9",
-      "ets": "1/10",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9991264",
-      "vessel": "OMISHIMA",
-      "etaNor": "27/9/26 0:00",
-      "etb": "29/9",
-      "ets": "4/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9452543",
-      "vessel": "THEMIS",
-      "etaNor": "28/8/26 16:36",
-      "etb": "15/9",
-      "ets": "19/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9595670",
-      "vessel": "SAFEEN AL SAFA",
-      "etaNor": "6/9/26 17:54",
-      "etb": "19/9",
-      "ets": "21/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1103275",
-      "vessel": "LANGLOIS SKIATHOS",
-      "etaNor": "30/9/26 0:00",
       "etb": "30/9",
       "ets": "2/10",
       "operation": "C",
