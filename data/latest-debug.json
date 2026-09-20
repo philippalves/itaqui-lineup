@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2019%2009%202026%20-14h00%20-%20clientes_6aaef7f5a9037.pdf",
-  "generatedAt": "2026-09-20T20:00:57+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2020%2009%202026%20-14h00%20-%20clientes_6ab04567dcc7a.pdf",
+  "generatedAt": "2026-09-20T22:34:32+00:00",
   "rawLinesCount": 119,
-  "mergedLinesCount": 36,
-  "logicalLinesCount": 35,
-  "recordsCount": 35,
+  "mergedLinesCount": 37,
+  "logicalLinesCount": 36,
+  "recordsCount": 36,
   "preview": [
     {
       "status": "ATRACADO",
@@ -38,21 +38,41 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9613290",
+      "vessel": "BRASSIANA",
+      "etaNor": "1/10/26 0:00",
+      "etb": "5/10",
+      "ets": "10/10",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9922287",
       "vessel": "PRESTIGE DIVA",
       "etaNor": "1/10/26 18:00",
-      "etb": "5/10",
-      "ets": "16/10",
+      "etb": "10/10",
+      "ets": "21/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
-      "imo": "9364758",
-      "vessel": "DE XIN HAI",
-      "etaNor": "8/9/26 8:00",
-      "etb": "18/9",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "20/9/26 0:00",
+      "etb": "20/9",
       "ets": "20/9",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9624653",
+      "vessel": "PEGASOS",
+      "etaNor": "10/9/26 2:48",
+      "etb": "20/9",
+      "ets": "22/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -61,8 +81,8 @@
       "imo": "1026063",
       "vessel": "PAXOS",
       "etaNor": "1/9/26 20:00",
-      "etb": "20/9",
-      "ets": "23/9",
+      "etb": "22/9",
+      "ets": "25/9",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -71,8 +91,8 @@
       "imo": "9950533",
       "vessel": "KATAGALAN BRAVE",
       "etaNor": "10/9/26 16:12",
-      "etb": "23/9",
-      "ets": "27/9",
+      "etb": "25/9",
+      "ets": "29/9",
       "operation": "C",
       "cargo": "FARELO DE SOJA"
     },
@@ -81,30 +101,10 @@
       "imo": "9563603",
       "vessel": "HONG DAI",
       "etaNor": "25/9/26 0:00",
-      "etb": "27/9",
-      "ets": "29/9",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9665360",
-      "vessel": "M/V SSI DIGNITY",
-      "etaNor": "23/9/26 22:30",
       "etb": "29/9",
       "ets": "1/10",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "17/9/26 0:00",
-      "etb": "17/9",
-      "ets": "21/9",
-      "operation": "D",
-      "cargo": "BERÇO LIVRE"
     }
   ]
 }
