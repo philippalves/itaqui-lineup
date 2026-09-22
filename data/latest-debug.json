@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2009%202026%20-10h00%20-%20clientes_6ab295cecf100.pdf",
-  "generatedAt": "2026-09-22T19:00:39+00:00",
-  "rawLinesCount": 118,
-  "mergedLinesCount": 34,
-  "logicalLinesCount": 33,
-  "recordsCount": 33,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2009%202026%20-14h00%20-%20clientes_6ab2d9aa7f746.pdf",
+  "generatedAt": "2026-09-22T22:21:13+00:00",
+  "rawLinesCount": 120,
+  "mergedLinesCount": 36,
+  "logicalLinesCount": 35,
+  "recordsCount": 35,
   "preview": [
     {
       "status": "ATRACADO",
@@ -77,22 +77,22 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9563603",
-      "vessel": "HONG DAI",
-      "etaNor": "24/9/26 0:00",
+      "status": "FUNDEADO",
+      "imo": "9950533",
+      "vessel": "KATAGALAN BRAVE",
+      "etaNor": "10/9/26 16:12",
       "etb": "24/9",
-      "ets": "27/9",
+      "ets": "28/9",
       "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "FARELO DE SOJA"
     },
     {
       "status": "ESPERADO",
       "imo": "9478949",
       "vessel": "KOUROS LEADER",
       "etaNor": "26/9/26 0:01",
-      "etb": "27/9",
-      "ets": "29/9",
+      "etb": "28/9",
+      "ets": "30/9",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -101,8 +101,8 @@
       "imo": "9752412",
       "vessel": "DARYA JAYA",
       "etaNor": "24/9/26 22:00",
-      "etb": "29/9",
-      "ets": "1/10",
+      "etb": "30/9",
+      "ets": "2/10",
       "operation": "D",
       "cargo": "SOJA"
     }
