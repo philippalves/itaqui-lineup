@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2024%2009%202026%20-15h00%20-%20clientes_6ab578dd756b6.pdf",
-  "generatedAt": "2026-09-25T12:02:12+00:00",
-  "rawLinesCount": 124,
-  "mergedLinesCount": 41,
-  "logicalLinesCount": 40,
-  "recordsCount": 40,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2009%202026%20-10h00%20Clientes_6ab68939d342f.pdf",
+  "generatedAt": "2026-09-25T17:23:41+00:00",
+  "rawLinesCount": 425,
+  "mergedLinesCount": 25,
+  "logicalLinesCount": 24,
+  "recordsCount": 24,
   "preview": [
     {
       "status": "ATRACADO",
@@ -13,38 +13,8 @@
       "etaNor": "23/9/26 0:00",
       "etb": "23/9",
       "ets": "25/9",
-      "operation": null,
-      "cargo": null
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9144354",
-      "vessel": "SAGA SKY",
-      "etaNor": "25/9/26 18:00",
-      "etb": "25/9",
-      "ets": "29/9",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9858292",
-      "vessel": "BABITONGA",
-      "etaNor": "25/9/26 22:00",
-      "etb": "29/9",
-      "ets": "5/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9613290",
-      "vessel": "BRASSIANA",
-      "etaNor": "1/10/26 20:00",
-      "etb": "5/10",
-      "ets": "10/10",
-      "operation": "C",
-      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -58,13 +28,13 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9942811",
-      "vessel": "LIGNUM NETWORK",
-      "etaNor": "9/9/26 0:24",
-      "etb": "22/9",
-      "ets": "24/9",
-      "operation": "C",
-      "cargo": "SOJA"
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "25/9/26 0:00",
+      "etb": "25/9",
+      "ets": "26/9",
+      "operation": null,
+      "cargo": null
     },
     {
       "status": "ESPERADO",
@@ -88,23 +58,53 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9937555",
-      "vessel": "TRUSTN TRADER",
-      "etaNor": "28/9/26 8:00",
-      "etb": "30/9",
-      "ets": "2/10",
+      "imo": "9336593",
+      "vessel": "JIA CHEN",
+      "etaNor": "1/10/26 20:00",
+      "etb": "4/10",
+      "ets": "7/10",
+      "operation": "C",
+      "cargo": "SORGO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1103275",
+      "vessel": "LANGLOIS SKIATHOS",
+      "etaNor": "3/10/26 6:00",
+      "etb": "7/10",
+      "ets": "9/10",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9665360",
-      "vessel": "M/V SSI DIGNITY",
-      "etaNor": "24/9/26 19:00",
-      "etb": "2/10",
-      "ets": "4/10",
+      "imo": "9738026",
+      "vessel": "EVMAR",
+      "etaNor": "15/10/26 12:00",
+      "etb": "15/10",
+      "ets": "18/10",
       "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "SORGO"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "17/9/26 0:00",
+      "etb": "17/9",
+      "ets": "26/9",
+      "operation": "D",
+      "cargo": "BERÇO LIVRE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1017543",
+      "vessel": "MERCURY ISLAND",
+      "etaNor": "25/10/26 12:00",
+      "etb": "25/10",
+      "ets": "26/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
