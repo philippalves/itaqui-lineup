@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2009%202026%20-15h00%20Clientes_6ab6d23df1d33.pdf",
-  "generatedAt": "2026-09-25T20:36:05+00:00",
-  "rawLinesCount": 440,
-  "mergedLinesCount": 33,
-  "logicalLinesCount": 32,
-  "recordsCount": 32,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2009%202026%20-15h00%20Clientes_6ab6ed40b179c.pdf",
+  "generatedAt": "2026-09-25T23:42:33+00:00",
+  "rawLinesCount": 434,
+  "mergedLinesCount": 31,
+  "logicalLinesCount": 30,
+  "recordsCount": 30,
   "preview": [
     {
       "status": "ATRACADO",
@@ -52,16 +52,16 @@
       "vessel": "BERÇO LIVRE - - -",
       "etaNor": "25/9/26 0:00",
       "etb": "25/9",
-      "ets": "26/9",
+      "ets": "25/9",
       "operation": null,
       "cargo": null
     },
     {
-      "status": "ESPERADO",
-      "imo": "9478949",
-      "vessel": "KOUROS LEADER",
-      "etaNor": "26/9/26 0:01",
-      "etb": "26/9",
+      "status": "FUNDEADO",
+      "imo": "9665360",
+      "vessel": "M/V SSI DIGNITY",
+      "etaNor": "24/9/26 19:00",
+      "etb": "25/9",
       "ets": "28/9",
       "operation": "C",
       "cargo": "SOJA"
@@ -78,23 +78,23 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9336593",
-      "vessel": "JIA CHEN",
-      "etaNor": "1/10/26 20:00",
-      "etb": "4/10",
-      "ets": "7/10",
+      "imo": "1041544",
+      "vessel": "SUMMER QUEEN",
+      "etaNor": "29/9/26 22:00",
+      "etb": "6/10",
+      "ets": "8/10",
       "operation": "C",
-      "cargo": "SORGO"
+      "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "1103275",
-      "vessel": "LANGLOIS SKIATHOS",
-      "etaNor": "3/10/26 6:00",
-      "etb": "7/10",
-      "ets": "9/10",
+      "imo": "9336593",
+      "vessel": "JIA CHEN",
+      "etaNor": "1/10/26 20:00",
+      "etb": "8/10",
+      "ets": "10/10",
       "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "SORGO"
     },
     {
       "status": "ESPERADO",
