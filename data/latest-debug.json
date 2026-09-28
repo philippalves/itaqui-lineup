@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2027%2009%202026%20-14h00%20clientes_6ab95d66595cc.pdf",
-  "generatedAt": "2026-09-28T09:09:21+00:00",
-  "rawLinesCount": 428,
-  "mergedLinesCount": 26,
-  "logicalLinesCount": 25,
-  "recordsCount": 25,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2009%202026%20-10h00%20-%20clientes_6aba8214362f3.pdf",
+  "generatedAt": "2026-09-28T17:44:40+00:00",
+  "rawLinesCount": 124,
+  "mergedLinesCount": 41,
+  "logicalLinesCount": 40,
+  "recordsCount": 40,
   "preview": [
     {
       "status": "ATRACADO",
@@ -23,6 +23,26 @@
       "etaNor": "25/9/26 16:42",
       "etb": "29/9",
       "ets": "5/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9613290",
+      "vessel": "BRASSIANA",
+      "etaNor": "1/10/26 22:00",
+      "etb": "5/10",
+      "ets": "10/10",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9922287",
+      "vessel": "PRESTIGE DIVA",
+      "etaNor": "2/10/26 6:00",
+      "etb": "10/10",
+      "ets": "21/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -48,63 +68,43 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9665360",
-      "vessel": "M/V SSI DIGNITY",
-      "etaNor": "24/9/26 19:00",
-      "etb": "25/9",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "28/9/26 2:00",
+      "etb": "28/9",
       "ets": "28/9",
-      "operation": "C",
-      "cargo": "SOJA"
+      "operation": null,
+      "cargo": null
     },
     {
-      "status": "ESPERADO",
+      "status": "FUNDEADO",
       "imo": "9563603",
       "vessel": "HONG DAI",
-      "etaNor": "27/9/26 18:00",
+      "etaNor": "27/9/26 17:00",
       "etb": "28/9",
       "ets": "30/9",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9336593",
-      "vessel": "JIA CHEN",
-      "etaNor": "1/10/26 16:00",
-      "etb": "8/10",
-      "ets": "10/10",
-      "operation": "C",
-      "cargo": "SORGO"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9738026",
-      "vessel": "EVMAR",
-      "etaNor": "13/10/26 10:00",
-      "etb": "13/10",
-      "ets": "16/10",
-      "operation": "C",
-      "cargo": "SORGO"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9991264",
-      "vessel": "OMISHIMA",
-      "etaNor": "27/9/26 1:15",
-      "etb": "27/9",
-      "ets": "2/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9441324",
-      "vessel": "IBIS BULKER",
-      "etaNor": "1/10/26 15:06",
-      "etb": "2/10",
+      "status": "FUNDEADO",
+      "imo": "9950533",
+      "vessel": "KATAGALAN BRAVE",
+      "etaNor": "10/9/26 16:12",
+      "etb": "30/9",
       "ets": "4/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "operation": "C",
+      "cargo": "FARELO DE SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9630743",
+      "vessel": "MEDROSE",
+      "etaNor": "26/9/26 2:00",
+      "etb": "4/10",
+      "ets": "6/10",
+      "operation": "C",
+      "cargo": "MILHO"
     }
   ]
 }
