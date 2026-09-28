@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2009%202026%20-10h00%20-%20clientes_6aba8214362f3.pdf",
-  "generatedAt": "2026-09-28T17:44:40+00:00",
-  "rawLinesCount": 124,
-  "mergedLinesCount": 41,
-  "logicalLinesCount": 40,
-  "recordsCount": 40,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2028%2009%202026%20-15h00%20-%20clientes_6abac9839a931.pdf",
+  "generatedAt": "2026-09-28T22:47:04+00:00",
+  "rawLinesCount": 130,
+  "mergedLinesCount": 44,
+  "logicalLinesCount": 43,
+  "recordsCount": 43,
   "preview": [
     {
       "status": "ATRACADO",
@@ -68,16 +68,6 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "28/9/26 2:00",
-      "etb": "28/9",
-      "ets": "28/9",
-      "operation": null,
-      "cargo": null
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9563603",
       "vessel": "HONG DAI",
       "etaNor": "27/9/26 17:00",
@@ -105,6 +95,16 @@
       "ets": "6/10",
       "operation": "C",
       "cargo": "MILHO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1041544",
+      "vessel": "SUMMER QUEEN",
+      "etaNor": "29/9/26 22:00",
+      "etb": "6/10",
+      "ets": "8/10",
+      "operation": "C",
+      "cargo": "SOJA"
     }
   ]
 }
