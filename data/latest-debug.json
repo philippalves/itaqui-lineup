@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2009%202026%20-10h00%20-%20clientes_6abd29b2e68ce.pdf",
-  "generatedAt": "2026-09-30T16:10:22+00:00",
-  "rawLinesCount": 130,
-  "mergedLinesCount": 45,
-  "logicalLinesCount": 44,
-  "recordsCount": 44,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2009%202026%20-15h00%20-%20clientes_6abd672fe222e.pdf",
+  "generatedAt": "2026-09-30T20:54:30+00:00",
+  "rawLinesCount": 131,
+  "mergedLinesCount": 46,
+  "logicalLinesCount": 45,
+  "recordsCount": 45,
   "preview": [
     {
       "status": "ATRACADO",
@@ -78,11 +78,21 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9563603",
-      "vessel": "HONG DAI",
-      "etaNor": "27/9/26 17:00",
-      "etb": "28/9",
-      "ets": "30/9",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "30/9/26 15:16",
+      "etb": "30/9",
+      "ets": "1/10",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1021714",
+      "vessel": "KAREN OLDENDORFF",
+      "etaNor": "28/9/26 14:00",
+      "etb": "1/10",
+      "ets": "3/10",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,20 +101,10 @@
       "imo": "9478949",
       "vessel": "KOUROS LEADER",
       "etaNor": "26/9/26 0:01",
-      "etb": "30/9",
-      "ets": "2/10",
+      "etb": "3/10",
+      "ets": "5/10",
       "operation": "C",
       "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9630743",
-      "vessel": "MEDROSE",
-      "etaNor": "26/9/26 2:00",
-      "etb": "2/10",
-      "ets": "4/10",
-      "operation": "C",
-      "cargo": "MILHO"
     }
   ]
 }
