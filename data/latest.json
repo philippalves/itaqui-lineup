@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2009%202026%20-15h00%20-%20clientes_6abd672fe222e.pdf",
-  "updatedAt": "2026-09-30T20:54:30+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2009%202026%20-15h00%20-%20clientes_6abd78ec37b4a.pdf",
+  "updatedAt": "2026-10-01T00:16:40+00:00",
   "records": [
     {
       "status": "ATRACADO",
@@ -16,26 +16,26 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9922287",
-      "vessel": "PRESTIGE DIVA",
-      "etaNor": "2/10/26 6:00",
+      "imo": "9613290",
+      "vessel": "BRASSIANA",
+      "etaNor": "2/10/26 1:00",
       "etb": "5/10",
-      "ets": "16/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES",
-      "raw": "ESPERADO 9922287 PRESTIGE DIVA 228,99 32,26 82.597 14,00 7,00 2/10/26 6:00 5/10 16/10 D FERTILIZANTES 79.200 ALPHAMAR COPI TOCANTINS/GEN U/A AG IAR /O M/ OFE SR AT ICIPAR/GEES/ARAG SOMENTE B.99 DEVIDO AO LOA",
+      "ets": "10/10",
+      "operation": "C",
+      "cargo": "CELULOSE",
+      "raw": "ESPERADO 9613290 BRASSIANA 199,90 32,26 57.536 7,00 12,00 2/10/26 1:00 5/10 10/10 C CELULOSE 53.000 WILHELMSEN G5 SUZANO",
       "id": 2
     },
     {
       "status": "ESPERADO",
-      "imo": "9613290",
-      "vessel": "BRASSIANA",
-      "etaNor": "2/10/26 1:00",
-      "etb": "16/10",
+      "imo": "9922287",
+      "vessel": "PRESTIGE DIVA",
+      "etaNor": "2/10/26 6:00",
+      "etb": "10/10",
       "ets": "21/10",
-      "operation": "C",
-      "cargo": "CELULOSE",
-      "raw": "ESPERADO 9613290 BRASSIANA 199,90 32,26 57.536 7,00 12,00 2/10/26 1:00 16/10 21/10 C CELULOSE 53.000 WILHELMSEN G5 SUZANO",
+      "operation": "D",
+      "cargo": "FERTILIZANTES",
+      "raw": "ESPERADO 9922287 PRESTIGE DIVA 228,99 32,26 82.597 14,00 7,00 2/10/26 6:00 10/10 21/10 D FERTILIZANTES 79.200 ALPHAMAR COPI TOCANTINS/GEN U/A AG IAR /O M/ OFE SR AT ICIPAR/GEES/ARAG SOMENTE B.99 DEVIDO AO LOA",
       "id": 3
     },
     {
@@ -556,23 +556,23 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9922287",
-      "vessel": "PRESTIGE DIVA",
-      "etaNor": "2/10/26 6:00",
-      "etb": "5/10",
-      "ets": "16/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9613290",
       "vessel": "BRASSIANA",
       "etaNor": "2/10/26 1:00",
-      "etb": "16/10",
-      "ets": "21/10",
+      "etb": "5/10",
+      "ets": "10/10",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9922287",
+      "vessel": "PRESTIGE DIVA",
+      "etaNor": "2/10/26 6:00",
+      "etb": "10/10",
+      "ets": "21/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",

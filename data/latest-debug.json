@@ -1,7 +1,7 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2009%202026%20-15h00%20-%20clientes_6abd672fe222e.pdf",
-  "generatedAt": "2026-09-30T20:54:30+00:00",
-  "rawLinesCount": 131,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2030%2009%202026%20-15h00%20-%20clientes_6abd78ec37b4a.pdf",
+  "generatedAt": "2026-10-01T00:16:40+00:00",
+  "rawLinesCount": 130,
   "mergedLinesCount": 46,
   "logicalLinesCount": 45,
   "recordsCount": 45,
@@ -18,23 +18,23 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9922287",
-      "vessel": "PRESTIGE DIVA",
-      "etaNor": "2/10/26 6:00",
-      "etb": "5/10",
-      "ets": "16/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9613290",
       "vessel": "BRASSIANA",
       "etaNor": "2/10/26 1:00",
-      "etb": "16/10",
-      "ets": "21/10",
+      "etb": "5/10",
+      "ets": "10/10",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9922287",
+      "vessel": "PRESTIGE DIVA",
+      "etaNor": "2/10/26 6:00",
+      "etb": "10/10",
+      "ets": "21/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
