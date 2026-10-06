@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2004%2010%202026%20-14h00%20-%20clientes_6ac28e4c5c303.pdf",
-  "generatedAt": "2026-10-05T18:39:01+00:00",
-  "rawLinesCount": 133,
-  "mergedLinesCount": 45,
-  "logicalLinesCount": 44,
-  "recordsCount": 44,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2005%2010%202026%20-14h00%20Clientes_6ac40eefc0392.pdf",
+  "generatedAt": "2026-10-06T06:44:08+00:00",
+  "rawLinesCount": 455,
+  "mergedLinesCount": 26,
+  "logicalLinesCount": 25,
+  "recordsCount": 25,
   "preview": [
     {
       "status": "ATRACADO",
@@ -28,83 +28,83 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "1070650",
-      "vessel": "STAR NORGE 2ª ATRACAÇÃO",
-      "etaNor": "8/10/26 0:00",
-      "etb": "19/10",
-      "ets": "20/10",
-      "operation": "D",
-      "cargo": "CONTE PIN ROER JE/ TC OARG DE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9758583",
-      "vessel": "HUA XING HAI",
-      "etaNor": "16/10/26 11:00",
-      "etb": "20/10",
-      "ets": "23/10",
+      "imo": "9364746",
+      "vessel": "DE MING HA",
+      "etaNor": "31/10/26 0:00",
+      "etb": "31/10",
+      "ets": "4/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9200421",
-      "vessel": "SAGA JANDAIA",
-      "etaNor": "25/10/26 0:00",
-      "etb": "25/10",
-      "ets": "28/10",
-      "operation": "C",
-      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
       "imo": "9937218",
       "vessel": "YM RESPECT 1º ATRACAÇÃO",
       "etaNor": "3/11/26 11:00",
-      "etb": "3/11",
-      "ets": "14/11",
+      "etb": "4/11",
+      "ets": "15/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
-      "imo": "1021714",
-      "vessel": "KAREN OLDENDORFF",
-      "etaNor": "28/9/26 14:00",
-      "etb": "2/10",
-      "ets": "5/10",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1041544",
-      "vessel": "SUMMER QUEEN",
-      "etaNor": "29/9/26 22:00",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "5/10/26 0:00",
       "etb": "5/10",
-      "ets": "7/10",
+      "ets": "6/10",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1103275",
+      "vessel": "LANGLOIS SKIATHOS",
+      "etaNor": "6/10/26 10:00",
+      "etb": "6/10",
+      "ets": "8/10",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9478949",
-      "vessel": "KOUROS LEADER",
-      "etaNor": "26/9/26 0:01",
-      "etb": "7/10",
-      "ets": "9/10",
+      "imo": "9964857",
+      "vessel": "STAR ISLAND",
+      "etaNor": "8/10/26 18:00",
+      "etb": "14/10",
+      "ets": "16/10",
       "operation": "C",
       "cargo": "SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9336593",
-      "vessel": "JIA CHEN",
-      "etaNor": "1/10/26 8:12",
-      "etb": "9/10",
-      "ets": "11/10",
+      "status": "ESPERADO",
+      "imo": "9738026",
+      "vessel": "EVMAR",
+      "etaNor": "13/10/26 12:00",
+      "etb": "16/10",
+      "ets": "19/10",
       "operation": "C",
       "cargo": "SORGO"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9858292",
+      "vessel": "BABITONGA 2° ATRACAÇÃO",
+      "etaNor": "25/9/26 16:42",
+      "etb": "3/10",
+      "ets": "6/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1017543",
+      "vessel": "MERCURY ISLAND",
+      "etaNor": "16/11/26 10:00",
+      "etb": "16/11",
+      "ets": "17/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
