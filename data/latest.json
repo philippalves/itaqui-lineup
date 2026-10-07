@@ -1,6 +1,6 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2007%2010%202026%20-10h00%20CLIENTES_6ac6631e96f2a.pdf",
-  "updatedAt": "2026-10-07T17:06:49+00:00",
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2007%2010%202026%20-15h00%20Clientes_6ac6b2ba66812.pdf",
+  "updatedAt": "2026-10-07T22:07:50+00:00",
   "records": [
     {
       "status": "ATRACADO",
@@ -23,7 +23,7 @@
       "ets": "19/10",
       "operation": "D",
       "cargo": "FERTILIZANTES",
-      "raw": "FUNDEADO 9922287 PRESTIGE DIVA 228,99 32,26 82.597 14,00 7,00 3/10/26 0:24 8/10 19/10 D FERTILIZANTES 79.200 ALPHAMAR COPI TOCANTINS/GEN/A AG IAR /O M/ OFE SR AT ICIPAR/GEES/ARAGU SOMENTE B.99 DEVIDO AO LOA B PE rR oÇ f.O:19 59 m L o Da:W 2 T2 :9 FUNDEADO 1070650 STAR NORGE 2ª ATRACAÇÃO 225,00 36,00 51.999 8,00 7,00 6/10/26 14:00 19/10 20/10 D CONTE PIN ROER JE/ TC OARG DE 1.000 ROCHAMR NML TANKERS ENEVA 83.400 ESPERADO 9758583 HUA XING HAI 229,00 33,00 81.108 14,37 11,24 16/10/26 11:00 20/10 24/10 D FERTILIZANTES 21.450 WILSON SONS COPI FERTIMAXI/AMAGGI/FERTIPAR/ARAGUAIA SOMENTE B.99 DEVIDO LOA 10:00 ESPERADO 9200421 SAGA JANDAIA 199,00 31,00 47.027 8,00 12,00 19/10/26 0:00 24/10 27/10 C CELULOSE 41.000 WILHELMSEN G5 SUZANO",
+      "raw": "FUNDEADO 9922287 PRESTIGE DIVA 228,99 32,26 82.597 14,00 7,00 3/10/26 0:24 8/10 19/10 D FERTILIZANTES 79.200 ALPHAMAR COPI TOCANTINS/GEN/A AG IAR /O M/ OFE SR AT ICIPAR/GEES/ARAGU SOMENTE B.99 DEVIDO AO LOA B PE rR oÇ f.O:19 59 m L o Da:W 2 T2 :9 FUNDEADO 1070650 STAR NORGE 2ª ATRACAÇÃO 225,00 36,00 51.999 8,00 7,00 6/10/26 14:00 19/10 20/10 D CONTE PIN ROER JE/ TC OARG DE 1.000 ROCHAMR NML TANKERS ENEVA 83.400 ESPERADO 9758583 HUA XING HAI 229,00 33,00 81.108 14,37 11,24 16/10/26 11:00 20/10 24/10 D FERTILIZANTES 21.450 WILSON SONS COPI FERTIMAXI/AMAGGI/FERTIPAR/ARAGUAIA SOMENTE B.99 DEVIDO LOA 15:00 ESPERADO 9200421 SAGA JANDAIA 199,00 31,00 47.027 8,00 12,00 19/10/26 0:00 24/10 27/10 C CELULOSE 41.000 WILHELMSEN G5 SUZANO",
       "id": 2
     },
     {
@@ -59,7 +59,7 @@
       "ets": "8/10",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ATRACADO 1041544 SUMMER QUEEN 199,99 32,24 57.870 7,02 12,93 29/9/26 15:24 6/10 8/10 C SOJA 55.000 FERTIMPORT TEGRAM BUNGE POB 06/10/2026 ÀS 15:38 240 FUNDEADO 9950533 KATAGALAN BRAVE 229,00 32,26 82.719 7,30 13,00 10/9/26 16:12 8/10 13/10 C FARELO DE SOJA 64.000 FERTIMPORT TEGRAM BUNGE 100.000 10:00",
+      "raw": "ATRACADO 1041544 SUMMER QUEEN 199,99 32,24 57.870 7,02 12,93 29/9/26 15:24 6/10 8/10 C SOJA 55.000 FERTIMPORT TEGRAM BUNGE POB 06/10/2026 ÀS 15:38 240 FUNDEADO 9950533 KATAGALAN BRAVE 229,00 32,26 82.719 7,30 13,00 10/9/26 16:12 8/10 13/10 C FARELO DE SOJA 64.000 FERTIMPORT TEGRAM BUNGE 100.000 15:00",
       "id": 5
     },
     {
@@ -76,14 +76,14 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "7/10/26 0:00",
+      "imo": "9618018",
+      "vessel": "AFRICAN SWIFT",
+      "etaNor": "7/10/26 6:00",
       "etb": "7/10",
-      "ets": "7/10",
+      "ets": "9/10",
       "operation": "D",
-      "cargo": "BERÇO LIVRE",
-      "raw": "ATRACADO BL BERÇO LIVRE - - - 9,00 8,00 7/10/26 0:00 7/10 7/10 D BERÇO LIVRE 1.000 200 Atualiz 1aç 0ã :0o 0: 07/10 - ESPERADO 9514066 SAN ANTONIO 190,00 32,26 55.768 11,32 5,00 7/10/26 18:00 11/10 16/10 D FERTILIZANTES 31.100 ALPHAMAR COPI MOTTA / FERTIPAR / NUTRISOYA / YARA NAVIO IRÁ USAR ESTEIRA ( (cid:13)DESCARGA MECANICAZA) (cid:13)",
+      "cargo": "UREIA",
+      "raw": "ATRACADO 9618018 AFRICAN SWIFT 179,99 30,00 40.481 10,00 8,00 7/10/26 6:00 7/10 9/10 D UREIA 10.000 ALPHAMAR COPI GEES Atualiz8 a0 ç. ã0 o0 :0 0 7/10 - ESPERADO 9514066 SAN ANTONIO 190,00 32,26 55.768 11,32 5,00 7/10/26 18:00 11/10 16/10 D FERTILIZANTES 31.100 ALPHAMAR COPI MOTTA / FERTIPAR / NUTRISOYA / YARA NAVIO IRÁ USAR ESTEIRA ( (cid:13)DESCARGA MECANICAZA) (cid:13) 15:00",
       "id": 7
     },
     {
@@ -114,13 +114,25 @@
       "status": "ESPERADO",
       "imo": "9596844",
       "vessel": "BARBOSA LIMA SOBRINHO",
-      "etaNor": "4/10/26 8:00",
+      "etaNor": "4/10/26 18:00",
       "etb": "8/10",
       "ets": "10/10",
       "operation": "D",
       "cargo": "GLP",
-      "raw": "ESPERADO 9596844 BARBOSA LIMA SOBRINHO 177,00 19,20 5.079 6,00 5,00 4/10/26 8:00 8/10 10/10 D GLP 3.892 WILHELMSEN TRANSPETRO PETROBRAS 200 Atualiz 1aç 0ã :0o 0: 07/10 - ESPERADO 9895252 SH VEGA ⚓ 113,00 24,00 1.200 6,00 6,00 18/10/26 6:30 18/10 19/10 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREW LOG NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARANHENSE E SÃO LUIS.",
+      "raw": "ESPERADO 9596844 BARBOSA LIMA SOBRINHO 177,00 19,20 5.079 6,00 5,00 4/10/26 18:00 8/10 10/10 D GLP 3.892 WILHELMSEN TRANSPETRO PETROBRAS 200 Atualiz 1aç 5ã :0o 0: 07/10 - ESPERADO 9895252 SH VEGA ⚓ 113,00 24,00 1.200 6,00 6,00 18/10/26 6:30 18/10 19/10 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREW LOG NAVIO DE PASSAGEIRO COM EXPEDIÇÃO NOS LENÇÕIS MARANHENSE E SÃO LUIS.",
       "id": 10
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9668398",
+      "vessel": "AS ONE",
+      "etaNor": "13/11/26 14:00",
+      "etb": "13/11",
+      "ets": "20/11",
+      "operation": "D",
+      "cargo": "CLINQUER",
+      "raw": "ESPERADO 9668398 AS ONE 199,98 32,24 61.444 11,36 7,00 13/11/26 14:00 13/11 20/11 D CLINQUER 49.500 LBH FAROL CIMAR",
+      "id": 11
     },
     {
       "status": "ESPERADO",
@@ -129,21 +141,9 @@
       "etaNor": "13/11/27 0:00",
       "etb": "13/11",
       "ets": "14/11",
-      "operation": null,
-      "cargo": null,
-      "raw": "ESPERADO 9857640 HANSEATIC SPIRIT ⚓ 138,80 22,00 2.112 5,70 5,70 13/11/27 0:00 13/11 14/11 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREWLOG",
-      "id": 11
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9668398",
-      "vessel": "AS ONE",
-      "etaNor": "13/11/26 14:00",
-      "etb": "14/11",
-      "ets": "21/11",
       "operation": "D",
-      "cargo": "CLINQUER",
-      "raw": "ESPERADO 9668398 AS ONE 199,98 32,24 61.444 11,36 7,00 13/11/26 14:00 14/11 21/11 D CLINQUER 49.500 LBH FAROL CIMAR B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES",
+      "cargo": "DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES",
+      "raw": "ESPERADO 9857640 HANSEATIC SPIRIT ⚓ 138,80 22,00 2.112 5,70 5,70 13/11/27 0:00 13/11 14/11 EMB RA ER CC RA EÇ IÃ OO DE 12.000 CREWLOG B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES",
       "id": 12
     },
     {
@@ -155,7 +155,7 @@
       "ets": "8/10",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ATRACADO 1103275 LANGLOIS SKIATHOS 199,98 32,24 63.716 8,11 13,10 6/10/26 5:54 6/10 8/10 C SOJA 63.000 WILSON SONS TEGRAM CHS POB 06/10/2026 ÀS 14:08 Prof. 1: 01 05 .m 00 0D WT: ESPERADO 9478949 KOUROS LEADER 189,90 32,26 55.581 7,00 13,00 26/9/26 0:01 11/10 13/10 C SOJA 55.000 WILSON SONS TEGRAM AMAGGI 10:00 ESPERADO 9866691 BERGE YOTEI 199,98 32,24 59.995 6,00 13,00 6/10/26 6:00 13/10 15/10 C SOJA 55.000 FERTIMPORT TEGRAM BUNGE",
+      "raw": "ATRACADO 1103275 LANGLOIS SKIATHOS 199,98 32,24 63.716 8,11 13,10 6/10/26 5:54 6/10 8/10 C SOJA 63.000 WILSON SONS TEGRAM CHS POB 06/10/2026 ÀS 14:08 100.000 15:00",
       "id": 13
     },
     {
@@ -167,8 +167,20 @@
       "ets": "17/10",
       "operation": "C",
       "cargo": "SOJA",
-      "raw": "ESPERADO 9964857 STAR ISLAND 199,99 32,00 63.592 6,10 13,09 8/10/26 18:00 15/10 17/10 C SOJA 58.500 WAYPOINT TEGRAM LOUIS DREYFUS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..",
+      "raw": "ESPERADO 9964857 STAR ISLAND 199,99 32,00 63.592 6,10 13,09 8/10/26 18:00 15/10 17/10 C SOJA 58.500 WAYPOINT TEGRAM LOUIS DREYFUS",
       "id": 14
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9598799",
+      "vessel": "IOLCOS CONFIDENCE",
+      "etaNor": "18/10/26 0:00",
+      "etb": "18/10",
+      "ets": "20/10",
+      "operation": "C",
+      "cargo": "SORGO",
+      "raw": "ESPERADO 9598799 IOLCOS CONFIDENCE 225,00 32,26 76.036 6,30 12,50 18/10/26 0:00 18/10 20/10 C SORGO 63.000 FERTIMPORT TEGRAM CLI B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..",
+      "id": 15
     },
     {
       "status": "ATRACADO",
@@ -179,20 +191,20 @@
       "ets": "9/10",
       "operation": "D",
       "cargo": "GASOLINA",
-      "raw": "ATRACADO 9410911 FILIZ 183,00 32,20 49.999 10,50 8,50 4/10/26 19:24 6/10 9/10 D GASOLINA 32.429 NORTH STAR GRA TRN AE NL Q SPU EÍ TM RI OCA / BLUEWAY POB 06/10/2026 ÀS 10:14 183 10:00 ESPERADO 9424649 TOKYO 179,90 32,20 46.547 11,00 9,00 10/10/26 3:00 12/10 16/10 D GASOLINA 30.000 NORTH STAR GRANEL QUIMICA WT TRADING",
-      "id": 15
+      "raw": "ATRACADO 9410911 FILIZ 183,00 32,20 49.999 10,50 8,50 4/10/26 19:24 6/10 9/10 D GASOLINA 32.429 NORTH STAR GRA TRN AE NL Q SPU EÍ TM RI OCA / BLUEWAY POB 06/10/2026 ÀS 10:14 183 15:00 ESPERADO 9439773 DALMA 183,00 32,00 50.162 9,10 9,00 6/10/26 7:00 12/10 14/10 D DIESEL 18.500 WILHELMSEN TRANSPETRO PETROBRAS FARA ABASTECIMENTO DE 670T DE VLSFO",
+      "id": 16
     },
     {
       "status": "ESPERADO",
       "imo": "9834349",
       "vessel": "ELANDRA WILLOW",
       "etaNor": "11/10/26 0:00",
-      "etb": "16/10",
-      "ets": "18/10",
+      "etb": "14/10",
+      "ets": "17/10",
       "operation": "D",
       "cargo": "GASOLINA",
-      "raw": "ESPERADO 9834349 ELANDRA WILLOW 183,06 32,20 49.999 9,00 8,00 11/10/26 0:00 16/10 18/10 D GASOLINA 14.200 WILHELMSEN TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
-      "id": 16
+      "raw": "ESPERADO 9834349 ELANDRA WILLOW 183,06 32,20 49.999 9,00 8,00 11/10/26 0:00 14/10 17/10 D GASOLINA 14.200 WILHELMSEN TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r",
+      "id": 17
     },
     {
       "status": "ATRACADO",
@@ -203,8 +215,8 @@
       "ets": "8/10",
       "operation": "C",
       "cargo": "MILHO",
-      "raw": "ATRACADO 9855549 LIVORNO 229,00 32,26 81.651 7,00 13,00 6/10/26 0:01 6/10 8/10 C MILHO 72.720 ALPHAMAR VLI CJ ASIA POB 06/10/2026 ÀS 10:14 229 Prof. 1: 51 08 .m 00 0D WT: ESPERADO 9883754 SOYA TIANJIN 229,00 32,26 80.780 7,00 13,50 8/10/26 0:01 10/10 13/10 C SOJA 66.000 FERTIMPORT VLI BUNGE 10:00 ESPERADO 9827413 ARRIBA 229,00 32,26 82.040 5,00 13,50 14/10/26 8:00 16/10 18/10 C SOJA 70.802 ALPHAMAR VLI CARGILL",
-      "id": 17
+      "raw": "ATRACADO 9855549 LIVORNO 229,00 32,26 81.651 7,00 13,00 6/10/26 0:01 6/10 8/10 C MILHO 72.720 ALPHAMAR VLI CJ ASIA POB 06/10/2026 ÀS 10:14 229 Prof. 1: 51 08 .m 00 0D WT: ESPERADO 9883754 SOYA TIANJIN 229,00 32,26 80.780 7,00 13,50 8/10/26 0:01 10/10 13/10 C SOJA 66.000 FERTIMPORT VLI BUNGE 15:00 ESPERADO 9827413 ARRIBA 229,00 32,26 82.040 5,00 13,50 14/10/26 8:00 16/10 18/10 C SOJA 70.802 ALPHAMAR VLI CARGILL",
+      "id": 18
     },
     {
       "status": "ESPERADO",
@@ -216,7 +228,7 @@
       "operation": "C",
       "cargo": "FERRO GUSA",
       "raw": "ESPERADO 1073743 ROYAL TOPAZ 199,90 32,00 63.760 7,00 13,00 11/10/26 15:00 18/10 21/10 C FERRO GUSA 44.000 ORION RODOS VLI PANGAEA B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES",
-      "id": 18
+      "id": 19
     },
     {
       "status": "ATRACADO",
@@ -224,35 +236,47 @@
       "vessel": "SEA PENGUINSTS -³",
       "etaNor": "4/10/26 20:00",
       "etb": "7/10",
-      "ets": "13/10",
+      "ets": "14/10",
       "operation": "D",
       "cargo": "DIESEL",
-      "raw": "ATRACADO 1025564 SEA PENGUINSTS -³ 248,80 44,00 113.659 14,80 12,00 4/10/26 20:00 7/10 13/10 D DIESEL 125.927 GAC DO BRASIL TRANSPETRO PETROBRÁS 280 ESPERADO 9849265 CLEAROCEAN MELODY STS - ³ 182,90 32,23 49.995 8,00 10,80 5/10/26 5:00 7/10 8/10 C DIESEL 34.000 WILHELMSEN TRANSPETRO PETROBRAS STS COM SEA PENGUIN 155.000 10:00",
-      "id": 19
+      "raw": "ATRACADO 1025564 SEA PENGUINSTS -³ 248,80 44,00 113.659 14,80 12,00 4/10/26 20:00 7/10 14/10 D DIESEL 125.927 GAC DO BRASIL TRANSPETRO PETROBRÁS DG TB CLEAROCEAN MELODY 34.000/DG TB 14.300 DALLAS/DG 51.033 HONESTY 280 FUNDEADO 9849265 CLEAROCEAN MELODY STS - ³ 182,90 32,23 49.995 8,00 10,80 5/10/26 2:00 7/10 8/10 C DIESEL 34.000 WILHELMSEN TRANSPETRO PETROBRAS STS COM SEA PENGUIN 155.000 15:00",
+      "id": 20
     },
     {
       "status": "ESPERADO",
       "imo": "9683063",
       "vessel": "KMARIN REGARD",
       "etaNor": "10/10/26 12:00",
-      "etb": "16/10",
-      "ets": "23/10",
+      "etb": "17/10",
+      "ets": "25/10",
       "operation": "D",
       "cargo": "DIESEL",
-      "raw": "ESPERADO 9683063 KMARIN REGARD 249,85 44,00 109.542 13,10 5,00 10/10/26 12:00 16/10 23/10 D DIESEL 64000 ISS MARINE TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES",
-      "id": 20
+      "raw": "ESPERADO 9683063 KMARIN REGARD 249,85 44,00 109.542 13,10 5,00 10/10/26 12:00 17/10 25/10 D DIESEL 64000 ISS MARINE TRANSPETRO PETROBRAS B Be erç rto hs S St ta at tu us s I IM MOO VN ea sv si eo l L LO OAA BB eo ac ma D DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES",
+      "id": 21
     },
     {
       "status": "ATRACADO",
-      "imo": "9806158",
-      "vessel": "KARIMATA¹-STS",
-      "etaNor": "2/10/26 22:00",
-      "etb": "3/10",
-      "ets": "7/10",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "7/10/26 0:00",
+      "etb": "7/10",
+      "ets": "8/10",
       "operation": "D",
-      "cargo": "DIESEL",
-      "raw": "ATRACADO 9806158 KARIMATA¹-STS 219,00 38,00 79.885 13,40 5,50 2/10/26 22:00 3/10 7/10 D DIESEL 67.963 ISS MARINE TRANSPETRO PETROBRAS D EG M D SE Ã 4 O8 . L7 U69 IS M D³ ED E 12 D .0IE 00S E ML ³ DS1 E0 D P IEA SR EA L T SE 1R 0R PA A. R- ATR OA NN AS VB IO OR HD OO R D IZE O D NE TS HC EA TR ISG A - T A R AC NO SN BT ORA RB DO OR DD EO 91.600 10:00 ESPERADO 9925875 BUNGO CROWN 184,94 32,20 49.994 11,11 9,80 10/10/26 8:00 14/10 17/10 D DIESEL 27.458 NORTH STAR GRA TRN AE NL Q SPU EI TM RI OCA / VIBRA",
-      "id": 21
+      "cargo": "GASOLINA/DIESEL",
+      "raw": "ATRACADO BL BERÇO LIVRE - - - 8,00 9,00 7/10/26 0:00 7/10 8/10 BERÇO LIVRE 1.000 2 1 40 58 Loa: FUNDEADO 9788540 PACIFIC AZUR 182,50 32,23 49.996 11,89,40 8/10/26 8:00 8/10 11/10 D GASOLINA/DIESEL 33.239 NORTH STAR TRANSPETR NO TO/G SRANEL/SA REFINARIA DE MATARIPE Atualiz 1aç 5ã :0o 0: 07/10 - ESPERADO 9925875 BUNGO CROWN 184,94 32,20 49.994 11,11 9,80 10/10/26 8:00 13/10 16/10 D DIESEL 27.458 NORTH STAR GRA TRN AE NL Q SPU EI TM RI OCA / VIBRA",
+      "id": 22
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9374533",
+      "vessel": "MTM AMAZON",
+      "etaNor": "12/10/26 12:00",
+      "etb": "16/10",
+      "ets": "18/10",
+      "operation": "C",
+      "cargo": "SODA CAUTICA",
+      "raw": "ESPERADO 9374533 MTM AMAZON 170,00 26,60 33.674 10,60 9,30 12/10/26 12:00 16/10 18/10 C SODA CAUTICA 7.100 NORTH STAR GRANEL QUIMICA SUZANO",
+      "id": 23
     }
   ],
   "simplified": [
@@ -318,13 +342,13 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "7/10/26 0:00",
+      "imo": "9618018",
+      "vessel": "AFRICAN SWIFT",
+      "etaNor": "7/10/26 6:00",
       "etb": "7/10",
-      "ets": "7/10",
+      "ets": "9/10",
       "operation": "D",
-      "cargo": "BERÇO LIVRE"
+      "cargo": "UREIA"
     },
     {
       "status": "ESPERADO",
@@ -350,11 +374,21 @@
       "status": "ESPERADO",
       "imo": "9596844",
       "vessel": "BARBOSA LIMA SOBRINHO",
-      "etaNor": "4/10/26 8:00",
+      "etaNor": "4/10/26 18:00",
       "etb": "8/10",
       "ets": "10/10",
       "operation": "D",
       "cargo": "GLP"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9668398",
+      "vessel": "AS ONE",
+      "etaNor": "13/11/26 14:00",
+      "etb": "13/11",
+      "ets": "20/11",
+      "operation": "D",
+      "cargo": "CLINQUER"
     },
     {
       "status": "ESPERADO",
@@ -363,18 +397,8 @@
       "etaNor": "13/11/27 0:00",
       "etb": "13/11",
       "ets": "14/11",
-      "operation": null,
-      "cargo": null
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9668398",
-      "vessel": "AS ONE",
-      "etaNor": "13/11/26 14:00",
-      "etb": "14/11",
-      "ets": "21/11",
       "operation": "D",
-      "cargo": "CLINQUER"
+      "cargo": "DW WTT AC rC ra h il va e ad g l o a Dd d ra ae f t Ca Sl aa id lio n gd e D rs aa fí tda EC Th AP e r /ge a Nv d.O a R AP Etr Tre a Bv c. . DeP s Er a Te t Sv ra. c. O açp ãe or Pr Co ad rgu oto Qt *de. A Ag ge en nt te e A Ag ge en nc cy y O Op pe er ra ad do or r P Po or rt tu uá ár ri io o P Po or rt t O Op pe er ra at to or r I Im mp po or rt t. ./ /E Ex xp po or rt t..OBS RE eR mV aA rkÇ sÕES"
     },
     {
       "status": "ATRACADO",
@@ -397,6 +421,16 @@
       "cargo": "SOJA"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9598799",
+      "vessel": "IOLCOS CONFIDENCE",
+      "etaNor": "18/10/26 0:00",
+      "etb": "18/10",
+      "ets": "20/10",
+      "operation": "C",
+      "cargo": "SORGO"
+    },
+    {
       "status": "ATRACADO",
       "imo": "9410911",
       "vessel": "FILIZ",
@@ -411,8 +445,8 @@
       "imo": "9834349",
       "vessel": "ELANDRA WILLOW",
       "etaNor": "11/10/26 0:00",
-      "etb": "16/10",
-      "ets": "18/10",
+      "etb": "14/10",
+      "ets": "17/10",
       "operation": "D",
       "cargo": "GASOLINA"
     },
@@ -442,7 +476,7 @@
       "vessel": "SEA PENGUINSTS -³",
       "etaNor": "4/10/26 20:00",
       "etb": "7/10",
-      "ets": "13/10",
+      "ets": "14/10",
       "operation": "D",
       "cargo": "DIESEL"
     },
@@ -451,20 +485,30 @@
       "imo": "9683063",
       "vessel": "KMARIN REGARD",
       "etaNor": "10/10/26 12:00",
-      "etb": "16/10",
-      "ets": "23/10",
+      "etb": "17/10",
+      "ets": "25/10",
       "operation": "D",
       "cargo": "DIESEL"
     },
     {
       "status": "ATRACADO",
-      "imo": "9806158",
-      "vessel": "KARIMATA¹-STS",
-      "etaNor": "2/10/26 22:00",
-      "etb": "3/10",
-      "ets": "7/10",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "7/10/26 0:00",
+      "etb": "7/10",
+      "ets": "8/10",
       "operation": "D",
-      "cargo": "DIESEL"
+      "cargo": "GASOLINA/DIESEL"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9374533",
+      "vessel": "MTM AMAZON",
+      "etaNor": "12/10/26 12:00",
+      "etb": "16/10",
+      "ets": "18/10",
+      "operation": "C",
+      "cargo": "SODA CAUTICA"
     }
   ]
 }
