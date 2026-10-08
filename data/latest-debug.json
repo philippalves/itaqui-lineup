@@ -1,23 +1,13 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2007%2010%202026%20-15h00%20Clientes_6ac6b2ba66812.pdf",
-  "generatedAt": "2026-10-08T09:13:37+00:00",
-  "rawLinesCount": 446,
-  "mergedLinesCount": 24,
-  "logicalLinesCount": 23,
-  "recordsCount": 23,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2008%2010%202026%20-10h00%20-%20clientes_6ac7af8bc60df.pdf",
+  "generatedAt": "2026-10-08T16:40:45+00:00",
+  "rawLinesCount": 124,
+  "mergedLinesCount": 40,
+  "logicalLinesCount": 39,
+  "recordsCount": 39,
   "preview": [
     {
       "status": "ATRACADO",
-      "imo": "9613290",
-      "vessel": "BRASSIANA",
-      "etaNor": "2/10/26 0:06",
-      "etb": "3/10",
-      "ets": "8/10",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9922287",
       "vessel": "PRESTIGE DIVA",
       "etaNor": "3/10/26 0:24",
@@ -28,11 +18,51 @@
     },
     {
       "status": "ESPERADO",
+      "imo": "9200421",
+      "vessel": "SAGA JANDAIA *",
+      "etaNor": "19/10/26 0:00",
+      "etb": "19/10",
+      "ets": "23/10",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9824980",
+      "vessel": "GRANDIS *",
+      "etaNor": "20/10/26 9:00",
+      "etb": "23/10",
+      "ets": "28/10",
+      "operation": "C",
+      "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "1070650",
+      "vessel": "STAR NORGE 2ª ATRACAÇÃO",
+      "etaNor": "6/10/26 14:00",
+      "etb": "28/10",
+      "ets": "29/10",
+      "operation": "D",
+      "cargo": "CONTE PIN ROER JE/ TC OARG DE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9758583",
+      "vessel": "HUA XING HAI",
+      "etaNor": "16/10/26 11:00",
+      "etb": "29/10",
+      "ets": "1/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
       "imo": "9364746",
       "vessel": "DE MING HAI",
       "etaNor": "31/10/26 0:00",
-      "etb": "31/10",
-      "ets": "4/11",
+      "etb": "1/11",
+      "ets": "5/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -41,8 +71,8 @@
       "imo": "9937218",
       "vessel": "YM RESPECT 1º ATRACAÇÃO",
       "etaNor": "3/11/26 13:00",
-      "etb": "4/11",
-      "ets": "15/11",
+      "etb": "5/11",
+      "ets": "16/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -57,54 +87,24 @@
       "cargo": "SOJA"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9738026",
-      "vessel": "EVMAR",
-      "etaNor": "15/10/26 9:00",
-      "etb": "15/10",
-      "ets": "17/10",
+      "status": "FUNDEADO",
+      "imo": "9950533",
+      "vessel": "KATAGALAN BRAVE",
+      "etaNor": "10/9/26 16:12",
+      "etb": "8/10",
+      "ets": "13/10",
+      "operation": "C",
+      "cargo": "FARELO DE SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9336593",
+      "vessel": "JIA CHEN",
+      "etaNor": "1/10/26 8:12",
+      "etb": "13/10",
+      "ets": "15/10",
       "operation": "C",
       "cargo": "SORGO"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9618018",
-      "vessel": "AFRICAN SWIFT",
-      "etaNor": "7/10/26 6:00",
-      "etb": "7/10",
-      "ets": "9/10",
-      "operation": "D",
-      "cargo": "UREIA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1017543",
-      "vessel": "MERCURY ISLAND",
-      "etaNor": "13/11/26 10:00",
-      "etb": "13/11",
-      "ets": "14/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9441324",
-      "vessel": "IBIS BULKER",
-      "etaNor": "5/10/26 15:00",
-      "etb": "5/10",
-      "ets": "8/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9596844",
-      "vessel": "BARBOSA LIMA SOBRINHO",
-      "etaNor": "4/10/26 18:00",
-      "etb": "8/10",
-      "ets": "10/10",
-      "operation": "D",
-      "cargo": "GLP"
     }
   ]
 }
