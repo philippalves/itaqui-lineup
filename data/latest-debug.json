@@ -1,18 +1,18 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2008%2010%202026%20-10h00%20-%20clientes_6ac7af8bc60df.pdf",
-  "generatedAt": "2026-10-09T08:11:58+00:00",
-  "rawLinesCount": 124,
-  "mergedLinesCount": 40,
-  "logicalLinesCount": 39,
-  "recordsCount": 39,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2009%2010%202026%20-10h00%20clientes_6ac906c87d4e1.pdf",
+  "generatedAt": "2026-10-09T15:24:28+00:00",
+  "rawLinesCount": 440,
+  "mergedLinesCount": 24,
+  "logicalLinesCount": 23,
+  "recordsCount": 23,
   "preview": [
     {
       "status": "ATRACADO",
       "imo": "9922287",
-      "vessel": "PRESTIGE DIVA",
+      "vessel": "PRESTIGE DIVA 1ª ATRACAÇÃO",
       "etaNor": "3/10/26 0:24",
       "etb": "8/10",
-      "ets": "19/10",
+      "ets": "14/10",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -22,39 +22,9 @@
       "vessel": "SAGA JANDAIA *",
       "etaNor": "19/10/26 0:00",
       "etb": "19/10",
-      "ets": "23/10",
+      "ets": "22/10",
       "operation": "C",
       "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9824980",
-      "vessel": "GRANDIS *",
-      "etaNor": "20/10/26 9:00",
-      "etb": "23/10",
-      "ets": "28/10",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "1070650",
-      "vessel": "STAR NORGE 2ª ATRACAÇÃO",
-      "etaNor": "6/10/26 14:00",
-      "etb": "28/10",
-      "ets": "29/10",
-      "operation": "D",
-      "cargo": "CONTE PIN ROER JE/ TC OARG DE"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9758583",
-      "vessel": "HUA XING HAI",
-      "etaNor": "16/10/26 11:00",
-      "etb": "29/10",
-      "ets": "1/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
@@ -82,7 +52,7 @@
       "vessel": "SUMMER QUEEN",
       "etaNor": "29/9/26 15:24",
       "etb": "6/10",
-      "ets": "8/10",
+      "ets": "9/10",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -91,20 +61,50 @@
       "imo": "9950533",
       "vessel": "KATAGALAN BRAVE",
       "etaNor": "10/9/26 16:12",
-      "etb": "8/10",
+      "etb": "9/10",
       "ets": "13/10",
       "operation": "C",
       "cargo": "FARELO DE SOJA"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9336593",
-      "vessel": "JIA CHEN",
-      "etaNor": "1/10/26 8:12",
-      "etb": "13/10",
-      "ets": "15/10",
+      "status": "ESPERADO",
+      "imo": "1045667",
+      "vessel": "PARNASSOS",
+      "etaNor": "20/10/26 0:00",
+      "etb": "20/10",
+      "ets": "23/10",
       "operation": "C",
-      "cargo": "SORGO"
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1028176",
+      "vessel": "NORD ATOLL",
+      "etaNor": "9/10/26 19:00",
+      "etb": "23/10",
+      "ets": "25/10",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9514066",
+      "vessel": "SAN ANTONIO",
+      "etaNor": "7/10/26 17:46",
+      "etb": "9/10",
+      "ets": "14/10",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1017543",
+      "vessel": "MERCURY ISLAND",
+      "etaNor": "13/11/26 10:00",
+      "etb": "13/11",
+      "ets": "14/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
