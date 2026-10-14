@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2010%202026%20-10h00%20-%20clientes_6acf9a1ee4785.pdf",
-  "generatedAt": "2026-10-14T20:49:48+00:00",
-  "rawLinesCount": 119,
-  "mergedLinesCount": 38,
-  "logicalLinesCount": 37,
-  "recordsCount": 37,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2014%2010%202026%20-15h00%20-%20clientes_6acff298f24c3.pdf",
+  "generatedAt": "2026-10-14T23:33:03+00:00",
+  "rawLinesCount": 131,
+  "mergedLinesCount": 43,
+  "logicalLinesCount": 42,
+  "recordsCount": 42,
   "preview": [
     {
       "status": "ATRACADO",
@@ -20,7 +20,7 @@
       "status": "ESPERADO",
       "imo": "9565053",
       "vessel": "BOLD VOYAGER",
-      "etaNor": "14/10/26 19:00",
+      "etaNor": "14/10/26 22:00",
       "etb": "15/10",
       "ets": "18/10",
       "operation": "D",
@@ -77,6 +77,16 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9664964",
+      "vessel": "IOLCOS FIGHTER",
+      "etaNor": "6/11/26 1:00",
+      "etb": "15/11",
+      "ets": "18/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
       "status": "ATRACADO",
       "imo": "9950533",
       "vessel": "KATAGALAN BRAVE",
@@ -93,16 +103,6 @@
       "etaNor": "9/10/26 18:30",
       "etb": "15/10",
       "ets": "17/10",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1028176",
-      "vessel": "NORD ATOLL",
-      "etaNor": "9/10/26 19:00",
-      "etb": "17/10",
-      "ets": "18/10",
       "operation": "C",
       "cargo": "SOJA"
     }
