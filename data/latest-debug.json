@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2020%2010%202026%20-10h00%20-%20clientes_6ad77757663f6.pdf",
-  "generatedAt": "2026-10-20T15:29:11+00:00",
-  "rawLinesCount": 129,
-  "mergedLinesCount": 42,
-  "logicalLinesCount": 41,
-  "recordsCount": 41,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2020%2010%202026%20-15h00%20-%20clientes_6ad7b953661ef.pdf",
+  "generatedAt": "2026-10-20T19:29:31+00:00",
+  "rawLinesCount": 130,
+  "mergedLinesCount": 43,
+  "logicalLinesCount": 42,
+  "recordsCount": 42,
   "preview": [
     {
       "status": "ATRACADO",
@@ -20,8 +20,8 @@
       "status": "ESPERADO",
       "imo": "9200421",
       "vessel": "SAGA JANDAIA *",
-      "etaNor": "21/10/26 0:00",
-      "etb": "21/10",
+      "etaNor": "22/10/26 0:00",
+      "etb": "22/10",
       "ets": "25/10",
       "operation": "C",
       "cargo": "CELULOSE"
@@ -67,12 +67,22 @@
       "cargo": "FERTILIZANTES"
     },
     {
+      "status": "ESPERADO",
+      "imo": "9787974",
+      "vessel": "AMIS NATURE",
+      "etaNor": "21/11/26 19:11",
+      "etb": "21/11",
+      "ets": "23/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
       "status": "ATRACADO",
       "imo": "BL",
       "vessel": "BERÇO LIVRE - - -",
       "etaNor": "19/10/26 0:00",
       "etb": "19/10",
-      "ets": "21/10",
+      "ets": "23/10",
       "operation": null,
       "cargo": null
     },
@@ -81,8 +91,8 @@
       "imo": "9598799",
       "vessel": "IOLCOS CONFIDENCE",
       "etaNor": "17/10/26 21:36",
-      "etb": "21/10",
-      "ets": "24/10",
+      "etb": "23/10",
+      "ets": "26/10",
       "operation": "C",
       "cargo": "SORGO"
     },
@@ -91,20 +101,10 @@
       "imo": "9913030",
       "vessel": "SAKIZAYA ZEST",
       "etaNor": "19/10/26 12:12",
-      "etb": "24/10",
-      "ets": "28/10",
-      "operation": "C",
-      "cargo": "FARELO DE SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9927005",
-      "vessel": "NORSE SAVANNAH",
-      "etaNor": "23/10/26 11:00",
-      "etb": "28/10",
+      "etb": "26/10",
       "ets": "30/10",
       "operation": "C",
-      "cargo": "MILHO"
+      "cargo": "FARELO DE SOJA"
     }
   ]
 }
