@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2021%2010%202026%20-15h00%20clientes_6ad91f5f6b071.pdf",
-  "generatedAt": "2026-10-22T13:57:29+00:00",
-  "rawLinesCount": 438,
-  "mergedLinesCount": 22,
-  "logicalLinesCount": 21,
-  "recordsCount": 21,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2010%202026%20-10h00%20-%20clientes_6ada1d346f1a8.pdf",
+  "generatedAt": "2026-10-22T18:15:32+00:00",
+  "rawLinesCount": 127,
+  "mergedLinesCount": 41,
+  "logicalLinesCount": 40,
+  "recordsCount": 40,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,23 +18,53 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9200421",
-      "vessel": "SAGA JANDAIA *",
-      "etaNor": "23/10/26 12:00",
+      "imo": "9825013",
+      "vessel": "UROPHYLLA *",
+      "etaNor": "23/10/26 13:00",
       "etb": "23/10",
-      "ets": "27/10",
+      "ets": "28/10",
       "operation": "C",
       "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
-      "imo": "9825013",
-      "vessel": "UROPHYLLA *",
-      "etaNor": "23/10/26 18:00",
-      "etb": "27/10",
+      "imo": "9200421",
+      "vessel": "SAGA JANDAIA *",
+      "etaNor": "23/10/26 21:00",
+      "etb": "28/10",
       "ets": "1/11",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9713404",
+      "vessel": "CHRYSOULA S",
+      "etaNor": "30/10/26 16:00",
+      "etb": "1/11",
+      "ets": "6/11",
+      "operation": "D",
+      "cargo": "U FR EE RI TA I L/ I ZO AU NT TR EO SS"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9364746",
+      "vessel": "DE MING HAI",
+      "etaNor": "1/11/26 12:00",
+      "etb": "6/11",
+      "ets": "11/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9937218",
+      "vessel": "YM RESPECT 1º ATRACAÇÃO",
+      "etaNor": "3/11/26 20:00",
+      "etb": "11/11",
+      "ets": "22/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
@@ -63,48 +93,18 @@
       "etaNor": "19/10/26 0:00",
       "etb": "19/10",
       "ets": "23/10",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9598799",
+      "vessel": "IOLCOS CONFIDENCE",
+      "etaNor": "17/10/26 21:36",
+      "etb": "23/10",
+      "ets": "26/10",
       "operation": "C",
-      "cargo": "FARELO DE SOJA"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9514066",
-      "vessel": "SAN ANTONIO",
-      "etaNor": "27/10/26 8:00",
-      "etb": "2/11",
-      "ets": "4/11",
-      "operation": "C",
-      "cargo": "SOJA"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "19/10/26 20:17",
-      "etb": "19/10",
-      "ets": "22/10",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1067469",
-      "vessel": "WINDERMERE",
-      "etaNor": "9/11/26 0:00",
-      "etb": "9/11",
-      "ets": "11/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1017543",
-      "vessel": "MERCURY ISLAND",
-      "etaNor": "17/11/26 10:00",
-      "etb": "17/11",
-      "ets": "18/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "cargo": "SORGO"
     }
   ]
 }
