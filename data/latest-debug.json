@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2010%202026%20-10h00%20-%20clientes_6ada1d346f1a8.pdf",
-  "generatedAt": "2026-10-22T18:15:32+00:00",
-  "rawLinesCount": 127,
-  "mergedLinesCount": 41,
-  "logicalLinesCount": 40,
-  "recordsCount": 40,
+  "sourcePdf": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2022%2010%202026%20-15h00%20-%20clientes_6ada6e6d098c2.pdf",
+  "generatedAt": "2026-10-23T05:06:50+00:00",
+  "rawLinesCount": 134,
+  "mergedLinesCount": 47,
+  "logicalLinesCount": 46,
+  "recordsCount": 46,
   "preview": [
     {
       "status": "ATRACADO",
@@ -30,7 +30,7 @@
       "status": "ESPERADO",
       "imo": "9200421",
       "vessel": "SAGA JANDAIA *",
-      "etaNor": "23/10/26 21:00",
+      "etaNor": "24/10/26 7:00",
       "etb": "28/10",
       "ets": "1/11",
       "operation": "C",
