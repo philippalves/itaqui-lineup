@@ -1,50 +1,50 @@
 {
   "sourcePage": "https://website.portodoitaqui.com.br/home",
-  "pdfUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2010%202026%20-15h00%20clientes_6adbce2944bbe.pdf",
+  "pdfUrl": "https://website.portodoitaqui.com.br/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2003%202025%20-%2010h00%20-%20cliente_67e2c5c5336bf.pdf",
   "linkText": "Mapa de Atracação",
-  "foundAt": "2026-10-24T17:06:24.702Z",
+  "foundAt": "2026-10-24T22:08:05.615Z",
   "candidatesFound": 8,
   "topCandidates": [
     {
-      "href": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA DE ATRACAÇÃO - 23 10 2026 -15h00 clientes_6adbce2944bbe.pdf",
+      "href": "/_files/arquivos/MAPA DE ATRACAÇÃO - 25 03 2025 - 10h00 - cliente_67e2c5c5336bf.pdf",
       "text": "Mapa de Atracação",
-      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2023%2010%202026%20-15h00%20clientes_6adbce2944bbe.pdf",
-      "score": 97
+      "absoluteUrl": "https://website.portodoitaqui.com.br/_files/arquivos/MAPA%20DE%20ATRACA%C3%87%C3%83O%20-%2025%2003%202025%20-%2010h00%20-%20cliente_67e2c5c5336bf.pdf",
+      "score": 92
     },
     {
-      "href": "https://www.portodoitaqui.com/public/_files/arquivos/527-passagem-nivel_6adc957d6f934.pdf",
-      "text": "Mapa Ferroviário",
-      "absoluteUrl": "https://www.portodoitaqui.com/public/_files/arquivos/527-passagem-nivel_6adc957d6f934.pdf",
-      "score": 72
-    },
-    {
-      "href": "https://www.portodoitaqui.com/_files/arquivos/Norma de Atracação 2026_6a958870e951b.pdf",
+      "href": "/_files/arquivos/NORMA PARA ATRACAÇÃO E DESATRACAÇÃO DE NAVIOS NO PORTO ORGANIZADO DO ITAQUI_6515d675a489f.pdf",
       "text": "Normas de Atracação",
-      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/Norma%20de%20Atracac%CC%A7a%CC%83o%202026_6a958870e951b.pdf",
+      "absoluteUrl": "https://website.portodoitaqui.com.br/_files/arquivos/NORMA%20PARA%20ATRACA%C3%87%C3%83O%20E%20DESATRACA%C3%87%C3%83O%20DE%20NAVIOS%20NO%20PORTO%20ORGANIZADO%20DO%20ITAQUI_6515d675a489f.pdf",
       "score": 72
     },
     {
-      "href": "https://www.portodoitaqui.com/_files/arquivos/manual-porto-do-itaqui.pdf",
+      "href": "/arquivos/manual-porto-do-itaqui.pdf",
       "text": "Manual do Porto do Itaqui",
-      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/manual-porto-do-itaqui.pdf",
+      "absoluteUrl": "https://website.portodoitaqui.com.br/arquivos/manual-porto-do-itaqui.pdf",
       "score": 52
     },
     {
-      "href": "https://www.portodoitaqui.com/_files/arquivos/TABUA DE MARÉS - 2026_rev1 (1)_69583691a5734.pdf",
+      "href": "/_files/arquivos/TABUA DE MARÉS - 2025_rev1_6772dc65ec81c.pdf",
       "text": "Tábua de Maré",
-      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/TABUA%20DE%20MAR%C3%89S%20-%202026_rev1%20(1)_69583691a5734.pdf",
+      "absoluteUrl": "https://website.portodoitaqui.com.br/_files/arquivos/TABUA%20DE%20MARE%CC%81S%20-%202025_rev1_6772dc65ec81c.pdf",
       "score": 52
     },
     {
-      "href": "https://www.portodoitaqui.com/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
+      "href": "/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
       "text": "Normas de Manobra",
-      "absoluteUrl": "https://www.portodoitaqui.com/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
+      "absoluteUrl": "https://website.portodoitaqui.com.br/_files/arquivos/NORMAS-PARA-MANOBRAS-BAIA-DE-SAO-MARCOS-FEV2023_643d861062e5f.pdf",
       "score": 52
     },
     {
-      "href": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
+      "href": "/_files/arquivos/",
+      "text": "Mapa Ferroviário",
+      "absoluteUrl": "https://website.portodoitaqui.com.br/_files/arquivos/",
+      "score": 22
+    },
+    {
+      "href": "/porto-agora/navios/atracados",
       "text": "9 Navios Atracados",
-      "absoluteUrl": "https://www.portodoitaqui.com/porto-agora/navios/atracados",
+      "absoluteUrl": "https://website.portodoitaqui.com.br/porto-agora/navios/atracados",
       "score": 22
     },
     {
