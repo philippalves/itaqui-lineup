@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/bVF3GQrh1B2qCFttOGL4VLXzqZ9Zh1zi1xSzy6Th.pdf",
-  "generatedAt": "2026-10-30T19:33:26+00:00",
-  "rawLinesCount": 445,
-  "mergedLinesCount": 35,
-  "logicalLinesCount": 34,
-  "recordsCount": 32,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/GeiQrjRAWhorSH5kTB3DFuXACOi2mRt7cCsG9NPY.pdf",
+  "generatedAt": "2026-10-30T23:22:55+00:00",
+  "rawLinesCount": 140,
+  "mergedLinesCount": 49,
+  "logicalLinesCount": 48,
+  "recordsCount": 46,
   "preview": [
     {
       "status": "ATRACADO",
@@ -18,31 +18,31 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9713404",
-      "vessel": "CHRYSOULA S",
-      "etaNor": "30/10/26 19:00",
-      "etb": "1/11",
-      "ets": "7/11",
-      "operation": "D",
-      "cargo": "U FR EE RI TA I L/ I ZO AU NT TR EO SS"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9824992",
       "vessel": "ROBUSTA *",
       "etaNor": "31/10/26 6:00",
-      "etb": "7/11",
-      "ets": "11/11",
+      "etb": "2/11",
+      "ets": "6/11",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9364746",
+      "vessel": "DE MING HAI",
+      "etaNor": "1/11/26 10:00",
+      "etb": "6/11",
+      "ets": "10/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
       "imo": "9937218",
       "vessel": "YM RESPECT 1º ATRACAÇÃO",
       "etaNor": "3/11/26 23:00",
-      "etb": "24/11",
-      "ets": "5/12",
+      "etb": "10/11",
+      "ets": "21/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -51,60 +51,60 @@
       "imo": "9664964",
       "vessel": "IOLCOS FIGHTER",
       "etaNor": "6/11/26 1:00",
-      "etb": "5/12",
-      "ets": "8/12",
+      "etb": "30/11",
+      "ets": "3/12",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
       "status": "ATRACADO",
-      "imo": "1045667",
-      "vessel": "PARNASSOS",
-      "etaNor": "20/10/26 10:25",
-      "etb": "26/10",
-      "ets": "29/10",
-      "operation": "C",
-      "cargo": "SOJA"
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "29/10/26 21:02",
+      "etb": "29/10",
+      "ets": "31/10",
+      "operation": null,
+      "cargo": null
     },
     {
       "status": "FUNDEADO",
-      "imo": "9875032",
-      "vessel": "BULK ITALY",
-      "etaNor": "29/10/26 8:06",
-      "etb": "29/10",
-      "ets": "1/11",
+      "imo": "9757929",
+      "vessel": "AKRA",
+      "etaNor": "26/10/26 0:01",
+      "etb": "31/10",
+      "ets": "2/11",
       "operation": "C",
-      "cargo": "SOJA"
+      "cargo": "MILHO"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9913030",
+      "vessel": "SAKIZAYA ZEST",
+      "etaNor": "19/10/26 12:12",
+      "etb": "2/11",
+      "ets": "6/11",
+      "operation": "C",
+      "cargo": "FARELO DE SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9311189",
-      "vessel": "GLORY CUIABA",
-      "etaNor": "6/11/26 8:00",
+      "imo": "9514066",
+      "vessel": "SAN ANTONIO",
+      "etaNor": "27/10/26 8:00",
       "etb": "6/11",
       "ets": "8/11",
       "operation": "C",
-      "cargo": "SORGO"
+      "cargo": "SOJA"
     },
     {
       "status": "ESPERADO",
       "imo": "9600657",
       "vessel": "ANTIPAROS",
-      "etaNor": "4/11/26 20:00",
+      "etaNor": "4/11/26 18:00",
       "etb": "8/11",
-      "ets": "11/11",
+      "ets": "10/11",
       "operation": "C",
       "cargo": "MILHO"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9800623",
-      "vessel": "GREAT INTELLIGENCE",
-      "etaNor": "28/10/26 20:48",
-      "etb": "29/10",
-      "ets": "2/11",
-      "operation": "D",
-      "cargo": "UREIA"
     }
   ]
 }
