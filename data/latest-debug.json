@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/3KWo2QmZuiqwqBEpwojHBgYi0D1vH5TfrNyp7jOW.pdf",
-  "generatedAt": "2026-11-01T15:22:19+00:00",
-  "rawLinesCount": 461,
-  "mergedLinesCount": 35,
-  "logicalLinesCount": 34,
-  "recordsCount": 32,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/iMR5mqGX9ihssWDYuvmUhyLBPGz8gvzSCGpUuUBE.pdf",
+  "generatedAt": "2026-11-01T19:49:36+00:00",
+  "rawLinesCount": 453,
+  "mergedLinesCount": 32,
+  "logicalLinesCount": 31,
+  "recordsCount": 29,
   "preview": [
     {
       "status": "ATRACADO",
@@ -17,22 +17,22 @@
       "cargo": "CELULOSE"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9824992",
-      "vessel": "ROBUSTA *",
-      "etaNor": "31/10/26 3:00",
-      "etb": "3/11",
-      "ets": "7/11",
-      "operation": "C",
-      "cargo": "CELULOSE"
+      "status": "ESPERADO",
+      "imo": "9364746",
+      "vessel": "DE MING HAI",
+      "etaNor": "1/11/26 5:00",
+      "etb": "1/11",
+      "ets": "5/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
       "imo": "9937218",
       "vessel": "YM RESPECT 1º ATRACAÇÃO",
       "etaNor": "3/11/26 23:00",
-      "etb": "11/11",
-      "ets": "22/11",
+      "etb": "10/11",
+      "ets": "21/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -41,8 +41,8 @@
       "imo": "9664964",
       "vessel": "IOLCOS FIGHTER",
       "etaNor": "6/11/26 1:00",
-      "etb": "1/12",
-      "ets": "4/12",
+      "etb": "29/11",
+      "ets": "2/12",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -52,7 +52,7 @@
       "vessel": "BERÇO LIVRE - - -",
       "etaNor": "29/10/26 21:02",
       "etb": "29/10",
-      "ets": "1/11",
+      "ets": "2/11",
       "operation": null,
       "cargo": null
     },
@@ -61,8 +61,8 @@
       "imo": "9757929",
       "vessel": "AKRA",
       "etaNor": "26/10/26 0:01",
-      "etb": "1/11",
-      "ets": "3/11",
+      "etb": "2/11",
+      "ets": "4/11",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -71,8 +71,8 @@
       "imo": "9600657",
       "vessel": "ANTIPAROS",
       "etaNor": "4/11/26 18:00",
-      "etb": "9/11",
-      "ets": "11/11",
+      "etb": "10/11",
+      "ets": "12/11",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -81,7 +81,7 @@
       "imo": "9641364",
       "vessel": "OCEANLADY",
       "etaNor": "9/11/26 6:00",
-      "etb": "11/11",
+      "etb": "12/11",
       "ets": "13/11",
       "operation": "C",
       "cargo": "MILHO"
