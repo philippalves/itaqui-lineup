@@ -1,40 +1,30 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/iMR5mqGX9ihssWDYuvmUhyLBPGz8gvzSCGpUuUBE.pdf",
-  "generatedAt": "2026-11-02T10:19:12+00:00",
-  "rawLinesCount": 453,
-  "mergedLinesCount": 32,
-  "logicalLinesCount": 31,
-  "recordsCount": 29,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/z25vsto5fAnUvUY2uXjzPokQIoYtdJU9NT78HmN9.pdf",
+  "generatedAt": "2026-11-02T20:26:20+00:00",
+  "rawLinesCount": 427,
+  "mergedLinesCount": 26,
+  "logicalLinesCount": 25,
+  "recordsCount": 23,
   "preview": [
     {
       "status": "ATRACADO",
-      "imo": "9200421",
-      "vessel": "SAGA JANDAIA *",
-      "etaNor": "24/10/26 12:00",
-      "etb": "28/10",
-      "ets": "1/11",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9364746",
       "vessel": "DE MING HAI",
-      "etaNor": "1/11/26 5:00",
+      "etaNor": "1/11/26 1:30",
       "etb": "1/11",
       "ets": "5/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
-      "status": "ESPERADO",
-      "imo": "9937218",
-      "vessel": "YM RESPECT 1º ATRACAÇÃO",
-      "etaNor": "3/11/26 23:00",
-      "etb": "10/11",
-      "ets": "21/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
+      "status": "FUNDEADO",
+      "imo": "9824992",
+      "vessel": "ROBUSTA *",
+      "etaNor": "31/10/26 3:00",
+      "etb": "5/11",
+      "ets": "10/11",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -88,21 +78,31 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9800623",
-      "vessel": "GREAT INTELLIGENCE",
-      "etaNor": "28/10/26 20:48",
-      "etb": "29/10",
-      "ets": "2/11",
-      "operation": "D",
-      "cargo": "UREIA"
-    },
-    {
-      "status": "ESPERADO",
       "imo": "9641364",
       "vessel": "OCEANLADY *",
       "etaNor": "30/10/26 15:30",
       "etb": "2/11",
       "ets": "7/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9728497",
+      "vessel": "EVIAN *",
+      "etaNor": "31/10/26 17:12",
+      "etb": "7/11",
+      "ets": "11/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9949467",
+      "vessel": "SOUNION",
+      "etaNor": "25/11/26 0:00",
+      "etb": "25/11",
+      "ets": "26/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     }
