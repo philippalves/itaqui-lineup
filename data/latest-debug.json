@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/MFI1basxooe8H3te2EeHtMGMPjsp0NVRYVsn8rYi.pdf",
-  "generatedAt": "2026-11-04T17:39:29+00:00",
-  "rawLinesCount": 433,
-  "mergedLinesCount": 26,
-  "logicalLinesCount": 25,
-  "recordsCount": 24,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/6ZhdlDTj2wmCFI4AicdVEm8x0mbI8HyumAAngCeU.pdf",
+  "generatedAt": "2026-11-04T23:00:27+00:00",
+  "rawLinesCount": 435,
+  "mergedLinesCount": 28,
+  "logicalLinesCount": 27,
+  "recordsCount": 26,
   "preview": [
     {
       "status": "ATRACADO",
@@ -88,21 +88,21 @@
     },
     {
       "status": "ESPERADO",
-      "imo": "9949467",
-      "vessel": "SOUNION",
-      "etaNor": "30/11/26 18:00",
-      "etb": "30/11",
-      "ets": "2/12",
+      "imo": "1017543",
+      "vessel": "MERCURY ISLAND",
+      "etaNor": "12/11/26 10:00",
+      "etb": "12/11",
+      "ets": "13/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9598995",
-      "vessel": "ETHRA DIAMOND",
-      "etaNor": "29/9/26 13:30",
-      "etb": "2/12",
-      "ets": "6/12",
+      "status": "ESPERADO",
+      "imo": "9787974",
+      "vessel": "AMIS NATURE",
+      "etaNor": "27/11/26 12:00",
+      "etb": "27/11",
+      "ets": "29/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     }
