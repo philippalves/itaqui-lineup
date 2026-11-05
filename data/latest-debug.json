@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/6ZhdlDTj2wmCFI4AicdVEm8x0mbI8HyumAAngCeU.pdf",
-  "generatedAt": "2026-11-05T11:17:05+00:00",
-  "rawLinesCount": 435,
-  "mergedLinesCount": 28,
-  "logicalLinesCount": 27,
-  "recordsCount": 26,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/J6IszV9oAHP1mAKABvl1juHi0tAzKIsww1PCuVQ7.pdf",
+  "generatedAt": "2026-11-05T18:52:30+00:00",
+  "rawLinesCount": 198,
+  "mergedLinesCount": 45,
+  "logicalLinesCount": 44,
+  "recordsCount": 42,
   "preview": [
     {
       "status": "ATRACADO",
@@ -25,6 +25,16 @@
       "ets": "10/11",
       "operation": "C",
       "cargo": "CELULOSE"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9937218",
+      "vessel": "YM RESPECT 1º ATRACAÇÃO",
+      "etaNor": "3/11/26 14:42",
+      "etb": "10/11",
+      "ets": "15/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     },
     {
       "status": "ESPERADO",
@@ -48,13 +58,43 @@
     },
     {
       "status": "ATRACADO",
-      "imo": "9757929",
-      "vessel": "AKRA",
-      "etaNor": "26/10/26 0:01",
-      "etb": "2/11",
-      "ets": "4/11",
+      "imo": "BL",
+      "vessel": "BERÇO LIVRE - - -",
+      "etaNor": "4/11/26 22:16",
+      "etb": "4/11",
+      "ets": "6/11",
+      "operation": null,
+      "cargo": null
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9514066",
+      "vessel": "SAN ANTONIO",
+      "etaNor": "30/10/26 17:00",
+      "etb": "6/11",
+      "ets": "8/11",
+      "operation": "C",
+      "cargo": "SOJA"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9600657",
+      "vessel": "ANTIPAROS",
+      "etaNor": "26/10/26 16:12",
+      "etb": "8/11",
+      "ets": "10/11",
       "operation": "C",
       "cargo": "MILHO"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9311189",
+      "vessel": "GLORY CUIABA",
+      "etaNor": "9/11/26 4:00",
+      "etb": "10/11",
+      "ets": "13/11",
+      "operation": "C",
+      "cargo": "SORGO"
     },
     {
       "status": "ESPERADO",
@@ -65,46 +105,6 @@
       "ets": "15/11",
       "operation": "C",
       "cargo": "MILHO"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "9641364",
-      "vessel": "OCEANLADY *",
-      "etaNor": "30/10/26 15:30",
-      "etb": "2/11",
-      "ets": "7/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "FUNDEADO",
-      "imo": "9728497",
-      "vessel": "EVIAN *",
-      "etaNor": "31/10/26 17:12",
-      "etb": "7/11",
-      "ets": "11/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "1017543",
-      "vessel": "MERCURY ISLAND",
-      "etaNor": "12/11/26 10:00",
-      "etb": "12/11",
-      "ets": "13/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9787974",
-      "vessel": "AMIS NATURE",
-      "etaNor": "27/11/26 12:00",
-      "etb": "27/11",
-      "ets": "29/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
     }
   ]
 }
