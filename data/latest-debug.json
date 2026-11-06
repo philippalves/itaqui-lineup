@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/63h0KVefHtTcoPiz1qFgOOAV9S1WRxEqkLvwUeeS.pdf",
-  "generatedAt": "2026-11-06T19:35:58+00:00",
-  "rawLinesCount": 470,
-  "mergedLinesCount": 35,
-  "logicalLinesCount": 34,
-  "recordsCount": 33,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/Mht9BGdgnhz04CyI3K86AFhCMdUkaTdY8i1349ID.pdf",
+  "generatedAt": "2026-11-06T23:52:57+00:00",
+  "rawLinesCount": 454,
+  "mergedLinesCount": 36,
+  "logicalLinesCount": 35,
+  "recordsCount": 34,
   "preview": [
     {
       "status": "ATRACADO",
@@ -17,22 +17,12 @@
       "cargo": "CELULOSE"
     },
     {
-      "status": "FUNDEADO",
-      "imo": "9937218",
-      "vessel": "YM RESPECT 1º ATRACAÇÃO",
-      "etaNor": "3/11/26 14:42",
-      "etb": "10/11",
-      "ets": "16/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
       "status": "ESPERADO",
       "imo": "9664964",
       "vessel": "IOLCOS FIGHTER",
       "etaNor": "7/11/26 11:00",
-      "etb": "30/11",
-      "ets": "3/12",
+      "etb": "24/11",
+      "ets": "27/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -103,6 +93,16 @@
       "etaNor": "31/10/26 17:12",
       "etb": "7/11",
       "ets": "11/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "1017543",
+      "vessel": "MERCURY ISLAND",
+      "etaNor": "12/11/26 10:00",
+      "etb": "12/11",
+      "ets": "13/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     }
