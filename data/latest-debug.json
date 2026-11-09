@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/0pk8wEbkchZHJcdTNxws64OMdRiqZFJGsyEk8cTM.pdf",
-  "generatedAt": "2026-11-09T09:59:36+00:00",
-  "rawLinesCount": 143,
-  "mergedLinesCount": 52,
-  "logicalLinesCount": 51,
-  "recordsCount": 49,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/sJaV7oq8Fl5EJie2heUtGEnKhZAOvcSf4Bvq9yGc.pdf",
+  "generatedAt": "2026-11-09T20:30:28+00:00",
+  "rawLinesCount": 144,
+  "mergedLinesCount": 49,
+  "logicalLinesCount": 48,
+  "recordsCount": 46,
   "preview": [
     {
       "status": "ATRACADO",
@@ -50,29 +50,19 @@
       "status": "ATRACADO",
       "imo": "BL",
       "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "4/11/26 22:16",
-      "etb": "4/11",
-      "ets": "7/11",
+      "etaNor": "9/11/26 0:00",
+      "etb": "9/11",
+      "ets": "10/11",
       "operation": null,
       "cargo": null
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9740445",
-      "vessel": "MARYAM D",
-      "etaNor": "7/11/26 2:00",
-      "etb": "7/11",
-      "ets": "9/11",
-      "operation": "C",
-      "cargo": "MILHO"
     },
     {
       "status": "FUNDEADO",
       "imo": "9514066",
       "vessel": "SAN ANTONIO",
       "etaNor": "30/10/26 17:00",
-      "etb": "9/11",
-      "ets": "10/11",
+      "etb": "10/11",
+      "ets": "11/11",
       "operation": "C",
       "cargo": "SOJA"
     },
@@ -81,8 +71,8 @@
       "imo": "9600657",
       "vessel": "ANTIPAROS",
       "etaNor": "26/10/26 16:12",
-      "etb": "10/11",
-      "ets": "12/11",
+      "etb": "11/11",
+      "ets": "13/11",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -91,20 +81,30 @@
       "imo": "1039931",
       "vessel": "DUCHESS CAMELLIA",
       "etaNor": "10/11/26 4:00",
-      "etb": "12/11",
-      "ets": "17/11",
+      "etb": "13/11",
+      "ets": "18/11",
       "operation": "D",
       "cargo": "FARELO DE SOJA"
     },
     {
       "status": "ESPERADO",
-      "imo": "9641364",
-      "vessel": "OCEANLADY",
-      "etaNor": "11/11/26 6:00",
-      "etb": "17/11",
-      "ets": "19/11",
+      "imo": "1026063",
+      "vessel": "PAXOS",
+      "etaNor": "11/11/26 22:00",
+      "etb": "18/11",
+      "ets": "21/11",
       "operation": "C",
-      "cargo": "MILHO"
+      "cargo": "SORGO"
+    },
+    {
+      "status": "ATRACADO",
+      "imo": "9728497",
+      "vessel": "EVIAN *",
+      "etaNor": "31/10/26 17:12",
+      "etb": "8/11",
+      "ets": "11/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
     }
   ]
 }
