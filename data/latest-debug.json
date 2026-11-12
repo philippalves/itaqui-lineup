@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/A32Mvq88q8UvJgI8x7tXxUHG4Vmhxbn4u5jomgRy.pdf",
-  "generatedAt": "2026-11-12T17:25:34+00:00",
-  "rawLinesCount": 465,
-  "mergedLinesCount": 35,
-  "logicalLinesCount": 34,
-  "recordsCount": 32,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/V5ECWjZzWJNxxFIhw5tH4PjkLQ7nZ313YoFIFv5P.pdf",
+  "generatedAt": "2026-11-12T22:48:26+00:00",
+  "rawLinesCount": 467,
+  "mergedLinesCount": 37,
+  "logicalLinesCount": 36,
+  "recordsCount": 33,
   "preview": [
     {
       "status": "ATRACADO",
@@ -47,12 +47,22 @@
       "cargo": "MILHO"
     },
     {
+      "status": "FUNDEADO",
+      "imo": "9311189",
+      "vessel": "GLORY CUIABA",
+      "etaNor": "9/11/26 10:00",
+      "etb": "14/11",
+      "ets": "16/11",
+      "operation": "C",
+      "cargo": "SORGO"
+    },
+    {
       "status": "ESPERADO",
-      "imo": "9463580",
-      "vessel": "SAN NICOLAS",
-      "etaNor": "23/11/26 6:00",
-      "etb": "26/11",
-      "ets": "28/11",
+      "imo": "9729025",
+      "vessel": "ALORA",
+      "etaNor": "19/11/26 7:00",
+      "etb": "28/11",
+      "ets": "1/12",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -93,16 +103,6 @@
       "etaNor": "28/11/26 1:00",
       "etb": "28/11",
       "ets": "29/11",
-      "operation": "D",
-      "cargo": "FERTILIZANTES"
-    },
-    {
-      "status": "ESPERADO",
-      "imo": "9949467",
-      "vessel": "SOUNION",
-      "etaNor": "30/11/26 18:00",
-      "etb": "30/11",
-      "ets": "2/12",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     }
