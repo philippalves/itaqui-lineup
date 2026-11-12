@@ -1,10 +1,10 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/WCjKFLf8NbxskWIT8QYmuL4hUXf26tHxhIoG6K5H.pdf",
-  "generatedAt": "2026-11-11T19:01:51+00:00",
-  "rawLinesCount": 224,
-  "mergedLinesCount": 47,
-  "logicalLinesCount": 46,
-  "recordsCount": 43,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/oi1JswHCdpF2yidbVsvpsufGtXwNNEFReB6VdcLN.pdf",
+  "generatedAt": "2026-11-12T01:35:57+00:00",
+  "rawLinesCount": 269,
+  "mergedLinesCount": 48,
+  "logicalLinesCount": 47,
+  "recordsCount": 44,
   "preview": [
     {
       "status": "ATRACADO",
@@ -20,7 +20,7 @@
       "status": "ESPERADO",
       "imo": "9613290",
       "vessel": "BRASSIANA *",
-      "etaNor": "13/11/26 3:00",
+      "etaNor": "13/11/26 0:00",
       "etb": "16/11",
       "ets": "21/11",
       "operation": "C",
@@ -33,6 +33,16 @@
       "etaNor": "7/11/26 3:56",
       "etb": "25/11",
       "ets": "28/11",
+      "operation": "D",
+      "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "ESPERADO",
+      "imo": "9859791",
+      "vessel": "AVRA",
+      "etaNor": "24/11/26 15:00",
+      "etb": "28/11",
+      "ets": "29/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
     },
@@ -91,20 +101,10 @@
       "imo": "9463580",
       "vessel": "SAN NICOLAS",
       "etaNor": "23/11/26 6:00",
-      "etb": "23/11",
-      "ets": "25/11",
+      "etb": "26/11",
+      "ets": "28/11",
       "operation": "C",
       "cargo": "MILHO"
-    },
-    {
-      "status": "ATRACADO",
-      "imo": "BL",
-      "vessel": "BERÇO LIVRE - - -",
-      "etaNor": "11/11/26 1:46",
-      "etb": "11/11",
-      "ets": "11/11",
-      "operation": "D",
-      "cargo": "0CM A(AMET:N T TO 1 NI TZ 0 OAA,0 LD D0 0O E 3 . 09 CN 0,O E3 02 RMD 0 A.I T0A IS 0 0 0 L6 M T/0 DT8 A) 0:9 1: ,4 59 0.0 .000 MT ESPERADO 9971886 POLSTEAM PILE * 200,00 24,00"
     }
   ]
 }
