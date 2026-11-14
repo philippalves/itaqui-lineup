@@ -1,7 +1,7 @@
 {
-  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/UirhfRs1GC6fEOGJVklwfFDMxc6piFmdX9Sn03Al.pdf",
-  "generatedAt": "2026-11-13T18:37:27+00:00",
-  "rawLinesCount": 226,
+  "sourcePdf": "https://website.portodoitaqui.com.br/_files/arquivos/R4GdZGMOschiKbT3iIgIai2w9UKhQggUXkWBOu2n.pdf",
+  "generatedAt": "2026-11-14T00:03:25+00:00",
+  "rawLinesCount": 225,
   "mergedLinesCount": 47,
   "logicalLinesCount": 46,
   "recordsCount": 41,
@@ -18,23 +18,23 @@
     },
     {
       "status": "FUNDEADO",
-      "imo": "9613290",
-      "vessel": "BRASSIANA *",
-      "etaNor": "13/11/26 0:06",
-      "etb": "16/11",
-      "ets": "21/11",
-      "operation": "C",
-      "cargo": "CELULOSE"
-    },
-    {
-      "status": "FUNDEADO",
       "imo": "9664964",
       "vessel": "IOLCOS FIGHTER",
       "etaNor": "7/11/26 3:56",
-      "etb": "25/11",
-      "ets": "28/11",
+      "etb": "16/11",
+      "ets": "19/11",
       "operation": "D",
       "cargo": "FERTILIZANTES"
+    },
+    {
+      "status": "FUNDEADO",
+      "imo": "9613290",
+      "vessel": "BRASSIANA *",
+      "etaNor": "13/11/26 0:06",
+      "etb": "19/11",
+      "ets": "24/11",
+      "operation": "C",
+      "cargo": "CELULOSE"
     },
     {
       "status": "ESPERADO",
@@ -62,7 +62,7 @@
       "vessel": "ANTIPAROS",
       "etaNor": "26/10/26 16:12",
       "etb": "11/11",
-      "ets": "14/11",
+      "ets": "15/11",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -71,8 +71,8 @@
       "imo": "9311189",
       "vessel": "GLORY CUIABA",
       "etaNor": "9/11/26 10:00",
-      "etb": "14/11",
-      "ets": "16/11",
+      "etb": "15/11",
+      "ets": "18/11",
       "operation": "C",
       "cargo": "SORGO"
     },
@@ -81,8 +81,8 @@
       "imo": "9641364",
       "vessel": "OCEANLADY",
       "etaNor": "9/11/26 18:30",
-      "etb": "16/11",
-      "ets": "18/11",
+      "etb": "18/11",
+      "ets": "20/11",
       "operation": "C",
       "cargo": "MILHO"
     },
@@ -90,21 +90,21 @@
       "status": "ESPERADO",
       "imo": "9729025",
       "vessel": "ALORA",
-      "etaNor": "19/11/26 7:00",
-      "etb": "21/11",
-      "ets": "22/11",
+      "etaNor": "18/11/26 22:00",
+      "etb": "22/11",
+      "ets": "24/11",
       "operation": "C",
       "cargo": "MILHO"
     },
     {
       "status": "ESPERADO",
-      "imo": "9463580",
-      "vessel": "SAN NICOLAS",
-      "etaNor": "23/11/26 6:00",
-      "etb": "25/11",
-      "ets": "26/11",
-      "operation": "C",
-      "cargo": "MILHO"
+      "imo": "9524815",
+      "vessel": "SALVINIA *",
+      "etaNor": "17/11/26 1:00",
+      "etb": "20/11",
+      "ets": "22/11",
+      "operation": "D",
+      "cargo": "UREIA"
     }
   ]
 }
